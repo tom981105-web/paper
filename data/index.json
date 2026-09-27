@@ -25,6 +25,7 @@
     "summary": "변압기 절연유 속 가스가 평소보다 조금씩 증가하는 흐름을 Positive CUSUM으로 누적해, 순간 측정값이나 단계식 점수보다 내부 고장 진행을 더 선명하게 파악할 수 있는지 검토한 실제 사례 연구다.",
     "difficulty": "★★★☆☆",
     "readingTime": "약 9분",
-    "file": "papers/paper-20250905-transformer-positive-cusum.json"
+    "file": "papers/paper-20250905-transformer-positive-cusum.json",
+    "sectionCount": 15
   }
 ]
