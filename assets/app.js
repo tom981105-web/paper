@@ -16,6 +16,18 @@ function escapeHTML(s=""){
   return String(s ?? "").replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
 }
 
+function formatSectionContent(content=""){
+  return escapeHTML(content)
+    .replace(/\r\n/g,"\n")
+    .replace(/\n/g,"<br>");
+}
+
+function formatPrerequisites(value){
+  if(Array.isArray(value)) return value.join(" · ");
+  if(value === null || value === undefined || value === "") return "특별한 선행지식 없음";
+  return String(value);
+}
+
 function init(){
   const cats=[...new Set(papers.map(p=>p.category))];
   categoryFilter.innerHTML='<option value="all">전체 분야</option>';
@@ -147,10 +159,13 @@ async function openPaper(id){
         <b>DOI</b><span>${escapeHTML(currentPaper.doi)}</span>
         <b>난이도</b><span>${escapeHTML(currentPaper.difficulty||"미표기")}</span>
         <b>예상 읽기시간</b><span>${escapeHTML(currentPaper.readingTime||"미표기")}</span>
-        <b>선행지식</b><span>${escapeHTML((currentPaper.prerequisites||[]).join(" · ")||"특별한 선행지식 없음")}</span>
+        <b>선행지식</b><span>${escapeHTML(formatPrerequisites(currentPaper.prerequisites))}</span>
       </div>`
     },
-    ...(currentPaper.sections||[])
+    ...(currentPaper.sections||[]).map(section=>({
+      ...section,
+      html: section.html || formatSectionContent(section.content || "")
+    }))
   ];
 
   currentSpread=-1;
