@@ -1,0 +1,28 @@
+{
+  "id": "paper-YYYYMMDD-001",
+  "verified": true,
+  "category": "분야명",
+  "color": "#556677",
+  "title": "사용자에게 보여줄 쉬운 제목",
+  "shortTitle": "카드용 짧은 제목",
+  "originalTitle": "Original Paper Title",
+  "authors": "Author A, Author B",
+  "year": "2026",
+  "journal": "Journal Name",
+  "doi": "https://doi.org/...",
+  "sourceUrl": "https://doi.org/...",
+  "keywords": ["키워드1","키워드2"],
+  "summary": "논문 핵심 요약",
+  "sections": [
+    {
+      "kicker": "OVERVIEW",
+      "title": "완전 쉽게 말하면",
+      "html": "<p>쉬운 설명</p>"
+    },
+    {
+      "kicker": "GLOSSARY",
+      "title": "처음 보는 사람을 위한 용어사전",
+      "html": "<p><b>전문용어</b> — 쉬운 설명</p>"
+    }
+  ]
+}
