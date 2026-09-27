@@ -1,5 +1,5 @@
 let papers = [];
-
+const paperCache = new Map();
 
 const $ = s => document.querySelector(s);
 const libraryEl = $("#library");
@@ -13,24 +13,27 @@ let currentSpread = -1;
 let currentSections = [];
 
 function escapeHTML(s=""){
-  return s.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+  return String(s ?? "").replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
 }
 
 function init(){
   const cats=[...new Set(papers.map(p=>p.category))];
+  categoryFilter.innerHTML='<option value="all">전체 분야</option>';
   cats.forEach(c=>{
     const o=document.createElement("option");
-    o.value=c;o.textContent=c;
+    o.value=c;
+    o.textContent=c;
     categoryFilter.appendChild(o);
   });
 
   $("#paperCount").textContent=papers.length;
   $("#categoryCount").textContent=cats.length;
-  $("#pageCount").textContent=papers.reduce((a,p)=>a+p.sections.length+1,0);
+  $("#pageCount").textContent=papers.reduce((a,p)=>a+(p.sectionCount||0),0);
 
   renderLibrary();
   renderIndex();
-  setupSourceButton();
+
+  if(!window.sourceButton) setupSourceButton();
 }
 
 function filteredPapers(){
@@ -48,7 +51,7 @@ function renderLibrary(){
   libraryEl.innerHTML="";
 
   if(!list.length){
-    libraryEl.innerHTML=`<div class="paper-card" style="grid-column:span 12;min-height:170px;display:grid;place-items:center;color:#7b8495">조건에 맞는 논문이 없습니다.</div>`;
+    libraryEl.innerHTML='<div class="paper-card" style="grid-column:span 12;min-height:170px;display:grid;place-items:center;color:#7b8495">조건에 맞는 논문이 없습니다.</div>';
     return;
   }
 
@@ -56,7 +59,7 @@ function renderLibrary(){
     const card=document.createElement("article");
     card.className="paper-card";
     card.innerHTML=`
-      <button data-id="${p.id}" aria-label="${escapeHTML(p.title)} 열기"></button>
+      <button data-id="${escapeHTML(p.id)}" aria-label="${escapeHTML(p.title)} 열기"></button>
       <div class="paper-card-content">
         <span class="paper-chip">${escapeHTML(p.category)} ${p.verified?"· REAL":""}</span>
         <h4>${escapeHTML(p.title)}</h4>
@@ -66,7 +69,7 @@ function renderLibrary(){
         <span>${escapeHTML(p.authors)}</span>
         <span>${escapeHTML(p.year)}</span>
       </div>
-      <div class="paper-glow" style="background:${p.color}"></div>
+      <div class="paper-glow" style="background:${escapeHTML(p.color||"#56627a")}"></div>
     `;
     card.style.animation=`cardIn .42s ease ${i*.04}s both`;
     libraryEl.appendChild(card);
@@ -89,7 +92,7 @@ function renderIndex(){
         <strong>${escapeHTML(p.title)}</strong>
         <small>${escapeHTML(p.authors)} · ${escapeHTML(p.year)}</small>
       </div>
-      <button data-open="${p.id}">열기 →</button>
+      <button data-open="${escapeHTML(p.id)}">열기 →</button>
     </div>
   `).join("");
 
@@ -101,9 +104,29 @@ function renderIndex(){
   });
 }
 
-function openPaper(id){
-  currentPaper=papers.find(p=>p.id===id);
-  if(!currentPaper)return;
+async function loadPaper(meta){
+  if(paperCache.has(meta.id)) return paperCache.get(meta.id);
+
+  const path = meta.file || `papers/${meta.id}.json`;
+  const response = await fetch(`./data/${path}`, {cache:"no-store"});
+  if(!response.ok) throw new Error(`논문 파일 로드 실패: ${response.status}`);
+
+  const fullPaper = await response.json();
+  paperCache.set(meta.id, fullPaper);
+  return fullPaper;
+}
+
+async function openPaper(id){
+  const meta=papers.find(p=>p.id===id);
+  if(!meta)return;
+
+  try{
+    currentPaper=await loadPaper(meta);
+  }catch(error){
+    console.error(error);
+    alert("논문 본문을 불러오지 못했습니다.");
+    return;
+  }
 
   currentSections=[
     {
@@ -119,22 +142,22 @@ function openPaper(id){
         <b>DOI</b><span>${escapeHTML(currentPaper.doi)}</span>
       </div>`
     },
-    ...currentPaper.sections
+    ...(currentPaper.sections||[])
   ];
 
   currentSpread=-1;
 
-  $("#coverCategory").textContent=currentPaper.category.toUpperCase();
-  $("#coverTitle").textContent=currentPaper.title;
-  $("#coverOriginal").textContent=currentPaper.originalTitle;
-  $("#coverAuthor").textContent=currentPaper.authors;
-  $("#coverYear").textContent=currentPaper.year;
-  $(".cover-shell").style.setProperty("--cover-color",currentPaper.color);
+  $("#coverCategory").textContent=(currentPaper.category||"").toUpperCase();
+  $("#coverTitle").textContent=currentPaper.title||"";
+  $("#coverOriginal").textContent=currentPaper.originalTitle||"";
+  $("#coverAuthor").textContent=currentPaper.authors||"";
+  $("#coverYear").textContent=currentPaper.year||"";
+  $(".cover-shell").style.setProperty("--cover-color",currentPaper.color||"#4d5b8b");
 
-  $("#miniCover").style.background=`linear-gradient(145deg,rgba(255,255,255,.12),rgba(255,255,255,.02)),${currentPaper.color}`;
-  $("#miniCategory").textContent=currentPaper.category;
-  $("#miniTitle").textContent=currentPaper.shortTitle;
-  $("#miniYear").textContent=currentPaper.year+(currentPaper.verified?" · 실제 논문":"");
+  $("#miniCover").style.background=`linear-gradient(145deg,rgba(255,255,255,.12),rgba(255,255,255,.02)),${currentPaper.color||"#4d5b8b"}`;
+  $("#miniCategory").textContent=currentPaper.category||"";
+  $("#miniTitle").textContent=currentPaper.shortTitle||currentPaper.title||"";
+  $("#miniYear").textContent=(currentPaper.year||"")+(currentPaper.verified?" · 실제 논문":"");
 
   buildToc();
   renderReader();
@@ -172,6 +195,8 @@ function fillPage(side,section,index){
   $(`#${prefix}Title`).textContent=section?.title||"";
   $(`#${prefix}Content`).innerHTML=section?.html||"";
   $(`#${prefix}PageNumber`).textContent=section?index+1:"";
+  const card=$(`#${prefix}Content`)?.closest(".reading-card");
+  if(card) card.scrollTop=0;
 }
 
 function renderReader(){
@@ -221,6 +246,7 @@ function next(){
     renderReader();
   }
 }
+
 function prev(){
   if(currentSpread===0){
     currentSpread=-1;
@@ -238,6 +264,7 @@ function openIndex(){
   indexModal.setAttribute("aria-hidden","false");
   document.body.classList.add("modal-open");
 }
+
 function closeIndex(){
   indexModal.classList.remove("open");
   indexModal.setAttribute("aria-hidden","true");
@@ -256,7 +283,10 @@ function setupSourceButton(){
 
 searchInput.addEventListener("input",renderLibrary);
 categoryFilter.addEventListener("change",renderLibrary);
-$("#randomBtn").addEventListener("click",()=>openPaper(papers[Math.floor(Math.random()*papers.length)].id));
+$("#randomBtn").addEventListener("click",()=>{
+  if(!papers.length) return;
+  openPaper(papers[Math.floor(Math.random()*papers.length)].id);
+});
 $("#openIndexBtn").addEventListener("click",openIndex);
 $("#closeIndexBtn").addEventListener("click",closeIndex);
 $("#closeBookBtn").addEventListener("click",closePaper);
@@ -285,50 +315,33 @@ style.textContent=`
 @keyframes cardIn{
   from{opacity:0;transform:translateY(12px) scale(.988)}
   to{opacity:1;transform:translateY(0) scale(1)}
-}`;
-document.head.appendChild(style);
-
-// Production polish: keep the last selected card subtly marked.
-const polishStyle=document.createElement("style");
-polishStyle.textContent=`
+}
 .paper-card.selected{
   border-color:rgba(123,114,255,.28);
   box-shadow:0 18px 46px rgba(0,0,0,.16),0 0 0 1px rgba(123,114,255,.05) inset;
-}
-`;
-document.head.appendChild(polishStyle);
+}`;
+document.head.appendChild(style);
 
 async function boot(){
   try{
-    const response = await fetch("./data/papers.json", { cache: "no-store" });
-    if(!response.ok){
-      throw new Error(`papers.json 로드 실패: ${response.status}`);
-    }
+    const response=await fetch("./data/index.json",{cache:"no-store"});
+    if(!response.ok) throw new Error(`index.json 로드 실패: ${response.status}`);
 
-    papers = await response.json();
-
-    if(!Array.isArray(papers)){
-      throw new Error("papers.json 형식이 배열이 아닙니다.");
-    }
+    papers=await response.json();
+    if(!Array.isArray(papers)) throw new Error("index.json 형식이 배열이 아닙니다.");
 
     init();
   }catch(error){
     console.error(error);
-
-    const library = document.querySelector("#library");
-    const resultText = document.querySelector("#resultText");
-
-    if(resultText) resultText.textContent = "데이터 로드 오류";
-
+    const library=document.querySelector("#library");
+    const resultText=document.querySelector("#resultText");
+    if(resultText) resultText.textContent="데이터 로드 오류";
     if(library){
-      library.innerHTML = `
+      library.innerHTML=`
         <div class="paper-card" style="grid-column:span 12;min-height:220px;display:flex;align-items:center;justify-content:center;padding:30px;text-align:center;">
           <div>
-            <h4 style="margin:0 0 12px;">논문 데이터를 불러오지 못했습니다.</h4>
-            <p style="margin:0;color:#7e8798;line-height:1.7;">
-              GitHub Pages에서는 정상 작동합니다.<br>
-              PC에서 index.html을 직접 더블클릭하면 브라우저 보안 때문에 JSON fetch가 차단될 수 있습니다.
-            </p>
+            <h4 style="margin:0 0 12px;">논문 목록을 불러오지 못했습니다.</h4>
+            <p style="margin:0;color:#7e8798;line-height:1.7;">잠시 후 새로고침해 주세요.</p>
           </div>
         </div>`;
     }
