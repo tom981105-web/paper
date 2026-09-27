@@ -17,9 +17,91 @@ function escapeHTML(s=""){
 }
 
 function formatSectionContent(content=""){
-  return escapeHTML(content)
-    .replace(/\r\n/g,"\n")
-    .replace(/\n/g,"<br>");
+  const lines=String(content??"").replace(/\r\n/g,"\n").split("\n");
+  const out=[];
+  let listType=null;
+  const closeList=()=>{
+    if(listType){ out.push(`</${listType}>`); listType=null; }
+  };
+
+  for(const raw of lines){
+    const line=raw.trim();
+    if(!line){ closeList(); continue; }
+
+    const bullet=line.match(/^[•·\-]\s+(.*)$/);
+    const numbered=line.match(/^\d+[.)]\s+(.*)$/);
+
+    if(bullet){
+      if(listType!=="ul"){ closeList(); out.push("<ul>"); listType="ul"; }
+      out.push(`<li>${escapeHTML(bullet[1])}</li>`);
+      continue;
+    }
+
+    if(numbered){
+      if(listType!=="ol"){ closeList(); out.push("<ol>"); listType="ol"; }
+      out.push(`<li>${escapeHTML(numbered[1])}</li>`);
+      continue;
+    }
+
+    closeList();
+
+    const term=line.match(/^([^:：]{1,28})[:：]\s*(.+)$/);
+    if(term){
+      out.push(`<p><strong>${escapeHTML(term[1])}</strong> · ${escapeHTML(term[2])}</p>`);
+    }else{
+      out.push(`<p>${escapeHTML(line)}</p>`);
+    }
+  }
+
+  closeList();
+  return out.join("");
+}
+
+function normalizePaperData(raw,meta){
+  let paper=raw;
+
+  if(Array.isArray(paper)){
+    paper={...meta,sections:paper};
+  }
+
+  if(
+    paper &&
+    !Array.isArray(paper) &&
+    Array.isArray(paper.sections) &&
+    paper.sections.length===1
+  ){
+    const inner=paper.sections[0];
+    if(
+      inner &&
+      typeof inner==="object" &&
+      !Array.isArray(inner) &&
+      Array.isArray(inner.sections)
+    ){
+      paper={...paper,...inner};
+    }
+  }
+
+  if(!paper || typeof paper!=="object" || Array.isArray(paper)){
+    throw new Error("논문 상세 JSON 구조가 올바르지 않습니다.");
+  }
+
+  paper={...meta,...paper};
+
+  paper.sections=(paper.sections||[])
+    .filter(s=>s && typeof s==="object")
+    .map(s=>({
+      ...s,
+      title:String(s.title||"제목 없음"),
+      content:
+        typeof s.content==="string"
+          ? s.content
+          : typeof s.html==="string"
+            ? s.html.replace(/<[^>]*>/g," ")
+            : ""
+    }))
+    .filter(s=>s.content.trim());
+
+  return paper;
 }
 
 function formatPrerequisites(value){
@@ -128,7 +210,8 @@ async function loadPaper(meta){
   const response = await fetch(`./data/${path}`, {cache:"no-store"});
   if(!response.ok) throw new Error(`논문 파일 로드 실패: ${response.status}`);
 
-  const fullPaper = await response.json();
+  const rawPaper = await response.json();
+  const fullPaper = normalizePaperData(rawPaper, meta);
   paperCache.set(meta.id, fullPaper);
   return fullPaper;
 }
@@ -342,6 +425,21 @@ style.textContent=`
 .paper-card.selected{
   border-color:rgba(123,114,255,.28);
   box-shadow:0 18px 46px rgba(0,0,0,.16),0 0 0 1px rgba(123,114,255,.05) inset;
+}
+.page-content p{
+  margin:0 0 1em;
+  line-height:1.85;
+}
+.page-content ul,.page-content ol{
+  margin:.35em 0 1.1em;
+  padding-left:1.35em;
+}
+.page-content li{
+  margin:.38em 0;
+  line-height:1.72;
+}
+.page-content strong{
+  font-weight:700;
 }`;
 document.head.appendChild(style);
 
