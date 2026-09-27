@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#0a0c10" />
+  <title>논문 도서관</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <div class="ambient ambient-left"></div>
+  <div class="ambient ambient-right"></div>
+
+  <header class="topbar">
+    <a href="#" class="brand">
+      <div class="brand-mark">
+        <span></span>
+        <span></span>
+      </div>
+      <div class="brand-text">
+        <small>PAPER LIBRARY</small>
+        <strong>논문 도서관</strong>
+      </div>
+    </a>
+
+    <div class="top-actions">
+      <button id="openIndexBtn" class="top-btn">전체 논문</button>
+      <button id="randomBtn" class="top-btn primary">랜덤 읽기</button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <div class="hero-main">
+        <div class="eyebrow">CURATED RESEARCH ARCHIVE</div>
+        <h1>논문을 더 <span>쉽게</span>,<br>더 <span>깊게</span> 읽는 공간.</h1>
+        <p class="hero-copy">
+          복잡한 논문을 핵심 단위로 정리하고, 한 편씩 집중해서 읽을 수 있도록 설계한 디지털 아카이브입니다.
+        </p>
+
+        <div class="search-panel">
+          <div class="search-input-wrap">
+            <span class="search-dot"></span>
+            <input id="searchInput" type="search" placeholder="논문 제목, 저자, 키워드 검색" />
+          </div>
+          <select id="categoryFilter">
+            <option value="all">전체 분야</option>
+          </select>
+        </div>
+
+        <div class="stats-row">
+          <span><b id="paperCount">0</b> Papers</span>
+          <span><b id="categoryCount">0</b> Fields</span>
+          <span><b id="pageCount">0</b> Pages</span>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+        <div class="orb"></div>
+        <div class="floating-panel panel-back"></div>
+        <div class="floating-panel panel-mid"></div>
+        <div class="floating-panel panel-front">
+          <div class="panel-tag">FOCUS MODE</div>
+          <div class="panel-copy">
+            <small>Selected paper</small>
+            <h3>읽는 순간만큼은<br>논문에만 집중.</h3>
+          </div>
+          <div class="panel-footer">
+            <span></span><span></span><span></span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="overview">
+      <div class="overview-item">
+        <span class="num">01</span>
+        <div><strong>Discover</strong><small>필요한 논문을 빠르게 찾기</small></div>
+      </div>
+      <div class="overview-item">
+        <span class="num">02</span>
+        <div><strong>Understand</strong><small>핵심만 구조적으로 읽기</small></div>
+      </div>
+      <div class="overview-item">
+        <span class="num">03</span>
+        <div><strong>Verify</strong><small>DOI와 원문으로 확인하기</small></div>
+      </div>
+    </section>
+
+    <section class="collection">
+      <div class="section-head">
+        <div>
+          <small>LIBRARY</small>
+          <h2>논문 컬렉션</h2>
+        </div>
+        <div id="resultText" class="result-count">0개 결과</div>
+      </div>
+
+      <div id="library" class="paper-grid"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>Paper Library</span>
+    <span>Premium Archive UI</span>
+  </footer>
+
+  <div id="bookModal" class="reader-modal" aria-hidden="true">
+    <div class="reader-backdrop"></div>
+    <div class="reader-app">
+      <aside class="reader-sidebar">
+        <div class="sidebar-head">
+          <div class="mini-cover" id="miniCover">
+            <span id="miniCategory"></span>
+            <strong id="miniTitle"></strong>
+            <small id="miniYear"></small>
+          </div>
+          <button id="closeBookBtn" class="icon-btn">×</button>
+        </div>
+
+        <div class="sidebar-label">CONTENTS</div>
+        <div id="toc" class="toc"></div>
+      </aside>
+
+      <section class="reader-main">
+        <div class="reader-topbar">
+          <button id="prevBtn" class="reader-action">← 이전</button>
+          <div class="reader-progress">
+            <span id="progressText">표지</span>
+            <div class="progress-line"><i id="progressBar"></i></div>
+          </div>
+          <button id="nextBtn" class="reader-action primary">책 열기 →</button>
+        </div>
+
+        <div class="reader-body">
+          <div id="closedBook" class="cover-view">
+            <div class="cover-shell">
+              <div class="cover-meta">
+                <span id="coverCategory"></span>
+                <span id="coverYear"></span>
+              </div>
+              <div class="cover-center">
+                <div class="cover-symbol"></div>
+                <h2 id="coverTitle"></h2>
+                <p id="coverOriginal"></p>
+              </div>
+              <div class="cover-bottom">
+                <span id="coverAuthor"></span>
+                <span>ANALYSIS EDITION</span>
+              </div>
+            </div>
+          </div>
+
+          <div id="openBook" class="reading-layout">
+            <article class="reading-card">
+              <div class="page-meta">
+                <span id="leftKicker"></span>
+                <span id="leftSectionNum"></span>
+              </div>
+              <h2 id="leftTitle"></h2>
+              <div id="leftContent" class="page-content"></div>
+              <div id="leftPageNumber" class="page-num"></div>
+            </article>
+
+            <article class="reading-card">
+              <div class="page-meta">
+                <span id="rightKicker"></span>
+                <span id="rightSectionNum"></span>
+              </div>
+              <h2 id="rightTitle"></h2>
+              <div id="rightContent" class="page-content"></div>
+              <div id="rightPageNumber" class="page-num"></div>
+            </article>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <div id="indexModal" class="index-modal" aria-hidden="true">
+    <div class="reader-backdrop"></div>
+    <section class="index-window">
+      <div class="index-head">
+        <div>
+          <small>CATALOG</small>
+          <h2>전체 논문</h2>
+        </div>
+        <button id="closeIndexBtn" class="icon-btn">×</button>
+      </div>
+      <div id="indexList" class="index-list"></div>
+    </section>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
