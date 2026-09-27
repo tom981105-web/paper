@@ -25,3 +25,5 @@ paper/
 ## 배포
 
 main 브랜치에 push되면 GitHub Actions가 GitHub Pages로 자동 배포하도록 구성했습니다.
+
+배포 트리거 확인용으로 초기 구성을 완료했습니다.
