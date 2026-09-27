@@ -1,5 +1,20 @@
 [
   {
+    "id":"paper-20120503-alexnet","verified":true,"category":"인공지능","color":"#6D5BD0","title":"GPU로 120만 장을 학습해 딥러닝 시대를 연 이미지 인식 — AlexNet","shortTitle":"AlexNet 이미지 인식","originalTitle":"ImageNet Classification with Deep Convolutional Neural Networks","authors":"Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton","year":"2012","doi":"https://doi.org/10.1145/3065386","keywords":["인공지능","딥러닝","AlexNet","CNN","ImageNet","GPU","이미지분류","컴퓨터비전"],"summary":"120만 장 규모 ImageNet을 5개 합성곱층과 3개 완전연결층의 대형 CNN으로 학습하고 ILSVRC 2012 top-5 오류율을 15.3%로 낮춰, GPU 기반 딥러닝의 산업적 가능성을 보여 준 전환점이다.","difficulty":"★★★☆☆","readingTime":"약 13분","file":"papers/paper-20120503-alexnet.json","sectionCount":14
+  },
+  {
+    "id":"paper-20110101-microgrid-hierarchical-control","verified":true,"category":"전기","color":"#3F6C91","title":"마이크로그리드를 현장반사·복구·경제운영의 세 층으로 제어하다","shortTitle":"마이크로그리드 3계층 제어","originalTitle":"Hierarchical Control of Droop-Controlled AC and DC Microgrids—A General Approach Toward Standardization","authors":"Josep M. Guerrero, Juan C. Vasquez, José Matas, Luis García de Vicuña, Miguel Castilla","year":"2011","doi":"https://doi.org/10.1109/TIE.2010.2066534","keywords":["전기","마이크로그리드","드룹제어","계층제어","분산전원","인버터","주파수제어","스마트그리드"],"summary":"통신 없이 즉시 전력을 나누는 1차 드룹제어, 전압·주파수 편차를 복원하는 2차제어, 상위계통과 전력거래를 관리하는 3차제어로 마이크로그리드 운영을 표준화한 대표 논문이다.","difficulty":"★★★★★","readingTime":"약 16분","file":"papers/paper-20110101-microgrid-hierarchical-control.json","sectionCount":14
+  },
+  {
+    "id":"paper-19960801-probabilistic-roadmaps","verified":true,"category":"로봇·자동화","color":"#2F8F83","title":"복잡한 공간을 무작위 점과 길로 미리 익히다 — 확률적 로드맵 PRM","shortTitle":"확률적 로드맵 PRM","originalTitle":"Probabilistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces","authors":"Lydia E. Kavraki, Petr Švestka, Jean-Claude Latombe, Mark H. Overmars","year":"1996","doi":"https://doi.org/10.1109/70.508439","keywords":["로봇","자동화","PRM","경로계획","샘플링기반계획","충돌검사","구성공간","다관절로봇"],"summary":"고차원 로봇 자세공간 전체를 격자로 훑지 않고 충돌 없는 자세를 무작위로 뽑아 연결한 도로망을 미리 만든 뒤, 여러 시작·목표 질의에 매우 빠르게 경로를 찾는 PRM을 제안한 고전이다.","difficulty":"★★★★☆","readingTime":"약 14분","file":"papers/paper-19960801-probabilistic-roadmaps.json","sectionCount":14
+  },
+  {
+    "id":"paper-20080601-energy-storage-comparison","verified":true,"category":"에너지·환경","color":"#D28A32","title":"배터리만이 저장장치는 아니다 — 전기에너지 저장기술의 선택 지도","shortTitle":"ESS 기술 특성 비교","originalTitle":"Energy Storage Systems—Characteristics and Comparisons","authors":"Hussein Ibrahim, Adrian Ilinca, Jean Perron","year":"2008","doi":"https://doi.org/10.1016/j.rser.2007.01.023","keywords":["에너지","ESS","에너지저장","배터리","양수발전","압축공기","플라이휠","재생에너지"],"summary":"양수·압축공기·플라이휠·배터리·초전도·수소 등 저장기술을 용량, 출력, 효율, 수명, 응답속도, 비용과 적용시간으로 비교해 목적에 맞는 ESS를 골라야 함을 보여 준 대표 리뷰다.","difficulty":"★★★☆☆","readingTime":"약 15분","file":"papers/paper-20080601-energy-storage-comparison.json","sectionCount":14
+  },
+  {
+    "id":"paper-20080301-building-energy-review","verified":true,"category":"건축·시설관리","color":"#B66A4A","title":"건물은 어디에서 에너지를 가장 많이 쓰는가 — HVAC 중심 소비구조 읽기","shortTitle":"건물 에너지소비 구조","originalTitle":"A Review on Buildings Energy Consumption Information","authors":"Luis Pérez-Lombard, José Ortiz, Christine Pout","year":"2008","doi":"https://doi.org/10.1016/j.enbuild.2007.03.007","keywords":["건축","시설관리","건물에너지","HVAC","에너지효율","냉난방","상업건물","에너지통계"],"summary":"미국·유럽 등 건물부문의 에너지통계를 비교해 선진국에서 건물이 총에너지의 20~40%를 소비하고, 미국에서는 HVAC가 건물에너지의 약 50%를 차지한다는 구조를 정리한 건물에너지 분야의 대표 리뷰다.","difficulty":"★★☆☆☆","readingTime":"약 11분","file":"papers/paper-20080301-building-energy-review.json","sectionCount":14
+  },
+  {
     "id": "paper-20181011-bert",
     "verified": true,
     "category": "인공지능",
