@@ -63,6 +63,11 @@ function renderLibrary(){
       <div class="paper-card-content">
         <span class="paper-chip">${escapeHTML(p.category)} ${p.verified?"· REAL":""}</span>
         <h4>${escapeHTML(p.title)}</h4>
+        <div class="paper-meta-row">
+          ${p.difficulty?`<span>${escapeHTML(p.difficulty)}</span>`:""}
+          ${p.readingTime?`<span>${escapeHTML(p.readingTime)}</span>`:""}
+          ${p.sectionCount?`<span>${p.sectionCount}개 섹션</span>`:""}
+        </div>
         <p>${escapeHTML(p.summary)}</p>
       </div>
       <div class="paper-card-footer">
@@ -90,7 +95,7 @@ function renderIndex(){
       <div class="tag">${escapeHTML(p.category)} ${p.verified?"· 실제 논문":""}</div>
       <div>
         <strong>${escapeHTML(p.title)}</strong>
-        <small>${escapeHTML(p.authors)} · ${escapeHTML(p.year)}</small>
+        <small>${escapeHTML(p.authors)} · ${escapeHTML(p.year)}${p.difficulty?` · ${escapeHTML(p.difficulty)}`:""}${p.readingTime?` · ${escapeHTML(p.readingTime)}`:""}</small>
       </div>
       <button data-open="${escapeHTML(p.id)}">열기 →</button>
     </div>
@@ -140,6 +145,9 @@ async function openPaper(id){
         <b>연도</b><span>${escapeHTML(currentPaper.year)}</span>
         <b>저널</b><span>${escapeHTML(currentPaper.journal)}</span>
         <b>DOI</b><span>${escapeHTML(currentPaper.doi)}</span>
+        <b>난이도</b><span>${escapeHTML(currentPaper.difficulty||"미표기")}</span>
+        <b>예상 읽기시간</b><span>${escapeHTML(currentPaper.readingTime||"미표기")}</span>
+        <b>선행지식</b><span>${escapeHTML((currentPaper.prerequisites||[]).join(" · ")||"특별한 선행지식 없음")}</span>
       </div>`
     },
     ...(currentPaper.sections||[])
