@@ -924,3 +924,40 @@ select:focus-visible{
     transition:none!important;
   }
 }
+
+
+/* Reader overflow fix: keep long chapters inside each page and scroll them instead of clipping. */
+.reader-body{
+  overflow:hidden;
+}
+.reading-layout{
+  min-height:0;
+  overflow:hidden;
+}
+.reading-card{
+  min-width:0;
+  min-height:0;
+  height:100%;
+  overflow-y:auto;
+  overflow-x:hidden;
+  overscroll-behavior:contain;
+  padding-bottom:52px;
+  scrollbar-gutter:stable;
+}
+.reading-card::-webkit-scrollbar{
+  width:9px;
+}
+.reading-card::-webkit-scrollbar-track{
+  background:transparent;
+}
+.reading-card::-webkit-scrollbar-thumb{
+  background:rgba(75,82,95,.28);
+  border-radius:999px;
+  border:3px solid transparent;
+  background-clip:padding-box;
+}
+.reading-card::-webkit-scrollbar-thumb:hover{
+  background:rgba(75,82,95,.42);
+  border:3px solid transparent;
+  background-clip:padding-box;
+}
