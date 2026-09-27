@@ -992,3 +992,61 @@ select:focus-visible{
   overflow-x:hidden !important;
   -webkit-overflow-scrolling:touch;
 }
+
+
+/* Rich paper schema: difficulty, reading time, section count */
+.paper-meta-row{
+  display:flex;
+  flex-wrap:wrap;
+  gap:7px;
+  margin:0 0 13px;
+}
+.paper-meta-row span{
+  display:inline-flex;
+  align-items:center;
+  min-height:24px;
+  padding:4px 8px;
+  border-radius:999px;
+  border:1px solid rgba(255,255,255,.065);
+  background:rgba(255,255,255,.025);
+  color:#8c95a5;
+  font-size:9px;
+  line-height:1;
+}
+.paper-meta-row span:first-child{
+  color:#b9b3ff;
+  border-color:rgba(123,114,255,.12);
+  background:rgba(123,114,255,.055);
+}
+.page-content ol{
+  padding-left:20px;
+}
+.page-content table{
+  width:100%;
+  border-collapse:collapse;
+  margin:14px 0 18px;
+  font-size:12px;
+  line-height:1.6;
+}
+.page-content th,
+.page-content td{
+  padding:9px 10px;
+  border-bottom:1px solid #e2e0db;
+  vertical-align:top;
+  text-align:left;
+}
+.page-content th{
+  color:#5f6671;
+  font-weight:700;
+  background:#f2f0eb;
+}
+.page-content code{
+  padding:2px 5px;
+  border-radius:5px;
+  background:#efede8;
+  font-size:.92em;
+}
+.page-content strong,
+.page-content b{
+  font-weight:700;
+}
