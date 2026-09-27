@@ -961,3 +961,34 @@ select:focus-visible{
   border:3px solid transparent;
   background-clip:padding-box;
 }
+
+
+/* Strong reader height containment fix */
+.reader-app{
+  min-height:0;
+}
+.reader-main{
+  min-height:0 !important;
+  height:100%;
+  overflow:hidden;
+}
+.reader-body{
+  min-height:0 !important;
+  height:0;
+  flex:1 1 auto;
+  overflow:hidden !important;
+}
+.reading-layout{
+  min-height:0 !important;
+  height:100% !important;
+  overflow:hidden !important;
+  align-items:stretch;
+}
+.reading-card{
+  min-height:0 !important;
+  height:100% !important;
+  max-height:100% !important;
+  overflow-y:auto !important;
+  overflow-x:hidden !important;
+  -webkit-overflow-scrolling:touch;
+}
