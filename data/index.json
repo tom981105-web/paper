@@ -1,5 +1,168 @@
 [
   {
+    "id": "paper-2017-segnet-a-deep-convolutional-encoder-decoder-architecture",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "이미지 분할을 위한 심층 합성곱 인코더-디코더 아키텍처 SegNet의 구조와 성능을 다룬 논문",
+    "shortTitle": "시멘틱 분할 모델 SegNet",
+    "originalTitle": "SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation",
+    "authors": [
+      "Vijay Badrinarayanan",
+      "Alex Kendall",
+      "Roberto Cipolla"
+    ],
+    "year": 2017,
+    "doi": "10.1109/tpami.2016.2644615",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "시멘틱분할",
+      "합성곱신경망",
+      "인코더디코더",
+      "맥스풀링인덱스",
+      "장면이해",
+      "딥러닝"
+    ],
+    "summary": "입력 이미지의 모든 픽셀에 클래스를 부여하는 시멘틱 분할 작업을 위해, 인코더의 풀링 인덱스를 활용해 업샘플링 연산을 최적화하고 메모리 효율성을 높인 SegNet 아키텍처를 제안한 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2017-segnet-a-deep-convolutional-encoder-decoder-architecture.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-overview-of-current-development-in-electrical-energy",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "다양한 전기에너지 저장 기술의 동작 원리와 전력 시스템 운영에서의 적용 가능성을 종합적으로 분석한 리뷰 논문",
+    "shortTitle": "전기에너지 저장 기술 및 응용 서베이",
+    "originalTitle": "Overview of current development in electrical energy storage technologies and the application potential in power system operation",
+    "authors": [
+      "Xing Luo",
+      "Jihong Wang",
+      "Mark Dooner",
+      "Jonathan Clarke"
+    ],
+    "year": 2015,
+    "doi": "10.1016/j.apenergy.2014.09.081",
+    "keywords": [
+      "전기",
+      "에너지저장장치",
+      "전력계통",
+      "배터리",
+      "양수발전",
+      "압축공기에너지저장",
+      "플라이휠",
+      "슈퍼캐패시터"
+    ],
+    "summary": "전기에너지 저장 기술을 저장 형태에 따라 여섯 가지 범주로 분류하고, 각 기술의 동작 원리, 기술적 및 경제적 성능 지표, 그리고 전력 시스템 내 적용 잠재력을 종합적으로 검토한 서베이 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2015-overview-of-current-development-in-electrical-energy.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-vins-mono-a-robust-and-versatile-monocular",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "단일 카메라와 관성 측정 장치를 결합하여 강건하고 다목적으로 활용 가능한 시각 관성 상태 추정기를 제안한 논문",
+    "shortTitle": "VINS-Mono 시각 관성 상태 추정기",
+    "originalTitle": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+    "authors": [
+      "Tong Qin",
+      "Peiliang Li",
+      "Shaojie Shen"
+    ],
+    "year": 2018,
+    "doi": "10.1109/tro.2018.2853729",
+    "keywords": [
+      "로봇",
+      "자동화",
+      "시각관성오도메트리",
+      "상태추정",
+      "센서융합",
+      "비선형최적화",
+      "루프검출",
+      "포즈그래프최적화"
+    ],
+    "summary": "단일 카메라와 저비용 관성 측정 장치만으로 6 자유도 상태를 정확하게 추정하는 VINS-Mono 시스템을 제안하고, 강건한 초기화, 비선형 최적화 기반 센서 융합, 루프 검출 및 지도 재사용 기능을 검증한 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2018-vins-mono-a-robust-and-versatile-monocular.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-dye-sensitized-solar-cells-with-13-efficiency",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#D08B5B",
+    "title": "분자 공학을 통해 포르피린 감응제를 최적화하여 13%의 광전 변환 효율을 달성한 염료감응 태양전지 연구 논문",
+    "shortTitle": "포르피린 감응제 기반 13% 효율 염료감응 태양전지",
+    "originalTitle": "Dye-sensitized solar cells with 13% efficiency achieved through the molecular engineering of porphyrin sensitizers",
+    "authors": [
+      "Simon Mathew",
+      "Aswani Yella",
+      "Peng Gao",
+      "Robin Humphry-Baker",
+      "Basile F. E. Curchod",
+      "Negar Ashari-Astani",
+      "Ivano Tavernelli",
+      "Ursula Rothlisberger",
+      "Md. Khaja Nazeeruddin",
+      "Michael Grätzel"
+    ],
+    "year": 2014,
+    "doi": "10.1038/nchem.1861",
+    "keywords": [
+      "에너지환경",
+      "태양전지",
+      "염료감응태양전지",
+      "포르피린",
+      "분자공학",
+      "광전변환효율",
+      "반도체",
+      "전자전달"
+    ],
+    "summary": "포르피린계 감응제 분자의 구조를 정밀하게 설계하여 전자의 재결합 손실을 줄이고 빛 흡수 영역을 넓힘으로써, 염료감응 태양전지 분야에서 기록적인 13%의 광전 변환 효율을 달성한 실증 연구 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2014-dye-sensitized-solar-cells-with-13-efficiency.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-nih-image-to-imagej-25-years-of",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#3F6C91",
+    "title": "공개 오픈소스 과학용 영상 처리 소프트웨어인 ImageJ의 25년간 발전 과정과 건축 및 시설물 정밀 진단 응용 기반을 조명한 논문",
+    "shortTitle": "ImageJ 영상 분석 소프트웨어 25년 발전사",
+    "originalTitle": "NIH Image to ImageJ: 25 years of image analysis",
+    "authors": [
+      "Caroline A Schneider",
+      "Wayne S Rasband",
+      "Kevin W Eliceiri"
+    ],
+    "year": 2012,
+    "doi": "10.1038/nmeth.2089",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "영상분석",
+      "ImageJ",
+      "NIHImage",
+      "오픈소스",
+      "균열측정",
+      "비파괴검사"
+    ],
+    "summary": "NIH Image에서 출발하여 오픈소스 자바 플랫폼인 ImageJ로 발전하기까지의 25년간 영상 처리 소프트웨어의 역사와 확장성을 정리하고, 다양한 과학 및 엔지니어링 분야에서의 활용 기반을 고찰한 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2012-nih-image-to-imagej-25-years-of.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-a-survey-on-vision-transformer",
     "verified": true,
     "category": "인공지능",
