@@ -207,7 +207,7 @@ async function loadPaper(meta){
   if(paperCache.has(meta.id)) return paperCache.get(meta.id);
 
   const path = meta.file || `papers/${meta.id}.json`;
-  const response = await fetch(`./data/${path}`, {cache:"no-store"});
+  const response = await fetch(`./data/${path}?v=${Date.now()}`, {cache:"no-store"});
   if(!response.ok) throw new Error(`논문 파일 로드 실패: ${response.status}`);
 
   const rawPaper = await response.json();
@@ -445,7 +445,7 @@ document.head.appendChild(style);
 
 async function boot(){
   try{
-    const response=await fetch("./data/index.json",{cache:"no-store"});
+    const response=await fetch(`./data/index.json?v=${Date.now()}`,{cache:"no-store"});
     if(!response.ok) throw new Error(`index.json 로드 실패: ${response.status}`);
 
     papers=await response.json();
