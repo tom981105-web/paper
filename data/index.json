@@ -137,40 +137,6 @@
     "sectionCount": 14
   },
   {
-    "id": "paper-2001-initial-sequencing-and-analysis-of-the-human",
-    "verified": true,
-    "category": "건축·시설관리",
-    "color": "#D35400",
-    "title": "인간 유전체의 초안 염기서열을 해독하고 그 속의 방대한 유전 정보와 진화적 특징을 분석한 국제 공동 연구",
-    "shortTitle": "인간 유전체 초안 서열 분석",
-    "originalTitle": "Initial sequencing and analysis of the human genome",
-    "authors": [
-      "Eric S. Lander",
-      "Lauren M. Linton",
-      "Bruce Birren",
-      "Chad Nusbaum",
-      "Michael C. Zody"
-    ],
-    "year": 2001,
-    "journal": "Nature",
-    "doi": "10.1038/35057062",
-    "sourceUrl": "https://doi.org/10.1038/35057062",
-    "keywords": [
-      "건축·시설관리",
-      "인간유전체",
-      "유전자해독",
-      "생물정보학",
-      "DNA",
-      "국제협력",
-      "유전체분석"
-    ],
-    "summary": "인간 유전체 프로젝트를 통해 확보한 초안 염기서열을 바탕으로 인간의 발생, 생리, 의학 및 진화에 관한 핵심 정보를 분석하고 전 세계 연구자에게 무상으로 공개한 역사적 연구이다.",
-    "difficulty": "★★★★★",
-    "readingTime": "약 50분",
-    "file": "papers/paper-2001-initial-sequencing-and-analysis-of-the-human.json",
-    "sectionCount": 14
-  },
-  {
     "id": "paper-2006-a-fast-learning-algorithm-for-deep-belief",
     "verified": true,
     "category": "인공지능",
