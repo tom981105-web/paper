@@ -1,5 +1,153 @@
 [
   {
+    "id": "paper-2001-greedy-function-approximation-a-gradient-boosting-machine",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "함수 공간에서의 경사 하강 최적화를 통해 임의의 손실 함수에 적용할 수 있는 그래디언트 부스팅 머신을 제안한 논문",
+    "shortTitle": "그래디언트 부스팅 머신 (GBM)",
+    "originalTitle": "Greedy function approximation: A gradient boosting machine.",
+    "authors": [
+      "Jerome H. Friedman"
+    ],
+    "year": 2001,
+    "doi": "10.1214/aos/1013203451",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "그래디언트부스팅",
+      "함수공간최적화",
+      "회귀나무",
+      "앙상블학습",
+      "경사하강법",
+      "비모수추정"
+    ],
+    "summary": "파라미터 공간이 아닌 함수 공간 관점에서 수치 최적화를 수행하여, 임의의 미분 가능한 손실 함수에 대해 반복적으로 약한 예측기를 결합하는 일반화된 그래디언트 부스팅 머신을 제안한 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2001-greedy-function-approximation-a-gradient-boosting-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-dc-microgrids-part-i-a-review-of",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "직류 마이크로그리드의 제어 전략과 안정화 기술을 체계적으로 분류하고 검토한 리뷰 논문",
+    "shortTitle": "직류 마이크로그리드 제어 및 안정화",
+    "originalTitle": "DC Microgrids–Part I: A Review of Control Strategies and Stabilization Techniques",
+    "authors": [
+      "Tomislav Dragicevic",
+      "Xiaonan Lu",
+      "Juan Vasquez",
+      "Josep Guerrero"
+    ],
+    "year": 2015,
+    "doi": "10.1109/tpel.2015.2478859",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "직류",
+      "제어전략",
+      "안정화기술",
+      "분산전원",
+      "통신망",
+      "전력변환기"
+    ],
+    "summary": "직류 마이크로그리드의 제어 전략과 안정성 분석, 그리고 활성 안정화 기법을 종합적으로 검토하고, 제어 구조를 로컬 및 조정 제어 수준으로 체계적으로 분류한 리뷰 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2015-dc-microgrids-part-i-a-review-of.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1989-using-occupancy-grids-for-mobile-robot-perception",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "확률적 격자 표현을 활용한 모바일 로봇의 주변 환경 인식 및 내비게이션 기법을 다룬 논문",
+    "shortTitle": "점유 격자 지도와 로봇 내비게이션",
+    "originalTitle": "Using occupancy grids for mobile robot perception and navigation",
+    "authors": [
+      "A. Elfes"
+    ],
+    "year": 1989,
+    "doi": "10.1109/2.30720",
+    "keywords": [
+      "로봇",
+      "자동화",
+      "점유격자",
+      "환경인지",
+      "내비게이션",
+      "확률모형",
+      "베이지안추정",
+      "공간모델링"
+    ],
+    "summary": "모바일 로봇이 센서 정보를 바탕으로 공간을 확률적으로 모델링하고 갱신하는 점유 격자 기법을 검토하며, 센서 데이터 해석과 내비게이션 활용 방안을 제시한 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1989-using-occupancy-grids-for-mobile-robot-perception.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-dye-sensitized-solar-cells",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#D87635",
+    "title": "광감응 소자 분야의 기반을 다진 염료감응형 태양전지의 구조와 작동 원리를 다룬 리뷰 논문",
+    "shortTitle": "염료감응형 태양전지 리뷰",
+    "originalTitle": "Dye-sensitized solar cells",
+    "authors": [
+      "Michael Grätzel"
+    ],
+    "year": 2003,
+    "doi": "10.1016/s1389-5567(03)00026-1",
+    "keywords": [
+      "에너지",
+      "환경",
+      "태양전지",
+      "염료감응형",
+      "광촉매",
+      "이산화티타늄",
+      "광전기화학",
+      "신재생에너지"
+    ],
+    "summary": "자연의 광합성 원리를 모방하여 빛을 흡수하는 염료와 나노다공성 반도체를 결합한 염료감응형 태양전지의 작동 원리, 구성 요소, 그리고 에너지 변환 효율 향상을 위한 기술적 발전 과정을 종합적으로 정리한 리뷰 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2003-dye-sensitized-solar-cells.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-computational-fluid-dynamics-for-urban-physics-importance",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#3B82F6",
+    "title": "도시 물리학을 위한 전산유체역학의 중요성, 규모, 가능성, 한계 및 정확하고 신뢰성 있는 시뮬레이션을 위한 10가지 권고사항",
+    "shortTitle": "도시 물리학 전산유체역학 가이드",
+    "originalTitle": "Computational Fluid Dynamics for urban physics: Importance, scales, possibilities, limitations and ten tips and tricks towards accurate and reliable simulations",
+    "authors": [
+      "Bert Blocken"
+    ],
+    "year": 2015,
+    "doi": "10.1016/j.buildenv.2015.02.015",
+    "keywords": [
+      "전산유체역학",
+      "도시물리학",
+      "풍환경",
+      "건축환경",
+      "시뮬레이션",
+      "미기후",
+      "환기성능",
+      "오염물질확산"
+    ],
+    "summary": "도시 물리학 분야에서 전산유체역학(CFD)의 역할과 중요성을 다각도로 검토하고, 정확하고 신뢰성 있는 시뮬레이션을 수행하기 위한 10가지 실무 지침을 제시한 종합 리뷰 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2015-computational-fluid-dynamics-for-urban-physics-importance.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2017-segnet-a-deep-convolutional-encoder-decoder-architecture",
     "verified": true,
     "category": "인공지능",
