@@ -1,5 +1,168 @@
 [
   {
+    "id": "paper-1996-bagging-predictors",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "여러 개의 예측기를 결합하여 분산을 줄이고 예측 정확도를 획기적으로 향상시키는 앙상블 학습의 고전적 기법인 배깅(Bagging)의 이론과 성능을 입증한 머신러닝 마일스톤 논문",
+    "shortTitle": "배깅 예측기(Bagging Predictors)의 원리와 성능",
+    "originalTitle": "Bagging Predictors",
+    "authors": [
+      "Leo Breiman"
+    ],
+    "year": 1996,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1018054314350",
+    "sourceUrl": "https://doi.org/10.1023/a:1018054314350",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "배깅",
+      "앙상블",
+      "부트스트랩",
+      "의사결정나무",
+      "머신러닝",
+      "분산감소"
+    ],
+    "summary": "레오 브레이만(Leo Breiman)이 Machine Learning 저널에 발표한 논문으로, 원본 데이터셋으로부터 복원 추출을 반복해 여러 개의 부트스트랩 샘플을 만들고, 각각의 샘플로 학습된 다수의 예측기를 결합(Aggregating)하여 불안정한 예측 모델의 성능을 극적으로 끌어올리는 앙상블 기법인 '배깅(Bagging)'을 창안하고 그 작동 원리를 증명한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-1996-bagging-predictors.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-building-better-batteries",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "휴대용 전자기기부터 전기자동차와 대규모 전력망 저장 장치까지 현대 사회의 핵심 동력원으로 자리 잡은 배터리 기술의 발전 과정과 미래 혁신 과제를 조망한 전기공학 클래식 논문",
+    "shortTitle": "더 나은 배터리 구축(Building better batteries)",
+    "originalTitle": "Building better batteries",
+    "authors": [
+      "M. Armand",
+      "J.-M. Tarascon"
+    ],
+    "year": 2008,
+    "journal": "Nature",
+    "doi": "10.1038/451652a",
+    "sourceUrl": "https://doi.org/10.1038/451652a",
+    "keywords": [
+      "전기",
+      "배터리",
+      "리튬이온",
+      "에너지저장",
+      "전기자동차",
+      "신소재",
+      "전력전자",
+      "네이처"
+    ],
+    "summary": "미셸 아르망(M. Armand)과 장-마리 타라스콘(J.-M. Tarascon)이 Nature에 발표한 논문으로, 휴대용 전자기기용 전력 공급원을 넘어 친환경 전기자동차와 대규모 신재생에너지 전력망 저장 장치로 진화하는 리튬 기반 배터리 기술의 눈부신 성과와 앞으로 극복해야 할 재료 공학적 도전 과제를 깊이 있게 조망한 대표적 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2008-building-better-batteries.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-netvlad-cnn-architecture-for-weakly-supervised-place",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "대규모 시각적 장소 인식을 위해 끝단에서 끝단까지 학습 가능한 합성곱 신경망 아키텍처 NetVLAD를 제안하고, 구글 스트리트 뷰 데이터를 활용한 약지도 학습 랭킹 손실 함수로 성능을 극대화한 컴퓨터 비전 및 로봇 위치 추정 핵심 논문",
+    "shortTitle": "NetVLAD: 약지도 장소 인식을 위한 CNN 아키텍처",
+    "originalTitle": "NetVLAD: CNN Architecture for Weakly Supervised Place Recognition",
+    "authors": [
+      "Relja Arandjelovic",
+      "Petr Gronat",
+      "Akihiko Torii",
+      "Tomas Pajdla",
+      "Josef Sivic"
+    ],
+    "year": 2016,
+    "journal": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "doi": "10.1109/cvpr.2016.572",
+    "sourceUrl": "https://doi.org/10.1109/cvpr.2016.572",
+    "keywords": [
+      "로봇·자동화",
+      "컴퓨터비전",
+      "장소인식",
+      "NetVLAD",
+      "합성곱신경망",
+      "약지도학습",
+      "이미지검색",
+      "자율주행"
+    ],
+    "summary": "렐랴 아란젤로비치(Relja Arandjelovic) 등이 CVPR에 발표한 논문으로, 전통적인 이미지 검색 기법인 VLAD를 합성곱 신경망(CNN) 내부에 통합하여 장소 인식 작업에 특화된 엔드투엔드 학습 아키텍처 NetVLAD를 제안하고, 구글 스트리트 뷰의 시간별 데이터를 활용한 약지도 학습을 통해 기존 비학습 방식 및 기성 CNN 디스크립터를 크게 뛰어넘는 성능을 입증한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2016-netvlad-cnn-architecture-for-weakly-supervised-place.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-nanomaterials-for-rechargeable-lithium-batteries",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "휴대용 전자기기, 신재생에너지 저장 및 하이브리드 전기자동차를 위한 차세대 리튬 충전지 분야에서 전해질과 전극 소재로서 새로운 나노물질 화학의 역할을 조망한 에너지 분야 클래식 서베이 논문",
+    "shortTitle": "충전식 리튬 배터리를 위한 나노물질",
+    "originalTitle": "Nanomaterials for Rechargeable Lithium Batteries",
+    "authors": [
+      "Peter G. Bruce",
+      "Bruno Scrosati",
+      "Jean-Marie Tarascon"
+    ],
+    "year": 2008,
+    "journal": "Angewandte Chemie International Edition",
+    "doi": "10.1002/anie.200702505",
+    "sourceUrl": "https://doi.org/10.1002/anie.200702505",
+    "keywords": [
+      "에너지·환경",
+      "리튬배터리",
+      "나노물질",
+      "에너지저장",
+      "전극",
+      "전해질",
+      "재료화학",
+      "서베이논문"
+    ],
+    "summary": "피터 브루스(Peter G. Bruce) 등이 Angewandte Chemie International Edition에 발표한 논문으로, 휴대용 전자기기부터 신재생에너지 저장 및 전기자동차에 이르기까지 폭발적으로 증가하는 에너지 저장 수요를 충족하기 위해 새로운 나노물질 화학이 리튬 배터리의 전극과 전해질 성능을 어떻게 혁신할 수 있는지 체계적으로 고찰한 종합 서베이 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2008-nanomaterials-for-rechargeable-lithium-batteries.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-progress-on-building-energy-labelling-techniques",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "건물 에너지 성능을 객관적으로 평가하고 인증하기 위한 다양한 에너지 라벨링 기법의 발전 과정과 방법론을 체계적으로 조망한 건축·시설관리 분야의 서베이 논문",
+    "shortTitle": "건물 에너지 라벨링 기법의 발전 동향",
+    "originalTitle": "Progress on building energy labelling techniques",
+    "authors": [
+      "Priyadarsini Rajagopalan",
+      "C. Y. Leung Tony"
+    ],
+    "year": 2012,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.1080/17512549.2012.672002",
+    "sourceUrl": "https://doi.org/10.1080/17512549.2012.672002",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "건물에너지",
+      "에너지라벨링",
+      "에너지인증",
+      "건물효율",
+      "지속가능성",
+      "서베이논문"
+    ],
+    "summary": "프리야다르시니 라자고팔란(Priyadarsini Rajagopalan)과 C. Y. 렁 토니(C. Y. Leung Tony)가 Advances in Building Energy Research에 발표한 논문으로, 전 세계적으로 건물의 에너지 소비량을 줄이고 친환경 성능을 투명하게 드러내기 위해 도입된 다양한 건물 에너지 라벨링(Energy Labelling) 및 인증 제도의 발전 과정과 기술적 접근 방식을 체계적으로 고찰한 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2012-progress-on-building-energy-labelling-techniques.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2016-a-survey-of-transfer-learning",
     "verified": true,
     "category": "인공지능",
