@@ -1,0 +1,35 @@
+{
+  "sections": [
+    {
+      "kicker": "SECTION 01",
+      "title": "페루 공공 프로젝트의 설계 및 시공 단계 관리 효율성을 높이기 위해 빌딩 정보 모델링(BIM)을 도입하고 적용하는 방안을 분석한 건축·시설관리 분야의 연구 논문",
+      "html": "<p>내용을 확인할 수 없습니다.</p>"
+    }
+  ],
+  "id": "paper-2019-building-information-modeling-bim-to-manage-desing",
+  "verified": true,
+  "category": "건축·시설관리",
+  "color": "#4A6FA5",
+  "title": "페루 공공 프로젝트의 설계 및 시공 단계 관리 효율성을 높이기 위해 빌딩 정보 모델링(BIM)을 도입하고 적용하는 방안을 분석한 건축·시설관리 분야의 연구 논문",
+  "shortTitle": "페루 공공 프로젝트를 위한 BIM 설계 및 시공 관리",
+  "originalTitle": "Building information modeling (BIM) to manage desing and construction phases of Peruvian public projects = Building information modeling (BIM) para la gestión del diseño y construcción de proyectos públicos peruanos",
+  "authors": "Jose Salinas, Guillermo Prado",
+  "year": 2019,
+  "journal": "Building & Management",
+  "doi": "10.20868/bma.2019.2.3923",
+  "sourceUrl": "https://doi.org/10.20868/bma.2019.2.3923",
+  "keywords": [
+    "건축·시설관리",
+    "BIM",
+    "빌딩정보모델링",
+    "설계관리",
+    "시공관리",
+    "공공프로젝트",
+    "건설관리",
+    "페루건설"
+  ],
+  "difficulty": "★★☆☆☆",
+  "prerequisites": "특별한 선행지식 없음",
+  "readingTime": "약 30분",
+  "summary": "호세 살리나스(Jose Salinas)와 기예르모 프라도(Guillermo Prado)가 Building & Management 저널에 발표한 논문으로, 페루의 공공 건설 프로젝트에서 설계 및 시공 단계의 효율성을 개선하기 위해 빌딩 정보 모델링(BIM) 기술을 어떻게 도입하고 활용할 수 있는지 분석한 연구이다."
+}
