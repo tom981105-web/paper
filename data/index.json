@@ -1,5 +1,167 @@
 [
   {
+    "id": "paper-2019-physics-informed-neural-networks-a-deep-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "물리학 법칙을 인공신경망 손실 함수에 직접 통합하여 비선형 편미분 방정식을 풀고 데이터 기반 정방향 및 역방향 문제를 해결한 딥러닝 마일스톤 논문",
+    "shortTitle": "물리 정보 기반 신경망(PINN)을 통한 편미분 방정식 해결",
+    "originalTitle": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+    "authors": [
+      "M. Raissi",
+      "P. Perdikaris",
+      "G.E. Karniadakis"
+    ],
+    "year": 2019,
+    "journal": "Journal of Computational Physics",
+    "doi": "10.1016/j.jcp.2018.10.045",
+    "sourceUrl": "https://doi.org/10.1016/j.jcp.2018.10.045",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "물리정보신경망",
+      "PINN",
+      "편미분방정식",
+      "과학적머신러닝",
+      "정방향문제",
+      "역방향문제"
+    ],
+    "summary": "마지드 라이시(M. Raissi) 연구팀이 Journal of Computational Physics에 발표한 논문으로, 자연계의 물리 법칙을 지배하는 비선형 편미분 방정식(PDE)을 인공신경망의 학습 과정에 직접 반영하여 데이터가 부족한 환경에서도 정밀하게 미분 방정식을 풀고 숨겨진 매개변수를 찾아낼 수 있는 물리 정보 기반 신경망(PINN) 프레임워크를 제안한 과학적 머신러닝 분야의 획기적인 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2019-physics-informed-neural-networks-a-deep-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-lithium-batteries-status-prospects-and-future",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "리튬 배터리의 역사적 발전 과정, 현재 기술 상태, 그리고 향후 유망한 전망과 과제를 총망라하여 분석한 저널 오브 파워 소스(Journal of Power Sources) 마일스톤 리뷰 논문",
+    "shortTitle": "리튬 배터리의 상태, 전망 및 미래",
+    "originalTitle": "Lithium batteries: Status, prospects and future",
+    "authors": [
+      "Bruno Scrosati",
+      "Jürgen Garche"
+    ],
+    "year": 2010,
+    "journal": "Journal of Power Sources",
+    "doi": "10.1016/j.jpowsour.2009.11.048",
+    "sourceUrl": "https://doi.org/10.1016/j.jpowsour.2009.11.048",
+    "keywords": [
+      "전기",
+      "리튬배터리",
+      "이차전지",
+      "배터리소재",
+      "에너지저장",
+      "전력소스",
+      "차세대배터리",
+      "전기화학"
+    ],
+    "summary": "브루노 스크로사티(Bruno Scrosati)와 위르겐 가르케(Jürgen Garche) 연구진이 Journal of Power Sources에 발표한 논문으로, 리튬 기반 배터리 기술이 발전해 온 발자취를 돌아보고 당시 상용화된 이차전지의 기술적 상태를 진단하며, 향후 휴대용 전자기기 및 전기자동차(EV) 분야에서 요구되는 고에너지 밀도와 안전성 확보를 위한 차세대 배터리 소재 및 시스템의 발전 방향을 폭넓게 조망한 권위 있는 리뷰 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2010-lithium-batteries-status-prospects-and-future.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-statistical-learning-theory",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "학습 및 일반화 이론의 포괄적인 체계를 정립하여 컴퓨터 과학과 로봇 공학 분야에 깊은 영감을 준 통계적 학습 이론 마일스톤 문헌",
+    "shortTitle": "통계적 학습 이론과 일반화",
+    "originalTitle": "Statistical Learning Theory",
+    "authors": [
+      "Yuhai Wu"
+    ],
+    "year": 1999,
+    "journal": "Technometrics",
+    "doi": "10.2307/1271368",
+    "sourceUrl": "https://doi.org/10.2307/1271368",
+    "keywords": [
+      "로봇·자동화",
+      "통계적학습이론",
+      "일반화이론",
+      "경험적데이터",
+      "함수추정",
+      "인공지능",
+      "머신러닝",
+      "컴퓨터과학"
+    ],
+    "summary": "유하이 우(Yuhai Wu)가 Technometrics에 발표한 문헌으로, 경험적 데이터를 바탕으로 최적의 함수를 선택하는 학습 및 일반화 이론의 포괄적인 체계를 다루며, 소규모 데이터 풀에서의 함수 추정 방법과 학습 과정의 일관성을 위한 필요충분조건을 제시하여 컴퓨터 과학과 로봇 공학 등 다양한 실생활 문제 해결에 기여한 권위 있는 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-1999-statistical-learning-theory.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-reviving-the-lithium-metal-anode-for-high",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "고에너지 리튬 배터리의 상용화를 가로막던 리튬 금속 음극의 고질적인 불안정성을 극복하기 위해 최신 나노기술 기반의 해결책을 제시한 네이처 나노테크놀로지(Nature Nanotechnology) 마일스톤 논문",
+    "shortTitle": "고에너지 배터리를 위한 리튬 금속 음극의 부활",
+    "originalTitle": "Reviving the lithium metal anode for high-energy batteries",
+    "authors": [
+      "Dingchang Lin",
+      "Yayuan Liu",
+      "Yi Cui"
+    ],
+    "year": 2017,
+    "journal": "Nature Nanotechnology",
+    "doi": "10.1038/nnano.2017.16",
+    "sourceUrl": "https://doi.org/10.1038/nnano.2017.16",
+    "keywords": [
+      "에너지·환경",
+      "리튬배터리",
+      "리튬금속음극",
+      "나노기술",
+      "배터리소재",
+      "고에너지밀도",
+      "전기차",
+      "에너지저장"
+    ],
+    "summary": "딩창 린(Dingchang Lin) 연구팀이 Nature Nanotechnology에 발표한 논문으로, 차세대 고에너지 배터리의 핵심으로 꼽히는 리튬 금속 음극이 충·방전 과정에서 겪는 덴드라이트(나뭇가지 모양의 결정) 형성 및 낮은 쿨롱 효율 문제를 최신 나노기술을 통해 효과적으로 제어하고 해결함으로써 리튬 금속 음극의 실제 상용화 가능성을 재점화한 선구적인 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2017-reviving-the-lithium-metal-anode-for-high.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-koopman-mode-analysis-on-thermal-data-for",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D87638",
+    "title": "건물 에너지 평가를 위해 열 데이터에 쿱만 모드 분석(Koopman Mode Analysis)을 적용하여 복잡한 열역학적 동적 거동을 효과적으로 분석한 학술 논문",
+    "shortTitle": "건물 열 데이터 분석을 위한 쿱만 모드 분석",
+    "originalTitle": "Koopman mode analysis on thermal data for building energy assessment",
+    "authors": [
+      "Ljuboslav Boskic",
+      "Cory N. Brown",
+      "Igor Mezić"
+    ],
+    "year": 2020,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.1080/17512549.2020.1842802",
+    "sourceUrl": "https://doi.org/10.1080/17512549.2020.1842802",
+    "keywords": [
+      "건축·시설관리",
+      "건물에너지",
+      "쿱만모드분석",
+      "열데이터",
+      "동적시스템",
+      "데이터분석",
+      "에너지평가",
+      "열역학"
+    ],
+    "summary": "류보슬라브 보스키치(Ljuboslav Boskic) 연구팀이 Advances in Building Energy Research에 발표한 논문으로, 복잡하고 비선형적인 건물의 열역학적 거동을 분석하기 위해 선형 대수 및 동적 시스템 이론인 쿱만 모드 분석(Koopman Mode Analysis)을 건물 열 데이터에 적용하여 건물 에너지 성능 평가의 새로운 가능성을 제시한 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2020-koopman-mode-analysis-on-thermal-data-for.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2016-deep-reinforcement-learning-with-double-q-learning",
     "verified": true,
     "category": "인공지능",
