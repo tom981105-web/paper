@@ -1,5 +1,168 @@
 [
   {
+    "id": "paper-2019-stop-explaining-black-box-machine-learning-models",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "의료, 형사 사법 등 고위험 의사결정 영역에서 블랙박스 머신러닝 모델의 사후 설명에 의존하는 것을 중단하고, 처음부터 해석 가능한 모델을 사용해야 한다고 강력히 주장한 네이처 머신 인텔리전스(Nature Machine Intelligence) 마일스톤 논문",
+    "shortTitle": "블랙박스 설명 중단과 해석 가능한 모델 사용",
+    "originalTitle": "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+    "authors": [
+      "Cynthia Rudin"
+    ],
+    "year": 2019,
+    "journal": "Nature Machine Intelligence",
+    "doi": "10.1038/s42256-019-0048-x",
+    "sourceUrl": "https://doi.org/10.1038/s42256-019-0048-x",
+    "keywords": [
+      "인공지능",
+      "설명가능한인공지능",
+      "XAI",
+      "블랙박스모델",
+      "해석가능한머신러닝",
+      "고위험의사결정",
+      "의료인공지능",
+      "투명성"
+    ],
+    "summary": "신시아 루딘(Cynthia Rudin)이 Nature Machine Intelligence에 발표한 논문으로, 의료 진단이나 범죄 예측 등 인간의 삶에 중대한 영향을 미치는 고위험 의사결정 영역에서 불투명한 블랙박스 모델의 예측 결과를 억지로 사후 설명(Post-hoc explanation)하려는 시도 대신, 처음부터 그 자체로 투명하고 해석 가능한 모델을 설계하고 사용해야 한다고 역설하여 설명 가능한 인공지능(XAI) 연구 분야에 패러다임의 전환을 이끈 획기적인 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2019-stop-explaining-black-box-machine-learning-models.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1937-the-nature-of-the-firm",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "시장에서 가격 기구를 통해 자원이 배분되는 과정에 거래 비용이 존재함을 밝혀내어, 왜 기업이라는 조직이 탄생하고 존재하는지 그 경제학적 본질을 최초로 규명한 현대 기업경제학의 기념비적 마일스톤 논문",
+    "shortTitle": "기업의 본질",
+    "originalTitle": "The Nature of the Firm",
+    "authors": [
+      "R. H. Coase"
+    ],
+    "year": 1937,
+    "journal": "Economica",
+    "doi": "10.1111/j.1468-0335.1937.tb00002.x",
+    "sourceUrl": "https://doi.org/10.1111/j.1468-0335.1937.tb00002.x",
+    "keywords": [
+      "전기",
+      "기업의본질",
+      "거래비용",
+      "가격기구",
+      "기업경제학",
+      "코즈의정리",
+      "조직경제학",
+      "계약이론"
+    ],
+    "summary": "로날드 코즈(R. H. Coase)가 Economica에 발표한 본 논문은 시장에서 자유로운 가격 변동에 따라 자원이 스스로 배분된다는 기존 경제학 이론에 의문을 품고, 시장에서 거래를 진행할 때 발생하는 '거래 비용' 때문에 가격 기구를 대체하는 '기업'이라는 조직이 탄생하게 된다는 점을 논리적으로 증명하여 현대 기업경제학과 신제도주의 경제학의 기틀을 마련한 세기적인 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-1937-the-nature-of-the-firm.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-quantitative-monitoring-of-gene-expression-patterns-with",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "유리 기판 위에 상보적 DNA를 고속 로봇 프린팅하여 수많은 유전자의 발현 패턴을 정량적으로 동시에 모니터링할 수 있는 마이크로어레이 시스템을 개발한 사이언스(Science) 마일스톤 논문",
+    "shortTitle": "cDNA 마이크로어레이를 통한 유전자 발현 정량 모니터링",
+    "originalTitle": "Quantitative Monitoring of Gene Expression Patterns with a Complementary DNA Microarray",
+    "authors": [
+      "Mark Schena",
+      "Dari Shalon",
+      "Ronald W. Davis",
+      "Patrick O. Brown"
+    ],
+    "year": 1995,
+    "journal": "Science",
+    "doi": "10.1126/science.270.5235.467",
+    "sourceUrl": "https://doi.org/10.1126/science.270.5235.467",
+    "keywords": [
+      "로봇·자동화",
+      "마이크로어레이",
+      "cDNA",
+      "유전자발현",
+      "로봇프린팅",
+      "형광하이브리드화",
+      "분자생물학",
+      "유전체학"
+    ],
+    "summary": "마크 스케나(Mark Schena) 연구진이 Science에 발표한 논문으로, 고속 로봇 기술을 활용해 유리 기판 위에 수많은 종류의 상보적 DNA를 고밀도로 인쇄하여 작은 시료 용량만으로도 수많은 유전자의 발현 양상을 정밀하고 동시에 측정할 수 있는 cDNA 마이크로어레이 시스템을 선보인 현대 유전체학의 기초 마일스톤 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-1995-quantitative-monitoring-of-gene-expression-patterns-with.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-organometal-halide-perovskites-as-visible-light-sensitizers",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#D47A2B",
+    "title": "유기금속 할로겐화물 페로브스카이트 나노 nanocrystal을 가시광선 감광제로 도입하여 고효율 태양전지 구현의 가능성을 연 JACS 마일스톤 논문",
+    "shortTitle": "페로브스카이트 가시광선 감광제 태양전지",
+    "originalTitle": "Organometal Halide Perovskites as Visible-Light Sensitizers for Photovoltaic Cells",
+    "authors": [
+      "Akihiro Kojima",
+      "Kenjiro Teshima",
+      "Yasuo Shirai",
+      "Tsutomu Miyasaka"
+    ],
+    "year": 2009,
+    "journal": "Journal of the American Chemical Society",
+    "doi": "10.1021/ja809598r",
+    "sourceUrl": "https://doi.org/10.1021/ja809598r",
+    "keywords": [
+      "에너지·환경",
+      "페로브스카이트",
+      "태양전지",
+      "가시광선감광제",
+      "나노결정",
+      "이산화티타늄",
+      "광전기화학셀",
+      "신재생에너지"
+    ],
+    "summary": "아키히로 코지마(Akihiro Kojima) 연구진이 Journal of the American Chemical Society에 발표한 논문으로, CH3NH3PbBr3 및 CH3NH3PbI3와 같은 유기금속 할로겐화물 페로브스카이트 나노결정을 메조다공성 이산화티타늄 필름에 자가조립하여 가시광선 감광제로 활용할 수 있음을 최초로 규명하고, 차세대 고효율 태양전지 및 광전기화학셀의 혁신적인 발전 가능성을 제시한 마일스톤 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2009-organometal-halide-perovskites-as-visible-light-sensitizers.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-transformer-encoder-based-self-supervised-learning-for",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D08A5B",
+    "title": "레이블이 없는 방대한 운전 데이터를 활용하여 트랜스포머 인코더 기반 자기 지도 학습으로 HVAC 시스템의 고장을 정밀하게 감지하는 빌딩 앤드 엔바이런먼트(Building and Environment) 마일스톤 논문",
+    "shortTitle": "트랜스포머 기반 HVAC 자기 지도 고장 감지",
+    "originalTitle": "Transformer encoder based self-supervised learning for HVAC fault detection with unlabeled data",
+    "authors": [
+      "M.A.F. Abdollah",
+      "R. Scoccia",
+      "M. Aprile"
+    ],
+    "year": 2024,
+    "journal": "Building and Environment",
+    "doi": "10.1016/j.buildenv.2024.111568",
+    "sourceUrl": "https://doi.org/10.1016/j.buildenv.2024.111568",
+    "keywords": [
+      "건축·시설관리",
+      "HVAC",
+      "고장감지",
+      "자기지도학습",
+      "트랜스포머인코더",
+      "무레이블데이터",
+      "건물에너지",
+      "스마트빌딩"
+    ],
+    "summary": "M.A.F. 압둘라(M.A.F. Abdollah) 연구진이 Building and Environment에 발표한 본 논문은 공조시스템(HVAC)에서 수집되는 방대한 양의 레이블이 없는 실제 운전 데이터를 활용하여, 트랜스포머 인코더 기반의 자기 지도 학습(Self-Supervised Learning)을 통해 사람의 개입 없이도 시스템의 이상과 고장을 효과적으로 감지할 수 있는 혁신적인 머신러닝 방법론을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2024-transformer-encoder-based-self-supervised-learning-for.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1989-approximation-by-superpositions-of-a-sigmoidal-function",
     "verified": true,
     "category": "인공지능",
