@@ -1,5 +1,164 @@
 [
   {
+    "id": "paper-1995-wordnet",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "기계가 인간처럼 자연어를 처리할 수 있도록 영어 명사, 동사, 형용사, 부사를 동의어 집합과 의미적 관계로 조직화한 온라인 어휘 데이터베이스 WordNet을 제안한 Communications of the ACM 마일스톤 논문",
+    "shortTitle": "WordNet: 자연어 처리를 위한 어휘 데이터베이스",
+    "originalTitle": "WordNet",
+    "authors": [
+      "George A. Miller"
+    ],
+    "year": 1995,
+    "journal": "Communications of the ACM",
+    "doi": "10.1145/219717.219748",
+    "sourceUrl": "https://doi.org/10.1145/219717.219748",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "WordNet",
+      "어휘데이터베이스",
+      "의미론",
+      "동의어",
+      "렉시코그래피",
+      "개념망"
+    ],
+    "summary": "조지 밀러(George A. Miller)가 Communications of the ACM에 발표한 본 논문은 인간이 사용하는 자연어를 기계가 이해할 수 있도록 전통적인 사전 편찬 정보와 현대 컴퓨팅 기술을 결합하여 만든 온라인 어휘 데이터베이스 WordNet을 소개한다. 명사, 동사, 형용사, 부사 등의 단어들을 동의어 집합(synset)으로 묶고 다양한 의미 관계로 연결하여, 인공지능과 자연어 처리 시스템이 단어의 의미를 프로그래밍 방식으로 정밀하게 다룰 수 있는 혁신적인 기초를 제공한 마일스톤 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-1995-wordnet.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-estimating-the-reproducibility-of-psychological-science",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "심리학 연구 100편을 대규모로 재현하여 학계 전반의 재현 가능성 실태를 과학적으로 측정하고 분석한 Science 마일스톤 논문",
+    "shortTitle": "심리학 연구의 재현 가능성 측정",
+    "originalTitle": "Estimating the reproducibility of psychological science",
+    "authors": [
+      "Open Science Collaboration"
+    ],
+    "year": 2015,
+    "journal": "Science",
+    "doi": "10.1126/science.aac4716",
+    "sourceUrl": "https://doi.org/10.1126/science.aac4716",
+    "keywords": [
+      "전기",
+      "심리학",
+      "재현가능성",
+      "과학적방법론",
+      "통계적검정",
+      "메타분석",
+      "연구신뢰성",
+      "오픈사이언스"
+    ],
+    "summary": "오픈 사이언스 협력체(Open Science Collaboration)가 Science에 발표한 본 논문은 심리학 분야에서 발표된 100편의 연구를 고위력 설계와 원저자의 협력을 바탕으로 엄밀히 재현하여, 원연구 대비 재현 연구의 효과 크기가 절반 수준으로 감소하고 통계적 유의성 확보 비율 역시 크게 낮아짐을 밝혀냄으로써 현대 과학 연구의 신뢰성과 재현 가능성에 대한 깊은 성찰을 이끌어낸 마일스톤 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2015-estimating-the-reproducibility-of-psychological-science.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-autonomous-human-robot-proxemics-socially-aware-navigation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "사람과 로봇 간의 상호작용 거리와 사회적 규범을 고려하여 상호작용 포텐셜 기반의 자율주행 및 내비게이션 시스템을 제안한 Autonomous Robots 마일스톤 논문",
+    "shortTitle": "상호작용 포텐셜 기반의 사회적 자율주행과 로봇 프록시믹스",
+    "originalTitle": "Autonomous human–robot proxemics: socially aware navigation based on interaction potential",
+    "authors": [
+      "Ross Mead",
+      "Maja J Matarić"
+    ],
+    "year": 2016,
+    "journal": "Autonomous Robots",
+    "doi": "10.1007/s10514-016-9572-2",
+    "sourceUrl": "https://doi.org/10.1007/s10514-016-9572-2",
+    "keywords": [
+      "로봇·자동화",
+      "자율주행",
+      "인간로봇상호작용",
+      "프록시믹스",
+      "사회적내비게이션",
+      "상호작용포텐셜",
+      "로봇공학"
+    ],
+    "summary": "로스 미드(Ross Mead)와 마자 J. 마타리치(Maja J. Matarić)가 Autonomous Robots에 발표한 본 논문은 사람이 생활하는 공간에서 로봇이 단순히 장애물을 피해 이동하는 것을 넘어, 인간과의 심리적·사회적 거리(프록시믹스)와 상호작용 규범을 존중하며 안전하고 자연스럽게 주행할 수 있도록 상호작용 포텐셜 개념을 도입한 사회적 자율주행 시스템을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2016-autonomous-human-robot-proxemics-socially-aware-navigation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-thermal-runaway-mechanism-of-lithium-ion-battery",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B8354",
+    "title": "전기차용 리튬 이온 배터리의 열폭주 메커니즘을 종합적으로 분석하고 발화 원인과 전파 과정을 고찰한 Energy Storage Materials 마일스톤 리뷰 논문",
+    "shortTitle": "리튬 이온 배터리 열폭주 메커니즘 리뷰",
+    "originalTitle": "Thermal runaway mechanism of lithium ion battery for electric vehicles: A review",
+    "authors": [
+      "Xuning Feng",
+      "Minggao Ouyang",
+      "Xiang Liu",
+      "Languang Lu",
+      "Yong Xia",
+      "Xiangming He"
+    ],
+    "year": 2018,
+    "journal": "Energy Storage Materials",
+    "doi": "10.1016/j.ensm.2017.05.013",
+    "sourceUrl": "https://doi.org/10.1016/j.ensm.2017.05.013",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "열폭주",
+      "전기차",
+      "배터리안전성",
+      "전기화학",
+      "에너지저장",
+      "배터리매커니즘"
+    ],
+    "summary": "쉬닝 펑(Xuning Feng)과 밍가오 오양(Minggao Ouyang)을 비롯한 연구진이 Energy Storage Materials에 발표한 본 논문은 전기자동차용 리튬 이온 배터리에서 발생할 수 있는 치명적인 현상인 열폭주(Thermal Runaway)의 발생 메커니즘과 내부 화학 반응, 트리거 요인, 그리고 안전성 향상을 위한 방안을 체계적으로 분석한 권위 있는 마일스톤 리뷰 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2018-thermal-runaway-mechanism-of-lithium-ion-battery.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-stochastic-weather-model-for-building-hvac-systems",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#3A7D44",
+    "title": "건축물 냉난방 공조(HVAC) 시스템의 성능 평가와 제어 알고리즘 설계를 위해 실제 기상 데이터의 통계적 특성을 모사하는 확률적 기상 모델을 제안한 Building and Environment 논문",
+    "shortTitle": "건축물 HVAC 시스템을 위한 확률적 기상 모델",
+    "originalTitle": "Stochastic weather model for building HVAC systems",
+    "authors": [
+      "Tianzhen Hong",
+      "Yi Jiang"
+    ],
+    "year": 1995,
+    "journal": "Building and Environment",
+    "doi": "10.1016/0360-1323(95)00007-s",
+    "sourceUrl": "https://doi.org/10.1016/0360-1323(95)00007-s",
+    "keywords": [
+      "건축·시설관리",
+      "HVAC시스템",
+      "확률적기상모델",
+      "건축환경",
+      "냉난방공조",
+      "에너지시뮬레이션"
+    ],
+    "summary": "티안젠 홍(Tianzhen Hong)과 이 지앙(Yi Jiang)이 Building and Environment에 발표한 본 논문은 건축물 냉난방 공조(HVAC) 시스템의 에너지 해석과 제어 시뮬레이션을 보다 정확하고 현실적으로 수행하기 위해, 실제 날씨의 무작위성과 변동성을 통계적 기법으로 모사하는 확률적 기상 모델을 제안한 건축·시설관리 분야의 핵심 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1995-stochastic-weather-model-for-building-hvac-systems.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-large-language-models-encode-clinical-knowledge",
     "verified": true,
     "category": "인공지능",
