@@ -1,0 +1,35 @@
+{
+  "sections": [
+    {
+      "kicker": "LIMITATIONS",
+      "title": "실리콘 반도체의 한계를 극복하고 고주파, 고효율 전력 변환 애플리케이션의 상용화를 이끌어갈 질화갈륨(GaN) 전력 전자기술의 글로벌 연구 현황과 발전 방향을 집대성한 로드맵 논문",
+      "html": "<p>내용을 확인할 수 없습니다.</p>"
+    }
+  ],
+  "id": "paper-2018-the-2018-gan-power-electronics-roadmap",
+  "verified": true,
+  "category": "전기",
+  "color": "#3F6C91",
+  "title": "실리콘 반도체의 한계를 극복하고 고주파, 고효율 전력 변환 애플리케이션의 상용화를 이끌어갈 질화갈륨(GaN) 전력 전자기술의 글로벌 연구 현황과 발전 방향을 집대성한 로드맵 논문",
+  "shortTitle": "2018 질화갈륨(GaN) 전력 전자 로드맵",
+  "originalTitle": "The 2018 GaN power electronics roadmap",
+  "authors": "H Amano, Y Baines, E Beam, Matteo Borga, T Bouchet, Paul R Chalker, M Charles, Kevin J Chen, Nadim Chowdhury, Rongming Chu, Carlo De Santi, Maria Merlyne De Souza, Stefaan Decoutere, L Di Cioccio, Bernd Eckardt, Takashi Egawa, P Fay, Joseph J Freedsman, L Guido, Oliver Häberlen, Geoff Haynes, Thomas Heckel, Dilini Hemakumara, Peter Houston, Jie Hu, Mengyuan Hua, Qingyun Huang, Alex Huang, Sheng Jiang, H Kawai, Dan Kinzer, Martin Kuball, Ashwani Kumar, Kean Boon Lee, Xu Li, Denis Marcon, Martin März, R McCarthy, Gaudenzio Meneghesso, Matteo Meneghini, E Morvan, A Nakajima, E M S Narayanan, Stephen Oliver, Tomás Palacios, Daniel Piedra, M Plissonnier, R Reddy, Min Sun, Iain Thayne, A Torres, Nicola Trivellin, V Unni, Michael J Uren, Marleen Van Hove, David J Wallis, J Wang, J Xie, S Yagi, Shu Yang, C Youtsey, Ruiyang Yu, Enrico Zanoni, Stefan Zeltner, Yuhao Zhang",
+  "year": 2018,
+  "journal": "Journal of Physics D: Applied Physics",
+  "doi": "10.1088/1361-6463/aaaf9d",
+  "sourceUrl": "https://doi.org/10.1088/1361-6463/aaaf9d",
+  "keywords": [
+    "전기",
+    "전력전자",
+    "질화갈륨",
+    "GaN",
+    "반도체",
+    "고주파통신",
+    "전력변환",
+    "소자공학"
+  ],
+  "difficulty": "★★★☆☆",
+  "prerequisites": "특별한 선행지식 없음",
+  "readingTime": "약 35분",
+  "summary": "H. 아아마노(H Amano)를 비롯한 세계적인 석학들이 Journal of Physics D: Applied Physics에 발표한 본 논문은 실리콘 반도체가 직면한 성능 한계를 극복할 대안으로 주목받는 질화갈륨(GaN) 소재의 물성적 장점부터 대면적 기판 성장, 전력 변환 소자 상용화, 새로운 회로 토폴로지와 시스템 패키징에 이르는 전 세계 최신 연구 동향을 집대성한 전력전자 분야의 핵심 마일스톤 로드맵 연구이다."
+}
