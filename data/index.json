@@ -1,5 +1,167 @@
 [
   {
+    "id": "paper-1994-the-magical-number-seven-plus-or-minus",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "인간의 정보 처리 용량과 7이라는 마법의 숫자를 다루어 Psychological Review 저널에 게재된 인공지능 및 인지과학 분야 학술 논문",
+    "shortTitle": "인간의 정보 처리 용량 한계와 7",
+    "originalTitle": "The magical number seven, plus or minus two: Some limits on our capacity for processing information.",
+    "authors": [
+      "George A. Miller"
+    ],
+    "year": 1994,
+    "journal": "Psychological Review",
+    "doi": "10.1037/0033-295x.101.2.343",
+    "sourceUrl": "https://doi.org/10.1037/0033-295x.101.2.343",
+    "keywords": [
+      "인공지능",
+      "인지과학",
+      "작업기억",
+      "정보처리",
+      "청킹",
+      "절대판단",
+      "심리학"
+    ],
+    "summary": "조지 A. 밀러(George A. Miller)가 Psychological Review에 발표한 본 논문은 인간이 한 번에 기억하고 처리할 수 있는 정보의 양이 대략 7개(±2)로 제한되어 있음을 밝히고, 청킹(Chunking)과 재부호화를 통해 이 한계를 극복하는 과정을 다룬 인지과학 및 인공지능 분야의 고전적 명저이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1994-the-magical-number-seven-plus-or-minus.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1982-modelling-of-electrical-power-demand-characteristics-for",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "복합 기계 공장의 전력 수요 특성 모델링을 다루어 International Journal of Electrical Power & Energy Systems에 게재된 전기 분야 학술 논문",
+    "shortTitle": "복합 기계 공장의 전력 수요 특성 모델링",
+    "originalTitle": "Modelling of electrical power demand characteristics for composite machine-shops",
+    "authors": [
+      "R. Caldon",
+      "U. Viaro"
+    ],
+    "year": 1982,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(82)90040-0",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(82)90040-0",
+    "keywords": [
+      "전기",
+      "전력수요",
+      "공장전력",
+      "부하모델링",
+      "전력계통",
+      "시스템분석"
+    ],
+    "summary": "알. 칼돈(R. Caldon)과 유. 비아로(U. Viaro)가 1982년 International Journal of Electrical Power & Energy Systems 저널에 발표한 본 논문은 복잡한 기계 공장들의 전력 수요 특성을 분석하고 수학적으로 모델링하여 효율적인 전력 관리 방안을 모색한 전기 분야의 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1982-modelling-of-electrical-power-demand-characteristics-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-discovery-of-sound-sources-by-an-autonomous",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "자율 이동 로봇에 의한 음원 탐색 기술을 다루어 Autonomous Robots 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "자율 이동 로봇의 음원 탐색",
+    "originalTitle": "Discovery of sound sources by an autonomous mobile robot",
+    "authors": [
+      "Eric Martinson",
+      "Alan Schultz"
+    ],
+    "year": 2009,
+    "journal": "Autonomous Robots",
+    "doi": "10.1007/s10514-009-9123-1",
+    "sourceUrl": "https://doi.org/10.1007/s10514-009-9123-1",
+    "keywords": [
+      "로봇·자동화",
+      "자율이동로봇",
+      "음원탐색",
+      "청각인식",
+      "센서융합",
+      "위치추정",
+      "로봇제어"
+    ],
+    "summary": "에릭 마틴슨(Eric Martinson)과 앨런 슐츠(Alan Schultz)가 2009년 Autonomous Robots 저널에 발표한 본 논문은 자율 이동 로봇이 주변 환경에서 발생하는 소리의 근원지를 스스로 찾아내고 탐색하는 방법론을 다룬 로봇·자동화 분야의 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2009-discovery-of-sound-sources-by-an-autonomous.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-python-materials-genomics-pymatgen-a-robust-open",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A9D8F",
+    "title": "재료 분석을 위한 강력하고 오픈소스인 파이썬 라이브러리 파이맷젠(pymatgen)의 개발을 다루어 Computational Materials Science 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "파이썬 재료 유전체학(pymatgen) 라이브러리",
+    "originalTitle": "Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis",
+    "authors": [
+      "Shyue Ping Ong",
+      "William Davidson Richards",
+      "Anubhav Jain",
+      "Geoffroy Hautier",
+      "Michael Kocher",
+      "Shreyas Cholia",
+      "Dan Gunter",
+      "Vincent L. Chevrier",
+      "Kristin A. Persson",
+      "Gerbrand Ceder"
+    ],
+    "year": 2013,
+    "journal": "Computational Materials Science",
+    "doi": "10.1016/j.commatsci.2012.10.028",
+    "sourceUrl": "https://doi.org/10.1016/j.commatsci.2012.10.028",
+    "keywords": [
+      "에너지",
+      "재료과학",
+      "파이맷젠",
+      "pymatgen",
+      "오픈소스",
+      "머신러닝",
+      "재료분석",
+      "파이썬"
+    ],
+    "summary": "슈이 핑 옹(Shyue Ping Ong) 등 10명의 연구진이 Computational Materials Science에 2013년 발표한 본 논문은 신소재 개발과 에너지 기술 혁신을 가속화하기 위해 분자 구조와 결정 구조를 정밀하게 분석하고 변환할 수 있는 오픈소스 파이썬 라이브러리 'pymatgen'을 소개한 에너지·환경 분야의 핵심 방법론 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2013-python-materials-genomics-pymatgen-a-robust-open.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-an-overview-of-the-cause-of-energy",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A709C",
+    "title": "후쿠시마 원전 사고 이후 일본 도호쿠 지방의 에너지 부족 원인과 건축물 에너지 전략 개요를 다루어 Advances in Building Energy Research 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "후쿠시마 이후 일본 도호쿠 지방의 건축 에너지 전략 개요",
+    "originalTitle": "An overview of the cause of energy shortage and building energy strategy after Fukushima disaster in Tohoku District of Japan",
+    "authors": [
+      "Isaac Lun",
+      "Masaaki Ohba"
+    ],
+    "year": 2012,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.1080/17512549.2012.741106",
+    "sourceUrl": "https://doi.org/10.1080/17512549.2012.741106",
+    "keywords": [
+      "건축·시설관리",
+      "에너지부족",
+      "건물에너지전략",
+      "후쿠시마사고",
+      "도호쿠지방",
+      "에너지효율",
+      "시설관리"
+    ],
+    "summary": "아이삭 룬(Isaac Lun)과 마사아키 오바(Masaaki Ohba)가 2012년 Advances in Building Energy Research 저널에 발표한 본 논문은 후쿠시마 원전 사고 이후 일본 도호쿠 지방에서 발생한 에너지 부족 사태의 원인을 진단하고, 이에 대응하기 위한 건축물 및 시설의 에너지 전략을 개괄한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2012-an-overview-of-the-cause-of-energy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1992-simple-statistical-gradient-following-algorithms-for-connectionist",
     "verified": true,
     "category": "인공지능",
