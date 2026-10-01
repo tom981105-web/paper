@@ -1,5 +1,164 @@
 [
   {
+    "id": "paper-2022-a-survey-on-knowledge-graphs-representation-acquisition",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "지식 그래프의 표현, 획득, 그리고 응용 분야를 종합적으로 고찰하여 IEEE Transactions on Neural Networks and Learning Systems에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "지식 그래프 종합 서베이",
+    "originalTitle": "A Survey on Knowledge Graphs: Representation, Acquisition, and Applications",
+    "authors": [
+      "Shaoxiong Ji",
+      "Shirui Pan",
+      "Erik Cambria",
+      "Pekka Marttinen",
+      "Philip S. Yu"
+    ],
+    "year": 2022,
+    "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+    "doi": "10.1109/tnnls.2021.3070843",
+    "sourceUrl": "https://doi.org/10.1109/tnnls.2021.3070843",
+    "keywords": [
+      "인공지능",
+      "지식그래프",
+      "표현학습",
+      "지식획득",
+      "그래프신경망",
+      "상식추론",
+      "시간적지식그래프"
+    ],
+    "summary": "샤오슝 지(Shaoxiong Ji) 등이 IEEE Transactions on Neural Networks and Learning Systems에 발표한 본 논문은 인간의 지식을 구조화하여 인지 능력과 인간 수준의 인공지능을 구현하기 위한 핵심 도구인 지식 그래프(Knowledge Graph)의 표현 학습, 지식 획득, 시간적 지식 그래프, 응용 분야 등 전반적인 연구 동향을 체계적으로 분류하고 정리한 종합 서베이 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2022-a-survey-on-knowledge-graphs-representation-acquisition.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-a-multiple-strategic-evaluation-for-fault-detection",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 시스템의 고장 검출을 위한 다중 전략 평가 기법을 다루어 International Journal of Electrical Power & Energy Systems에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 고장 검출을 위한 다중 전략 평가",
+    "originalTitle": "A multiple strategic evaluation for fault detection in electrical power system",
+    "authors": [
+      "A.K. Singh",
+      "S.K. Parida"
+    ],
+    "year": 2013,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/j.ijepes.2012.11.033",
+    "sourceUrl": "https://doi.org/10.1016/j.ijepes.2012.11.033",
+    "keywords": [
+      "전기",
+      "전력계통",
+      "고장검출",
+      "다중전략평가",
+      "송배전",
+      "시스템보호",
+      "전력안정성"
+    ],
+    "summary": "A.K. 싱(A.K. Singh)과 S.K. 파리다(S.K. Parida)가 International Journal of Electrical Power & Energy Systems에 발표한 본 논문은 전력 시스템에서 발생하는 다양한 고장을 빠르고 정확하게 검출하기 위해 여러 가지 전략을 종합적으로 평가하고 적용하는 방법론을 다룬 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2013-a-multiple-strategic-evaluation-for-fault-detection.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-an-autonomous-educational-mobile-robot-mediator",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "교육 환경에서 중재자 역할을 수행하는 자율 이동 로봇 시스템을 제안하여 Autonomous Robots에 게재된 로봇 분야 학술 논문",
+    "shortTitle": "교육용 자율 이동 로봇 중재자",
+    "originalTitle": "An autonomous educational mobile robot mediator",
+    "authors": [
+      "Ruben Mitnik",
+      "Miguel Nussbaum",
+      "Alvaro Soto"
+    ],
+    "year": 2008,
+    "journal": "Autonomous Robots",
+    "doi": "10.1007/s10514-008-9101-z",
+    "sourceUrl": "https://doi.org/10.1007/s10514-008-9101-z",
+    "keywords": [
+      "로봇·자동화",
+      "교육용로봇",
+      "이동로봇",
+      "로봇중재",
+      "상호작용",
+      "협력학습",
+      "자율로봇"
+    ],
+    "summary": "루벤 미트닉(Ruben Mitnik), 미겔 누스바움(Miguel Nussbaum), 알바로 소토(Alvaro Soto)가 Autonomous Robots에 발표한 본 논문은 학교 교육 현장에서 학생들 간의 상호작용과 협력 학습을 촉진하는 자율 이동 로봇 중재자(Mediator) 시스템의 설계와 그 교육적 효과를 다룬 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2008-an-autonomous-educational-mobile-robot-mediator.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1972-on-the-assessment-of-surface-heat-flux",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "대규모 파라미터를 활용한 지표면 열속 및 증발량 평가에 관한 연구를 수행하여 Monthly Weather Review에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "지표면 열속 및 증발량 평가",
+    "originalTitle": "On the Assessment of Surface Heat Flux and Evaporation Using Large-Scale Parameters",
+    "authors": [
+      "C. H. B. PRIESTLEY",
+      "R. J. TAYLOR"
+    ],
+    "year": 1972,
+    "journal": "Monthly Weather Review",
+    "doi": "10.1175/1520-0493(1972)100<0081:otaosh>2.3.co;2",
+    "sourceUrl": "https://doi.org/10.1175/1520-0493(1972)100<0081:otaosh>2.3.co;2",
+    "keywords": [
+      "에너지",
+      "환경",
+      "지표면열속",
+      "증발량",
+      "대기과학",
+      "기상학",
+      "잠열",
+      "현열"
+    ],
+    "summary": "C. H. B. 프리스틀리(C. H. B. Priestley)와 R. J. 테일러(R. J. Taylor)가 Monthly Weather Review에 발표한 본 논문은 육지와 바다 환경에서의 현열 및 잠열 플럭스(지표면 열속)를 대규모 파라미터를 통해 평가하는 일반적인 프레임워크와 공식을 제안하여 기상학 및 수문학 분야에 큰 기여를 한 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1972-on-the-assessment-of-surface-heat-flux.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2006-i-editorial-i-enhancing-the-applications-of",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B6D",
+    "title": "건물 자동화 시스템의 성능 향상을 통한 건물 에너지 및 환경 성능 개선 방안을 다루어 HVAC&R Research에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 자동화 시스템 활용 강화",
+    "originalTitle": "Editorial: Enhancing the Applications of Building Automation Systems for Better Building Energy and Environmental Performance",
+    "authors": [
+      "Shengwei Wang"
+    ],
+    "year": 2006,
+    "journal": "HVAC&R Research",
+    "doi": "10.1080/10789669.2006.10391174",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2006.10391174",
+    "keywords": [
+      "건축·시설관리",
+      "건물자동화시스템",
+      "HVAC",
+      "에너지효율",
+      "실내환경",
+      "제어시스템",
+      "스마트빌딩"
+    ],
+    "summary": "성웨이 왕(Shengwei Wang)이 HVAC&R Research에 발표한 본 논문은 건물 자동화 시스템(BAS)의 활용도를 높여 건물 내부의 에너지 소비를 줄이고 쾌적한 실내 환경을 동시에 달성하기 위한 제어 기술과 발전 방향을 다룬 편집 사설(Editorial) 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2006-i-editorial-i-enhancing-the-applications-of.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2006-an-introduction-to-roc-analysis",
     "verified": true,
     "category": "인공지능",
