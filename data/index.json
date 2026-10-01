@@ -1,5 +1,161 @@
 [
   {
+    "id": "paper-2009-software-survey-vosviewer-a-computer-program-for",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "서베리오메트릭 매핑을 위한 컴퓨터 프로그램 VOSviewer를 소개하여 Scientometrics에 게재된 인공지능 및 데이터 시각화 분야 학술 논문",
+    "shortTitle": "VOSviewer 서베이 및 시각화 프로그램 소개",
+    "originalTitle": "Software survey: VOSviewer, a computer program for bibliometric mapping",
+    "authors": [
+      "Nees Jan van Eck",
+      "Ludo Waltman"
+    ],
+    "year": 2009,
+    "journal": "Scientometrics",
+    "doi": "10.1007/s11192-009-0146-3",
+    "sourceUrl": "https://doi.org/10.1007/s11192-009-0146-3",
+    "keywords": [
+      "인공지능",
+      "데이터시각화",
+      "서베리오메트릭",
+      "VOSviewer",
+      "네트워크분석",
+      "공동인용",
+      "정보과학"
+    ],
+    "summary": "네스 얀 반 엑(Nees Jan van Eck)과 루도 발트만(Ludo Waltman)이 Scientometrics에 발표한 본 논문은 대규모 서베리오메트릭(계량서지학) 맵을 쉽고 직관적으로 시각화할 수 있는 무료 컴퓨터 프로그램인 VOSviewer의 기능과 기술적 구현, 그리고 5,000개의 주요 과학 저널 공동인용 맵 분석 사례를 소개한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2009-software-survey-vosviewer-a-computer-program-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1996-quasiperiodic-qp-oscillations-in-electrical-power-systems",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 시스템에서 발생하는 준주기적 진동 현상을 다루어 International Journal of Electrical Power & Energy Systems에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템의 준주기적 진동",
+    "originalTitle": "Quasiperiodic (QP) oscillations in electrical power systems",
+    "authors": [
+      "S.K. Chakravarthy",
+      "C.V. Nayar"
+    ],
+    "year": 1996,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(96)00008-7",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(96)00008-7",
+    "keywords": [
+      "전기",
+      "전력계통",
+      "준주기적진동",
+      "전력안정성",
+      "비선형동역학",
+      "시스템진동",
+      "전력공학"
+    ],
+    "summary": "S.K. 차크라바르티(S.K. Chakravarthy)와 C.V. 나야르(C.V. Nayar)가 International Journal of Electrical Power & Energy Systems에 발표한 본 논문은 전력 시스템 내부에서 나타나는 복잡한 준주기적(Quasiperiodic) 진동 현상의 특성과 그 동역학적 분석을 다룬 전기 공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1996-quasiperiodic-qp-oscillations-in-electrical-power-systems.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2007-neurobiologically-inspired-mobile-robot-navigation-and-planning",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "생물학적 뇌 구조에 영감을 받은 모바일 로봇 내비게이션 및 경로 계획 기법을 다루어 Frontiers in Neurorobotics에 게재된 로봇 분야 학술 논문",
+    "shortTitle": "뇌 생물학 기반 모바일 로봇 내비게이션",
+    "originalTitle": "Neurobiologically inspired mobile robot navigation and planning",
+    "authors": [
+      "Nicolas Cuperlier"
+    ],
+    "year": 2007,
+    "journal": "Frontiers in Neurorobotics",
+    "doi": "10.3389/neuro.12.003.2007",
+    "sourceUrl": "https://doi.org/10.3389/neuro.12.003.2007",
+    "keywords": [
+      "로봇·자동화",
+      "이동로봇",
+      "뇌모방로봇",
+      "신경내비게이션",
+      "경로계획",
+      "생물학적영감",
+      "자율주행"
+    ],
+    "summary": "니콜라 쿠펠리에(Nicolas Cuperlier)가 Frontiers in Neurorobotics에 발표한 본 논문은 동물과 인간의 뇌 신경 구조에서 영감을 받아 모바일 로봇이 스스로 주변 환경을 인식하고 목적지까지 안전하게 찾아갈 수 있도록 돕는 자율 주행 및 경로 계획 방법론을 다룬 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2007-neurobiologically-inspired-mobile-robot-navigation-and-planning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2001-plastic-solar-cells",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#D05B5B",
+    "title": "공액 고분자 기반 유기 태양전지의 광물리학적 원리와 광전 변환 효율 향상 연구를 다루어 Advanced Functional Materials에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "플라스틱 태양전지 리뷰",
+    "originalTitle": "Plastic Solar Cells",
+    "authors": [
+      "C. J. Brabec",
+      "N. S. Sariciftci",
+      "J. C. Hummelen"
+    ],
+    "year": 2001,
+    "journal": "Advanced Functional Materials",
+    "doi": "10.1002/1616-3028(200102)11:1<15::aid-adfm15>3.0.co;2-a",
+    "sourceUrl": "https://doi.org/10.1002/1616-3028(200102)11:1<15::aid-adfm15>3.0.co;2-a",
+    "keywords": [
+      "에너지·환경",
+      "태양전지",
+      "유기태양전지",
+      "플라스틱태양전지",
+      "광전달",
+      "광합성",
+      "고분자"
+    ],
+    "summary": "C. J. 브라벡(C. J. Brabec) 등이 Advanced Functional Materials에 발표한 본 논문은 공액 고분자와 풀러렌(C60) 등 수용체 간의 광유도 전하 이동 메커니즘을 규명하고, 3%의 전력 변환 효율을 달성한 플라스틱 태양전지의 최신 발전 동향을 종합적으로 검토한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2001-plastic-solar-cells.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-simplified-optimization-method-for-preliminary-design-of",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A3E",
+    "title": "HVAC 시스템의 예비 설계 및 실제 건물 적용을 위한 간소화된 최적화 방법을 다루어 HVAC&R Research에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "HVAC 시스템 예비 설계를 위한 간소화된 최적화",
+    "originalTitle": "Simplified optimization method for preliminary design of HVAC system and real building application",
+    "authors": [
+      "Magdalena Stanescu",
+      "Stanislaw Kajl",
+      "Louis Lamarche"
+    ],
+    "year": 2013,
+    "journal": "HVAC&R Research",
+    "doi": "10.1080/10789669.2012.755904",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2012.755904",
+    "keywords": [
+      "건축·시설관리",
+      "HVAC",
+      "냉난방공조",
+      "예비설계",
+      "시스템최적화",
+      "건물에너지",
+      "실증적용"
+    ],
+    "summary": "막달레나 스타네스쿠(Magdalena Stanescu) 등이 HVAC&R Research에 발표한 본 논문은 건물 냉난방공조(HVAC) 시스템의 초기 설계 단계에서 복잡한 계산을 줄이고 효율적으로 최적의 설계를 도출할 수 있는 간소화된 최적화 방법을 제안하고, 실제 건물에 적용하여 그 효용성을 검증한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2013-simplified-optimization-method-for-preliminary-design-of.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-a-survey-on-knowledge-graphs-representation-acquisition",
     "verified": true,
     "category": "인공지능",
