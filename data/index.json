@@ -1,5 +1,168 @@
 [
   {
+    "id": "paper-2009-the-pascal-visual-object-classes-voc-challenge",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "컴퓨터 비전 분야의 객체 인식과 뷴류 성능을 객관적으로 평가하고 발전시키는 표준 벤치마크를 제공하여 딥러닝 혁명전 컴퓨터 비전 연구의 기틀을 마련한 Pascal VOC 챌린지 마일스톤 논문",
+    "shortTitle": "파스칼 VOC 챌린지 (Pascal VOC)",
+    "originalTitle": "The Pascal Visual Object Classes (VOC) Challenge",
+    "authors": [
+      "Mark Everingham",
+      "Luc Van Gool",
+      "Christopher K. I. Williams",
+      "John Winn",
+      "Andrew Zisserman"
+    ],
+    "year": 2009,
+    "journal": "International Journal of Computer Vision",
+    "doi": "10.1007/s11263-009-0275-4",
+    "sourceUrl": "https://doi.org/10.1007/s11263-009-0275-4",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "객체인식",
+      "이미지분류",
+      "파스칼VOC",
+      "벤치마크",
+      "머신러닝",
+      "데이터셋"
+    ],
+    "summary": "마크 에버링햄(Mark Everingham) 등이 International Journal of Computer Vision에 발표한 본 논문은 컴퓨터 비전 분야에서 객체 인식, 분류, 세분화 알고리즘의 성능을 공정하고 객관적으로 비교할 수 있는 표준 데이터셋과 평가 챌린지인 'Pascal VOC'의 전체 구조와 의의를 집대성한 핵심 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2009-the-pascal-visual-object-classes-voc-challenge.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-natural-language-processing-state-of-the-art",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "자연어 처리(NLP) 분야의 최신 기술 동향, 발전 과정 및 직면한 과제들을 종합적으로 분석하여 체계적으로 정리한 Multimedia Tools and Applications 서베이 논문",
+    "shortTitle": "자연어 처리의 최신 기술, 동향 및 과제",
+    "originalTitle": "Natural language processing: state of the art, current trends and challenges",
+    "authors": [
+      "Diksha Khurana",
+      "Aditya Koli",
+      "Kiran Khatter",
+      "Sukhdev Singh"
+    ],
+    "year": 2022,
+    "journal": "Multimedia Tools and Applications",
+    "doi": "10.1007/s11042-022-13428-4",
+    "sourceUrl": "https://doi.org/10.1007/s11042-022-13428-4",
+    "keywords": [
+      "전기",
+      "자연어처리",
+      "인공지능",
+      "딥러닝",
+      "텍스트분류",
+      "토픽모델링",
+      "머신러닝",
+      "서베이"
+    ],
+    "summary": "딕샤 쿠라나(Diksha Khurana) 등이 Multimedia Tools and Applications에 발표한 본 논문은 인공지능과 전기·컴퓨터 공학 분야에서 급격히 발전해 온 자연어 처리(NLP)의 역사적 배경, 최첨단 기술 동향, 주요 응용 분야 그리고 앞으로 해결해야 할 기술적 과제들을 폭넓게 조망한 종합 서베이 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2022-natural-language-processing-state-of-the-art.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-robot-motion-planning-in-learned-latent-spaces",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "학습된 잠재 공간(Learned Latent Spaces)을 활용하여 고차원 로봇 모션 계획의 효율성과 계산 속도를 혁신적으로 개선한 IEEE Robotics and Automation Letters 마일스톤 논문",
+    "shortTitle": "학습된 잠재 공간에서의 로봇 모션 계획",
+    "originalTitle": "Robot Motion Planning in Learned Latent Spaces",
+    "authors": [
+      "Brian Ichter",
+      "Marco Pavone"
+    ],
+    "year": 2019,
+    "journal": "IEEE Robotics and Automation Letters",
+    "doi": "10.1109/lra.2019.2901898",
+    "sourceUrl": "https://doi.org/10.1109/lra.2019.2901898",
+    "keywords": [
+      "로봇·자동화",
+      "모션플래닝",
+      "잠재공간",
+      "머신러닝",
+      "로봇제어",
+      "경로계획",
+      "오토인코더",
+      "차원축소"
+    ],
+    "summary": "브라이언 이크터(Brian Ichter)와 마르코 파본(Marco Pavone)이 IEEE Robotics and Automation Letters에 발표한 본 논문은 복잡하고 고차원인 로봇의 모션 계획 문제를 해결하기 위해, 머신러닝을 통해 학습된 저차원의 잠재 공간(Latent Space)을 활용하여 탐색 효율성과 연산 속도를 크게 높인 혁신적인 프레임워크를 제안한다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2019-robot-motion-planning-in-learned-latent-spaces.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1973-resilience-and-stability-of-ecological-systems",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2D6A4F",
+    "title": "생태계가 외부의 예상치 못한 충격과 변화 속에서도 관계의 지속성을 유지하며 버텨내는 본질적 속성인 회복력(Resilience) 개념을 새롭게 정의하고 생태계 동역학의 패러다임을 바꾼 C. S. 홀링(C. S. Holling)의 생태학 마일스톤 논문",
+    "shortTitle": "생태계의 회복력과 안정성",
+    "originalTitle": "Resilience and Stability of Ecological Systems",
+    "authors": [
+      "C S Holling"
+    ],
+    "year": 1973,
+    "journal": "Annual Review of Ecology and Systematics",
+    "doi": "10.1146/annurev.es.04.110173.000245",
+    "sourceUrl": "https://doi.org/10.1146/annurev.es.04.110173.000245",
+    "keywords": [
+      "에너지·환경",
+      "생태계회복력",
+      "생태계안정성",
+      "생태학",
+      "시스템동역학",
+      "환경변화",
+      "지속가능성"
+    ],
+    "summary": "C. S. 홀링(C. S. Holling)이 Annual Review of Ecology and Systematics에 발표한 본 논문은 단순히 개체 수의 변동 폭이나 진동 주기에만 주목하던 기존 고전 물리학적 안정성 개념을 비판하고, 생태계가 외부의 거대한 충격 속에서도 시스템의 기본 관계를 유지하며 버텨내는 능력인 '회복력(Resilience)' 개념을 독창적으로 정립하여 현대 생태학과 환경 과학의 기초를 다진 마일스톤 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1973-resilience-and-stability-of-ecological-systems.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-are-intelligent-agents-the-key-to-optimizing",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D48332",
+    "title": "건물 HVAC(냉난방공조) 시스템의 성능 최적화를 위해 지능형 에이전트 기술이 핵심 열쇠가 될 수 있는지 고찰한 HVAC&R Research 마일스톤 논문",
+    "shortTitle": "건물 HVAC 최적화와 지능형 에이전트",
+    "originalTitle": "Are intelligent agents the key to optimizing building HVAC system performance?",
+    "authors": [
+      "George E. Kelly",
+      "Steven T. Bushby"
+    ],
+    "year": 2012,
+    "journal": "HVAC&amp;R Research",
+    "doi": "10.1080/10789669.2012.682693",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2012.682693",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "HVAC",
+      "냉난방공조",
+      "지능형에이전트",
+      "건물에너지",
+      "시스템최적화",
+      "제어공학"
+    ],
+    "summary": "조지 E. 켈리(George E. Kelly)와 스티븐 T. 버스비(Steven T. Bushby)가 HVAC&amp;R Research에 발표한 본 논문은 현대 건물의 복잡한 냉난방공조(HVAC) 시스템 성능을 극대화하는 데 지능형 에이전트(Intelligent Agent) 기술이 핵심적인 해결책이 될 수 있는지 그 가능성과 학술적·실무적 의의를 검토한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2012-are-intelligent-agents-the-key-to-optimizing.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2017-mastering-the-game-of-go-without-human",
     "verified": true,
     "category": "인공지능",
