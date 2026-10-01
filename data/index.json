@@ -1,5 +1,168 @@
 [
   {
+    "id": "paper-2014-grey-wolf-optimizer",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "회색늑대의 사냥 무리 행동에서 영감을 받아 복잡한 최적화 문제를 해결하는 메타heuristic 알고리즘인 Grey Wolf Optimizer를 제안한 Advances in Engineering Software 마일스톤 논문",
+    "shortTitle": "Grey Wolf Optimizer 회색늑대 최적화 알고리즘",
+    "originalTitle": "Grey Wolf Optimizer",
+    "authors": [
+      "Seyedali Mirjalili",
+      "Seyed Mohammad Mirjalili",
+      "Andrew Lewis"
+    ],
+    "year": 2014,
+    "journal": "Advances in Engineering Software",
+    "doi": "10.1016/j.advengsoft.2013.12.007",
+    "sourceUrl": "https://doi.org/10.1016/j.advengsoft.2013.12.007",
+    "keywords": [
+      "인공지능",
+      "최적화",
+      "메타휴리스틱",
+      "회색늑대",
+      "GWO",
+      "알고리즘",
+      "군집지능",
+      "공학설계"
+    ],
+    "summary": "세예달리 미르잘릴리(Seyedali Mirjalili) 등이 Advances in Engineering Software에 발표한 본 논문은 회색늑대의 사회적 계급 구조와 협동 사냥 행동을 모방한 신개념 메타휴리스틱 최적화 알고리즘인 GWO를 제안하여, 다양한 공학 및 인공지능 문제에서 뛰어난 최적해 탐색 능력을 입증한 권위 있는 문헌이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2014-grey-wolf-optimizer.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-bayesian-assessment-of-electrical-power-transmission-grid",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "베이즈 확률론을 활용하여 전력 송전망의 정전 리스크를 체계적으로 평가하고 예측하는 방법을 제안한 International Journal of Electrical Power & Energy Systems 논문",
+    "shortTitle": "베이즈 기반 전력 송전망 정전 리스크 평가",
+    "originalTitle": "Bayesian assessment of electrical power transmission grid outage risk",
+    "authors": [
+      "Tomas Iešmantas",
+      "Robertas Alzbutas"
+    ],
+    "year": 2014,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/j.ijepes.2014.01.006",
+    "sourceUrl": "https://doi.org/10.1016/j.ijepes.2014.01.006",
+    "keywords": [
+      "전기",
+      "송전망",
+      "정전리스크",
+      "베이즈",
+      "확률론",
+      "전력계통",
+      "리스크평가",
+      "신뢰도"
+    ],
+    "summary": "토마스 이에슈만타스(Tomas Iešmantas) 등이 International Journal of Electrical Power & Energy Systems에 발표한 본 논문은 베이즈 확률 모델을 적용하여 전력 송전망의 정전 리스크를 과학적으로 평가하고, 복잡한 전력계통의 신뢰성과 안전성을 높이는 분석 기법을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2014-bayesian-assessment-of-electrical-power-transmission-grid.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-robot-motion-planning-in-dynamic-uncertain-environments",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "동적이고 불확실한 환경에서 로봇의 안전하고 효율적인 경로 계획을 다루어 IEEE Transactions on Robotics에 게재된 로봇·자동화 분야 핵심 논문",
+    "shortTitle": "동적 환경에서의 로봇 경로 계획",
+    "originalTitle": "Robot Motion Planning in Dynamic, Uncertain Environments",
+    "authors": [
+      "Noel E. Du Toit",
+      "J. W. Burdick"
+    ],
+    "year": 2012,
+    "journal": "IEEE Transactions on Robotics",
+    "doi": "10.1109/tro.2011.2166435",
+    "sourceUrl": "https://doi.org/10.1109/tro.2011.2166435",
+    "keywords": [
+      "로봇·자동화",
+      "경로계획",
+      "동적환경",
+      "불확실성",
+      "IEEE",
+      "제어이론",
+      "자율주행",
+      "충돌회피"
+    ],
+    "summary": "노엘 E. 두 토이트(Noel E. Du Toit)와 J. W. 벌딕(J. W. Burdick)이 IEEE Transactions on Robotics에 발표한 본 논문은 예측할 수 없이 변하고 불확실성이 가득한 동적 환경 속에서 로봇이 안전하게 목적지까지 도달할 수 있도록 설계된 경로 계획 및 제어 방법론을 제시한 권위 있는 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2012-robot-motion-planning-in-dynamic-uncertain-environments.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1993-modeling-of-galvanostatic-charge-and-discharge-of",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A9D8F",
+    "title": "농축 용액 이론을 바탕으로 리튬/고분자/삽입 전극 셀의 정전류 충·방전 거동을 모델링하여 배터리 설계의 이론적 기틀을 마련한 Journal of The Electrochemical Society 마일스톤 논문",
+    "shortTitle": "리튬 폴리머 배터리 충방전 모델링",
+    "originalTitle": "Modeling of Galvanostatic Charge and Discharge of the Lithium/Polymer/Insertion Cell",
+    "authors": [
+      "Marc Doyle",
+      "Thomas F. Fuller",
+      "John Newman"
+    ],
+    "year": 1993,
+    "journal": "Journal of The Electrochemical Society",
+    "doi": "10.1149/1.2221597",
+    "sourceUrl": "https://doi.org/10.1149/1.2221597",
+    "keywords": [
+      "에너지·환경",
+      "리튬배터리",
+      "고분자세퍼레이터",
+      "충방전모델링",
+      "농축용액이론",
+      "전기화학",
+      "배터리설계",
+      "삽입전극"
+    ],
+    "summary": "마크 도일(Marc Doyle) 등이 Journal of The Electrochemical Society에 발표한 본 논문은 농축 용액 이론을 적용하여 리튬/고분자/삽입 전극 셀의 정전류 충·방전 거동을 수학적으로 모델링하였으며, 현대 리튬 이차전지 시뮬레이션의 표준적 기반을 제공한 기념비적인 문헌이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1993-modeling-of-galvanostatic-charge-and-discharge-of.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2006-specifying-parametric-building-object-behavior-bob-for",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D87093",
+    "title": "건축 정보 모델링(BIM) 시스템에서 매개변수 기반 빌딩 객체 행동(BOB)을 명세하고 정의하는 프레임워크를 제안한 Automation in Construction 논문",
+    "shortTitle": "BIM을 위한 매개변수 빌딩 객체 행동(BOB) 명세",
+    "originalTitle": "Specifying parametric building object behavior (BOB) for a building information modeling system",
+    "authors": [
+      "Ghang Lee",
+      "Rafael Sacks",
+      "Charles M. Eastman"
+    ],
+    "year": 2006,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/j.autcon.2005.09.009",
+    "sourceUrl": "https://doi.org/10.1016/j.autcon.2005.09.009",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "빌딩정보모델링",
+      "파라메트릭",
+      "객체행동",
+      "BOB",
+      "자동화",
+      "건축설계"
+    ],
+    "summary": "강이(Ghang Lee), 라파엘 삭스(Rafael Sacks), 찰스 이스트먼(Charles M. Eastman)이 Automation in Construction에 발표한 본 논문은 건축 정보 모델링(BIM) 환경에서 건물의 각 구성 요소가 스스로 반응하고 변화하는 매개변수 기반 빌딩 객체 행동(BOB)을 체계적으로 명세하는 방법론을 제안하여 설계 자동화의 기틀을 마련한 핵심 문헌이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2006-specifying-parametric-building-object-behavior-bob-for.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-scipy-1-0-fundamental-algorithms-for-scientific",
     "verified": true,
     "category": "인공지능",
