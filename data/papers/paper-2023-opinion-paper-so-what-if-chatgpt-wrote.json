@@ -1,0 +1,173 @@
+{
+  "id": "paper-2023-opinion-paper-so-what-if-chatgpt-wrote",
+  "verified": true,
+  "category": "인공지능",
+  "color": "#6D5BD0",
+  "title": "챗GPT 등 생성형 대화형 인공지능이 연구, 실무, 정책에 미치는 기회와 도전 과제를 다학제적 관점에서 조망하여 International Journal of Information Management에 게재된 인공지능 분야 학술 논문",
+  "shortTitle": "생성형 AI의 기회와 도전 과제 다학제적 조망",
+  "originalTitle": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+  "authors": [
+    "Yogesh K. Dwivedi",
+    "Nir Kshetri",
+    "Laurie Hughes",
+    "Emma Louise Slade",
+    "Anand Jeyaraj",
+    "Arpan Kumar Kar",
+    "Abdullah M. Baabdullah",
+    "Alex Koohang",
+    "Vishnupriya Raghavan",
+    "Manju Ahuja",
+    "Hanaa Albanna",
+    "Mousa Ahmad Albashrawi",
+    "Adil S. Al-Busaidi",
+    "Janarthanan Balakrishnan",
+    "Yves Barlette",
+    "Sriparna Basu",
+    "Indranil Bose",
+    "Laurence Brooks",
+    "Dimitrios Buhalis",
+    "Lemuria Carter",
+    "Soumyadeb Chowdhury",
+    "Tom Crick",
+    "Scott W. Cunningham",
+    "Gareth H. Davies",
+    "Robert M. Davison",
+    "Rahul Dé",
+    "Denis Dennehy",
+    "Yanqing Duan",
+    "Rameshwar Dubey",
+    "Rohita Dwivedi",
+    "John S. Edwards",
+    "Carlos Flavián",
+    "Robin Gauld",
+    "Varun Grover",
+    "Mei-Chih Hu",
+    "Marijn Janssen",
+    "Paul Jones",
+    "Iris Junglas",
+    "Sangeeta Khorana",
+    "Sascha Kraus",
+    "Kai R. Larsen",
+    "Paul Latreille",
+    "Sven Laumer",
+    "F. Tegwen Malik",
+    "Abbas Mardani",
+    "Marcello Mariani",
+    "Sunil Mithas",
+    "Emmanuel Mogaji",
+    "Jeretta Horn Nord",
+    "Siobhan O’Connor",
+    "Fevzi Okumus",
+    "Margherita Pagani",
+    "Neeraj Pandey",
+    "Savvas Papagiannidis",
+    "Ilias O. Pappas",
+    "Nishith Pathak",
+    "Jan Pries-Heje",
+    "Ramakrishnan Raman",
+    "Nripendra P. Rana",
+    "Sven-Volker Rehm",
+    "Samuel Ribeiro-Navarrete",
+    "Alexander Richter",
+    "Frantz Rowe",
+    "Suprateek Sarker",
+    "Bernd Carsten Stahl",
+    "Manoj Kumar Tiwari",
+    "Wil van der Aalst",
+    "Viswanath Venkatesh",
+    "Giampaolo Viglia",
+    "Michael Wade",
+    "Paul Walton",
+    "Jochen Wirtz",
+    "Ryan Wright"
+  ],
+  "year": 2023,
+  "journal": "International Journal of Information Management",
+  "doi": "10.1016/j.ijinfomgt.2023.102642",
+  "sourceUrl": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+  "keywords": [
+    "인공지능",
+    "생성형AI",
+    "챗GPT",
+    "다학제적연구",
+    "정보관리",
+    "디지털전환",
+    "연구윤리"
+  ],
+  "difficulty": "★★☆☆☆",
+  "prerequisites": "기초 인공지능 서비스 이용 경험, 정보 기술의 사회적 영향에 대한 기본 관심",
+  "readingTime": "약 30분 소요",
+  "summary": "본 논문은 챗GPT와 같은 생성형 대화형 인공지능이 등장한 직후 컴퓨터 과학, 마케팅, 정보시스템, 교육, 정책 등 다양한 분야의 전문가 70여 명이 모여 인공지능이 가져올 거대한 기회와 윤리적·법적·실무적 도전 과제를 다학제적 시각에서 총체적으로 분석하고 향후 연구 아제를 제시한 핵심 오피니언 페이퍼이다.",
+  "sections": [
+    {
+      "kicker": "PAPER INFO",
+      "title": "논문 기본정보",
+      "html": "<p>원문 제목: Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy</p>\n<p>저자: Yogesh K. Dwivedi 외 70여 명</p>\n<p>연도: 2023</p>\n<p>저널: International Journal of Information Management</p>\n<p>DOI: https://doi.org/10.1016/j.ijinfomgt.2023.102642</p>\n<p>공식 링크: https://doi.org/10.1016/j.ijinfomgt.2023.102642</p>\n<p>난이도: ★★☆☆☆</p>\n<p>선행지식: 기초 인공지능 서비스 이용 경험, 정보 기술의 사회적 영향에 대한 관심</p>\n<p>예상 읽기시간: 약 30분 소요</p>"
+    },
+    {
+      "kicker": "ONE SENTENCE",
+      "title": "한 문장으로 먼저 설명",
+      "html": "<p>챗GPT 등 생성형 인공지능이 연구와 실무, 정책 전반에 미치는 혁신적 기회와 치명적인 도전 과제를 다양한 학문 분야의 전문가들이 모여 다각도로 분석하고 향후 과제를 제시한 연구이다.</p>"
+    },
+    {
+      "kicker": "KEY SUMMARY",
+      "title": "한눈에 보는 핵심요약",
+      "html": "<ul><li>배경: 챗GPT의 등장으로 인간과 구별하기 힘든 정교한 텍스트 생성 기술이 대중화되며 사회 전반에 거대한 충격과 변화가 일어났다.</li><li>문제의식: 생성형 AI가 가져올 생산성 향상이라는 기회 이면에 프라이버시 침해, 편향, 오정보, 연구 윤리 문제 등 심각한 도전 과제가 동시에 제기되었다.</li><li>핵심 제안: 컴퓨터 과학, 경영, 마케팅, 교육 등 다양한 분야의 전문가 43개의 기고를 모아 지식·투명성·윤리, 디지털 전환, 교육 및 학술 연구의 3대 주제별 핵심 연구 아제를 도출했다.</li><li>성과: 생성형 AI 도입 초기 단계에서 학계와 산업계, 정책 입안자가 짚어봐야 할 다학제적 가이드라인과 쟁점을 선제적으로 종합했다.</li><li>한계: 본 문헌은 오피니언 페이퍼 성격으로 구체적인 기술 벤치마크나 정량적 실험 수치보다는 전문가들의 통찰과 의견을 중심으로 구성되었다.</li></ul>"
+    },
+    {
+      "kicker": "GLOSSARY",
+      "title": "처음 보는 사람을 위한 용어사전",
+      "html": "<ol><li>생성형 인공지능 / Generative AI — 전문: 기존 데이터를 학습하여 텍스트, 이미지, 오디오 등 새로운 콘텐츠를 창출해 내는 인공지능 기술. 쉬운 말: 인간처럼 글을 쓰고 그림을 그리며 새로운 결과물을 척척 만들어내는 AI 기술.</li><li>다학제적 관점 / Multidisciplinary Perspectives — 전문: 특정한 현상을 분석할 때 한 가지 학문이 아닌 여러 학문 분야의 지식과 시각을 종합하여 바라보는 방식. 쉬운 말: 컴퓨터 기술뿐만 아니라 경영, 마케팅, 윤리, 교육 등 여러 분야의 전문가들이 머리를 맞대고 문제를 살펴보는 것.</li><li>오피니언 페이퍼 / Opinion Paper — 전문: 특정 주제에 대해 학계 전문가들이 모여 현재 상황을 진단하고 앞으로의 전망이나 연구 방향을 소견 형태로 발표하는 논문. 쉬운 말: 특정 이슈에 대해 각 분야 최고 전문가들이 모여 \"이런 점이 좋고 이런 점은 조심해야 합니다\"라고 의견을 모아 쓴 종합 제안서.</li><li>디지털 전환 / Digital Transformation — 전문: 최신 디지털 기술을 활용하여 전통적인 구조, 업무 프로세스, 비즈니스 모델을 근본적으로 바꾸는 혁신 과정. 쉬운 말: 아날로그 방식의 일이나 사업 방식을 최신 디지털 기술에 맞춰 완전히 새롭게 탈바꿈시키는 것.</li><li>학술 연구 윤리 / Scholarly Research Ethics — 전문: 연구를 수행하고 논문을 작성할 때 지켜야 하는 정직성, 표절 방지, 저자 자격 기준 등의 도덕적·제도적 규범. 쉬운 말: 연구를 할 때 남의 아이디어를 훔치거나 거짓말을 하지 않고 공정하게 지켜야 할 규칙.</li><li>편향 / Bias — 전문: 학습 데이터의 한계나 사회적 선입견으로 인해 인공지능 모델의 결과물이 특정 집단에 치우치거나 차별적인 성향을 띠는 현상. 쉬운 말: AI가 한쪽으로 치우친 생각이나 선입견을 학습해서 공정하지 못한 대답을 내놓는 문제.</li></ol>"
+    },
+    {
+      "kicker": "BACKGROUND",
+      "title": "연구 배경과 문제의식",
+      "html": "<p>2022년 말 챗GPT가 전 세계에 공개된 이후, 대화형 인공지능은 인간과 구별하기 어려울 정도로 정교한 문장을 순식간에 만들어내며 전례 없는 돌풍을 일으켰다.</p>\n<p>이 기술은 은행, 관광, 교육, 마케팅 등 수많은 산업에서 생산성을 혁신할 기회를 제공했지만, 동시에 저작권 침해, 가짜뉴스 확산, 학생들의 부정행위, 일자리 소멸 등 복잡한 윤리적·법적 문제를 동반했다. 이에 따라 단일 학문적 시각을 넘어선 광범위한 진단과 대책 마련이 시급해졌다.</p>"
+    },
+    {
+      "kicker": "THEORY",
+      "title": "핵심 이론·원리",
+      "html": "<p>본 논문은 특정 알고리즘의 수학적 원리를 다루기보다, 기술 발전이 인간 사회의 각 영역에 미치는 영향 구조를 다학제적 프레임워크로 분석한다.</p>\n<p>기술 수용, 조직의 디지털 혁신, 윤리적 거버넌스 이론 등을 바탕으로 생성형 AI가 개인의 인지 노동부터 거대 기업의 비즈니스 모델, 국가의 정책 규제에 이르기까지 어떻게 작용하는지 그 상호작용 원리를 짚어낸다.</p>"
+    },
+    {
+      "kicker": "METHOD",
+      "title": "연구방법 및 실험/시뮬레이션 조건",
+      "html": "<p>컴퓨터 과학, 마케팅, 정보시스템, 교육, 정책, 경영 등 다양한 분야에서 활동하는 70여 명의 전문가들이 각자의 전문 영역에서 바라본 통찰과 기고문(43건)을 수집하고 통합하는 방식으로 연구가 진행되었다.</p>\n<p>각계 전문가들의 의견을 주제별로 분류하여 공통된 기회 요인과 위험 요소를 도출하였다. (※ 정량적 실험 수치나 벤치마크 테스트는 오피니언 페이퍼의 특성상 본문에 포함되지 않았다.)</p>"
+    },
+    {
+      "kicker": "RESULT",
+      "title": "주요 결과와 핵심 수치 의미",
+      "html": "<p>전문가들은 생성형 AI가 은행, 관광, IT 등 다양한 산업에서 업무 효율성을 크게 높일 것이라는 데 의견을 모았다.</p>\n<p>반면 프라이버시 위협, 데이터 편향에 따른 차별, 오정보 확산 등의 심각한 부작용도 지적되었다. 특히 AI 사용에 대한 규제나 입법 필요성을 두고는 전문가들 사이에서도 의견이 팽팽하게 갈리는 등 찬반 양론의 지형도를 명확히 밝혔다.</p>"
+    },
+    {
+      "kicker": "CONCLUSION",
+      "title": "저자의 결론",
+      "html": "<p>생성형 인공지능은 거대한 기회와 위기를 동시에 안겨주는 게임 체인저이다.</p>\n<p>이를 효과적으로 다루기 위해서는 단순히 기술을 금지하거나 방치하는 것이 아니라, 지식의 투명성 확보, 조직과 사회의 디지털 전환, 교육 및 학술 연구 현장에서의 새로운 규범 정립이라는 세 가지 축을 중심으로 다학제적 후속 연구와 정책 수립이 지속되어야 한다.</p>"
+    },
+    {
+      "kicker": "PRACTICE",
+      "title": "실제 활용 가능성",
+      "html": "<p>본 논문에서 제안한 연구 아제와 쟁점들은 기업이 생성형 AI 도입 전략을 칠 때, 대학이 AI 시대의 새로운 학업 및 연구 윤리 가이드라인을 만들 때, 그리고 정부가 AI 관련 법안과 규제 정책을 입안할 때 필수적인 실무 지침서로 활용되고 있다.</p>"
+    },
+    {
+      "kicker": "LIMITATIONS",
+      "title": "논문의 한계와 비판적 해석",
+      "html": "<p>본 논문은 챗GPT 등장 직후의 초기 충격과 다학제적 의견을 빠르게 모은 오피니언 페이퍼이므로, 개별 기술의 장기적 영향이나 구체적인 실증 데이터 분석에는 한계가 있다.</p>\n<p>따라서 제시된 의견들은 향후 실제 실증 연구를 통해 지속해서 검증되고 보완되어야 한다.</p>"
+    },
+    {
+      "kicker": "LESSONS",
+      "title": "이 논문에서 배울 것",
+      "html": "<ol><li>파괴적 혁신 기술을 마주했을 때 단일 분야를 넘어선 다학제적 접근의 절대적 필요성.</li><li>기술적 편리함 뒤에 숨겨진 윤리적 책임과 투명성 확보의 중요성.</li><li>새로운 도전에 직면했을 때 학계와 산업계가 함께 질문을 던지고 방향성을 모색하는 태도.</li></ol>"
+    },
+    {
+      "kicker": "EASY",
+      "title": "완전 쉽게 말하면",
+      "html": "<p>어느 날 갑자기 인간처럼 글을 기가 막히게 쓰는 챗GPT가 나타나 온 세상이 깜짝 놀랐다. 어떤 사람은 \"와, 일하기 정말 편해지겠다!\"라며 환호했지만, 어떤 사람은 \"학생들이 숙제를 다 베껴 쓰면 어쩌지?\", \"거짓말을 진짜처럼 하면 큰일 난다\"라며 걱정했다. 이 논문은 전 세계 다양한 분야의 똑똑한 전문가 70여 명이 모여 \"이 대단한 AI를 어떻게 하면 잘 써먹고, 어떤 위험을 조심해야 할지\" 머리를 맞대고 쓴 종합 수다방이자 제안서이다. AI 시대가 우리 삶을 어떻게 뒤흔들고 있는지 한눈에 보여주는 아주 흥미로운 안내서이다.</p>"
+    },
+    {
+      "kicker": "5-LINE SUMMARY",
+      "title": "핵심 5줄 요약",
+      "html": "<ol><li>챗GPT 등 생성형 AI가 가져온 혁신적 기회와 도전 과제를 다학제적으로 조망했다.</li><li>다양한 산업에서의 생산성 향상 가능성을 인정하면서도 오정보와 편향 문제를 지적했다.</li><li>AI 규제 및 입법 필요성에 대한 전문가들 간의 팽팽한 찬반 양론을 가감 없이 담았다.</li><li>지식·투명성, 디지털 전환, 교육 및 학술 연구의 3대 핵심 연구 아제를 도출했다.</li><li>AI 시대의 연구와 실무, 정책 수립을 위한 길잡이 역할을 하는 대표적 논문이다.</li></ol>"
+    }
+  ]
+}
