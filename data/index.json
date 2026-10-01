@@ -1,5 +1,160 @@
 [
   {
+    "id": "paper-1996-artificial-intelligence-a-modern-approach",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "인공지능 교과서의 표준을 제시하여 인공지능 분야에 지대한 영향을 미친 닐스 닐슨의 학술 문헌",
+    "shortTitle": "인공지능: 현대적 접근",
+    "originalTitle": "Artificial intelligence: A modern approach",
+    "authors": [
+      "Nils J. Nilsson"
+    ],
+    "year": 1996,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(96)00007-0",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(96)00007-0",
+    "keywords": [
+      "인공지능",
+      "현대적접근",
+      "지능형에이전트",
+      "탐색알고리즘",
+      "지식표현",
+      "기계학습",
+      "컴퓨터과학"
+    ],
+    "summary": "닐스 닐슨(Nils J. Nilsson)이 인공지능 저널에 발표한 본 문헌은 고전적 탐색부터 지식 표현, 추론, 기계학습에 이르기까지 인공지능의 방대한 분야를 체계적으로 정리하고 '지능형 에이전트'라는 통일된 관점으로 현대 인공지능의 방향성을 제시한 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1996-artificial-intelligence-a-modern-approach.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-a-simple-power-factor-calculation-for-electrical",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 시스템의 단순화된 역률 계산법을 다루어 International Journal of Electrical Power & Energy Systems에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템의 단순화된 역률 계산",
+    "originalTitle": "A simple power factor calculation for electrical power systems",
+    "authors": [
+      "Lütfü Sarıbulut"
+    ],
+    "year": 2014,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/j.ijepes.2014.04.024",
+    "sourceUrl": "https://doi.org/10.1016/j.ijepes.2014.04.024",
+    "keywords": [
+      "전기",
+      "역률",
+      "전력계통",
+      "전력품질",
+      "전기회로",
+      "전력공학"
+    ],
+    "summary": "뤼트뷔 사리불루트(Lütfü Sarıbulut)가 International Journal of Electrical Power & Energy Systems에 발표한 본 논문은 전기 전력 시스템에서 전력 사용의 효율성을 나타내는 역률(Power Factor)을 보다 쉽고 정확하게 계산할 수 있는 단순화된 산정 방식을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2014-a-simple-power-factor-calculation-for-electrical.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-integrating-human-observer-inferences-into-robot-motion",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "로봇 모션 계획에 인간 관찰자의 추론 과정을 통합한 연구를 다루어 Autonomous Robots에 게재된 로봇 분야 학술 논문",
+    "shortTitle": "인간 추론을 고려한 로봇 모션 계획",
+    "originalTitle": "Integrating human observer inferences into robot motion planning",
+    "authors": [
+      "Anca Dragan",
+      "Siddhartha Srinivasa"
+    ],
+    "year": 2014,
+    "journal": "Autonomous Robots",
+    "doi": "10.1007/s10514-014-9408-x",
+    "sourceUrl": "https://doi.org/10.1007/s10514-014-9408-x",
+    "keywords": [
+      "로봇·자동화",
+      "로봇모션계획",
+      "인간로봇상호작용",
+      "관찰자인과관계",
+      "의도이해",
+      "로봇경로",
+      "휴먼인더루프"
+    ],
+    "summary": "안카 드라간(Anca Dragan)과 시다르타 스리니바사(Siddhartha Srinivasa)가 Autonomous Robots에 발표한 본 논문은 로봇이 움직일 때 인간 관찰자가 로봇의 의도를 어떻게 추론하는지 수학적으로 모델링하고, 이를 로봇의 모션 계획(Motion Planning) 알고리즘에 직접 통합하여 인간과 더 자연스럽고 안전하게 협력할 수 있도록 돕는 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2014-integrating-human-observer-inferences-into-robot-motion.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2002-hybrid-nanorod-polymer-solar-cells",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "반도체 나노막대와 고분자를 결합한 하이브리드 태양전지를 다루어 Science에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "하이브리드 나노막대-고분자 태양전지",
+    "originalTitle": "Hybrid Nanorod-Polymer Solar Cells",
+    "authors": [
+      "Wendy U. Huynh",
+      "Janke J. Dittmer",
+      "A. Paul Alivisatos"
+    ],
+    "year": 2002,
+    "journal": "Science",
+    "doi": "10.1126/science.1069156",
+    "sourceUrl": "https://doi.org/10.1126/science.1069156",
+    "keywords": [
+      "에너지·환경",
+      "태양전지",
+      "나노막대",
+      "고분자",
+      "하이브리드태양전지",
+      "광전변환효율",
+      "반도체나노입자"
+    ],
+    "summary": "웬디 U. 후인(Wendy U. Huynh), 얀케 J. 디트머(Janke J. Dittmer), A. 폴 알리비사토스(A. Paul Alivisatos)가 Science에 발표한 본 논문은 무기 반도체 나노막대와 유기 고분자를 섞어 제작한 용액 공정 기반의 고효율 하이브리드 태양전지의 작동 원리와 성능을 입증한 에너지 공학 분야의 핵심 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2002-hybrid-nanorod-polymer-solar-cells.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-enhancing-occupant-behavior-representation-for-interoperability-between",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D85A38",
+    "title": "건축 정보 모델링(BIM)과 건물 에너지 모델링(BEM) 간 상호운용성을 위한 거주자 행동 표현 향상 방안을 다루어 Building Simulation에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "BIM과 BEM 간 상호운용성을 위한 거주자 행동 표현 향상",
+    "originalTitle": "Enhancing occupant behavior representation for interoperability between building information modeling and building energy modeling",
+    "authors": [
+      "Jihoon Chung",
+      "Tianzhen Hong",
+      "Jeetika Malik",
+      "Dennis Shelden"
+    ],
+    "year": 2025,
+    "journal": "Building Simulation",
+    "doi": "10.1007/s12273-025-1313-z",
+    "sourceUrl": "https://doi.org/10.1007/s12273-025-1313-z",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "건물에너지모델링",
+      "거주자행동",
+      "상호운용성",
+      "에너지효율",
+      "스마트건물"
+    ],
+    "summary": "지훈 정(Jihoon Chung) 외 연구진이 Building Simulation에 발표한 본 논문은 건축 정보 모델링(BIM)과 건물 에너지 모델링(BEM) 시스템 간의 원활한 데이터 연동을 가로막는 주요 요인 중 하나인 거주자 행동 표현 방식을 개선하여, 건물 에너지 효율 분석의 정확도와 상호운용성을 높이는 방안을 다룬 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2025-enhancing-occupant-behavior-representation-for-interoperability-between.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2009-software-survey-vosviewer-a-computer-program-for",
     "verified": true,
     "category": "인공지능",
