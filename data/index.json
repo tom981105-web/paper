@@ -1,5 +1,168 @@
 [
   {
+    "id": "paper-1986-induction-of-decision-trees-2",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "의사결정 나무의 유도를 다루어 Machine Learning 저널에 게재된 인공지능 및 머신러닝 분야 학술 논문",
+    "shortTitle": "의사결정 나무 유도",
+    "originalTitle": "Induction of decision trees",
+    "authors": [
+      "J. R. Quinlan"
+    ],
+    "year": 1986,
+    "journal": "Machine Learning",
+    "doi": "10.1007/bf00116251",
+    "sourceUrl": "https://doi.org/10.1007/bf00116251",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "의사결정나무",
+      "분류",
+      "귀납적학습",
+      "데이터마이닝",
+      "알고리즘",
+      "Quinlan"
+    ],
+    "summary": "J. R. 퀸란(J. R. Quinlan)이 1986년 Machine Learning 저널에 발표한 본 논문은 데이터로부터 규칙을 자동으로 학습하여 분류 모델을 만드는 의사결정 나무(Decision Tree) 생성 알고리즘의 기초를 다진 머신러닝 분야의 고전적 기준 문서이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1986-induction-of-decision-trees-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-power-oscillation-flow-study-of-electric-power",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 시스템의 전력 진동 흐름 연구를 다루어 International Journal of Electrical Power & Energy Systems 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 전력 진동 흐름 연구",
+    "originalTitle": "Power oscillation flow study of electric power systems",
+    "authors": [
+      "E.Z. Zhou"
+    ],
+    "year": 1995,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(95)91411-c",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(95)91411-c",
+    "keywords": [
+      "전기",
+      "전력진동",
+      "전력조류",
+      "전력계통",
+      "안정도",
+      "진동흐름",
+      "전력시스템"
+    ],
+    "summary": "이지 주(E.Z. Zhou)가 1995년 International Journal of Electrical Power & Energy Systems 저널에 발표한 본 논문은 대규모 전력 시스템에서 발생하는 전력 진동(Power Oscillation)과 그에 따른 전력 흐름(Power Flow)의 특성을 분석하고 이해하기 위한 전기 분야의 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1995-power-oscillation-flow-study-of-electric-power.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-motion-planning-diffusion-learning-and-adapting-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "확산 모델을 이용한 로봇 모션 플래닝의 학습 및 적응을 다루어 IEEE Transactions on Robotics 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "확산 모델 기반 로봇 모션 플래닝",
+    "originalTitle": "Motion Planning Diffusion: Learning and Adapting Robot Motion Planning With Diffusion Models",
+    "authors": [
+      "João Carvalho",
+      "An Thai Le",
+      "Piotr Kicki",
+      "Dorothea Koert",
+      "Jan Peters"
+    ],
+    "year": 2025,
+    "journal": "IEEE Transactions on Robotics",
+    "doi": "10.1109/tro.2025.3593109",
+    "sourceUrl": "https://doi.org/10.1109/tro.2025.3593109",
+    "keywords": [
+      "로봇·자동화",
+      "모션플래닝",
+      "확산모델",
+      "경로계획",
+      "로봇제어",
+      "머신러닝",
+      "적응형제어",
+      "충돌회피"
+    ],
+    "summary": "주앙 카르발류(João Carvalho) 등 5명의 연구자가 IEEE Transactions on Robotics 저널에 발표한 본 논문은 최신 인공지능 생성 모델인 확산 모델(Diffusion Model)을 활용하여 복잡한 환경에서 로봇의 모션 플래닝을 학습하고 유연하게 적응시키는 혁신적인 접근법을 다룬 로봇·자동화 분야의 학술 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2025-motion-planning-diffusion-learning-and-adapting-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-high-efficiency-solution-processable-polymer-photovoltaic-cells",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "고분자 블렌드의 자기조직화를 통한 고효율 용액 공정 폴리머 태양전지를 다루어 Nature Materials 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "자기조직화 폴리머 태양전지",
+    "originalTitle": "High-efficiency solution processable polymer photovoltaic cells by self-organization of polymer blends",
+    "authors": [
+      "Gang Li",
+      "Vishal Shrotriya",
+      "Jinsong Huang",
+      "Yan Yao",
+      "Tom Moriarty",
+      "Keith Emery",
+      "Yang Yang"
+    ],
+    "year": 2005,
+    "journal": "Nature Materials",
+    "doi": "10.1038/nmat1500",
+    "sourceUrl": "https://doi.org/10.1038/nmat1500",
+    "keywords": [
+      "에너지·환경",
+      "태양전지",
+      "고분자",
+      "자기조직화",
+      "용액공정",
+      "유기전자",
+      "광전변환",
+      "신재생에너지"
+    ],
+    "summary": "갱 리(Gang Li) 등 다수의 연구자가 2005년 Nature Materials 저널에 발표한 본 논문은 고분자 블렌드의 자기조직화 현상을 활용하여 용액 공정만으로도 높은 효율을 내는 유기 폴리머 태양전지의 제조 기법과 광전 변환 원리를 다룬 에너지·환경 분야의 대표적 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2005-high-efficiency-solution-processable-polymer-photovoltaic-cells.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1993-trends-and-opportunities-in-the-simulation-of",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#3B82F6",
+    "title": "건물 열 성능 및 HVAC 시스템 시뮬레이션의 동향과 기회를 다루어 Building and Environment 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 열 성능 및 HVAC 시스템 시뮬레이션 동향",
+    "originalTitle": "Trends and opportunities in the simulation of building thermal performance and HVAC systems",
+    "authors": [
+      "E.H. Mathews"
+    ],
+    "year": 1993,
+    "journal": "Building and Environment",
+    "doi": "10.1016/0360-1323(93)90014-t",
+    "sourceUrl": "https://doi.org/10.1016/0360-1323(93)90014-t",
+    "keywords": [
+      "건축·시설관리",
+      "열성능",
+      "HVAC",
+      "시뮬레이션",
+      "건물에너지",
+      "공기조화",
+      "냉난방설비"
+    ],
+    "summary": "E.H. 매튜스(E.H. Mathews)가 1993년 Building and Environment 저널에 발표한 본 논문은 건축물의 열 성능과 냉난방공조(HVAC) 시스템 시뮬레이션 기술의 발전 동향과 향후 연구 기회를 종합적으로 고찰한 건축·시설관리 분야의 기준 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1993-trends-and-opportunities-in-the-simulation-of.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-lammps-a-flexible-simulation-tool-for-particle",
     "verified": true,
     "category": "인공지능",
