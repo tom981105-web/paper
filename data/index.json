@@ -1,5 +1,163 @@
 [
   {
+    "id": "paper-1987-silhouettes-a-graphical-aid-to-the-interpretation",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "실루엣 기법을 통한 군집 분석의 해석 및 검증 지원을 다루어 Journal of Computational and Applied Mathematics 저널에 게재된 인공지능 및 데이터 분석 분야 학술 논문",
+    "shortTitle": "실루엣: 군집 분석 해석을 위한 그래픽 도구",
+    "originalTitle": "Silhouettes: A graphical aid to the interpretation and validation of cluster analysis",
+    "authors": [
+      "Peter J. Rousseeuw"
+    ],
+    "year": 1987,
+    "journal": "Journal of Computational and Applied Mathematics",
+    "doi": "10.1016/0377-0427(87)90125-7",
+    "sourceUrl": "https://doi.org/10.1016/0377-0427(87)90125-7",
+    "keywords": [
+      "인공지능",
+      "데이터분석",
+      "군집분석",
+      "실루엣",
+      "클러스터링",
+      "데이터시각화",
+      "패턴인식",
+      "Rousseeuw"
+    ],
+    "summary": "피터 J. 루세우(Peter J. Rousseeuw)가 1987년 Journal of Computational and Applied Mathematics 저널에 발표한 본 논문은 데이터가 어떻게 묶여 있는지 시각적으로 확인하고 군집화의 타당성을 평가하는 '실루엣(Silhouette)' 기법을 제안하여 데이터 분석과 머신러닝 분야에 지대한 영향을 미친 고전적 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1987-silhouettes-a-graphical-aid-to-the-interpretation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-power-converters-in-power-electronics-current-research",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 전자기술 속 전력 변환기의 최신 연구 동향을 다루어 Electronics 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력 변환기 최신 연구 동향",
+    "originalTitle": "Power Converters in Power Electronics: Current Research Trends",
+    "authors": [
+      "Minh-Khai Nguyen"
+    ],
+    "year": 2020,
+    "journal": "Electronics",
+    "doi": "10.3390/electronics9040654",
+    "sourceUrl": "https://doi.org/10.3390/electronics9040654",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "전력변환기",
+      "신재생에너지",
+      "전기자동차",
+      "펄스파워",
+      "바이오메디컬",
+      "연구동향"
+    ],
+    "summary": "민카이 응우옌(Minh-Khai Nguyen)이 2020년 Electronics 저널에 발표한 본 논문은 신재생 에너지 시스템, 전기자동차, 펄스 파워 생성, 바이오메디컬 등 다양한 첨단 응용 분야에서 핵심적인 역할을 수행하는 전력 변환기(Power Converter)의 최신 연구 흐름과 기술적 동향을 종합적으로 조망한 전기·전자 분야의 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2020-power-converters-in-power-electronics-current-research.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-cbug-a-quadratically-competitive-mobile-robot-navigation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "CBUG: 2차 경쟁력 있는 모바일 로봇 내비게이션 알고리즘을 다루어 IEEE Transactions on Robotics 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "CBUG 모바일 로봇 내비게이션 알고리즘",
+    "originalTitle": "CBUG: A Quadratically Competitive Mobile Robot Navigation Algorithm",
+    "authors": [
+      "Y. Gabriely",
+      "E. Rimon"
+    ],
+    "year": 2008,
+    "journal": "IEEE Transactions on Robotics",
+    "doi": "10.1109/tro.2008.2006237",
+    "sourceUrl": "https://doi.org/10.1109/tro.2008.2006237",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로봇",
+      "내비게이션",
+      "CBUG",
+      "경로계획",
+      "충돌회피",
+      "알고리즘",
+      "로봇제어"
+    ],
+    "summary": "와이. 가브리엘리(Y. Gabriely)와 이. 리몬(E. Rimon)이 2008년 IEEE Transactions on Robotics 저널에 발표한 본 논문은 미지의 장애물이 존재하는 환경에서 모바일 로봇이 효율적으로 목적지까지 도달할 수 있도록 2차 경쟁력(quadratically competitive)을 보장하는 CBUG 내비게이션 알고리즘을 제안한 로봇·자동화 분야의 중요 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2008-cbug-a-quadratically-competitive-mobile-robot-navigation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1969-estimation-of-the-surface-free-energy-of",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A7B4C",
+    "title": "고체의 표면 자유 에너지 추정을 다루어 Journal of Applied Polymer Science 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "고체 표면 자유 에너지 추정",
+    "originalTitle": "Estimation of the surface free energy of polymers",
+    "authors": [
+      "D. K. Owens",
+      "R. C. Wendt"
+    ],
+    "year": 1969,
+    "journal": "Journal of Applied Polymer Science",
+    "doi": "10.1002/app.1969.070130815",
+    "sourceUrl": "https://doi.org/10.1002/app.1969.070130815",
+    "keywords": [
+      "에너지·환경",
+      "표면에너지",
+      "고분자",
+      "접촉각",
+      "계면장력",
+      "표면개질",
+      "분산력",
+      "수소결합"
+    ],
+    "summary": "디. 케이. 오웬스(D. K. Owens)와 알. 씨. 웬트(R. C. Wendt)가 1969년 Journal of Applied Polymer Science 저널에 발표한 본 논문은 물과 요오드화메틸의 접촉각을 측정하여 고분자 표면의 자유 에너지를 분산력과 극성(수소결합) 힘으로 나누어 정밀하게 평가하는 방법을 제시한 에너지·환경 및 재료과학 분야의 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1969-estimation-of-the-surface-free-energy-of.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-fabrik-integration-in-das-building-information-modeling",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A709C",
+    "title": "건축 정보 모델링(BIM)의 공장 통합을 다루어 wt Werkstattstechnik online 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "BIM 기반 공장 통합 연구",
+    "originalTitle": "Fabrik-Integration in das Building Information Modeling (BIM)/Factory integration into building information modeling",
+    "authors": [
+      "P. Näser",
+      "N. Wickenhagen"
+    ],
+    "year": 2018,
+    "journal": "wt Werkstattstechnik online",
+    "doi": "10.37544/1436-4980-2018-04-51",
+    "sourceUrl": "https://doi.org/10.37544/1436-4980-2018-04-51",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "건축정보모델링",
+      "공장기획",
+      "공장통합",
+      "디지털전환",
+      "생산시설관리",
+      "엔지니어링"
+    ],
+    "summary": "P. 네저(P. Näser)와 N. 위켄하겐(N. Wickenhagen)이 2018년 wt Werkstattstechnik online 저널에 발표한 본 논문은 건축 및 시설 설계 분야에서 널리 쓰이는 BIM(Building Information Modeling) 접근법을 공장 기획 및 통합 과정에 어떻게 적용할 수 있는지 고찰한 건축·시설관리 분야의 학술 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2018-fabrik-integration-in-das-building-information-modeling.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-induction-of-decision-trees-2",
     "verified": true,
     "category": "인공지능",
