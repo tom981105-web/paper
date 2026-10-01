@@ -1,5 +1,159 @@
 [
   {
+    "id": "paper-2006-an-introduction-to-roc-analysis",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "ROC 분석의 기초 개념과 활용법을 종합적으로 고찰하여 Pattern Recognition Letters에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "ROC 분석의 기초",
+    "originalTitle": "An introduction to ROC analysis",
+    "authors": [
+      "Tom Fawcett"
+    ],
+    "year": 2006,
+    "journal": "Pattern Recognition Letters",
+    "doi": "10.1016/j.patrec.2005.10.010",
+    "sourceUrl": "https://doi.org/10.1016/j.patrec.2005.10.010",
+    "keywords": [
+      "인공지능",
+      "ROC분석",
+      "분류기성능평가",
+      "AUC",
+      "머신러닝",
+      "패턴인식",
+      "통계적평가"
+    ],
+    "summary": "톰 포셋(Tom Fawcett)이 Pattern Recognition Letters에 발표한 본 논문은 인공지능과 머신러닝 분야에서 분류 모델의 성능을 공정하고 정확하게 평가하는 표준 도구인 ROC(Receiver Operating Characteristic) 곡선과 AUC의 개념, 계산 방법, 그리고 실무적 활용법을 체계적으로 정리한 고전적 서베이 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2006-an-introduction-to-roc-analysis.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1985-dynamic-equivalents-for-transient-stability-studies-of",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 시스템의 과도 안정도 연구를 위한 동등계통(Dynamic Equivalents) 모델링 기법을 다루어 International Journal of Electrical Power & Energy Systems에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 과도 안정도를 위한 동등계통",
+    "originalTitle": "Dynamic equivalents for transient stability studies of electrical power systems",
+    "authors": [
+      "J MACHOWSKI"
+    ],
+    "year": 1985,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(85)90023-7",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(85)90023-7",
+    "keywords": [
+      "전기",
+      "전력계통",
+      "과도안정도",
+      "동등계통",
+      "송배전",
+      "시스템모델링",
+      "전력안정성"
+    ],
+    "summary": "제이 마초스키(J. Machowski)가 International Journal of Electrical Power & Energy Systems에 발표한 본 논문은 거대하고 복잡한 전기 전력 시스템의 과도 안정도를 효율적으로 분석하기 위해, 외부 계통을 간소화된 동등계통(Dynamic Equivalents) 모델로 치환하여 계산의 효율성과 정확도를 높이는 기법을 다룬 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1985-dynamic-equivalents-for-transient-stability-studies-of.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-a-linking-invariant-for-truss-robot-motion",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "트러스 로봇 모션 플래닝을 위한 링킹 인변라이언트(Linking Invariant) 개념을 제안하여 IEEE Robotics and Automation Letters에 게재된 로봇 분야 학술 논문",
+    "shortTitle": "트러스 로봇 모션 플래닝을 위한 링킹 인변라이언트",
+    "originalTitle": "A Linking Invariant for Truss Robot Motion Planning",
+    "authors": [
+      "Alexander Spinos",
+      "Mark Yim"
+    ],
+    "year": 2022,
+    "journal": "IEEE Robotics and Automation Letters",
+    "doi": "10.1109/lra.2021.3139941",
+    "sourceUrl": "https://doi.org/10.1109/lra.2021.3139941",
+    "keywords": [
+      "로봇·자동화",
+      "트러스로봇",
+      "모션플래닝",
+      "링킹인변라이언트",
+      "위상학",
+      "경로계획",
+      "모듈러로봇"
+    ],
+    "summary": "알렉산더 스피노스(Alexander Spinos)와 마크 임(Mark Yim)이 IEEE Robotics and Automation Letters에 발표한 본 논문은 여러 개의 막대와 관절로 이루어진 트러스 로봇이 복잡한 구조물 속에서 서로 엉키지 않고 안전하게 이동 경로를 계획할 수 있도록 위상학적 불변량인 링킹 인변라이언트 개념을 도입한 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2022-a-linking-invariant-for-truss-robot-motion.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2007-polymer-fullerene-composite-solar-cells",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "고분자-풀러렌 복합체 태양전지의 작동 원리와 벌크 이종접합 구조를 종합적으로 고찰하여 Angewandte Chemie International Edition에 게재된 에너지 분야 학술 논문",
+    "shortTitle": "고분자-풀러렌 복합체 태양전지",
+    "originalTitle": "Polymer–Fullerene Composite Solar Cells",
+    "authors": [
+      "Barry C. Thompson",
+      "Jean M. J. Fréchet"
+    ],
+    "year": 2007,
+    "journal": "Angewandte Chemie International Edition",
+    "doi": "10.1002/anie.200702506",
+    "sourceUrl": "https://doi.org/10.1002/anie.200702506",
+    "keywords": [
+      "에너지·환경",
+      "태양전지",
+      "고분자",
+      "풀러렌",
+      "벌크이종접합",
+      "유기태양전지",
+      "광전환"
+    ],
+    "summary": "배리 씨. 톰슨(Barry C. Thompson)과 진 엠. 제이. 프레셰(Jean M. J. Fréchet)가 Angewandte Chemie International Edition에 발표한 본 논문은 가볍고 저렴한 비용으로 생산할 수 있는 유기 태양전지의 핵심인 고분자-풀러렌 복합체와 벌크 이종접합(Bulk Heterojunction) 구조의 작동 원리 및 활성층 형태와 전자적 성질 간의 상호작용을 심층적으로 조망한 종합 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2007-polymer-fullerene-composite-solar-cells.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-a-framework-for-knowledge-discovery-in-massive",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D2691E",
+    "title": "대규모 빌딩 자동화 데이터에서의 지식 발견 프레임워크와 빌딩 진단 응용을 다루어 Automation in Construction에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "대규모 빌딩 자동화 데이터 지식 발견 프레임워크",
+    "originalTitle": "A framework for knowledge discovery in massive building automation data and its application in building diagnostics",
+    "authors": [
+      "Cheng Fan",
+      "Fu Xiao",
+      "Chengchu Yan"
+    ],
+    "year": 2015,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/j.autcon.2014.12.006",
+    "sourceUrl": "https://doi.org/10.1016/j.autcon.2014.12.006",
+    "keywords": [
+      "건축·시설관리",
+      "빌딩자동화",
+      "지식발견",
+      "데이터마이닝",
+      "빌딩진단",
+      "에너지효율",
+      "스마트빌딩"
+    ],
+    "summary": "청 판(Cheng Fan), 푸 샤오(Fu Xiao), 청추 얀(Chengchu Yan)이 Automation in Construction에 발표한 본 논문은 대규모 빌딩 자동화 시스템에서 쏟아지는 방대한 센서 데이터로부터 유용한 패턴과 지식을 효과적으로 추출해 내기 위한 체계적인 프레임워크를 제안하고, 이를 실제 빌딩 진단 업무에 어떻게 응용할 수 있는지 검증한 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2015-a-framework-for-knowledge-discovery-in-massive.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2021-machine-learning-algorithms-real-world-applications-and",
     "verified": true,
     "category": "인공지능",
