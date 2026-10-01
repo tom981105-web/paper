@@ -1,5 +1,163 @@
 [
   {
+    "id": "paper-1986-induction-of-decision-trees",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "기계학습 분야에서 의사결정나무 유도 알고리즘의 기초를 다져 Machine Learning 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "의사결정나무 유도 알고리즘",
+    "originalTitle": "Induction of Decision Trees",
+    "authors": [
+      "J.R. Quinlan"
+    ],
+    "year": 1986,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022643204877",
+    "sourceUrl": "https://doi.org/10.1023/a:1022643204877",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "의사결정나무",
+      "결정트리",
+      "ID3",
+      "분류",
+      "퀸란"
+    ],
+    "summary": "제이 알 퀸란(J.R. Quinlan)이 Machine Learning 저널에 발표한 본 논문은 데이터로부터 규칙을 학습하여 의사결정나무를 자동으로 구축(유도)하는 알고리즘의 이론적 토대와 작동 원리를 정립한 인공지능 및 기계학습 분야의 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1986-induction-of-decision-trees.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-buffered-microgrid-structure-for-future-power-networks",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "미래 전력 네트워크를 위한 버퍼형 마이크로그리드 구조와 심리스 마이크로그리드 제어를 다루어 IEEE Transactions on Smart Grid에 게재된 전기 분야 학술 논문",
+    "shortTitle": "미래 전력망을 위한 버퍼형 마이크로그리드 구조 및 제어",
+    "originalTitle": "Buffered-Microgrid Structure for Future Power Networks; a Seamless Microgrid Control",
+    "authors": [
+      "Nachat Nasser",
+      "Meghdad Fazeli"
+    ],
+    "year": 2021,
+    "journal": "IEEE Transactions on Smart Grid",
+    "doi": "10.1109/tsg.2020.3015573",
+    "sourceUrl": "https://doi.org/10.1109/tsg.2020.3015573",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "버퍼형마이크로그리드",
+      "심리스제어",
+      "스마트그리드",
+      "전력네트워크",
+      "에너지저장"
+    ],
+    "summary": "나찻 나세르(Nachat Nasser)와 메그다드 파젤리(Meghdad Fazeli)가 IEEE Transactions on Smart Grid에 발표한 본 논문은 미래의 전력 네트워크를 대비하여 에너지 버퍼 구조를 갖춘 마이크로그리드의 새로운 설계 방안과, 계통 연계 및 독립 운전 간의 매끄러운 전환을 돕는 심리스(Seamless) 제어 기법을 제안한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2021-buffered-microgrid-structure-for-future-power-networks.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-distributed-control-of-simulated-autonomous-mobile-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "화물 운송을 위한 시뮬레이션된 자율 이동 로봇 군집의 분산 제어를 다루어 Autonomous Robots 저널에 게재된 로봇 분야 학술 논문",
+    "shortTitle": "자율 이동 로봇 군집의 분산 제어 기반 화물 운송",
+    "originalTitle": "Distributed control of simulated autonomous mobile robot collectives in payload transportation",
+    "authors": [
+      "Paul J. Johnson",
+      "John S. Bay"
+    ],
+    "year": 1995,
+    "journal": "Autonomous Robots",
+    "doi": "10.1007/bf00735438",
+    "sourceUrl": "https://doi.org/10.1007/bf00735438",
+    "keywords": [
+      "로봇·자동화",
+      "분산제어",
+      "모바일로봇",
+      "군집로봇",
+      "화물운송",
+      "자율이동로봇",
+      "제어공학"
+    ],
+    "summary": "폴 J. 존슨(Paul J. Johnson)과 존 S. 베이(John S. Bay)가 Autonomous Robots에 발표한 본 논문은 여러 대의 자율 이동 로봇이 중앙 통제 없이 협력하여 무거운 화물을 목적지까지 함께 운송할 수 있도록 하는 분산 제어(Distributed Control) 기법을 시뮬레이션을 통해 연구한 로봇·자동화 분야의 고전적 문헌이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1995-distributed-control-of-simulated-autonomous-mobile-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1980-the-river-continuum-concept",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#3B7A57",
+    "title": "하천의 상류부터 하류까지 이어지는 물리적 조건과 생태계의 유기물 이용 및 군집 변화를 통합적으로 다루어 Canadian Journal of Fisheries and Aquatic Sciences에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "하천 연속 개념(The River Continuum Concept)",
+    "originalTitle": "The River Continuum Concept",
+    "authors": [
+      "Robin L. Vannote",
+      "G. Wayne Minshall",
+      "Kenneth W. Cummins",
+      "James R. Sedell",
+      "Colbert E. Cushing"
+    ],
+    "year": 1980,
+    "journal": "Canadian Journal of Fisheries and Aquatic Sciences",
+    "doi": "10.1139/f80-017",
+    "sourceUrl": "https://doi.org/10.1139/f80-017",
+    "keywords": [
+      "에너지·환경",
+      "하천연속개념",
+      "하천생태계",
+      "유기물순환",
+      "생태계구조",
+      "자원분할",
+      "하천지형학"
+    ],
+    "summary": "로빈 바노트(Robin L. Vannote) 등이 Canadian Journal of Fisheries and Aquatic Sciences에 발표한 본 논문은 하천 시스템이 상류에서 하류까지 연속적인 물리적 구배를 형성하며, 이에 맞춰 생물 군집과 유기물의 처리 과정이 예측 가능한 방식으로 조율된다는 '하천 연속 개념(RCC)'을 제안한 하천 생태학의 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1980-the-river-continuum-concept.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-energy-and-economic-analysis-of-building-retrofit",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D2691E",
+    "title": "제로에너지 건물을 위한 건물 개보수 및 에너지 상쇄 시나리오의 에너지 및 경제성 분석을 다루어 Advances in Building Energy Research에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "제로에너지 건물 개보수 및 에너지 상쇄 분석",
+    "originalTitle": "Energy and economic analysis of building retrofit and energy offset scenarios for Net Zero Energy Buildings",
+    "authors": [
+      "Vítor M. S. Leal",
+      "Vasco Granadeiro",
+      "Isabel Azevedo",
+      "Sofia-Natalia Boemi"
+    ],
+    "year": 2014,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.1080/17512549.2014.944567",
+    "sourceUrl": "https://doi.org/10.1080/17512549.2014.944567",
+    "keywords": [
+      "건축·시설관리",
+      "제로에너지건물",
+      "건물개보수",
+      "에너지상쇄",
+      "경제성분석",
+      "에너지효율"
+    ],
+    "summary": "비토르 M. S. 레알(Vítor M. S. Leal) 등이 Advances in Building Energy Research에 발표한 본 논문은 제로에너지 건물을 달성하기 위해 기존 건물을 어떻게 개보수하고 에너지를 상쇄해야 하는지 그 에너지 효율성과 경제성을 종합적으로 분석한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2014-energy-and-economic-analysis-of-building-retrofit.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2012-slic-superpixels-compared-to-state-of-the",
     "verified": true,
     "category": "인공지능",
