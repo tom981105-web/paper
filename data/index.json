@@ -1,5 +1,165 @@
 [
   {
+    "id": "paper-1992-simple-statistical-gradient-following-algorithms-for-connectionist",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "연결주의 강화학습을 위한 단순 통계적 경사 하강 알고리즘을 다루어 Machine Learning 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "연결주의 강화학습을 위한 통계적 경사 하강 알고리즘",
+    "originalTitle": "Simple statistical gradient-following algorithms for connectionist reinforcement learning",
+    "authors": [
+      "Ronald J. Williams"
+    ],
+    "year": 1992,
+    "journal": "Machine Learning",
+    "doi": "10.1007/bf00992696",
+    "sourceUrl": "https://doi.org/10.1007/bf00992696",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "연결주의",
+      "경사하강법",
+      "신경망",
+      "머신러닝",
+      "통계적알고리즘"
+    ],
+    "summary": "로널드 J. 윌리엄스(Ronald J. Williams)가 1992년 Machine Learning 저널에 발표한 본 논문은 인공신경망 기반의 연결주의 강화학습에서 활용할 수 있는 통계적 경사 하강 알고리즘인 REINFORCE 클래스를 정의하고 그 수학적 타당성과 범용성을 입증한 인공지능 분야의 고전적 명저이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1992-simple-statistical-gradient-following-algorithms-for-connectionist.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1987-dynamic-data-system-modelling-of-electrical-power",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 수요의 동적 데이터 시스템 모델링을 다루어 International Journal of Electrical Power & Energy Systems에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력 수요의 동적 데이터 시스템 모델링",
+    "originalTitle": "Dynamic data system modelling of electrical power demand",
+    "authors": [
+      "A.N. Shuaib",
+      "I.M. Elamin"
+    ],
+    "year": 1987,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(87)90007-x",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(87)90007-x",
+    "keywords": [
+      "전기",
+      "전력수요",
+      "동적데이터시스템",
+      "시계열분석",
+      "시스템모델링",
+      "전력계통"
+    ],
+    "summary": "에이.엔. 슈아이브(A.N. Shuaib)와 아이.엠. 엘라민(I.M. Elamin)이 International Journal of Electrical Power & Energy Systems에 1987년 발표한 본 논문은 전력 수요의 변화를 시간 흐름에 따라 분석하고 예측하기 위해 동적 데이터 시스템 모델링 기법을 적용한 전기 분야의 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1987-dynamic-data-system-modelling-of-electrical-power.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-navigation-of-an-agricultural-autonomous-mobile-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "농업용 자율 이동 로봇의 주행과 내비게이션 기술을 다루어 Advanced Robotics에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "농업용 자율 이동 로봇의 내비게이션",
+    "originalTitle": "Navigation of an agricultural autonomous mobile robot",
+    "authors": [
+      "Kazunobu Ish",
+      "Hideo Terao",
+      "Noboru Noguchi"
+    ],
+    "year": 1999,
+    "journal": "Advanced Robotics",
+    "doi": "10.1163/156855399x01404",
+    "sourceUrl": "https://doi.org/10.1163/156855399x01404",
+    "keywords": [
+      "로봇·자동화",
+      "농업용로봇",
+      "자율이동",
+      "내비게이션",
+      "위치인식",
+      "경로계획",
+      "메카트로닉스"
+    ],
+    "summary": "카즈노부 이시(Kazunobu Ish) 등 3명의 저자가 Advanced Robotics에 1999년 발표한 본 논문은 농업 환경에서 자율적으로 주행하며 작업을 수행할 수 있는 농업용 이동 로봇의 내비게이션과 주행 제어 시스템의 기초 기술을 다룬 로봇·자동화 분야 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-1999-navigation-of-an-agricultural-autonomous-mobile-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-for-the-bright-future-bulk-heterojunction-polymer",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "신규 벤조디티오펜 폴리머(PTB7)를 활용한 벌크 헤테로junction 고분자 태양전지의 7.4% 전력변환효율 달성을 다루어 Advanced Materials에 게재된 에너지 분야 학술 논문",
+    "shortTitle": "고분자 태양전지 효율 7.4% 달성 연구",
+    "originalTitle": "For the Bright Future—Bulk Heterojunction Polymer Solar Cells with Power Conversion Efficiency of 7.4%",
+    "authors": [
+      "Yongye Liang",
+      "Zheng Xu",
+      "Jiangbin Xia",
+      "Szu‐Ting Tsai",
+      "Yue Wu",
+      "Gang Li",
+      "Claire Ray",
+      "Luping Yu"
+    ],
+    "year": 2010,
+    "journal": "Advanced Materials",
+    "doi": "10.1002/adma.200903528",
+    "sourceUrl": "https://doi.org/10.1002/adma.200903528",
+    "keywords": [
+      "에너지·환경",
+      "고분자태양전지",
+      "벌크헤테로정션",
+      "PTB7",
+      "PC71BM",
+      "신재생에너지",
+      "유기전자공학"
+    ],
+    "summary": "용예 량(Yongye Liang)을 비롯한 연구진이 Advanced Materials에 2010년 발표한 본 논문은 새로운 벤조디티오펜 폴리머(PTB7)와 풀러렌 유도체(PC71BM)를 블렌드한 벌크 헤테로junction 고분자 태양전지에서 7.4%의 높은 전력변환효율(PCE)을 달성하여 유기 태양전지의 상용화 가능성을 크게 높인 에너지 분야 핵심 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2010-for-the-bright-future-bulk-heterojunction-polymer.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-industrialised-building-systems-reproduction-before-automation-and",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#8C6D46",
+    "title": "공업화 건축 시스템의 자동화와 로봇공학 도입에 앞선 복제 및 표준화의 선행 필요성을 다루어 Automation in Construction에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "공업화 건축 시스템: 자동화 이전의 복제",
+    "originalTitle": "Industrialised building systems: reproduction before automation and robotics",
+    "authors": [
+      "Roger-Bruno Richard"
+    ],
+    "year": 2005,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/j.autcon.2004.09.009",
+    "sourceUrl": "https://doi.org/10.1016/j.autcon.2004.09.009",
+    "keywords": [
+      "건축·시설관리",
+      "공업화건축",
+      "자동화",
+      "로봇공학",
+      "사전제작",
+      "표준화",
+      "건축생산",
+      "건설관리"
+    ],
+    "summary": "로저-브루노 리차드(Roger-Bruno Richard)가 Automation in Construction에 2005년 발표한 본 논문은 건축 분야에서 자동화와 로봇공학을 성급하게 도입하기 전에, 먼저 공업화 건축 시스템의 체계적인 복제와 표준화, 사전제작 프로세스가 선행되어야 함을 통찰력 있게 분석한 건축·시설관리 분야의 핵심 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2005-industrialised-building-systems-reproduction-before-automation-and.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-opinion-paper-so-what-if-chatgpt-wrote",
     "verified": true,
     "category": "인공지능",
