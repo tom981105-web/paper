@@ -1,5 +1,168 @@
 [
   {
+    "id": "paper-1999-data-clustering",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "통계적 패턴 인식 관점에서 데이터 클러스터링 기법의 분류 체계와 핵심 응용 분야를 종합적으로 정리하여 데이터 분석 연구의 기틀을 마련한 ACM Computing Surveys 마일스톤 논문",
+    "shortTitle": "데이터 클러스터링",
+    "originalTitle": "Data clustering",
+    "authors": [
+      "A. K. Jain",
+      "M. N. Murty",
+      "P. J. Flynn"
+    ],
+    "year": 1999,
+    "journal": "ACM Computing Surveys",
+    "doi": "10.1145/331499.331504",
+    "sourceUrl": "https://doi.org/10.1145/331499.331504",
+    "keywords": [
+      "인공지능",
+      "데이터클러스터링",
+      "비지도학습",
+      "패턴인식",
+      "데이터분석",
+      "머신러닝",
+      "분류체계",
+      "이미지세분화"
+    ],
+    "summary": "에이 케이 자인(A. K. Jain) 등이 ACM Computing Surveys에 발표한 본 논문은 탐색적 데이터 분석의 핵심 단계인 클러스터링(군집화) 기법을 통계적 패턴 인식 관점에서 총망라하여 분류 체계를 정립하고, 다양한 실제 응용 사례를 제시한 권위 있는 서베이 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1999-data-clustering.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-a-comprehensive-survey-on-particle-swarm-optimization",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "입자 떼 최적화(PSO) 알고리즘의 진화 과정, 변형 기법, 하이브리드화 및 전력·전기 공학을 포함한 다양한 응용 분야를 종합적으로 분석한 Mathematical Problems in Engineering 서베이 논문",
+    "shortTitle": "입자 떼 최적화(PSO) 알고리즘 종합 서베이",
+    "originalTitle": "A Comprehensive Survey on Particle Swarm Optimization Algorithm and Its Applications",
+    "authors": [
+      "Yudong Zhang",
+      "Shuihua Wang",
+      "Genlin Ji"
+    ],
+    "year": 2015,
+    "journal": "Mathematical Problems in Engineering",
+    "doi": "10.1155/2015/931256",
+    "sourceUrl": "https://doi.org/10.1155/2015/931256",
+    "keywords": [
+      "전기",
+      "입자떼최적화",
+      "PSO",
+      "메타휴리스틱",
+      "전력공학",
+      "최적화",
+      "인공지능",
+      "서베이"
+    ],
+    "summary": "유동 장(Yudong Zhang) 등이 Mathematical Problems in Engineering에 발표한 본 논문은 1995년 케네디와 에버하르트에 의해 제안된 입자 떼 최적화(PSO) 알고리즘의 변형, 군집 위상, 하이브리드 기법, 이론적 분석부터 전력 및 전자 공학, 자동화 제어 등 다양한 산업 응용 분야까지 폭넓게 조망한 종합 서베이 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2015-a-comprehensive-survey-on-particle-swarm-optimization.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-sar-slam-semantic-aware-recognition-for-dynamic",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "움직이는 사람과 물체가 가득한 동적 환경에서 의미론적 인식과 기하학적 검증을 결합하여 로봇의 위치 추정 및 지도 작성 성능을 혁신적으로 개선한 SAR-SLAM 논문",
+    "shortTitle": "SAR-SLAM 동적 환경 SLAM",
+    "originalTitle": "SAR-SLAM: Semantic-Aware Recognition for Dynamic SLAM in Robotic Applications",
+    "authors": [
+      "Basheer Al-Tawil",
+      "Magnus Jung",
+      "Thorsten Hempel",
+      "Ayoub Al-Hamadi"
+    ],
+    "year": 2026,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics15070136",
+    "sourceUrl": "https://doi.org/10.3390/robotics15070136",
+    "keywords": [
+      "로봇·자동화",
+      "SLAM",
+      "동적환경",
+      "의미론적분할",
+      "YOLOv8",
+      "ROS2",
+      "로봇내비게이션",
+      "RGB-D"
+    ],
+    "summary": "바시르 알타윌(Basheer Al-Tawil) 등이 Robotics에 발표한 본 논문은 사람들이 걸어 다니거나 물체가 움직이는 실제 인간 중심 환경에서 기존 SLAM 시스템이 겪는 오차 문제를 해결하기 위해, YOLOv8 기반 의미론적 분할과 RANSAC 기반 기하학적 모션 검증을 통합한 'SAR-SLAM' 프레임워크를 제안한다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2026-sar-slam-semantic-aware-recognition-for-dynamic.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1989-gaussian-basis-sets-for-use-in-correlated",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A7B4C",
+    "title": "상관 분자 계산에서 분자의 전자 상관 효과를 정확하고 효율적으로 기술하기 위한 상관 일치 가우스 기저 함수 세트를 개발하여 양자 화학 계산의 기틀을 마련한 톰 더닝(Thom H. Dunning)의 마일스톤 논문",
+    "shortTitle": "상관 일치 가우스 기저 함수",
+    "originalTitle": "Gaussian basis sets for use in correlated molecular calculations. I. The atoms boron through neon and hydrogen",
+    "authors": [
+      "Thom H. Dunning"
+    ],
+    "year": 1989,
+    "journal": "The Journal of Chemical Physics",
+    "doi": "10.1063/1.456153",
+    "sourceUrl": "https://doi.org/10.1063/1.456153",
+    "keywords": [
+      "에너지·환경",
+      "양자화학",
+      "가우스기저함수",
+      "전자상관",
+      "분자산정",
+      "이론화학",
+      "원자계산",
+      "기초과학"
+    ],
+    "summary": "톰 더닝(Thom H. Dunning)이 The Journal of Chemical Physics에 발표한 본 논문은 붕소부터 네온까지의 1주기 원소와 수소를 대상으로, 전자 간의 상관 효과를 체계적이고 효율적으로 계산할 수 있는 '상관 일치 가우스 기저 함수(Correlation Consistent Basis Sets)'를 제안하여 양자 화학 및 분자 계산 분야의 표준을 정립한 혁신적인 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1989-gaussian-basis-sets-for-use-in-correlated.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1984-fourier-synthesized-weather-data-for-building-energy",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A3A",
+    "title": "푸리에 급수(Fourier Series)를 활용해 건물의 에너지 소비량을 효율적으로 추정하기 위한 합성 기상 데이터를 생성하고 분석한 Building and Environment 마일스톤 논문",
+    "shortTitle": "건물 에너지 추정을 위한 푸리에 합성 기상 데이터",
+    "originalTitle": "Fourier-synthesized weather data for building energy use estimation",
+    "authors": [
+      "Michael G. Smart",
+      "John A. Ballinger"
+    ],
+    "year": 1984,
+    "journal": "Building and Environment",
+    "doi": "10.1016/0360-1323(84)90012-x",
+    "sourceUrl": "https://doi.org/10.1016/0360-1323(84)90012-x",
+    "keywords": [
+      "건축·시설관리",
+      "건물에너지",
+      "기상데이터",
+      "푸리에합성",
+      "에너지추정",
+      "시뮬레이션",
+      "열환경",
+      "수학적모델링"
+    ],
+    "summary": "마이클 스마트(Michael G. Smart)와 존 볼린저(John A. Ballinger)가 Building and Environment에 발표한 본 논문은 복잡하고 방대한 실제 기상 기록을 수학적 기법인 푸리에 급수를 통해 압축·합성하여, 건물 에너지 소비량 추정 시뮬레이션을 더욱 효율적이고 정확하게 수행할 수 있는 기반을 마련한 고전적 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1984-fourier-synthesized-weather-data-for-building-energy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2009-the-pascal-visual-object-classes-voc-challenge",
     "verified": true,
     "category": "인공지능",
