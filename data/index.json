@@ -1,5 +1,165 @@
 [
   {
+    "id": "paper-2009-visualization-and-analysis-of-atomistic-simulation-data",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "원자 현상 시뮬레이션 데이터의 3차원 시각화 및 분석을 위한 오픈소스 도구 OVITO를 다루어 Modelling and Simulation in Materials Science and Engineering 저널에 게재된 인공지능 및 재료과학 계산 분야 학술 논문",
+    "shortTitle": "원자 시뮬레이션 시각화 및 분석 도구 OVITO",
+    "originalTitle": "Visualization and analysis of atomistic simulation data with OVITO–the Open Visualization Tool",
+    "authors": [
+      "Alexander Stukowski"
+    ],
+    "year": 2009,
+    "journal": "Modelling and Simulation in Materials Science and Engineering",
+    "doi": "10.1088/0965-0393/18/1/015012",
+    "sourceUrl": "https://doi.org/10.1088/0965-0393/18/1/015012",
+    "keywords": [
+      "인공지능",
+      "재료과학",
+      "분자역학",
+      "몬테카를로",
+      "시각화",
+      "OVITO",
+      "원자시뮬레이션",
+      "알렉산더스투코프스키"
+    ],
+    "summary": "알렉산더 스투코프스키(Alexander Stukowski)가 2009년 Modelling and Simulation in Materials Science and Engineering 저널에 발표한 본 논문은 분자역학이나 몬테카를로 시뮬레이션에서 생성되는 방대한 원자 단위의 데이터를 효율적으로 3차원으로 시각화하고 분석할 수 있는 오픈소스 소프트웨어 'OVITO'를 제안하여, 재료과학 계산 및 인공지능 기반 분석 연구의 기반을 다진 대표적 학술 성과이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2009-visualization-and-analysis-of-atomistic-simulation-data.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2007-electric-power-systems-research-on-dispersed-generation",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "분산 전원 연구 동향을 다루어 Electric Power Systems Research 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "분산 전원 전력 시스템 연구 동향",
+    "originalTitle": "Electric power systems research on dispersed generation",
+    "authors": [
+      "Goran Strbac"
+    ],
+    "year": 2007,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2006.08.010",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2006.08.010",
+    "keywords": [
+      "전기",
+      "분산전원",
+      "전력계통",
+      "마이크로그리드",
+      "신재생에너지",
+      "에너지통합",
+      "송배전시스템",
+      "고란스트르박"
+    ],
+    "summary": "고란 스트르박(Goran Strbac)이 2007년 Electric Power Systems Research 저널에 발표한 본 논문은 대규모 중앙 집중식 발전 체계에서 벗어나 전력 수요처 가까이에 소규모 발전 설비를 배치하는 분산 전원(Dispersed Generation)이 전력 시스템에 미치는 영향과 통합 방안을 다룬 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2007-electric-power-systems-research-on-dispersed-generation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2007-wheeled-mobile-robot-navigation-using-proportional-navigation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "비례 항법을 이용한 바퀴형 이동 로봇 내비게이션을 다루어 Advanced Robotics 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "비례 항법을 이용한 바퀴형 이동 로봇 내비게이션",
+    "originalTitle": "Wheeled mobile robot navigation using proportional navigation",
+    "authors": [
+      "Fethi Belkhouche",
+      "Boumediene Belkhouche"
+    ],
+    "year": 2007,
+    "journal": "Advanced Robotics",
+    "doi": "10.1163/156855307780132036",
+    "sourceUrl": "https://doi.org/10.1163/156855307780132036",
+    "keywords": [
+      "로봇·자동화",
+      "비례항법",
+      "이동로봇",
+      "내비게이션",
+      "경로제어",
+      "유도법칙",
+      "바퀴형로봇",
+      "페티벨쿠체"
+    ],
+    "summary": "페티 벨쿠체(Fethi Belkhouche)와 부메디엔 벨쿠체(Boumediene Belkhouche) 연구진이 2007년 Advanced Robotics 저널에 발표한 본 논문은 미사일 유도 분야에서 널리 쓰이는 비례 항법(Proportional Navigation) 기법을 바퀴형 이동 로봇의 장애물 회피 및 목표물 추적 내비게이션에 성공적으로 적용하여 효율적인 경로 제어 성능을 입증한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2007-wheeled-mobile-robot-navigation-using-proportional-navigation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1991-polymer-electrolyte-fuel-cell-model",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "고분자 전해질 연료전지 모델을 다루어 Journal of The Electrochemical Society 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "고분자 전해질 연료전지(PEFC) 모델",
+    "originalTitle": "Polymer Electrolyte Fuel Cell Model",
+    "authors": [
+      "T. E. Springer",
+      "T. A. Zawodzinski",
+      "S. Gottesfeld"
+    ],
+    "year": 1991,
+    "journal": "Journal of The Electrochemical Society",
+    "doi": "10.1149/1.2085971",
+    "sourceUrl": "https://doi.org/10.1149/1.2085971",
+    "keywords": [
+      "에너지",
+      "환경",
+      "연료전지",
+      "고분자전해질",
+      "Nafion",
+      "수소에너지",
+      "전기화학",
+      "스프링거"
+    ],
+    "summary": "티. 이. 스프링거(T. E. Springer) 외 2인의 연구진이 1991년 Journal of The Electrochemical Society 저널에 발표한 본 논문은 117 나피온(Nafion) 막을 채택한 고분자 전해질 연료전지(PEFC)의 등온, 1차원, 정상상태 모델을 제시하여, 물 확산 계수와 전기삼투 끌림 계수 등을 바탕으로 연료전지 내부의 수분 이동과 저항 특성을 규명한 에너지·환경 분야의 고전적 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1991-polymer-electrolyte-fuel-cell-model.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-building-information-modeling-bim-in-der-geotechnik",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A6FA5",
+    "title": "BIM을 활용한 지반공학 연계 방안과 Baugrund(지반) 모델링의 실제 경험을 다루어 Bauingenieur 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "BIM 기반 지반공학 모델링 및 실무 경험",
+    "originalTitle": "Building Information Modeling (BIM) in der Geotechnik – Aktuelle Entwicklungen und Erfahrungen",
+    "authors": [
+      "S. Henke",
+      "H. Lerch"
+    ],
+    "year": 2020,
+    "journal": "Bauingenieur",
+    "doi": "10.37544/0005-6650-2020-12-56",
+    "sourceUrl": "https://doi.org/10.37544/0005-6650-2020-12-56",
+    "keywords": [
+      "건축·시설관리",
+      "지반공학",
+      "BIM",
+      "빌딩정보모델링",
+      "지반모델",
+      "토목시공",
+      "엔지니어링",
+      "S.Henke",
+      "H.Lerch"
+    ],
+    "summary": "S. 헨케(S. Henke)와 H. 레르히(H. Lerch)가 2020년 Bauingenieur 저널에 발표한 본 논문은 주로 상부 건축물 위주로 발전해온 BIM(건축 정보 모델링) 프로세스에 불확실성이 큰 지반(Baugrund) 영역을 통합하는 방법론을 다루며, 복잡한 지반 조건을 가진 실제 프로젝트를 통해 지반 모델링의 필요성과 실무 적용 가능성을 입증한 건축·시설관리 및 토목 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2020-building-information-modeling-bim-in-der-geotechnik.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-signalp-6-0-predicts-all-five-types",
     "verified": true,
     "category": "인공지능",
