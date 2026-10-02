@@ -1,5 +1,161 @@
 [
   {
+    "id": "paper-1997-multitask-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "멀티태스크 학습 연구를 다루어 Machine Learning 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "멀티태스크 학습",
+    "originalTitle": "Multitask Learning",
+    "authors": [
+      "Rich Caruana"
+    ],
+    "year": 1997,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1007379606734",
+    "sourceUrl": "https://doi.org/10.1023/a:1007379606734",
+    "keywords": [
+      "인공지능",
+      "멀티태스크학습",
+      "머신러닝",
+      "일반화능력",
+      "귀납적편향",
+      "리치카루아나",
+      "신경망"
+    ],
+    "summary": "리치 카루아나(Rich Caruana)가 1997년 Machine Learning 저널에 발표한 본 논문은 여러 관련 있는 작업을 동시에 학습함으로써 인공지능 모델의 일반화 능력을 향상시키는 강력한 머신러닝 패러다임인 멀티태스크 학습(Multitask Learning)의 기초를 다진 핵심 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1997-multitask-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-emt-based-sequence-analysis-of-a-converter",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 변환기 기반 마이크로그리드의 고장 및 부하 외란 시퀀스 분석 연구를 다루어 IEEE Access 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "변환기 기반 마이크로그리드 EMT 시퀀스 분석",
+    "originalTitle": "EMT-Based Sequence Analysis of a Converter-Dominated Microgrid Under Fault and Load Disturbances: Case Study of the NELHA Microgrid",
+    "authors": [
+      "Adewale Adegboyega",
+      "Saeed Sepasi",
+      "Zakaria Afshar"
+    ],
+    "year": 2026,
+    "journal": "IEEE Access",
+    "doi": "10.1109/access.2026.3695847",
+    "sourceUrl": "https://doi.org/10.1109/access.2026.3695847",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "전력변환기",
+      "시퀀스분석",
+      "전자기과도현상",
+      "고장분석",
+      "부하외란",
+      "아데웰아데그보예가",
+      "사이드세파시"
+    ],
+    "summary": "아데웰 아데그보예가(Adewale Adegboyega) 연구진이 IEEE Access 저널에 발표한 본 논문은 전력 변환기 중심의 마이크로그리드 환경에서 고장 및 부하 외란이 발생했을 때 전자기 과도현상(EMT) 기반 시퀀스 분석을 수행하여 NELHA 마이크로그리드 사례를 통해 계통 거동을 심층적으로 분석한 전기공학 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2026-emt-based-sequence-analysis-of-a-converter.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-should-robotics-need-ethical-codes-robotics-and",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "로봇 공학과 윤리적 코드의 필요성에 관한 연구를 다루어 Journal of Robotics and Automation 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 공학의 윤리적 코드 필요성",
+    "originalTitle": "Should Robotics Need Ethical Codes? Robotics and ERP",
+    "authors": [
+      "Tang Yu-Cheng"
+    ],
+    "year": 2017,
+    "journal": "Journal of Robotics and Automation",
+    "doi": "10.36959/673/352",
+    "sourceUrl": "https://doi.org/10.36959/673/352",
+    "keywords": [
+      "로봇·자동화",
+      "로봇윤리",
+      "윤리적코드",
+      "로봇공학",
+      "인간로봇상호작용",
+      "텡유청"
+    ],
+    "summary": "탕 유청(Tang Yu-Cheng) 연구자가 2017년 Journal of Robotics and Automation 저널에 발표한 본 논문은 급속도로 발전하는 로봇 공학 시대에 로봇이 지켜야 할 윤리적 규범과 코드의 필요성 및 그 방향성을 고찰한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2017-should-robotics-need-ethical-codes-robotics-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1971-self-consistent-molecular-orbital-methods-ix-an",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A7B4C",
+    "title": "유기 분자의 분자궤도함수 연구를 위한 확장된 가우시안형 기저함수 개발 연구를 다루어 The Journal of Chemical Physics 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "유기 분자 연구를 위한 4-31G 가우시안형 기저함수",
+    "originalTitle": "Self-Consistent Molecular-Orbital Methods. IX. An Extended Gaussian-Type Basis for Molecular-Orbital Studies of Organic Molecules",
+    "authors": [
+      "R. Ditchfield",
+      "W. J. Hehre",
+      "J. A. Pople"
+    ],
+    "year": 1971,
+    "journal": "The Journal of Chemical Physics",
+    "doi": "10.1063/1.1674902",
+    "sourceUrl": "https://doi.org/10.1063/1.1674902",
+    "keywords": [
+      "에너지환경",
+      "분자궤도함수",
+      "가우시안기저함수",
+      "양자화학",
+      "유기분자",
+      "제이포플",
+      "이산화학"
+    ],
+    "summary": "알디치필드(R. Ditchfield), W. J. 헤어(W. J. Hehre), J. A. 포플(J. A. Pople) 연구진이 1971년 The Journal of Chemical Physics 저널에 발표한 본 논문은 수소 및 제1주기 원소들을 대상으로 분자 궤도함수 계산의 정확성을 높여주는 확장된 가우시안형 기저함수(4-31G)를 제안하여 실험값에 부합하는 이론적 평형 구조를 도출한 기초 양자화학 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1971-self-consistent-molecular-orbital-methods-ix-an.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-an-educational-framework-for-healthcare-facility-management",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A709C",
+    "title": "의료시설 관리 교육 프레임워크 구축을 다루어 Journal of Facility Management Education and Research 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "의료시설 관리 교육 프레임워크 구축",
+    "originalTitle": "An Educational Framework for Healthcare Facility Management: Preparing Future Professionals",
+    "authors": [
+      "Steven Call",
+      "Kenneth Sullivan"
+    ],
+    "year": 2019,
+    "journal": "Journal of Facility Management Education and Research",
+    "doi": "10.22361/jfmer/103420",
+    "sourceUrl": "https://doi.org/10.22361/jfmer/103420",
+    "keywords": [
+      "건축·시설관리",
+      "의료시설관리",
+      "교육프레임워크",
+      "델파이방법",
+      "건설관리",
+      "스티븐콜",
+      "케네스설리반"
+    ],
+    "summary": "스티븐 콜(Steven Call)과 케네스 설리반(Kenneth Sullivan)이 2019년 Journal of Facility Management Education and Research 저널에 발표한 본 논문은 델파이 방법을 활용하여 예비 의료시설 관리자에게 필수적인 학습 성과를 도출하고, 대학 교육 과정과 산업계 요구 간의 간극을 좁히기 위한 종합적인 의료시설 관리 교육 프레임워크를 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2019-an-educational-framework-for-healthcare-facility-management.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2021-temporal-fusion-transformers-for-interpretable-multi-horizon",
     "verified": true,
     "category": "인공지능",
