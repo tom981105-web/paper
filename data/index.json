@@ -1,5 +1,164 @@
 [
   {
+    "id": "paper-2022-instant-neural-graphics-primitives-with-a-multiresolution",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "다해상도 해시 인코딩을 이용한 초고속 신경 그래픽 프리미티브 연구를 다루어 ACM Transactions on Graphics 저널에 게재된 인공지능 및 컴퓨터 그래픽스 분야 학술 논문",
+    "shortTitle": "다해상도 해시 인코딩 기반 신경 그래픽스",
+    "originalTitle": "Instant neural graphics primitives with a multiresolution hash encoding",
+    "authors": [
+      "Thomas Müller",
+      "Alex Evans",
+      "Christoph Schied",
+      "Alexander Keller"
+    ],
+    "year": 2022,
+    "journal": "ACM Transactions on Graphics",
+    "doi": "10.1145/3528223.3530127",
+    "sourceUrl": "https://doi.org/10.1145/3528223.3530127",
+    "keywords": [
+      "인공지능",
+      "신경그래픽스",
+      "다해상도해시인코딩",
+      "컴퓨터그래픽스",
+      "3D재구성",
+      "CUDA",
+      "토마스뮬러",
+      "알렉자에반스"
+    ],
+    "summary": "토마스 뮬러(Thomas Müller)를 비롯한 엔비디아 연구진이 2022년 ACM Transactions on Graphics 저널에 발표한 본 논문은 다해상도 해시 테이블과 초고속 CUDA 연산을 결합한 새로운 입력 인코딩 방식을 제안하여, 복잡한 3차원 신경 그래픽스 프리미티브의 학습 시간을 수 초로 단축하고 실시간 렌더링을 가능하게 한 혁신적인 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2022-instant-neural-graphics-primitives-with-a-multiresolution.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2007-power-flow-model-calculation-for-power-systems",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "다중 FACTS 제어기를 갖춘 전력 계통에서의 조류 모델 및 계산 연구를 다루어 Electric Power Systems Research 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "다중 FACTS 제어기 전력 계통 조류 계산",
+    "originalTitle": "Power flow model/calculation for power systems with multiple FACTS controllers",
+    "authors": [
+      "Ghadir Radman",
+      "Reshma S Raje"
+    ],
+    "year": 2007,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2006.10.008",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2006.10.008",
+    "keywords": [
+      "전기",
+      "FACTS제어기",
+      "조류계산",
+      "전력계통모델링",
+      "전력유연성",
+      "가디르라드만",
+      "레슈마라제"
+    ],
+    "summary": "가디르 라드만(Ghadir Radman)과 레슈마 에스 라제(Reshma S Raje)가 2007년 Electric Power Systems Research 저널에 발표한 본 논문은 전력 계통에 여러 개의 FACTS 제어기가 도입되었을 때 이를 효과적으로 반영하고 해석하기 위한 전력 조류(Power Flow) 모델과 계산 방법론을 제안한 전기공학 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2007-power-flow-model-calculation-for-power-systems.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-global-manipulation-planning-in-robot-joint-space",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "과제 제약 조건이 있는 로봇 관절 공간에서의 전역 조작 계획 연구를 다루어 IEEE Transactions on Robotics 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "태스크 제약이 있는 로봇 관절 공간 전역 조작 계획",
+    "originalTitle": "Global Manipulation Planning in Robot Joint Space With Task Constraints",
+    "authors": [
+      "Mike Stilman"
+    ],
+    "year": 2010,
+    "journal": "IEEE Transactions on Robotics",
+    "doi": "10.1109/tro.2010.2044949",
+    "sourceUrl": "https://doi.org/10.1109/tro.2010.2044949",
+    "keywords": [
+      "로봇·자동화",
+      "조작계획",
+      "관절공간",
+      "과제제약조건",
+      "전역경로계획",
+      "마이크스틸만",
+      "IEEE토에스"
+    ],
+    "summary": "마이크 스틸만(Mike Stilman)이 2010년 IEEE Transactions on Robotics 저널에 발표한 본 논문은 로봇이 특정 과제의 물리적 제약 조건을 만족하면서 복잡한 환경 속에서 관절 공간 전체를 활용해 물체를 안전하고 효과적으로 조작할 수 있도록 돕는 전역 경로 계획 알고리즘을 다룬 학술 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2010-global-manipulation-planning-in-robot-joint-space.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-liquid-exfoliation-of-layered-materials",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A7B4C",
+    "title": "층상 물질의 액상 박리법 연구를 다루어 Science 저널에 게재된 에너지 및 환경 분야 학술 논문",
+    "shortTitle": "층상 물질의 액상 박리법",
+    "originalTitle": "Liquid Exfoliation of Layered Materials",
+    "authors": [
+      "Valeria Nicolosi",
+      "Manish Chhowalla",
+      "Mercouri G. Kanatzidis",
+      "Michael S. Strano",
+      "Jonathan N. Coleman"
+    ],
+    "year": 2013,
+    "journal": "Science",
+    "doi": "10.1126/science.1226419",
+    "sourceUrl": "https://doi.org/10.1126/science.1226419",
+    "keywords": [
+      "에너지환경",
+      "층상물질",
+      "액상박리",
+      "나노시트",
+      "이차원소재",
+      "그래핀",
+      "니콜로시",
+      "콜먼"
+    ],
+    "summary": "발레리아 니콜로시(Valeria Nicolosi)와 조나단 콜먼(Jonathan N. Coleman) 등 공동 연구진이 2013년 Science 저널에 발표한 본 논문은 흑연이나 이황화몰리브덴($MoS_2$) 등 층상 구조를 가진 물질들을 액체 속에서 한 겹씩 떼어내어 원자 두께 수준의 2차원 나노시트를 대량 생산하는 '액상 박리법(Liquid Exfoliation)'의 원리와 응용 가능성을 종합적으로 정리한 권위 있는 리뷰 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2013-liquid-exfoliation-of-layered-materials.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2007-an-information-model-for-building-automation-systems",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A709C",
+    "title": "건물 자동화 시스템을 위한 정보 모델 연구를 다루어 Automation in Construction 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 자동화 시스템 정보 모델",
+    "originalTitle": "An information model for building automation systems",
+    "authors": [
+      "J. Schein"
+    ],
+    "year": 2007,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/j.autcon.2006.07.006",
+    "sourceUrl": "https://doi.org/10.1016/j.autcon.2006.07.006",
+    "keywords": [
+      "건축·시설관리",
+      "건물자동화시스템",
+      "정보모델",
+      "스마트빌딩",
+      "빌딩제어",
+      "제이샤인"
+    ],
+    "summary": "제이 샤인(J. Schein)이 2007년 Automation in Construction 저널에 발표한 본 논문은 현대 건물 내 다양한 자동화 시스템들이 원활하게 정보를 교환하고 통합 관리될 수 있도록 돕는 체계적인 정보 모델의 설계와 구현 방안을 다룬 건축·시설관리 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2007-an-information-model-for-building-automation-systems.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2021-accurate-prediction-of-protein-structures-and-interactions",
     "verified": true,
     "category": "인공지능",
