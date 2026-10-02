@@ -1,5 +1,166 @@
 [
   {
+    "id": "paper-1991-eigenfaces-for-recognition",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "고유 얼굴(Eigenfaces)을 이용한 얼굴 인식 기법을 다루어 Journal of Cognitive Neuroscience 저널에 게재된 인공지능 및 컴퓨터 비전 분야 학술 논문",
+    "shortTitle": "고유 얼굴을 이용한 얼굴 인식",
+    "originalTitle": "Eigenfaces for Recognition",
+    "authors": [
+      "Matthew Turk",
+      "Alex Pentland"
+    ],
+    "year": 1991,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi": "10.1162/jocn.1991.3.1.71",
+    "sourceUrl": "https://doi.org/10.1162/jocn.1991.3.1.71",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "얼굴인식",
+      "고유얼굴",
+      "주성분분석",
+      "패턴인식",
+      "매튜터크",
+      "알렉스펜트랜드"
+    ],
+    "summary": "매튜 터크(Matthew Turk)와 알렉스 펜트랜드(Alex Pentland)가 1991년 Journal of Cognitive Neuroscience 저널에 발표한 본 논문은 3차원 기하학적 복잡한 계산 없이 얼굴 이미지 전체를 저차원 특성 공간으로 투영하는 '고유 얼굴(Eigenfaces)' 개념을 도입하여 실시간 얼굴 인식의 가능성을 연 컴퓨터 비전 및 인공지능 분야의 선구적 명저이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1991-eigenfaces-for-recognition.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-electrical-power-quality-availability-and-energy-efficiency",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 품질, 가용성 및 에너지 효율을 다루어 Engineering and Technology Journal 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력 품질, 가용성 및 에너지 효율",
+    "originalTitle": "ELECTRICAL POWER QUALITY, AVAILABILITY, AND ENERGY EFFICIENCY",
+    "authors": [
+      "Cheng LIU"
+    ],
+    "year": 2023,
+    "journal": "Engineering and Technology Journal",
+    "doi": "10.47191/etj/v8i6.02",
+    "sourceUrl": "https://doi.org/10.47191/etj/v8i6.02",
+    "keywords": [
+      "전기",
+      "전력품질",
+      "전력가용성",
+      "에너지효율",
+      "에너지손실",
+      "변압기교체",
+      "탄소배출",
+      "청류"
+    ],
+    "summary": "청류(Cheng Liu)가 2023년 Engineering and Technology Journal에 발표한 본 논문은 벨기에의 한 식품 기업을 사례로 하여 전력 분배 네트워크에서의 에너지 효율 극대화, 전력 품질 향상, 그리고 탄소 배출 저감 방안을 다룬 연구로, 전압 강하 관리 및 변압기 업그레이드 등의 구체적 기준을 제시하였다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2023-electrical-power-quality-availability-and-energy-efficiency.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-slam-a-highly-efficient-and-temporally-scalable",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "증분형 SLAM 프레임워크 SLAM++를 다루어 The International Journal of Robotics Research 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "고효율 증분형 SLAM 프레임워크 SLAM++",
+    "originalTitle": "SLAM++-A highly efficient and temporally scalable incremental SLAM framework",
+    "authors": [
+      "Viorela Ila",
+      "Lukas Polok",
+      "Marek Solony",
+      "Pavel Svoboda"
+    ],
+    "year": 2017,
+    "journal": "The International Journal of Robotics Research",
+    "doi": "10.1177/0278364917691110",
+    "sourceUrl": "https://doi.org/10.1177/0278364917691110",
+    "keywords": [
+      "로봇·자동화",
+      "동시적위치추정및지도작성",
+      "SLAM",
+      "최대우도추정",
+      "비선형최소제곱",
+      "상태공분산",
+      "정보이론",
+      "행렬연산"
+    ],
+    "summary": "비오렐라 일라(Viorela Ila) 외 연구진이 2017년 The International Journal of Robotics Research 저널에 발표한 본 논문은 온라인 로봇 및 컴퓨터 비전 응용에서 실시간으로 평균 상태와 공분산을 모두 고효율로 추정할 수 있는 증분형 SLAM 프레임워크 'SLAM++'를 제안하여, 대규모 매핑 과정에서 행렬 블록 연산과 정보 이론을 통한 확장성 문제를 해결한 로봇·자동화 분야의 중요 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 40분",
+    "file": "papers/paper-2017-slam-a-highly-efficient-and-temporally-scalable.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1973-the-influence-of-polarization-functions-on-molecular",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#3F6C91",
+    "title": "분자궤도함수 수소화 에너지에 미치는 분극 함수의 영향을 다루어 Theoretica Chimica Acta 저널에 게재된 에너지·환경 및 양자화학 분야 학술 논문",
+    "shortTitle": "분자궤도함수 수소화 에너지에 미치는 분극 함수의 영향",
+    "originalTitle": "The influence of polarization functions on molecular orbital hydrogenation energies",
+    "authors": [
+      "P. C. Hariharan",
+      "J. A. Pople"
+    ],
+    "year": 1973,
+    "journal": "Theoretica Chimica Acta",
+    "doi": "10.1007/bf00533485",
+    "sourceUrl": "https://doi.org/10.1007/bf00533485",
+    "keywords": [
+      "에너지·환경",
+      "양자화학",
+      "분자궤도함수",
+      "수소화에너지",
+      "분극함수",
+      "Pople",
+      "Hariharan",
+      "계산화학"
+    ],
+    "summary": "피. 씨. 하리하란(P. C. Hariharan)과 존 포블(J. A. Pople)이 1973년 Theoretica Chimica Acta 저널에 발표한 본 논문은 분자 계산에서 수소화 에너지를 정확히 예측하기 위해 기저 함수에 분극 함수를 도입하는 것이 미치는 영향을 체계적으로 분석하여 양자화학 및 계산화학 발전의 기틀을 마련한 명저이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-1973-the-influence-of-polarization-functions-on-molecular.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-a-generic-building-product-model-incorporating-building",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "건축물 유형 정보를 통합한 일반적인 건물 제품 모델을 다루어 Automation in Construction 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유형 정보를 통합한 일반적 제품 모델",
+    "originalTitle": "A generic building product model incorporating building type information",
+    "authors": [
+      "Charles M. Eastman",
+      "Anastassios Siabiris"
+    ],
+    "year": 1995,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/0926-5805(94)00028-l",
+    "sourceUrl": "https://doi.org/10.1016/0926-5805(94)00028-l",
+    "keywords": [
+      "건축·시설관리",
+      "건물제품모델",
+      "BIM",
+      "건축정보모델",
+      "찰스이스트먼",
+      "아나스타시오스시아비리스",
+      "건축유형정보",
+      "제품데이터교환"
+    ],
+    "summary": "찰스 M. 이스트먼(Charles M. Eastman)과 아나스타시오스 시아بิ리스(Anastassios Siabiris)가 1995년 Automation in Construction 저널에 발표한 본 논문은 건축물 설계와 시공 전반에서 다양한 건물 유형이 지닌 특수한 정보와 규칙을 표준화된 제품 모델 내에 효과적으로 통합할 수 있는 일반적인 프레임워크를 제안하여 오늘날 빌딩 정보 모델링(BIM)의 기틀을 다진 건축·시설관리 분야의 고전적 명저이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1995-a-generic-building-product-model-incorporating-building.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2000-a-flexible-new-technique-for-camera-calibration",
     "verified": true,
     "category": "인공지능",
