@@ -1,5 +1,194 @@
 [
   {
+    "id": "paper-2023-basis-operator-network-a-neural-network-based",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "신경망 기반 기저 연산자를 활용한 비선형 연산자 학습 모형 연구를 다루어 Neural Networks 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "신경망 기반 기저 연산자 학습 모형",
+    "originalTitle": "Basis operator network: A neural network-based model for learning nonlinear operators via neural basis",
+    "authors": [
+      "Ning Hua",
+      "Wenlian Lu"
+    ],
+    "year": 2023,
+    "journal": "Neural Networks",
+    "doi": "10.1016/j.neunet.2023.04.017",
+    "sourceUrl": "https://doi.org/10.1016/j.neunet.2023.04.017",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "기저연산자",
+      "비선형연산자",
+      "딥러닝",
+      "연산자학습",
+      "닝화",
+      "원리안루"
+    ],
+    "summary": "닝 화(Ning Hua)와 원리안 루(Wenlian Lu)가 2023년 Neural Networks 저널에 발표한 본 논문은 신경망 기반의 기저 연산자를 활용하여 복잡하고 비선형적인 연산자를 효과적으로 학습할 수 있는 새로운 딥러닝 모형을 제안한 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2023-basis-operator-network-a-neural-network-based.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-lyapunov-based-harmonic-compensation-and-charging-with",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전기 자동차 응용 분야에서 3상 병렬 능동 전력 필터를 이용한 리아푸노프 기반 고조파 보상 및 충전 연구를 다루어 International Journal of Electrical Power & Energy Systems 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전기차 3상 병렬 능동 전력 필터 리아푸노프 제어",
+    "originalTitle": "Lyapunov based harmonic compensation and charging with three phase shunt active power filter in electrical vehicle applications",
+    "authors": [
+      "Doğan Çelik"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/j.ijepes.2021.107564",
+    "sourceUrl": "https://doi.org/10.1016/j.ijepes.2021.107564",
+    "keywords": [
+      "전기",
+      "능동전력필터",
+      "고조파보상",
+      "전기자동차충전",
+      "리아푸노프이론",
+      "3상전력시스템",
+      "도간첼릭"
+    ],
+    "summary": "도간 첼릭(Doğan Çelik)이 2022년 International Journal of Electrical Power & Energy Systems 저널에 발표한 본 논문은 전기 자동차(EV) 충전 환경에서 발생하는 전력 고조파 문제를 해결하고 동시에 효율적인 충전을 수행하기 위해 3상 병렬 능동 전력 필터에 리아푸노프 안정도 이론을 적용하여 제어 성능을 검증한 전기공학 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2022-lyapunov-based-harmonic-compensation-and-charging-with.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-augmented-reality-for-robotics-a-review",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "로봇공학을 위한 증강현실(AR) 기술의 5개년 연구 동향 및 응용 분야 리뷰를 다루어 Robotics 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇공학을 위한 증강현실(AR) 기술 리뷰",
+    "originalTitle": "Augmented Reality for Robotics: A Review",
+    "authors": [
+      "Zhanat Makhataeva",
+      "Huseyin Varol"
+    ],
+    "year": 2020,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics9020021",
+    "sourceUrl": "https://doi.org/10.3390/robotics9020021",
+    "keywords": [
+      "로봇·자동화",
+      "증강현실",
+      "AR",
+      "로봇공학",
+      "인간로봇상호작용",
+      "의료로봇",
+      "자나트마하타예바"
+    ],
+    "summary": "자나트 마하타예바(Zhanat Makhataeva)와 후세인 바롤(Huseyin Varol)이 2020년 Robotics 저널에 발표한 본 논문은 2015년부터 2019년까지 5년 동안 로봇공학 분야에서 이루어진 증강현실(AR) 연구 100여 편을 종합적으로 분석하여, 의료 로봇, 모션 플래닝 및 제어, 인간-로봇 상호작용(HRI), 다중 에이전트 시스템의 4대 영역으로 분류하고 주요 기술적 도전 과제와 미래 전망을 제시한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2020-augmented-reality-for-robotics-a-review.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-a-literature-and-practice-review-to-develop",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "지속 가능한 비즈니스 모델 아키타이프 개발을 위한 문헌 및 실무 리뷰 연구를 다루어 Journal of Cleaner Production 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "지속 가능한 비즈니스 모델 아키타이프 개발",
+    "originalTitle": "A literature and practice review to develop sustainable business model archetypes",
+    "authors": [
+      "N.M.P. Bocken",
+      "S.W. Short",
+      "P. Rana",
+      "S. Evans"
+    ],
+    "year": 2014,
+    "journal": "Journal of Cleaner Production",
+    "doi": "10.1016/j.jclepro.2013.11.039",
+    "sourceUrl": "https://doi.org/10.1016/j.jclepro.2013.11.039",
+    "keywords": [
+      "에너지·환경",
+      "지속가능한비즈니스모델",
+      "아키타이프",
+      "비즈니스모델혁신",
+      "친환경혁신",
+      "사회적가치",
+      "N.M.P.보켄"
+    ],
+    "summary": "N.M.P. 보켄(N.M.P. Bocken) 등 연구진이 2014년 Journal of Cleaner Production 저널에 발표한 본 논문은 환경적·사회적 지속 가능성을 기업 운영의 중심에 두는 지속 가능한 비즈니스 모델(SBM)의 핵심 메커니즘과 해결책을 폭넓은 문헌 및 실무 리뷰를 통해 분석하고, 이를 체계적으로 분류한 8가지 '비즈니스 모델 아키타이프'를 제안한 에너지·환경 및 경영 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2014-a-literature-and-practice-review-to-develop.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2007-measured-and-predicted-energy-demand-of-a",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A7C59",
+    "title": "저에너지 건물의 측정 및 예측 에너지 수요와 건물 에너지 시뮬레이션 활용 시 중요 측면을 다루어 Building Services Engineering Research and Technology 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "저에너지 건물 에너지 수요 측정 및 시뮬레이션",
+    "originalTitle": "Measured and predicted energy demand of a low energy building: important aspects when using Building Energy Simulation",
+    "authors": [
+      "F. Karlsson",
+      "P. Rohdin",
+      "M.-L. Persson"
+    ],
+    "year": 2007,
+    "journal": "Building Services Engineering Research and Technology",
+    "doi": "10.1177/0143624407077393",
+    "sourceUrl": "https://doi.org/10.1177/0143624407077393",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "저에너지건물",
+      "에너지시뮬레이션",
+      "에너지수요",
+      "거주자행동",
+      "F.칼슨"
+    ],
+    "summary": "F. Karlsson, P. Rohdin, M.-L. Persson이 2007년 Building Services Engineering Research and Technology 저널에 발표한 본 논문은 스웨덴 남부의 저에너지 테라스 하우스를 대상으로 세 가지 시뮬레이션 도구를 활용해 예측한 에너지 수요와 실제 거주 후 측정된 에너지 사용량을 비교하고, 시뮬레이션 결과에 큰 영향을 미치는 주요 요인들을 분석한 건축·시설관리 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2007-measured-and-predicted-energy-demand-of-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-chatting-about-chatgpt-how-may-ai-and",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#2A8550",
+    "title": "ChatGPT가 학술계와 도서관에 미치는 영향과 잠재력을 다루어 Library Hi Tech News 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "ChatGPT가 학술계와 도서관에 미치는 영향",
+    "originalTitle": "Chatting about ChatGPT: how may AI and GPT impact academia and libraries?",
+    "authors": [
+      "Brady D. Lund",
+      "Ting Wang"
+    ],
+    "year": 2023,
+    "journal": "Library Hi Tech News",
+    "doi": "10.1108/lhtn-01-2023-0009",
+    "sourceUrl": "https://doi.org/10.1108/lhtn-01-2023-0009",
+    "keywords": [
+      "도서관·문헌정보",
+      "ChatGPT",
+      "생성형인공지능",
+      "GPT",
+      "학술연구",
+      "정보서비스",
+      "브래디룬드"
+    ],
+    "summary": "브래디 룬드(Brady D. Lund)와 팅 왕(Ting Wang)이 2023년 Library Hi Tech News 저널에 발표한 본 논문은 오픈에이아이(OpenAI)의 퍼블릭 툴인 ChatGPT와 그 기반 기술인 GPT가 학술계와 도서관 서비스 전반에 미칠 잠재적 영향과 윤리적 고려사항을 AI와의 인터뷰 형식을 빌려 고찰한 도서관·문헌정보 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-chatting-about-chatgpt-how-may-ai-and.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-rapamycin-in-the-context-of-pascal-s",
     "verified": true,
     "category": "인공지능",
