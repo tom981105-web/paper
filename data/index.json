@@ -1,5 +1,192 @@
 [
   {
+    "id": "paper-1999-guest-editors-introduction-machine-learning-and-natural",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "기계학습과 자연어 처리 분야의 접점과 융합 연구를 다루어 Machine Learning 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "기계학습과 자연어 처리 도입",
+    "originalTitle": "Guest Editors' Introduction: Machine Learning and Natural Language",
+    "authors": [
+      "Claire Cardie",
+      "Raymond J. Mooney"
+    ],
+    "year": 1999,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1007580931600",
+    "sourceUrl": "https://doi.org/10.1023/a:1007580931600",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "자연어처리",
+      "클레어카디",
+      "레이몬드무니"
+    ],
+    "summary": "클레어 카디(Claire Cardie)와 레이몬드 무니(Raymond J. Mooney)가 1999년 Machine Learning 저널에 게재한 본 논문은 인공지능의 두 핵심 축인 기계학습과 자연어 처리 기술이 어떻게 결합하여 상호 발전할 수 있는지 그 배경과 주요 연구 방향을 소개하는 초청 편집인의 서문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-1999-guest-editors-introduction-machine-learning-and-natural.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-interval-optimization-for-integrated-electrical-and-natural",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "불확실성을 고려한 전력 및 천연가스 통합 시스템의 구간 최적화 연구를 다루어 International Journal of Electrical Power & Energy Systems 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "전력-가스 통합 시스템 불확실성 구간 최적화",
+    "originalTitle": "Interval optimization for integrated electrical and natural-gas systems with power to gas considering uncertainties",
+    "authors": [
+      "Shouxiang Wang",
+      "Shuangchen Yuan"
+    ],
+    "year": 2020,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/j.ijepes.2020.105906",
+    "sourceUrl": "https://doi.org/10.1016/j.ijepes.2020.105906",
+    "keywords": [
+      "전기",
+      "구간최적화",
+      "전력가스통합시스템",
+      "P2G",
+      "불확실성",
+      "에너지시스템",
+      "수샤오샹",
+      "슈앙첸위안"
+    ],
+    "summary": "수샤오샹(Shouxiang Wang)과 슈앙첸 위안(Shuangchen Yuan)이 2020년 International Journal of Electrical Power & Energy Systems 저널에 발표한 본 논문은 재생에너지의 변동성 등 다양한 불확실성이 존재하는 상황에서 전력망과 천연가스망을 유기적으로 결합하고 전력-가스 변환 기술을 활용하여 전체 에너지 시스템의 경제성과 안정성을 높이기 위한 구간 최적화 방법론을 제안한 전기공학 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2020-interval-optimization-for-integrated-electrical-and-natural.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2000-spherical-rolling-robot-a-design-and-motion",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "구형 구르는 로봇의 기계적 설계 및 모션 플래닝 연구를 다루어 IEEE Transactions on Robotics and Automation 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "구형 구르는 로봇 설계 및 모션 플래닝",
+    "originalTitle": "Spherical rolling robot: a design and motion planning studies",
+    "authors": [
+      "S. Bhattacharya",
+      "S.K. Agrawal"
+    ],
+    "year": 2000,
+    "journal": "IEEE Transactions on Robotics and Automation",
+    "doi": "10.1109/70.897794",
+    "sourceUrl": "https://doi.org/10.1109/70.897794",
+    "keywords": [
+      "로봇·자동화",
+      "구형로봇",
+      "구르는로봇",
+      "모션플래닝",
+      "기계설계",
+      "로봇제어",
+      "비홀로노믹",
+      "에스바타차랴",
+      "에스케이아그라발"
+    ],
+    "summary": "에스. 바타차랴(S. Bhattacharya)와 에스.케이. 아그라발(S.K. Agrawal)이 2000년 IEEE Transactions on Robotics and Automation 저널에 발표한 본 논문은 공 모양으로 굴러서 이동하는 구형 로봇의 독창적인 기계적 설계 구조와 원하는 경로를 따라 움직이도록 만드는 모션 플래닝 기법을 연구한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2000-spherical-rolling-robot-a-design-and-motion.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-the-perspective-of-enhanced-geothermal-energy-integration",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#3B82F6",
+    "title": "향상된 지열 에너지와 집광형 태양열 및 열에너지 저장의 통합 전망을 다루어 Energy Storage 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "향상된 지열과 태양열·저장장치 통합 전망",
+    "originalTitle": "The perspective of enhanced geothermal energy integration with concentrated solar power and thermal energy storage",
+    "authors": [
+      "Alberto Boretti"
+    ],
+    "year": 2021,
+    "journal": "Energy Storage",
+    "doi": "10.1002/est2.303",
+    "sourceUrl": "https://doi.org/10.1002/est2.303",
+    "keywords": [
+      "에너지",
+      "환경",
+      "지열에너지",
+      "태양열발전",
+      "열에너지저장",
+      "재생에너지",
+      "알베르토보레티"
+    ],
+    "summary": "알베르토 보레티(Alberto Boretti)가 2021년 Energy Storage 저널에 발표한 본 논문은 변동성이 큰 재생에너지 중심 전력망에서 기저부하 공급을 담당할 수 있도록 향상된 지열 에너지(EGS)를 집광형 태양열(CSP) 및 열에너지 저장(TES) 장치와 통합하는 방안의 전망과 효율성 향상 효과를 분석한 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2021-the-perspective-of-enhanced-geothermal-energy-integration.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-building-energy-prediction-model-with-ai-based",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D85A38",
+    "title": "건축 및 HVAC 공정을 통합한 AI 기반 PSO-ANN 접근 방식의 건물 에너지 예측 모델 연구를 다루어 Building and Environment 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "AI 기반 건축·HVAC 통합 건물 에너지 예측 모델",
+    "originalTitle": "Building energy prediction model with AI-based PSO-ANN approach integrating architectural and HVAC processes",
+    "authors": [
+      "Semi Emrah Aslay"
+    ],
+    "year": 2025,
+    "journal": "Building and Environment",
+    "doi": "10.1016/j.buildenv.2025.113305",
+    "sourceUrl": "https://doi.org/10.1016/j.buildenv.2025.113305",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "건물에너지예측",
+      "인공지능",
+      "PSO",
+      "ANN",
+      "HVAC",
+      "세미엠라아슬레이"
+    ],
+    "summary": "세미 엠라 아슬레이(Semi Emrah Aslay)가 2025년 Building and Environment 저널에 발표한 본 논문은 건축 설계 요소와 HVAC(냉난방공조) 공정을 유기적으로 통합하여 건물 에너지 소비를 정확하게 예측하기 위해 입자군집최적화(PSO)와 인공신경망(ANN)을 결합한 AI 기반 예측 모델을 제안한 건축·시설관리 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2025-building-energy-prediction-model-with-ai-based.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-digital-transformation-readiness-perspectives-on-academia-and",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#D85A5A",
+    "title": "대학의 디지털 전환 준비도와 정보 리터러시, 정보 관리 및 문화 간의 상호작용 분석을 다루어 The Journal of Academic Librarianship 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "대학의 디지털 전환 준비도와 정보 리터러시",
+    "originalTitle": "Digital transformation readiness: perspectives on academia and library outcomes in information literacy",
+    "authors": [
+      "Marek Deja",
+      "Dorota Rak",
+      "Brigitte Bell"
+    ],
+    "year": 2021,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2021.102403",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2021.102403",
+    "keywords": [
+      "도서관·문헌정보",
+      "디지털전환",
+      "정보리터러시",
+      "대학도서관",
+      "구조방정식모형",
+      "정보문화",
+      "마렉데자"
+    ],
+    "summary": "마렉 데자(Marek Deja), 도로타 락(Dorota Rak), 브리짓 벨(Brigitte Bell)이 2021년 The Journal of Academic Librarianship 저널에 발표한 본 논문은 공분산 구조방정식 모형(CB-SEM)을 활용하여 대학 구성원들의 정보 리터러시와 자기효능감이 디지털 전환 준비도 및 정보 문화에 미치는 영향을 실증적으로 분석한 문헌정보학 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2021-digital-transformation-readiness-perspectives-on-academia-and.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-basis-operator-network-a-neural-network-based",
     "verified": true,
     "category": "인공지능",
