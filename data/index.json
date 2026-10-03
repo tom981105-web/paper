@@ -1,5 +1,158 @@
 [
   {
+    "id": "paper-1990-learning-in-neural-network-memories",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "신경망 메모리에서의 학습 연구를 다루어 Network: Computation in Neural Systems 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "신경망 메모리 학습",
+    "originalTitle": "Learning in neural network memories",
+    "authors": [
+      "L F Abbott"
+    ],
+    "year": 1990,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x_1_1_008",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x_1_1_008",
+    "keywords": [
+      "인공지능",
+      "인공신경망",
+      "신경망메모리",
+      "학습알고리즘",
+      "연상기억",
+      "L F Abbott"
+    ],
+    "summary": "L. F. 애보트(L. F. Abbott)가 1990년 Network: Computation in Neural Systems 저널에 발표한 본 논문은 인공신경망 내부의 메모리 구조와 학습 메커니즘을 분석하여, 신경망이 정보를 기억하고 인출하는 과정을 이론적으로 고찰한 인공지능 및 신경과학 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-1990-learning-in-neural-network-memories.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-an-overview-of-electric-machine-trends-in",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "현대 전기차의 전기 모터 트렌드 개관 연구를 다루어 Machines 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "현대 전기차 전기 모터 트렌드",
+    "originalTitle": "An Overview of Electric Machine Trends in Modern Electric Vehicles",
+    "authors": [
+      "Emmanuel Agamloh",
+      "Annette von Jouanne",
+      "Alexandre Yokochi"
+    ],
+    "year": 2020,
+    "journal": "Machines",
+    "doi": "10.3390/machines8020020",
+    "sourceUrl": "https://doi.org/10.3390/machines8020020",
+    "keywords": [
+      "전기",
+      "전기차",
+      "전기모터",
+      "영구자석모터",
+      "전력밀도",
+      "트랙션드라이브",
+      "에마뉘엘아감로",
+      "아네트폰주안",
+      "알렉상드르요코치"
+    ],
+    "summary": "에마뉘엘 아감로(Emmanuel Agamloh) 등이 2020년 Machines 저널에 발표한 본 논문은 현대 전기자동차의 구동계에 사용되는 전기 모터의 기술 동향을 조망하고, 고출력 밀도와 고효율을 달성하기 위한 기본 토폴로지 개선 및 신기술 트렌드를 종합적으로 분석한 전기공학 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2020-an-overview-of-electric-machine-trends-in.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-1997-international-ground-robotics-vehicle-competition-robotics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "1997년 국제 지상 로봇 차량 경진대회(IGVC) 코너를 다루어 Robotics and Autonomous Systems 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "1997 IGVC 로봇 경진대회 코너",
+    "originalTitle": "1997 International Ground Robotics Vehicle Competition Robotics Competition Corner",
+    "authors": [
+      "Robin R. Murphy"
+    ],
+    "year": 1999,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/s0921-8890(99)80007-4",
+    "sourceUrl": "https://doi.org/10.1016/s0921-8890(99)80007-4",
+    "keywords": [
+      "로봇·자동화",
+      "지상로봇",
+      "자율주행",
+      "로봇경진대회",
+      "IGVC",
+      "모바일로봇",
+      "로빈머피"
+    ],
+    "summary": "로빈 머피(Robin R. Murphy)가 1999년 Robotics and Autonomous Systems 저널에 발표한 본 논문은 1997년 개최된 국제 지상 로봇 차량 경진대회(IGVC)의 주요 내용과 자율주행 모바일 로봇들의 기술적 성과를 조명한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-1999-1997-international-ground-robotics-vehicle-competition-robotics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-galactic-stellar-and-substellar-initial-mass-function",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#388E3C",
+    "title": "은하계 별 및 아성층 초기 질량 함수에 관한 연구를 다루어 Publications of the Astronomical Society of the Pacific 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "은하계 별 및 아성층 초기 질량 함수",
+    "originalTitle": "Galactic Stellar and Substellar Initial Mass Function",
+    "authors": [
+      "Gilles Chabrier"
+    ],
+    "year": 2003,
+    "journal": "Publications of the Astronomical Society of the Pacific",
+    "doi": "10.1086/376392",
+    "sourceUrl": "https://doi.org/10.1086/376392",
+    "keywords": [
+      "에너지·환경",
+      "초기질량함수",
+      "IMF",
+      "항성",
+      "갈색왜성",
+      "별탄생",
+      "난류"
+    ],
+    "summary": "질 샤브리에(Gilles Chabrier)가 2003년 Publications of the Astronomical Society of the Pacific에 발표한 본 논문은 은하계 내 다양한 영역에서 별과 갈색왜성의 초기 질량 함수(IMF)를 검토하고, 별 탄생 과정에 대한 이론적 메커니즘을 분석한 천체물리학 분야의 고전적 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 35분",
+    "file": "papers/paper-2003-galactic-stellar-and-substellar-initial-mass-function.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-review-of-building-maintenance-and-maintenance-management",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#8C6D33",
+    "title": "호텔 빌딩의 보수 및 유지관리 시스템 검토 연구를 다루어 astonjadro 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "호텔 빌딩 유지관리 시스템 검토",
+    "originalTitle": "REVIEW OF BUILDING MAINTENANCE AND MAINTENANCE MANAGEMENT SYSTEM AT THE SUNAN HOTEL SOLO",
+    "authors": [
+      "Ichwan Prastowo"
+    ],
+    "year": 2020,
+    "journal": "astonjadro",
+    "doi": "10.32832/astonjadro.v9i2.3389",
+    "sourceUrl": "https://doi.org/10.32832/astonjadro.v9i2.3389",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "유지관리",
+      "호텔관리",
+      "건물보수",
+      "엔지니어링부서",
+      "이치완프라스토워"
+    ],
+    "summary": "이치완 프라스토워(Ichwan Prastowo)가 2020년 astonjadro 저널에 발표한 본 논문은 호텔 건물의 수리 및 유지관리 체계를 분석하고, 구조·건축·설비·외부 공간 및 하우스키핑 부문의 손상 상태를 경미·중등도·중대 손상으로 나누어 검토함으로써 연간 작업 프로그램 계획의 기초 자료를 제공한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2020-review-of-building-maintenance-and-maintenance-management.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1988-genetic-algorithms-and-machine-learning",
     "verified": true,
     "category": "인공지능",
