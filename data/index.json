@@ -1,5 +1,166 @@
 [
   {
+    "id": "paper-2021-autonomous-driving-architectures-insights-of-machine-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "자율주행 아키텍처에서 머신러닝과 딥러닝 알고리즘의 통찰을 다루어 Machine Learning with Applications 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "자율주행 아키텍처와 머신러닝 통찰",
+    "originalTitle": "Autonomous Driving Architectures: Insights of Machine Learning and Deep Learning Algorithms",
+    "authors": [
+      "Mrinal R. Bachute",
+      "Javed M. Subhedar"
+    ],
+    "year": 2021,
+    "journal": "Machine Learning with Applications",
+    "doi": "10.1016/j.mlwa.2021.100164",
+    "sourceUrl": "https://doi.org/10.1016/j.mlwa.2021.100164",
+    "keywords": [
+      "인공지능",
+      "자율주행",
+      "머신러닝",
+      "딥러닝",
+      "아키텍처",
+      "컴퓨터비전",
+      "MR바추테",
+      "JM수베다르"
+    ],
+    "summary": "Mrinal R. Bachute와 Javed M. Subhedar가 2021년 Machine Learning with Applications 저널에 발표한 본 논문은 자율주행 차량 시스템 구축에 활용되는 다양한 머신러닝 및 딥러닝 알고리즘의 구조와 역할을 종합적으로 분석하고 통찰을 제공하는 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2021-autonomous-driving-architectures-insights-of-machine-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-a-new-pricing-scheme-for-intra-microgrid",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "마이크로그리드 내·외부 로컬 에너지 거래를 위한 새로운 가격 책정 체계 연구를 다루어 Electronics 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "마이크로그리드 로컬 에너지 거래 가격 책정",
+    "originalTitle": "A New Pricing Scheme for Intra-Microgrid and Inter-Microgrid Local Energy Trading",
+    "authors": [
+      "Shama Naz Islam"
+    ],
+    "year": 2019,
+    "journal": "Electronics",
+    "doi": "10.3390/electronics8080898",
+    "sourceUrl": "https://doi.org/10.3390/electronics8080898",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "에너지거래",
+      "가격책정",
+      "비선형최적화",
+      "스마트그리드",
+      "샤마나즈이스람"
+    ],
+    "summary": "샤마 나즈 이슬람(Shama Naz Islam)이 2019년 Electronics 저널에 발표한 본 논문은 마이크로그리드 내부 및 외부 간 로컬 에너지 거래에서 판매자의 이익을 극대화하고 참가자 그룹별 우선순위를 반영하는 최적의 가격 책정 체계를 제안한 전기공학 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2019-a-new-pricing-scheme-for-intra-microgrid.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-handover-control-for-human-robot-and-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "인간과 로봇 및 로봇 간 협업을 위한 핸드오버 제어 연구를 다루어 Frontiers in Robotics and AI 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "인간-로봇 협업 핸드오버 제어",
+    "originalTitle": "Handover Control for Human-Robot and Robot-Robot Collaboration",
+    "authors": [
+      "Marco Costanzo",
+      "Giuseppe De Maria",
+      "Ciro Natale"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Robotics and AI",
+    "doi": "10.3389/frobt.2021.672995",
+    "sourceUrl": "https://doi.org/10.3389/frobt.2021.672995",
+    "keywords": [
+      "로봇·자동화",
+      "핸드오버제어",
+      "인간로봇협업",
+      "로봇로봇협력",
+      "힘촉각피드백",
+      "반응형제어",
+      "마르코코스탄조"
+    ],
+    "summary": "마르코 코스탄조(Marco Costanzo) 등이 2021년 Frontiers in Robotics and AI 저널에 발표한 본 논문은 인간과 로봇 또는 로봇과 로봇이 물건을 자연스럽고 안전하게 건네줄 수 있도록 시각 및 촉각 인지를 결합한 새로운 핸드오버 제어 전략을 제안한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2021-handover-control-for-human-robot-and-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-guidelines-for-synthesis-and-processing-of-two",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A9D8F",
+    "title": "2차원 티타늄 카바이드 맥신(MXene)의 합성 및 가공 지침을 다루어 Chemistry of Materials 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "맥신(Ti3C2Tx) 합성 및 가공 지침",
+    "originalTitle": "Guidelines for Synthesis and Processing of Two-Dimensional Titanium Carbide (Ti3C2Tx MXene)",
+    "authors": [
+      "Mohamed Alhabeb",
+      "Kathleen Maleski",
+      "Babak Anasori",
+      "Pavel Lelyukh",
+      "Leah Clark",
+      "Saleesha Sin",
+      "Yury Gogotsi"
+    ],
+    "year": 2017,
+    "journal": "Chemistry of Materials",
+    "doi": "10.1021/acs.chemmater.7b02847",
+    "sourceUrl": "https://doi.org/10.1021/acs.chemmater.7b02847",
+    "keywords": [
+      "에너지·환경",
+      "맥신",
+      "MXene",
+      "2차원소재",
+      "티타늄카바이드",
+      "화학식각",
+      "박리공정",
+      "모하메드알하베브"
+    ],
+    "summary": "모하메드 알하베브(Mohamed Alhabeb) 등이 2017년 Chemistry of Materials 저널에 발표한 본 논문은 차세대 2차원 나노 물질인 맥신(Ti3C2Tx) 중 가장 널리 연구된 티타늄 카바이드의 합성법, 다양한 에천트 및 박리 방법, 그리고 가공 공정의 최적 지침을 집대성한 에너지·환경 분야의 핵심 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2017-guidelines-for-synthesis-and-processing-of-two.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-smart-thermostats-revolutionizing-hvac-control-in-building",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B73",
+    "title": "건물 자동화 분야의 HVAC 제어를 혁신하는 스마트 온도조절기 연구를 다루어 International Journal of Science and Research (IJSR) 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "스마트 온도조절기: HVAC 제어 혁신",
+    "originalTitle": "Smart Thermostats: Revolutionizing HVAC Control in Building Automation",
+    "authors": [
+      "Vrushank Mistry"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Science and Research (IJSR)",
+    "doi": "10.21275/sr24203203502",
+    "sourceUrl": "https://doi.org/10.21275/sr24203203502",
+    "keywords": [
+      "건축·시설관리",
+      "스마트온도조절기",
+      "HVAC제어",
+      "건물자동화",
+      "에너지효율",
+      "스마트빌딩",
+      "브루샨크미스트리"
+    ],
+    "summary": "브루샨크 미스트리(Vrushank Mistry)가 2022년 International Journal of Science and Research (IJSR) 저널에 발표한 본 논문은 스마트 온도조절기를 활용하여 건물 자동화 시스템(BAS) 내의 HVAC(냉난방 공조) 제어를 혁신하고 에너지 효율을 극대화하는 방안을 다룬 건축·시설관리 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2022-smart-thermostats-revolutionizing-hvac-control-in-building.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1977-artificial-intelligence-a-personal-view",
     "verified": true,
     "category": "인공지능",
