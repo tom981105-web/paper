@@ -111,7 +111,9 @@ function formatPrerequisites(value){
 }
 
 function init(){
-  const cats=[...new Set(papers.map(p=>p.category))];
+  const preferredCats=["인공지능","전기","로봇·자동화","에너지·환경","건축·시설관리","도서관·문헌정보"];
+  const detectedCats=[...new Set(papers.map(p=>p.category).filter(Boolean))];
+  const cats=[...preferredCats,...detectedCats.filter(c=>!preferredCats.includes(c))];
   categoryFilter.innerHTML='<option value="all">전체 분야</option>';
   cats.forEach(c=>{
     const o=document.createElement("option");
