@@ -1,5 +1,164 @@
 [
   {
+    "id": "paper-1977-artificial-intelligence-a-personal-view",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "초기 인공지능 분야의 발전 방향과 개인적 통찰을 다루어 Artificial Intelligence 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능: 개인적 관점",
+    "originalTitle": "Artificial intelligence—A personal view",
+    "authors": [
+      "D. Marr"
+    ],
+    "year": 1977,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(77)90013-3",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(77)90013-3",
+    "keywords": [
+      "인공지능",
+      "시각인지",
+      "인지과학",
+      "계산이론",
+      "인공지능역사",
+      "D.마르"
+    ],
+    "summary": "D. 마르(D. Marr)가 1977년 Artificial Intelligence 저널에 발표한 본 논문은 초기 인공지능 연구의 흐름을 되돌아보고, 인간의 지능과 시각 인지 과정을 컴퓨터로 모사하기 위해 필요한 계산 이론적 접근법에 대한 선구적인 개인적 통찰을 담은 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-1977-artificial-intelligence-a-personal-view.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-a-quadratic-approximation-for-the-optimal-power",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 배전 시스템의 최적 조류 계산을 위한 이차 근사 기법 연구를 다루어 Electric Power Systems Research 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "배전 시스템 최적 조류 계산 이차 근사",
+    "originalTitle": "A quadratic approximation for the optimal power flow in power distribution systems",
+    "authors": [
+      "Alejandro Garces"
+    ],
+    "year": 2016,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2015.09.006",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2015.09.006",
+    "keywords": [
+      "전기",
+      "최적조류계산",
+      "배전시스템",
+      "이차근사",
+      "전력계통",
+      "전력조류",
+      "알레한드로가르세스"
+    ],
+    "summary": "알레한드로 가르세스(Alejandro Garces)가 2016년 Electric Power Systems Research 저널에 발표한 본 논문은 전력 배전 시스템에서 복잡하고 비선형적인 최적 조류 계산 문제를 효율적으로 풀기 위해 새롭고 정확한 이차 근사 기법을 제안한 전기공학 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2016-a-quadratic-approximation-for-the-optimal-power.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-autonomous-gsm-mobile-based-robot-navigation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "원격 제어와 PC 인터페이스를 결합한 자율 GSM 모바일 로봇 내비게이션 연구를 다루어 i-manager's Journal on Mobile Applications and Technologies 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "GSM 모바일 기반 로봇 내비게이션",
+    "originalTitle": "Autonomous Gsm Mobile-Based Robot Navigation",
+    "authors": [
+      "N KEERTHI"
+    ],
+    "year": 2014,
+    "journal": "i-manager's Journal on Mobile Applications and Technologies",
+    "doi": "10.26634/jmt.1.1.2913",
+    "sourceUrl": "https://doi.org/10.26634/jmt.1.1.2913",
+    "keywords": [
+      "로봇·자동화",
+      "자율이동로봇",
+      "GSM모바일",
+      "로봇내비게이션",
+      "PC인터페이스",
+      "장애물회피",
+      "N케르티"
+    ],
+    "summary": "N. 케르티(N. Keerthi)가 2014년 i-manager's Journal on Mobile Applications and Technologies 저널에 발표한 본 논문은 이동통신망인 GSM 모바일과 PC 인터페이스를 활용하여 원격지에서 로봇을 제어하고 모니터링하며, 센서를 통해 장애물을 회피하는 자율 내비게이션 시스템을 제안한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2014-autonomous-gsm-mobile-based-robot-navigation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-long-range-balanced-electron-and-hole-transport",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2C6E49",
+    "title": "페로브스카이트 태양전지의 전자 및 정공 이동 거리 규명 연구를 다루어 Science 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "페로브스카이트의 전자·정공 이동 거리 규명",
+    "originalTitle": "Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic CH3NH3PbI3",
+    "authors": [
+      "Guichuan Xing",
+      "Nripan Mathews",
+      "Shuangyong Sun",
+      "Swee Sien Lim",
+      "Yeng Ming Lam",
+      "Michael Grätzel",
+      "Subodh Mhaisalkar",
+      "Tze Chien Sum"
+    ],
+    "year": 2013,
+    "journal": "Science",
+    "doi": "10.1126/science.1243167",
+    "sourceUrl": "https://doi.org/10.1126/science.1243167",
+    "keywords": [
+      "에너지",
+      "환경",
+      "페로브스카이트",
+      "태양전지",
+      "전자이동",
+      "정공이동",
+      "광전기",
+      "마이클그라첼"
+    ],
+    "summary": "구이추안 싱(Guichuan Xing) 및 마이클 그라첼(Michael Grätzel) 등의 연구진이 2013년 Science 저널에 발표한 본 논문은 차세대 태양전지 소재인 유기-무기 페로브스카이트(CH3NH3PbI3)에서 전자와 정공이 100나노미터 이상의 장거리까지 균형 있게 이동할 수 있음을 규명하여 높은 광전환 효율의 비밀을 밝혀낸 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2013-long-range-balanced-electron-and-hole-transport.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-experimental-investigation-of-bio-based-pcm-for",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D08A5B",
+    "title": "에너지 효율적인 건축 외피를 위한 바이오 기반 상변화 물질(PCM) 실험적 연구를 다루어 Advances in Building Energy Research 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "바이오 기반 상변화 물질(PCM) 건축 외피 실험",
+    "originalTitle": "Experimental investigation of bio-based PCM for energy-efficient building envelopes",
+    "authors": [
+      "Bhartendu Mani Tripathi",
+      "Shailendra Kumar Shukla"
+    ],
+    "year": 2026,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.1080/17512549.2026.2614759",
+    "sourceUrl": "https://doi.org/10.1080/17512549.2026.2614759",
+    "keywords": [
+      "건축·시설관리",
+      "바이오PCM",
+      "상변화물질",
+      "에너지효율",
+      "건축외피",
+      "친환경건축",
+      "바르텐두마니트리파티",
+      "바일렌드라쿠마르슈클라"
+    ],
+    "summary": "바르텐두 마니 트리파티(Bhartendu Mani Tripathi)와 바일렌드라 쿠마르 슈클라(Shailendra Kumar Shukla)가 2026년 Advances in Building Energy Research 저널에 발표한 본 논문은 에너지 효율적인 건축 외피를 구현하기 위해 바이오 기반 상변화 물질(PCM)의 열적 성능을 실험적으로 조사한 건축·시설관리 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2026-experimental-investigation-of-bio-based-pcm-for.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-comparative-study-of-deep-learning-architecturesforautomated-diabetic",
     "verified": true,
     "category": "인공지능",
