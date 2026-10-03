@@ -1,5 +1,167 @@
 [
   {
+    "id": "paper-2022-vision-status-and-research-topics-of-natural",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "자연어 처리의 비전, 현황 및 연구 주제 개관 연구를 다루어 Natural Language Processing Journal 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "자연어 처리 비전 및 연구 주제",
+    "originalTitle": "Vision, status, and research topics of Natural Language Processing",
+    "authors": [
+      "Xieling Chen",
+      "Haoran Xie",
+      "Xiaohui Tao"
+    ],
+    "year": 2022,
+    "journal": "Natural Language Processing Journal",
+    "doi": "10.1016/j.nlp.2022.100001",
+    "sourceUrl": "https://doi.org/10.1016/j.nlp.2022.100001",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "NLP",
+      "연구동향",
+      "텍스트마이닝",
+      "언어모델",
+      "시엘링첸",
+      "하오란셰",
+      "샤오후이타오"
+    ],
+    "summary": "시엘링 첸(Xieling Chen) 등이 2022년 Natural Language Processing Journal에 발표한 본 논문은 자연어 처리(NLP) 분야의 발전 비전, 현재 상태, 그리고 주요 연구 주제들을 종합적으로 분석하여 향후 연구 방향을 조망한 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2022-vision-status-and-research-topics-of-natural.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-microgrid-reference-methodology-for-understanding-utility-and",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "마이크로그리드 프로젝트에서 전력 회사와 소비자 간의 상호작용 이해를 위한 참조 방법론 연구를 다루어 The Electricity Journal 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "마이크로그리드 상호작용 참조 방법론",
+    "originalTitle": "Microgrid Reference Methodology for Understanding Utility and Customer Interactions in Microgrid Projects",
+    "authors": [
+      "Franklin E. Pacheco",
+      "James Christopher Foreman"
+    ],
+    "year": 2017,
+    "journal": "The Electricity Journal",
+    "doi": "10.1016/j.tej.2017.03.005",
+    "sourceUrl": "https://doi.org/10.1016/j.tej.2017.03.005",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "전력회사",
+      "소비자상호작용",
+      "스마트그리드",
+      "참조방법론",
+      "프랭클린파체코",
+      "제임스크리스토퍼포먼"
+    ],
+    "summary": "프랭클린 E. 파체코(Franklin E. Pacheco)와 제임스 크리스토퍼 포먼(James Christopher Foreman)이 2017년 The Electricity Journal 저널에 발표한 본 논문은 마이크로그리드 프로젝트 구축 과정에서 전통적인 전력회사(Utility)와 최종 소비자(Customer) 간의 복잡한 상호작용을 체계적으로 이해하기 위한 참조 방법론을 제시한 전기공학 및 전력 시스템 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2017-microgrid-reference-methodology-for-understanding-utility-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-data-driven-acceleration-of-mixed-integer-bilinear",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "혼합 정수 쌍선형 프로그램의 데이터 기반 가속 연구를 다루어 Frontiers in Robotics and AI 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "혼합 정수 쌍선형 프로그램 데이터 가속",
+    "originalTitle": "Data-driven acceleration of mixed-integer bilinear programs: a comparative study for robot motion planning",
+    "authors": [
+      "Xuan Lin"
+    ],
+    "year": 2026,
+    "journal": "Frontiers in Robotics and AI",
+    "doi": "10.3389/frobt.2025.1656564",
+    "sourceUrl": "https://doi.org/10.3389/frobt.2025.1656564",
+    "keywords": [
+      "로봇·자동화",
+      "로봇모션계획",
+      "혼합정수쌍선형프로그램",
+      "데이터기반가속",
+      "최적화",
+      "Xuan Lin"
+    ],
+    "summary": "쉬안 린(Xuan Lin)이 2026년 Frontiers in Robotics and AI 저널에 발표한 본 논문은 로봇 모션 계획을 위한 혼합 정수 쌍선형 프로그램(MIBLP)을 데이터 기반 기법으로 가속하는 방법을 비교 분석하고, 실시간 로봇 제어에서의 적용 가능성을 입증한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-2026-data-driven-acceleration-of-mixed-integer-bilinear.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1984-self-consistent-molecular-orbital-methods-25-supplementary",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "가우시안 기저 함수를 위한 보조 함수 연구를 다루어 The Journal of Chemical Physics 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "가우시안 기저 함수 보조 함수",
+    "originalTitle": "Self-consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets",
+    "authors": [
+      "Michael J. Frisch",
+      "John A. Pople",
+      "J. Stephen Binkley"
+    ],
+    "year": 1984,
+    "journal": "The Journal of Chemical Physics",
+    "doi": "10.1063/1.447079",
+    "sourceUrl": "https://doi.org/10.1063/1.447079",
+    "keywords": [
+      "에너지·환경",
+      "분자오비탈",
+      "가우시안기저함수",
+      "보조함수",
+      "반응에너지",
+      "마이클프리시",
+      "존포폴",
+      "스티븐빙클리"
+    ],
+    "summary": "마이클 J. 프리시(Michael J. Frisch), 존 A. 포폴(John A. Pople), J. 스티븐 빙클리(J. Stephen Binkley)가 1984년 The Journal of Chemical Physics 저널에 발표한 본 논문은 6-31G 및 6-311G 기저 함수를 위한 표준 보조 함수(확산 함수 및 고차 분극 함수)들을 정의하고, 이를 질소 분자(N2)의 결합 에너지와 수소화 에너지 계산에 적용하여 반응 에너지의 정확한 계산에 기여한 에너지·환경 및 양자화학 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 30분",
+    "file": "papers/paper-1984-self-consistent-molecular-orbital-methods-25-supplementary.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-implementasi-building-information-modeling-bim-untuk-analisis",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A7C59",
+    "title": "철골 공사 물량 산출을 위한 빌딩 정보 모델링(BIM) 적용 연구를 다루어 Jurnal Civil Engineering Study 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "철골 공사 BIM 물량 산출 적용",
+    "originalTitle": "IMPLEMENTASI BUILDING INFORMATION MODELING (BIM) UNTUK ANALISIS PERHITUNGAN VOLUME UNTUK PEKERJAAN BAJA",
+    "authors": [
+      "Indrastuti",
+      "Havila Elysia",
+      "Yusra Aulia Sari"
+    ],
+    "year": 2026,
+    "journal": "Jurnal Civil Engineering Study",
+    "doi": "10.34001/ces.v6i01.1832",
+    "sourceUrl": "https://doi.org/10.34001/ces.v6i01.1832",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "빌딩정보모델링",
+      "철골공사",
+      "물량산출",
+      "오토데스크레빗",
+      "인드라스투티",
+      "하빌라엘리시아",
+      "유스라울리아사리"
+    ],
+    "summary": "인드라스투티(Indrastuti) 등이 2026년 Jurnal Civil Engineering Study 저널에 발표한 본 논문은 창고 건설 프로젝트에서 철골 구조물의 물량 산출과 원가 조정을 위해 3차원 빌딩 정보 모델링(BIM) 기술을 어떻게 적용하고 분석할 수 있는지 실무적으로 고찰한 건축·시설관리 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2026-implementasi-building-information-modeling-bim-untuk-analisis.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1990-learning-in-neural-network-memories",
     "verified": true,
     "category": "인공지능",
