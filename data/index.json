@@ -1,5 +1,193 @@
 [
   {
+    "id": "paper-2024-machine-learning-for-an-explainable-cost-prediction",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "의료 보험 비용의 설명 가능한 예측을 위한 머신러닝을 다루어 Machine Learning with Applications 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "의료 보험 비용의 설명 가능한 머신러닝 예측",
+    "originalTitle": "Machine learning for an explainable cost prediction of medical insurance",
+    "authors": [
+      "Ugochukwu Orji",
+      "Elochukwu Ukwandu"
+    ],
+    "year": 2024,
+    "journal": "Machine Learning with Applications",
+    "doi": "10.1016/j.mlwa.2023.100516",
+    "sourceUrl": "https://doi.org/10.1016/j.mlwa.2023.100516",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "의료보험비용",
+      "설명가능한인공지능",
+      "XAI",
+      "비용예측",
+      "학술논문"
+    ],
+    "summary": "Ugochukwu Orji와 Elochukwu Ukwandu 연구진이 2024년 Machine Learning with Applications 저널에 발표한 본 논문은, 머신러닝을 활용해 의료 보험 비용을 정확하게 예측하는 동시에 인공지능의 의사결정 과정을 투명하게 설명할 수 있는 모델을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2024-machine-learning-for-an-explainable-cost-prediction.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-from-power-electronics-inside-to-human-centered",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "전력 전자기술의 내재적 관점에서 인간 중심적 전력 전자로의 패러다임 전환을 다루어 IEEE Power Electronics Magazine 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "인간 중심적 전력 전자 패러다임",
+    "originalTitle": "From “Power Electronics Inside” to “Human-Centered Power Electronics”",
+    "authors": [
+      "Harish Sarma Krishnamoorthy",
+      "Philip Krein",
+      "Brian Zahnstecher"
+    ],
+    "year": 2023,
+    "journal": "IEEE Power Electronics Magazine",
+    "doi": "10.1109/mpel.2023.3301416",
+    "sourceUrl": "https://doi.org/10.1109/mpel.2023.3301416",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "인간중심전력전자",
+      "시스템설계",
+      "에너지효율",
+      "사용자경험",
+      "학술논문"
+    ],
+    "summary": "Harish Sarma Krishnamoorthy, Philip Krein, Brian Zahnstecher 연구진이 2023년 IEEE Power Electronics Magazine 저널에 발표한 본 논문은, 기존의 기기 내부 부품으로만 여겨지던 전력 전자기술이 사용자, 사회, 그리고 인간 중심적 가치를 직접 반영하는 새로운 패러다임으로 진화해야 함을 역설한 전기 분야 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-from-power-electronics-inside-to-human-centered.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-ampd-adaptive-motion-planning-diffusion-for-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "복잡한 환경에서의 로봇 모션 플래닝을 위한 적응형 모션 플래닝 확산 모델을 다루어 IEEE Transactions on Consumer Electronics 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "복잡한 환경의 로봇 모션을 위한 적응형 확산 모델",
+    "originalTitle": "AMPD: Adaptive Motion Planning Diffusion for Robot Motion Planning in Complex Environments",
+    "authors": [
+      "Xiangxi Chen",
+      "Yuzhi Jiang",
+      "Renzhi Lu"
+    ],
+    "year": 2026,
+    "journal": "IEEE Transactions on Consumer Electronics",
+    "doi": "10.1109/tce.2026.3673342",
+    "sourceUrl": "https://doi.org/10.1109/tce.2026.3673342",
+    "keywords": [
+      "로봇·자동화",
+      "모션플래닝",
+      "확산모델",
+      "적응형제어",
+      "복잡한환경",
+      "장애물회피",
+      "학술논문"
+    ],
+    "summary": "Xiangxi Chen, Yuzhi Jiang, Renzhi Lu 연구진이 2026년 IEEE Transactions on Consumer Electronics 저널에 발표한 본 논문은, 복잡하고 예측하기 어려운 환경에서 로봇이 안전하고 효율적으로 이동 경로를 생성할 수 있도록 돕는 적응형 모션 플래닝 확산 모델(AMPD)을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2026-ampd-adaptive-motion-planning-diffusion-for-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-optimal-allocation-of-multiple-energy-storage-in",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "에너지 저장 우선순위를 고려한 해안가 제로에너지 커뮤니티의 통합 에너지 시스템 내 복수 에너지 저장장치 최적 배치 연구를 다루어 Journal of Energy Storage 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "해안가 제로에너지 커뮤니티의 복수 에너지 저장 최적 배치",
+    "originalTitle": "Optimal allocation of multiple energy storage in the integrated energy system of a coastal nearly zero energy community considering energy storage priorities",
+    "authors": [
+      "Minchao Fan",
+      "Sunliang Cao",
+      "Shilei Lu"
+    ],
+    "year": 2024,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2024.111323",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2024.111323",
+    "keywords": [
+      "에너지·환경",
+      "에너지저장장치",
+      "통합에너지시스템",
+      "제로에너지커뮤니티",
+      "저장우선순위",
+      "최적배치",
+      "해안가공동체",
+      "학술논문"
+    ],
+    "summary": "Minchao Fan, Sunliang Cao, Shilei Lu 연구진이 2024년 Journal of Energy Storage 저널에 발표한 본 논문은, 에너지 저장 우선순위를 고려하여 해안가 제로에너지 커뮤니티의 통합 에너지 시스템 안에서 다중 에너지 저장장치를 어떻게 최적으로 배치할 것인지 분석한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2024-optimal-allocation-of-multiple-energy-storage-in.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-l-architecte-face-au-bim-building-information",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "BIM(빌딩 정보 모델링) 도입에 따른 건축가의 역할 변화를 다루어 Industrie du futur 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "BIM 도입에 따른 건축가의 역할 변화",
+    "originalTitle": "L’Architecte face au BIM (Building Information Modeling)",
+    "authors": [
+      "Zeina KHOURI"
+    ],
+    "year": 2024,
+    "journal": "Industrie du futur",
+    "doi": "10.51257/a-v2-c3203",
+    "sourceUrl": "https://doi.org/10.51257/a-v2-c3203",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "빌딩정보모델링",
+      "건축가",
+      "디지털전환",
+      "건축설계",
+      "학술논문"
+    ],
+    "summary": "Zeina KHOURI 연구자가 2024년 Industrie du futur 저널에 발표한 본 논문은, 건축 산업의 디지털 전환 핵심인 BIM(Building Information Modeling) 도입 환경 속에서 건축가의 전통적 역할이 어떻게 재정의되고 협업 방식이 변화하는지 고찰한 문헌 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2024-l-architecte-face-au-bim-building-information.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-use-of-artificial-intelligence-in-the-library",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A6FA5",
+    "title": "도서관 서비스에서의 인공지능 활용과 전망 및 과제를 다루어 Library Hi Tech News 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "도서관 서비스에서의 인공지능 활용과 전망",
+    "originalTitle": "Use of artificial intelligence in the library services: prospects and challenges",
+    "authors": [
+      "Abid Hussain"
+    ],
+    "year": 2023,
+    "journal": "Library Hi Tech News",
+    "doi": "10.1108/lhtn-11-2022-0125",
+    "sourceUrl": "https://doi.org/10.1108/lhtn-11-2022-0125",
+    "keywords": [
+      "도서관·문헌정보",
+      "인공지능",
+      "도서관서비스",
+      "도서관운영",
+      "콘텐츠분석",
+      "정보기술",
+      "학술논문"
+    ],
+    "summary": "Abid Hussain 연구자가 2023년 Library Hi Tech News 저널에 발표한 본 논문은, 도서관 운영 및 서비스 분야에서 인공지능(AI) 기술이 도입됨으로써 얻을 수 있는 장단점과 실무적 적용 방안, 그리고 직면하는 장애 요인들을 문헌 분석을 통해 종합적으로 고찰한 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-use-of-artificial-intelligence-in-the-library.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-deep-reinforcement-learning-an-innovative-approach-that",
     "verified": true,
     "category": "인공지능",
