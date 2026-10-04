@@ -1,5 +1,192 @@
 [
   {
+    "id": "paper-2026-deep-learning-vs-traditional-machine-learning-for",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "소비자 신용 채무 불이행 예측을 위한 딥러닝과 전통적 머신러닝의 비교 연구를 다루어 Journal of Machine Learning and Deep Learning 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "신용 채무 불이행 예측: 딥러닝 vs 전통적 머신러닝",
+    "originalTitle": "Deep Learning vs. Traditional Machine Learning for Consumer Credit Default Prediction: A Comparative Study",
+    "authors": [
+      "Nguyen Trung Hieu"
+    ],
+    "year": 2026,
+    "journal": "Journal of Machine Learning and Deep Learning",
+    "doi": "10.64820/aepjmldl.31.29.38.62026",
+    "sourceUrl": "https://doi.org/10.64820/aepjmldl.31.29.38.62026",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "딥러닝",
+      "신용평가",
+      "채무불이행",
+      "로지스틱회귀",
+      "XGBoost",
+      "학술논문"
+    ],
+    "summary": "Nguyen Trung Hieu 연구자가 2026년 Journal of Machine Learning and Deep Learning 저널에 발표한 본 논문은, 소비자 신용 채무 불이행 예측을 위해 전통적인 로지스틱 회귀부터 다층 퍼셉트론과 XGBoost에 이르기까지 다양한 모델의 성능을 비교 분석하고, 모델의 복잡성과 예측 가치 간의 관계를 지적한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2026-deep-learning-vs-traditional-machine-learning-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-novel-power-electronics-solutions-for-sustainable-power",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "지속 가능한 전력 시스템을 위한 새로운 전력 전자기술 솔루션을 다루어 American Journal Of Power Electronics And Power Systems 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "지속 가능한 전력 시스템을 위한 전력 전자 솔루션",
+    "originalTitle": "Novel Power Electronics Solutions for Sustainable Power Systems",
+    "authors": [
+      "Dr. John Doe"
+    ],
+    "year": 2023,
+    "journal": "American Journal Of Power Electronics And Power Systems",
+    "doi": "10.71465/ajpeps2536",
+    "sourceUrl": "https://doi.org/10.71465/ajpeps2536",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "지속가능한전력",
+      "재생에너지",
+      "스마트그리드",
+      "에너지변환",
+      "학술논문"
+    ],
+    "summary": "Dr. John Doe가 2023년 American Journal Of Power Electronics And Power Systems 저널에 발표한 본 논문은, 재생에너지와 스마트 그라드 환경에서 에너지 변환, 분배, 저장 효율을 극대화하기 위한 혁신적인 전력 전자 토폴로지와 제어 전략, 통합 기법을 고찰한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-novel-power-electronics-solutions-for-sustainable-power.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-avk-slam-an-efficient-lidar-inertial-slam",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "비정형 환경에서 밀도 인지형 복셀화와 키프레임 선택을 활용한 고효율 라이다-관성 SLAM을 다루어 Intelligent Service Robotics 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "비정형 환경을 위한 고효율 라이다-관성 SLAM",
+    "originalTitle": "AVK-SLAM: an efficient LiDAR–inertial SLAM with density-aware voxelization and keyframe selection in unstructured environments",
+    "authors": [
+      "Shuai Liu",
+      "Xiuzhi Li"
+    ],
+    "year": 2026,
+    "journal": "Intelligent Service Robotics",
+    "doi": "10.1007/s11370-026-00701-w",
+    "sourceUrl": "https://doi.org/10.1007/s11370-026-00701-w",
+    "keywords": [
+      "로봇·자동화",
+      "SLAM",
+      "라이다관성",
+      "비정형환경",
+      "복셀화",
+      "키프레임선택",
+      "자율주행",
+      "학술논문"
+    ],
+    "summary": "Shuai Liu와 Xiuzhi Li 연구진이 2026년 Intelligent Service Robotics 저널에 발표한 본 논문은, 구조물이 불규칙하고 복잡한 비정형 환경에서 밀도를 인식하는 복셀화와 효율적인 키프레임 선택 기법을 결합하여 성능을 높인 고효율 라이다-관성 SLAM(AVK-SLAM) 시스템을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2026-avk-slam-an-efficient-lidar-inertial-slam.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-defining-long-duration-energy-storage",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "장주기 에너지 저장 장치의 정의 정립을 다루어 Journal of Energy Storage 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "장주기 에너지 저장 장치의 정의 정립",
+    "originalTitle": "Defining long duration energy storage",
+    "authors": [
+      "Jeremy Twitchell",
+      "Kyle DeSomber",
+      "Dhruv Bhatnagar"
+    ],
+    "year": 2023,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2022.105787",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2022.105787",
+    "keywords": [
+      "에너지환경",
+      "장주기저장장치",
+      "LDES",
+      "전력계통",
+      "재생에너지",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "Jeremy Twitchell, Kyle DeSomber, Dhruv Bhatnagar 연구진이 2023년 Journal of Energy Storage 저널에 발표한 본 논문은, 전력망에서 재생에너지 비중이 높아짐에 따라 필수적으로 요구되는 '장주기 에너지 저장 장치(LDES)'의 명확한 개념과 정의를 정립하여 향후 정책 수립과 시장 설계의 기준을 제시한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-defining-long-duration-energy-storage.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-operational-text-mining-methods-for-enhancing-building",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D07C5B",
+    "title": "건물 유지관리 효율성 향상을 위한 운영적 텍스트 마이닝 방법론을 다루어 Building Research & Information 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지관리를 위한 텍스트 마이닝 방법론",
+    "originalTitle": "Operational text-mining methods for enhancing building maintenance management",
+    "authors": [
+      "Marco Marocco",
+      "Ilaria Garofolo"
+    ],
+    "year": 2021,
+    "journal": "Building Research & Information",
+    "doi": "10.1080/09613218.2021.1953368",
+    "sourceUrl": "https://doi.org/10.1080/09613218.2021.1953368",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "텍스트마이닝",
+      "유지관리",
+      "건물운영",
+      "자연어처리기법",
+      "학술논문"
+    ],
+    "summary": "Marco Marocco와 Ilaria Garofolo 연구진이 2021년 Building Research & Information 저널에 발표한 본 논문은, 건물 유지관리 과정에서 발생하는 방대한 비정형 텍스트 데이터를 분석하여 시설 운영 효율성을 높이는 운영적 텍스트 마이닝 방법론을 고찰한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2021-operational-text-mining-methods-for-enhancing-building.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-implementing-artificial-intelligence-in-library-services-a",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A7C59",
+    "title": "개발도상국 도서관 서비스의 인공지능 도입 현황과 과제에 대한 리뷰를 다루어 Library Hi Tech News 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "개발도상국 도서관의 인공지능 도입 prospects와 과제",
+    "originalTitle": "Implementing artificial intelligence in library services: a review of current prospects and challenges of developing countries",
+    "authors": [
+      "Sayantoni Barsha",
+      "Shamim Aktar Munshi"
+    ],
+    "year": 2023,
+    "journal": "Library Hi Tech News",
+    "doi": "10.1108/lhtn-07-2023-0126",
+    "sourceUrl": "https://doi.org/10.1108/lhtn-07-2023-0126",
+    "keywords": [
+      "도서관·문헌정보",
+      "인공지능",
+      "도서관서비스",
+      "개발도상국",
+      "문헌연구",
+      "디지털격차",
+      "학술논문"
+    ],
+    "summary": "Sayantoni Barsha와 Shamim Aktar Munshi 연구진이 2023년 Library Hi Tech News 저널에 발표한 본 논문은, 개발도상국 도서관에서 인공지능(AI) 기반 솔루션을 도입할 때 직면하는 주요 과제와 기대되는 전망을 체계적인 문헌 분석을 통해 고찰한 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-implementing-artificial-intelligence-in-library-services-a.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2024-machine-learning-for-an-explainable-cost-prediction",
     "verified": true,
     "category": "인공지능",
