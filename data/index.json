@@ -1,5 +1,197 @@
 [
   {
+    "id": "paper-2025-deep-learning-based-learning-strategies-in-realizing",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "의미 있고 비판적이며 즐거운 학습을 구현하기 위한 딥러닝 기반 학습 전략을 다루어 Journal of Deep Learning 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝 기반 학습 전략을 통한 의미 있는 학습 구현",
+    "originalTitle": "Deep Learning-Based Learning Strategies in Realizing Meaningful, Critical, and Enjoyable Learning",
+    "authors": [
+      "Rizwatul Hasanah",
+      "Harun Joko Prayitno",
+      "Suni Tuti",
+      "Sarilan Sarilan",
+      "Velandani Prakoso"
+    ],
+    "year": 2025,
+    "journal": "Journal of Deep Learning",
+    "doi": "10.23917/jdl.v1i2.11572",
+    "sourceUrl": "https://doi.org/10.23917/jdl.v1i2.11572",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "교육공학",
+      "직업교육",
+      "디지털리터러시",
+      "프로젝트기반학습",
+      "학술논문"
+    ],
+    "summary": "Rizwatul Hasanah 연구진이 2025년 Journal of Deep Learning 저널에 발표한 본 논문은, 문헌 연구 접근법을 통해 직업고등학교(SMK) 환경에서 인공지능의 하위 분야인 딥러닝 기술을 교육 현장에 적용하여 의미 있고 비판적이며 즐거운 학습을 실현하는 방안을 탐색한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2025-deep-learning-based-learning-strategies-in-realizing.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-sizing-power-transformers-in-power-systems-planning",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "열적 정격을 이용한 전력 시스템 계획에서의 전력용 변압기 용량 산정을 다루어 International Journal of Electrical Power & Energy Systems 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "열적 정격을 이용한 전력용 변압기 용량 산정",
+    "originalTitle": "Sizing power transformers in power systems planning using thermal rating",
+    "authors": [
+      "Olivier Arguence",
+      "Florent Cadoux"
+    ],
+    "year": 2020,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/j.ijepes.2019.105781",
+    "sourceUrl": "https://doi.org/10.1016/j.ijepes.2019.105781",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "전력용변압기",
+      "용량산정",
+      "열적정격",
+      "전력계통계획",
+      "학술논문"
+    ],
+    "summary": "Olivier Arguence와 Florent Cadoux 연구진이 2020년 International Journal of Electrical Power & Energy Systems 저널에 발표한 본 논문은, 전력 시스템 계획 과정에서 변압기의 실제 열적 거동을 고려하여 전력용 변압기의 최적 용량을 산정하는 방법을 다룬 전기 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2020-sizing-power-transformers-in-power-systems-planning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-h-slam-hybrid-direct-indirect-visual-slam",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "H-SLAM: 하이브리드 직접-간접 시각 SLAM을 다루어 Robotics and Autonomous Systems 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "H-SLAM: 하이브리드 직접-간접 시각 SLAM",
+    "originalTitle": "H-SLAM: Hybrid direct–indirect visual SLAM",
+    "authors": [
+      "Georges Younes",
+      "Douaa Khalil",
+      "John Zelek",
+      "Daniel Asmar"
+    ],
+    "year": 2024,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/j.robot.2024.104729",
+    "sourceUrl": "https://doi.org/10.1016/j.robot.2024.104729",
+    "keywords": [
+      "로봇·자동화",
+      "시각SLAM",
+      "하이브리드SLAM",
+      "직접법",
+      "간접법",
+      "자율주행",
+      "로봇내비게이션",
+      "학술논문"
+    ],
+    "summary": "Georges Younes, Douaa Khalil, John Zelek, Daniel Asmar 연구진이 2024년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 카메라 영상을 기반으로 주변 환경을 지도화하고 로봇의 위치를 추정하는 시각 SLAM 기술에서 기존 직접법과 간접법의 장점을 결합한 하이브리드 접근법(H-SLAM)을 제안한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-2024-h-slam-hybrid-direct-indirect-visual-slam.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-evaluating-solar-photovoltaic-potential-of-buildings-based",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2C7A7B",
+    "title": "건물 태양광 발전 잠재력 평가를 위한 태양광 모듈 설치 매개변수 기반 연구를 다루어 Solar Energy 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "건물 태양광 발전 잠재력 평가 및 설치 매개변수",
+    "originalTitle": "Evaluating solar photovoltaic potential of buildings based on the installation parameters of photovoltaic modules",
+    "authors": [
+      "Cunzhuang Dong",
+      "Qing Zhong"
+    ],
+    "year": 2025,
+    "journal": "Solar Energy",
+    "doi": "10.1016/j.solener.2025.113304",
+    "sourceUrl": "https://doi.org/10.1016/j.solener.2025.113304",
+    "keywords": [
+      "에너지·환경",
+      "태양광발전",
+      "건물일체형태양광",
+      "설치매개변수",
+      "신재생에너지",
+      "발전잠재력",
+      "학술논문"
+    ],
+    "summary": "Cunzhuang Dong과 Qing Zhong 연구진이 2025년 Solar Energy 저널에 발표한 본 논문은, 태양광 모듈의 다양한 설치 매개변수와 건물 구조적 특성을 고려하여 건물이 지닌 태양광 발전 잠재력을 정밀하게 평가하는 방법을 다룬 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2025-evaluating-solar-photovoltaic-potential-of-buildings-based.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-u-s-military-veterans-as-a-source",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#9C6ADE",
+    "title": "미국 군 전역자를 시설관리 인재 소스로 활용하는 방안을 다루어 Journal of Facility Management Education and Research 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "미국 군 전역자의 시설관리 인재 활용 방안",
+    "originalTitle": "U.S. Military Veterans as a Source of Facility Management Talent",
+    "authors": [
+      "Steven Call"
+    ],
+    "year": 2025,
+    "journal": "Journal of Facility Management Education and Research",
+    "doi": "10.22361/jfmer/200940",
+    "sourceUrl": "https://doi.org/10.22361/jfmer/200940",
+    "keywords": [
+      "건축·시설관리",
+      "시설관리",
+      "군전역자",
+      "인력난",
+      "채용",
+      "인재확보",
+      "학술논문"
+    ],
+    "summary": "Steven Call 연구자가 2025년 Journal of Facility Management Education and Research 저널에 발표한 본 논문은, 지속되는 시설관리(FM) 산업의 인력 부족 문제를 해결하기 위해 미국 군 전역자를 새로운 인재 자원으로 활용할 수 있는 가능성과 장애 요인을 분석한 건축·시설관리 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2025-u-s-military-veterans-as-a-source.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-artificial-intelligence-in-academic-library-strategy-in",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#D85A38",
+    "title": "영국과 중국 본토의 대학 도서관 전략 속 인공지능 활용을 다루어 The Journal of Academic Librarianship 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "영·중 대학 도서관 전략 속 인공지능 활용",
+    "originalTitle": "Artificial Intelligence in academic library strategy in the United Kingdom and the Mainland of China",
+    "authors": [
+      "Yingshen Huang",
+      "Andrew M. Cox",
+      "John Cox"
+    ],
+    "year": 2023,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2023.102772",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2023.102772",
+    "keywords": [
+      "도서관·문헌정보",
+      "인공지능",
+      "대학도서관",
+      "도서관전략",
+      "영국",
+      "중국",
+      "학술논문"
+    ],
+    "summary": "Yingshen Huang, Andrew M. Cox, John Cox 연구진이 2023년 The Journal of Academic Librarianship 저널에 발표한 본 논문은, 영국과 중국 본토의 대학 도서관들이 인공지능 기술을 조직 전략과 서비스에 어떻게 도입하고 적용하고 있는지 비교 분석한 도서관·문헌정보 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-artificial-intelligence-in-academic-library-strategy-in.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-a-machine-learning-approach-for-hierarchical-classification",
     "verified": true,
     "category": "인공지능",
