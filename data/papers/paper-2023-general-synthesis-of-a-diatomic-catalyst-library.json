@@ -1,0 +1,99 @@
+{
+  "id": "paper-2023-general-synthesis-of-a-diatomic-catalyst-library",
+  "verified": true,
+  "category": "도서관·문헌정보",
+  "color": "#8C6A5D",
+  "title": "거대고리 전구체 매개 접근법을 통한 이원자 촉매 라이브러리의 일반적 합성을 다루어 Journal of the American Chemical Society 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+  "shortTitle": "이원자 촉매 라이브러리의 일반적 합성",
+  "originalTitle": "General Synthesis of a Diatomic Catalyst Library via a Macrocyclic Precursor-Mediated Approach",
+  "authors": "Yu-Xiao Zhang, Shengbo Zhang, Helai Huang, Xiaolong Liu, Beibei Li, Yiyang Lee, Xingdong Wang, Yun Bai, Mingze Sun, Yanfen Wu, Shuyan Gong, Xiangwen Liu, Zhongbin Zhuang, Ting Tan, Zhiqiang Niu",
+  "year": 2023,
+  "journal": "Journal of the American Chemical Society",
+  "doi": "10.1021/jacs.2c13886",
+  "sourceUrl": "https://doi.org/10.1021/jacs.2c13886",
+  "keywords": [
+    "도서관·문헌정보",
+    "촉매합성",
+    "이원자촉매",
+    "거대고리전구체",
+    "재료과학",
+    "화학",
+    "학술논문"
+  ],
+  "difficulty": "★★★☆☆",
+  "prerequisites": "기초 화학 및 재료 과학 개념, 촉매 반응 및 분자 구조에 대한 기본적 이해",
+  "readingTime": "약 20분",
+  "summary": "2023년 Journal of the American Chemical Society에 발표된 본 논문은 거대고리 전구체를 활용해 이원자 촉매 라이브러리를 범용적으로 합성하는 방법을 다룬 연구이다.",
+  "sections": [
+    {
+      "kicker": "PAPER INFO",
+      "title": "논문 기본정보",
+      "html": "<p>원문 제목: General Synthesis of a Diatomic Catalyst Library via a Macrocyclic Precursor-Mediated Approach</p>\n<p>저자: Yu-Xiao Zhang, Shengbo Zhang, Helai Huang, Xiaolong Liu, Beibei Li, Yiyang Lee, Xingdong Wang, Yun Bai, Mingze Sun, Yanfen Wu, Shuyan Gong, Xiangwen Liu, Zhongbin Zhuang, Ting Tan, Zhiqiang Niu</p>\n<p>연도: 2023</p>\n<p>저널: Journal of the American Chemical Society</p>\n<p>DOI: https://doi.org/10.1021/jacs.2c13886</p>\n<p>공식 링크: https://doi.org/10.1021/jacs.2c13886</p>\n<p>난이도: ★★★☆☆</p>\n<p>선행지식: 기초 화학 및 재료 과학 개념, 촉매 반응 및 분자 구조에 대한 기본적 이해</p>\n<p>예상 읽기시간: 약 20분 소요</p>"
+    },
+    {
+      "kicker": "ONE SENTENCE",
+      "title": "한 문장으로 먼저 설명",
+      "html": "<p>본 논문은 거대고리 전구체를 매개로 삼아 다양한 이원자 촉매를 체계적이고 범용적으로 합성할 수 있는 라이브러리 구축 접근법을 제시한 연구이다.</p>"
+    },
+    {
+      "kicker": "KEY SUMMARY",
+      "title": "한눈에 보는 핵심요약",
+      "html": "<ul><li>배경: 차세대 촉매 기술로 주목받는 이원자 촉매는 화학 반응의 효율을 극대화할 수 있는 잠재력이 크다.</li><li>문제의식: 다양한 조합의 이원자 촉매를 일관되고 범용적으로 합성하는 표준화된 방법이 부족했다.</li><li>핵심 제안: 거대고리 전구체를 활용하는 매개 접근법을 통해 이원자 촉매 라이브러리를 일반화하여 합성하는 방안을 제안한다.</li><li>성과: 다양한 촉매 조합을 체계적으로 생성할 수 있는 유연한 합성 경로의 가능성을 입증했다.</li><li>한계: 공개 메타데이터의 범위 상 구체적인 반응 수율이나 상세한 실험 데이터의 수치는 원문 본문을 참고해야 한다.</li></ul>"
+    },
+    {
+      "kicker": "GLOSSARY",
+      "title": "처음 보는 사람을 위한 용어사전",
+      "html": "<ol><li>이원자 촉매 / Diatomic Catalyst — 전문: 두 개의 금속 원자가 인접하여 활성 부위를 형성함으로써 화학 반응을 돕는 고효율 촉매 시스템. 쉬운 말: 두 개의 원소가 짝을 지어 화학 반응을 빠르게 도와주는 특별한 알갱이 도우미.</li><li>거대고리 전구체 / Macrocyclic Precursor — 전문: 고리 모양의 큰 분자 구조를 가지며 금속 원소들을 안정적으로 붙들어 매어 촉매 전구체로 활용되는 물질. 쉬운 말: 여러 원소를 담을 수 있는 커다란 고리 모양의 기초 재료.</li><li>촉매 라이브러리 / Catalyst Library — 전문: 다양한 조건이나 성분의 촉매들을 체계적으로 분류하고 모아놓은 집합체. 쉬운 말: 필요에 따라 골라 쓸 수 있도록 여러 종류의 촉매를 모아둔 목록 상자.</li><li>합성 접근법 / Synthesis Approach — 전문: 화학 물질이나 재료를 특정 목적에 맞게 만들어내기 위한 방법과 절차의 총칭. 쉬운 말: 원하는 재료를 만들기 위해 거치는 조립 방법.</li><li>활성 부위 / Active Site — 전문: 촉매 위에서 화학 반응이 실제로 일어나는 특정 분자적 위치. 쉬운 말: 촉매가 일을 할 때 화학물질이 직접 부딪히며 반응하는 핵심 자리.</li></ol>"
+    },
+    {
+      "kicker": "BACKGROUND",
+      "title": "연구 배경과 문제의식",
+      "html": "<p>현대 화학 및 에너지 분야에서는 반응 효율과 선택성을 극대화하기 위한 새로운 촉매 개발이 필수적이다.</p>\n<p>특히 단원자 촉매를 넘어 두 개의 원자가 협력하는 이원자 촉매는 뛰어난 성능을 보여주어 주목받고 있다. 하지만 이들 촉매를 원하는 조합과 구조로 일관성 있게 대량 합성하는 것은 여전히 까다로운 과제였다. 이에 따라 체계적이고 보편적으로 적용 가능한 합성 플랫폼을 구축하는 것이 시급하다는 문제의식이 본 연구의 배경이다.</p>"
+    },
+    {
+      "kicker": "THEORY",
+      "title": "핵심 이론·원리",
+      "html": "<p>본 연구의 이론적 기반은 거대고리 분자 구조의 특성을 활용해 금속 원자들을 정확한 위치에 고정하고 제어하는 화학적 원리에 있다.</p>\n<p>거대고리 전구체 내부의 특정 결합 자리에 서로 다른 금속 원소들을 안정적으로 유도함으로써, 원자들이 무작위로 흩어지지 않고 이원자 형태로 나란히 배치되도록 설계하는 메커니즘을 다룬다.</p>"
+    },
+    {
+      "kicker": "METHOD",
+      "title": "연구방법 및 실험/시뮬레이션 조건",
+      "html": "<p>본 연구는 거대고리 전구체를 매개체로 삼아 다양한 금속 원소 조합을 포함하는 이원자 촉매들을 합성하는 실험적 절차를 정립하였다.</p>\n<p>합성된 물질들의 구조적 특성을 분석하고 촉매로서의 유효성을 검증하였다. (※ 공개 메타데이터의 범위 상 구체적인 온도, 압력, 반응 시간 등의 세부 실험 조건은 원문 본문을 참고해야 한다.)</p>"
+    },
+    {
+      "kicker": "RESULT",
+      "title": "주요 결과와 핵심 수치 의미",
+      "html": "<p>연구 결과, 제안된 거대고리 전구체 매개 접근법은 다양한 조성의 이원자 촉매 라이브러리를 성공적으로 구축할 수 있음을 보여주었다.</p><p>이는 복잡한 촉매 구조를 맞춤형으로 대량 생산할 수 있는 길을 열어준다는 점에서 큰 의미를 지닌다. (※ 구체적인 촉매 활성 수치나 효율 비교 데이터는 원문 본문을 참고해야 한다.)</p>"
+    },
+    {
+      "kicker": "CONCLUSION",
+      "title": "저자의 결론",
+      "html": "<p>저자들은 거대고리 전구체 매개법이 이원자 촉매의 범용적 합성을 위한 강력하고 유연한 전략이라고 결론지었다.</p>\n<p>이 접근법을 통해 향후 다양한 에너지 변환 및 화학 공정용 촉매를 체계적으로 발굴할 수 있는 기반이 마련되었다고 평가한다.</p>"
+    },
+    {
+      "kicker": "PRACTICE",
+      "title": "실제 활용 가능성",
+      "html": "<p>수소 생산, 연료전지, 이산화탄소 환원 등 친환경 에너지 전환 기술을 위한 고효율 촉매 개발 및 신소재 스크리닝 과정에 직접적으로 응용될 수 있다.</p>"
+    },
+    {
+      "kicker": "LIMITATIONS",
+      "title": "논문의 한계와 비판적 해석",
+      "html": "<p>공개된 메타데이터의 한계로 인해 모든 종류의 금속 조합에 대한 범용성의 한계점이나 대량 생산 시의 경제성 등에 대한 상세한 검증 내역은 원문 본문을 통해 추가 확인이 필요하다.</p>"
+    },
+    {
+      "kicker": "LESSONS",
+      "title": "이 논문에서 배울 것",
+      "html": "<ol><li>복잡한 미세 구조를 제어하기 위한 전구체 매개 합성 전략의 중요성.</li><li>다양한 촉매 조합을 라이브러리 형태로 체계화하는 접근 방식.</li><li>재료 과학과 화학 합성 분야의 융합을 통한 신기술 창출.</li></ol>"
+    },
+    {
+      "kicker": "EASY",
+      "title": "완전 쉽게 말하면",
+      "html": "<p>화학 반응을 빠르게 도와주는 촉매는 종류에 따라 성능이 천차만별이다. 특히 두 개의 원자가 짝을 이룬 '이원자 촉매'는 성능이 아주 뛰어나지만, 원하는 대로 튼튼하고 정확하게 만들어내기가 매우 까다로웠다. 이 논문은 마치 틀에 맞추어 찍어내듯 거대고리 모양의 특별한 기초 재료를 사용하여, 다양한 이원자 촉매들을 손쉽게 척척 만들어낼 수 있는 방법을 소개한다. 여러 가지 촉매 모음을 체계적으로 만들 수 있게 도와줌으로써 앞으로 친환경 에너지 기술을 발전시키는 데 큰 보탬이 될 연구이다.</p>"
+    },
+    {
+      "kicker": "5-LINE SUMMARY",
+      "title": "핵심 5줄 요약",
+      "html": "<ol><li>이원자 촉매의 범용적 합성을 위한 새로운 접근법을 제안했다.</li><li>거대고리 전구체를 매개로 활용하여 금속 원자의 배치를 안정적으로 제어했다.</li><li>다양한 조성의 이원자 촉매 라이브러리를 체계적으로 구축할 수 있음을 입증했다.</li><li>차세대 친환경 에너지 및 화학 반응용 촉매 개발의 발판을 마련했다.</li><li>향후 맞춤형 신소재 합성 연구에 중요한 방법론적 기여를 했다.</li></ol>"
+    }
+  ]
+}
