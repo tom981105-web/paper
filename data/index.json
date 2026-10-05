@@ -1,5 +1,196 @@
 [
   {
+    "id": "paper-1943-a-logical-calculus-of-the-ideas-immanent",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "신경 활동에 내재된 아이디어의 논리적 계산을 다루어 The Bulletin of Mathematical Biophysics 저널에 게재된 인공지능 및 신경망 분야 학술 논문",
+    "shortTitle": "신경 활동의 논리적 계산 (맥컬럭-피츠 신경망)",
+    "originalTitle": "A logical calculus of the ideas immanent in nervous activity",
+    "authors": [
+      "Warren S. McCulloch",
+      "Walter Pitts"
+    ],
+    "year": 1943,
+    "journal": "The Bulletin of Mathematical Biophysics",
+    "doi": "10.1007/bf02478259",
+    "sourceUrl": "https://doi.org/10.1007/bf02478259",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "맥컬럭피츠",
+      "인공신경원",
+      "논리회로",
+      "뇌기능",
+      "학술논문"
+    ],
+    "summary": "Warren S. McCulloch와 Walter Pitts가 1943년 The Bulletin of Mathematical Biophysics 저널에 발표한 본 논문은, 인간의 뇌 속 신경세포(뉴런)가 전기적 신호를 주고받는 생물학적 현상이 논리 기호의 연산과 수학적으로 동일하다는 사실을 증명하여 인공신경망과 인공지능의 태동을 이끈 역사적인 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 25분",
+    "file": "papers/paper-1943-a-logical-calculus-of-the-ideas-immanent.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-an-auxiliary-power-unit-for-advanced-aircraft",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "첨단 항공기 전기 power 시스템을 위한 보조동력장치(APU)를 다루어 Electric Power Systems Research 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "첨단 항공기 전기 시스템을 위한 보조동력장치(APU) 연구",
+    "originalTitle": "An auxiliary power unit for advanced aircraft electric power systems",
+    "authors": [
+      "Hadi Ebrahimi",
+      "Javad R. Gatabi",
+      "Hassan El-Kishky"
+    ],
+    "year": 2015,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2014.10.023",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2014.10.023",
+    "keywords": [
+      "전기",
+      "보조동력장치",
+      "APU",
+      "항공기전력시스템",
+      "전기식항공기",
+      "전력변환",
+      "학술논문"
+    ],
+    "summary": "Hadi Ebrahimi 외 연구진이 2015년 Electric Power Systems Research 저널에 발표한 본 논문은, 첨단 항공기 전력 시스템의 수요 증가에 대응하기 위해 효율적이고 안정적인 보조동력장치(APU)의 설계와 전력 공급 성능을 분석한 전기 공학 분야 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2015-an-auxiliary-power-unit-for-advanced-aircraft.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-osm-slam-aiding-slam-with-openstreetmaps-priors",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "오픈스트리트맵 사전 정보를 활용한 자율주행 및 로봇 SLAM 고도화 시스템인 'OSM-SLAM'의 구조와 성능을 다루어 Frontiers in Robotics and AI 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "오픈스트리트맵 사전 지식을 결합한 OSM-SLAM",
+    "originalTitle": "OSM-SLAM: Aiding SLAM with OpenStreetMaps priors",
+    "authors": [
+      "Matteo Frosi",
+      "Veronica Gobbi",
+      "Matteo Matteucci"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Robotics and AI",
+    "doi": "10.3389/frobt.2023.1064934",
+    "sourceUrl": "https://doi.org/10.3389/frobt.2023.1064934",
+    "keywords": [
+      "로봇·자동화",
+      "SLAM",
+      "OSM-SLAM",
+      "오픈스트리트맵",
+      "LiDAR",
+      "자율주행",
+      "그래프SLAM",
+      "학술논문"
+    ],
+    "summary": "Matteo Frosi 외 연구진이 2023년 Frontiers in Robotics and AI 저널에 발표한 본 논문은, 로봇이 센서 데이터만으로 지도를 만들 때 발생하는 누적 오차와 일시적 센서 손실 문제를 해결하기 위해 OpenStreetMap의 건물 2D 지형 정보를 결합한 새로운 SLAM 시스템 'OSM-SLAM'을 제안하고 그 성능을 검증한 로봇 공학 분야 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-osm-slam-aiding-slam-with-openstreetmaps-priors.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-simulations-of-energy-storage-requirements-of-wind",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "풍력 에너지 시설의 에너지 저장 장치 요구 사항 시뮬레이션을 다루어 Energy Storage 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 시설의 에너지 저장 장치 요구 사항 시뮬레이션",
+    "originalTitle": "Simulations of energy storage requirements of wind energy facilities",
+    "authors": [
+      "Stefania Castelletto",
+      "Alberto Boretti"
+    ],
+    "year": 2021,
+    "journal": "Energy Storage",
+    "doi": "10.1002/est2.259",
+    "sourceUrl": "https://doi.org/10.1002/est2.259",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "에너지저장장치",
+      "시뮬레이션",
+      "기상데이터",
+      "전력망",
+      "학술논문"
+    ],
+    "summary": "Stefania Castelletto와 Alberto Boretti가 2021년 Energy Storage 저널에 발표한 본 논문은, 풍력 에너지 시설의 전력망 수준 에너지 저장 비용 산정에 핵심적인 명목 용량, 연간 평균 용량 계수, 고주파 표본추출 표준편차 등을 측정값과 자원 기반 시뮬레이션을 통해 비교하고, 현행 시뮬레이션의 부정확성을 검증하기 위한 고주파 실제 데이터의 필요성을 강조한 에너지·환경 분야 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2021-simulations-of-energy-storage-requirements-of-wind.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-building-information-modeling-einfu-hren-implementing-building",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A7C59",
+    "title": "건축·시설관리 분야에서 디지털 공장 구축을 위한 빌딩 정보 모델링(BIM) 도입 및 적용 방안을 다루어 wt Werkstattstechnik online 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "디지털 공장 구현을 위한 BIM 도입 및 적용 방안",
+    "originalTitle": "Building Information Modeling einführen/Implementing Building Information Modeling – Realizing the digital Factory",
+    "authors": [
+      "Thomas Neuhäuser",
+      "Rüdiger Daub"
+    ],
+    "year": 2023,
+    "journal": "wt Werkstattstechnik online",
+    "doi": "10.37544/1436-4980-2023-04-26",
+    "sourceUrl": "https://doi.org/10.37544/1436-4980-2023-04-26",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "빌딩정보모델링",
+      "디지털공장",
+      "공장플랜닝",
+      "스마트제조",
+      "학술논문"
+    ],
+    "summary": "Thomas Neuhäuser와 Rüdiger Daub가 2023년 wt Werkstattstechnik online 저널에 발표한 본 논문은, 급변하는 시장 환경에 대응해야 하는 독일 제조 기업들을 위해 공장 계획 단계에서 디지털 방법, 모델, 도구인 빌딩 정보 모델링(BIM)을 어떻게 체계적으로 기업 내에 도입하고 디지털 공장과 연계할 수 있는지 그 방안을 소개한 건축 및 시설관리 분야 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2023-building-information-modeling-einfu-hren-implementing-building.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-investigating-applications-of-artificial-intelligence-in-university",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A6FA5",
+    "title": "파키스탄 대학 도서관에서의 인공지능 활용 실태와 적용 방안을 다루어 The Journal of Academic Librarianship 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "파키스탄 대학 도서관의 인공지능 활용 실태 분석",
+    "originalTitle": "Investigating applications of Artificial Intelligence in university libraries of Pakistan: An empirical study",
+    "authors": [
+      "Muhammad Asim",
+      "Muhammad Arif",
+      "Muhammad Rafiq",
+      "Rafiq Ahmad"
+    ],
+    "year": 2023,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2023.102803",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2023.102803",
+    "keywords": [
+      "도서관·문헌정보",
+      "인공지능",
+      "대학도서관",
+      "파키스탄",
+      "실증연구",
+      "도서관서비스",
+      "학술논문"
+    ],
+    "summary": "Muhammad Asim 외 연구진이 2023년 The Journal of Academic Librarianship 저널에 발표한 본 논문은, 파키스탄 대학 도서관에서 인공지능 기술이 어떻게 적용되고 있는지 현황을 파악하고 도입 과정에서의 도전 과제와 실증적 활용 방안을 탐색한 도서관·문헌정보 분야 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2023-investigating-applications-of-artificial-intelligence-in-university.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2019-welcome-to-the-tidyverse",
     "verified": true,
     "category": "인공지능",
