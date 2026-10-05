@@ -1,5 +1,190 @@
 [
   {
+    "id": "paper-2025-cooperative-learning-strategy-to-improve-student-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "MI 누룰 이흐산(MI Nurul Ihsan) 학교에서 항상 에너지 절약하기 주제에 대한 학생들의 학습 성과 향상을 위한 협동 학습 전략을 다루어 DEEP LEARNING 저널에 게재된 인공지능 및 교육 공학 분야 학술 논문",
+    "shortTitle": "에너지 절약 주제 학습을 위한 협동 학습 전략 연구",
+    "originalTitle": "Cooperative Learning Strategy to Improve Student Learning Outcomes on the Theme of Always Saving Energy at MI Nurul Ihsan",
+    "authors": [
+      "Haryati"
+    ],
+    "year": 2025,
+    "journal": "DEEP LEARNING: Journal of Educational Research",
+    "doi": "10.62945/deeplearning.v1i1.208",
+    "sourceUrl": "https://doi.org/10.62945/deeplearning.v1i1.208",
+    "keywords": [
+      "인공지능",
+      "교육공학",
+      "협동학습",
+      "학습성과",
+      "에너지절약",
+      "교수법",
+      "학술논문"
+    ],
+    "summary": "Haryati가 2025년 DEEP LEARNING: Journal of Educational Research 저널에 발표한 본 논문은, MI 누룰 이흐산 학교에서 학생들의 학습 성과를 향상시키기 위해 '항상 에너지 절약하기' 주제를 중심으로 협동 학습 전략을 적용하여 분석한 교육 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2025-cooperative-learning-strategy-to-improve-student-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-analisis-pengukuran-power-quality-menggunakan-power-quality",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "EPIC Journal of Electrical Power Instrumentation and Control 저널에 게재된 전기 분야 전력 품질 측정 학술 논문",
+    "shortTitle": "기업 X의 전력 품질 분석 및 측정 연구",
+    "originalTitle": "Analisis Pengukuran Power Quality Menggunakan Power Quality Analyzer Pada Perusahaan X",
+    "authors": [
+      "Wahyu Ariyadi",
+      "Romdhoni Romdhoni",
+      "Ojak Abdul Rozak",
+      "Elfirza Rosiana"
+    ],
+    "year": 2023,
+    "journal": "EPIC Journal of Electrical Power Instrumentation and Control",
+    "doi": "10.32493/epic.v6i2.36864",
+    "sourceUrl": "https://doi.org/10.32493/epic.v6i2.36864",
+    "keywords": [
+      "전기",
+      "전력품질",
+      "전력분석기",
+      "기업X",
+      "전기설비",
+      "전력계통",
+      "학술논문"
+    ],
+    "summary": "Wahyu Ariyadi 외 3인이 2023년 EPIC Journal of Electrical Power Instrumentation and Control 저널에 발표한 본 논문은, 전력 품질 분석기를 활용하여 기업 X의 전력 품질 상태를 측정하고 전기 시스템의 안정성을 분석한 학술 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2023-analisis-pengukuran-power-quality-menggunakan-power-quality.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-cloud-technologies-in-robot-motion-planning-current",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Universum:Technical sciences 저널에 게재된 로봇·자동화 분야 클라우드 기반 모션 플래닝 동향 학술 논문",
+    "shortTitle": "클라우드 기술 기반 로봇 모션 플래닝 동향 연구",
+    "originalTitle": "CLOUD TECHNOLOGIES IN ROBOT MOTION PLANNING: CURRENT STATE",
+    "authors": [
+      "Yusif Azer Mardanzada"
+    ],
+    "year": 2025,
+    "journal": "Universum:Technical sciences",
+    "doi": "10.32743/unitech.2025.141.12.21592",
+    "sourceUrl": "https://doi.org/10.32743/unitech.2025.141.12.21592",
+    "keywords": [
+      "로봇·자동화",
+      "클라우드컴퓨팅",
+      "모션플래닝",
+      "로봇경로계획",
+      "분산처리",
+      "클라우드로봇",
+      "학술논문"
+    ],
+    "summary": "Yusif Azer Mardanzada가 2025년 Universum:Technical sciences 저널에 발표한 본 논문은, 로봇의 복잡한 연산 부하를 분산시키기 위해 클라우드 기술을 모션 플래닝에 적용하는 최신 기술 동향과 활용 방안을 분석한 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2025-cloud-technologies-in-robot-motion-planning-current.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-species-specific-biological-energy-storage-and-reuse",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1E824C",
+    "title": "Energy Storage 저널에 게재된 생물학적 에너지 저장 및 재사용에 관한 에너지·환경 분야 학술 논문",
+    "shortTitle": "종 특이적 생물학적 에너지 저장과 재사용 분석",
+    "originalTitle": "Species‐specific biological energy storage and reuse",
+    "authors": [
+      "Cennet Yildiz",
+      "Mustafa Özilgen"
+    ],
+    "year": 2022,
+    "journal": "Energy Storage",
+    "doi": "10.1002/est2.382",
+    "sourceUrl": "https://doi.org/10.1002/est2.382",
+    "keywords": [
+      "에너지·환경",
+      "생물학적에너지",
+      "에너지저장",
+      "갈색지방조직",
+      "생체에너지전환",
+      "생태에너지",
+      "학술논문"
+    ],
+    "summary": "Cennet Yildiz와 Mustafa Özilgen이 2022년 Energy Storage 저널에 발표한 본 논문은, 설치류의 갈색지방조직, 치타의 에너지 저장의 어려움, 전기뱀장어의 전기 생산, 그리고 알바트로스의 화염 내뿜기 가설 등 다양한 생물 종의 독특한 생물학적 에너지 저장 및 전환 과정을 평가한 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2022-species-specific-biological-energy-storage-and-reuse.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-mixed-method-review-for-integrating-building-information",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D35400",
+    "title": "Building and Environment 저널에 게재된 건축 및 시설관리 분야 건물 정보 모델링(BIM)과 전과정 평가(LCA) 통합에 관한 혼합 방법론 리뷰 학술 논문",
+    "shortTitle": "BIM과 전과정 평가(LCA) 통합을 위한 혼합 방법론 리뷰",
+    "originalTitle": "Mixed method review for integrating building information modeling and life-cycle assessments",
+    "authors": [
+      "Senem Seyis"
+    ],
+    "year": 2020,
+    "journal": "Building and Environment",
+    "doi": "10.1016/j.buildenv.2020.106703",
+    "sourceUrl": "https://doi.org/10.1016/j.buildenv.2020.106703",
+    "keywords": [
+      "건축·시설관리",
+      "건물정보모델링",
+      "BIM",
+      "전과정평가",
+      "LCA",
+      "혼합방법론",
+      "지속가능건축",
+      "학술논문"
+    ],
+    "summary": "Senem Seyis가 2020년 Building and Environment 저널에 발표한 본 논문은, 건축물의 환경적 영향을 정확히 평가하고 개선하기 위해 건물 정보 모델링(BIM)과 전과정 평가(LCA)를 효과적으로 통합하는 방법론을 체계적으로 검토하고 분석한 혼합 방법론 리뷰 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2020-mixed-method-review-for-integrating-building-information.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-investigating-mobile-acceptance-in-academic-library-services",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A7C59",
+    "title": "The Journal of Academic Librarianship 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "대학 도서관 모바일 서비스 수용 모형 연구",
+    "originalTitle": "Investigating mobile acceptance in academic library services based on Unified Theory of Acceptance and Use of Technology Model (UTAUT-2)",
+    "authors": [
+      "Farshad Parhamnia"
+    ],
+    "year": 2022,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2022.102570",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2022.102570",
+    "keywords": [
+      "도서관문헌정보",
+      "모바일서비스",
+      "대학도서관",
+      "UTAUT2",
+      "기술수용모형",
+      "이용자행동",
+      "학술논문"
+    ],
+    "summary": "Farshad Parhamnia가 2022년 The Journal of Academic Librarianship 저널에 발표한 본 논문은, 통합기술수용이론 제2모형(UTAUT-2)을 활용하여 대학 도서관이 제공하는 모바일 서비스를 이용자들이 실제로 수용하고 이용하는 데 영향을 미치는 핵심 요인들을 분석한 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2022-investigating-mobile-acceptance-in-academic-library-services.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-the-use-of-domino-card-media-to",
     "verified": true,
     "category": "인공지능",
