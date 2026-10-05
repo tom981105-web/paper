@@ -1,5 +1,197 @@
 [
   {
+    "id": "paper-2026-harnessing-machine-learning-for-decoding-caenorhabditis-elegans",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "예쁜꼬마선충 행동 디코딩을 위한 기계학습 활용을 다루어 Machine Learning with Applications 저널에 게재된 인공지능 분야 학술 논문",
+    "shortTitle": "예쁜꼬마선충 행동 디코딩을 위한 머신러닝",
+    "originalTitle": "Harnessing machine learning for decoding Caenorhabditis elegans behavior",
+    "authors": [
+      "Kamesh R. Babu"
+    ],
+    "year": 2026,
+    "journal": "Machine Learning with Applications",
+    "doi": "10.1016/j.mlwa.2026.100871",
+    "sourceUrl": "https://doi.org/10.1016/j.mlwa.2026.100871",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "예쁜꼬마선충",
+      "행동디코딩",
+      "생체신호",
+      "신경과학",
+      "패턴인식",
+      "학술논문"
+    ],
+    "summary": "Kamesh R. Babu 연구자가 2026년 Machine Learning with Applications 저널에 발표한 본 논문은, 기계학습 기법을 활용하여 예쁜꼬마선충(Caenorhabditis elegans)의 복잡한 행동 양상을 정밀하게 분석하고 해독하는 방법을 다룬 인공지능과 생명과학 융합 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2026-harnessing-machine-learning-for-decoding-caenorhabditis-elegans.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-multi-area-parameter-error-identification-for-large",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "대규모 전력 시스템을 위한 다구역 파라미터 오차 식별을 다루어 Electric Power Systems Research 저널에 게재된 전기 분야 학술 논문",
+    "shortTitle": "대규모 전력 시스템의 다구역 파라미터 오차 식별",
+    "originalTitle": "Multi-area parameter error identification for large power systems",
+    "authors": [
+      "Ramtin Khalili",
+      "Ali Abur"
+    ],
+    "year": 2022,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2022.108377",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2022.108377",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "파라미터오차",
+      "상태추정",
+      "다구역제어",
+      "전력망",
+      "신뢰성",
+      "학술논문"
+    ],
+    "summary": "Ramtin Khalili와 Ali Abur 연구자가 2022년 Electric Power Systems Research 저널에 발표한 본 논문은, 광대한 대규모 전력 시스템을 여러 구역으로 나누어 각 구역 내에 존재하는 송전선 및 기기 파라미터의 오차를 정확하게 찾아내고 식별하는 분산형 분석 기법을 다룬 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2022-multi-area-parameter-error-identification-for-large.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-ms-slam-memory-efficient-visual-slam-with",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "MS-SLAM: 슬라이딩 윈도우 맵 단순화를 통한 메모리 효율적인 시각적 SLAM을 다루어 Journal of Field Robotics 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "MS-SLAM: 메모리 효율적인 시각적 SLAM",
+    "originalTitle": "MS‐SLAM: Memory‐Efficient Visual SLAM With Sliding Window Map Sparsification",
+    "authors": [
+      "Xiaoyu Zhang",
+      "Jinhu Dong",
+      "Yin Zhang",
+      "Yun‐Hui Liu"
+    ],
+    "year": 2024,
+    "journal": "Journal of Field Robotics",
+    "doi": "10.1002/rob.22431",
+    "sourceUrl": "https://doi.org/10.1002/rob.22431",
+    "keywords": [
+      "로봇·자동화",
+      "시각적SLAM",
+      "메모리효율성",
+      "맵단순화",
+      "슬라이딩윈도우",
+      "루프폐쇄",
+      "자율주행",
+      "학술논문"
+    ],
+    "summary": "Xiaoyu Zhang 외 연구진이 2024년 Journal of Field Robotics 저널에 발표한 본 논문은, 대규모 환경에서 로봇이 주행할 때 시각적 SLAM(동시적 위치 추정 및 지도 작성) 시스템이 누적하는 방대한 중복 맵 포인트로 인한 메모리 과부하 문제를 해결하기 위해, 슬라이딩 윈도우 기반의 맵 단순화 기법을 도입하여 정확도를 유지하면서도 메모리 소비를 70% 이상 줄인 혁신적인 MS-SLAM 시스템을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2024-ms-slam-memory-efficient-visual-slam-with.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-guest-editorial-on-advanced-energy-storage-materials",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B998B",
+    "title": "첨단 에너지 저장 소재 및 응용을 다루어 Energy Storage 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "첨단 에너지 저장 소재 및 응용",
+    "originalTitle": "Guest Editorial on “Advanced Energy Storage Materials and Applications”",
+    "authors": [
+      "Ashish Bhatnagar"
+    ],
+    "year": 2025,
+    "journal": "Energy Storage",
+    "doi": "10.1002/est2.70183",
+    "sourceUrl": "https://doi.org/10.1002/est2.70183",
+    "keywords": [
+      "에너지·환경",
+      "에너지저장",
+      "소재과학",
+      "배터리",
+      "슈퍼커패시터",
+      "지속가능성",
+      "편집장사설",
+      "학술논문"
+    ],
+    "summary": "Ashish Bhatnagar 연구자가 2025년 Energy Storage 저널에 발표한 본 논문은, 차세대 에너지 저장 소재와 그 응용 분야의 최신 연구 동향을 조망하고 친환경 에너지 전환을 위한 핵심 기술적 과제와 발전 방향을 제시하는 편집장 사설 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2025-guest-editorial-on-advanced-energy-storage-materials.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-innovations-in-building-information-modeling-bim",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D08A5B",
+    "title": "건축 정보 모델링(BIM)의 혁신을 다루어 Universum:Technical sciences 저널에 게재된 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건축 정보 모델링(BIM)의 혁신",
+    "originalTitle": "INNOVATIONS IN BUILDING INFORMATION MODELING (BIM)",
+    "authors": [
+      "Denis Popov"
+    ],
+    "year": 2023,
+    "journal": "Universum:Technical sciences",
+    "doi": "10.32743/unitech.2023.116.11.16265",
+    "sourceUrl": "https://doi.org/10.32743/unitech.2023.116.11.16265",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "건축정보모델링",
+      "건설혁신",
+      "시설관리",
+      "디지털트윈",
+      "건설기술",
+      "학술논문"
+    ],
+    "summary": "Denis Popov 연구자가 2023년 Universum:Technical sciences 저널에 발표한 본 논문은, 건축·시설관리 분야에서 핵심적인 역할을 하는 건축 정보 모델링(BIM)의 최신 혁신 기술과 발전 동향을 고찰하고, 건설 프로젝트의 효율성과 디지털 전환 가능성을 분석한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-innovations-in-building-information-modeling-bim.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-pm4py-a-process-mining-library-for-python",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A6FA5",
+    "title": "파이썬을 위한 프로세스 마이닝 라이브러리인 PM4Py를 다루어 Software Impacts 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "파이썬 프로세스 마이닝 라이브러리 PM4Py",
+    "originalTitle": "PM4Py: A process mining library for Python",
+    "authors": [
+      "Alessandro Berti",
+      "Sebastiaan van Zelst",
+      "Daniel Schuster"
+    ],
+    "year": 2023,
+    "journal": "Software Impacts",
+    "doi": "10.1016/j.simpa.2023.100556",
+    "sourceUrl": "https://doi.org/10.1016/j.simpa.2023.100556",
+    "keywords": [
+      "도서관문헌정보",
+      "프로세스마이닝",
+      "PM4Py",
+      "파이썬",
+      "데이터분석",
+      "기록관리학",
+      "소프트웨어",
+      "학술논문"
+    ],
+    "summary": "Alessandro Berti, Sebastiaan van Zelst, Daniel Schuster 연구자가 2023년 Software Impacts 저널에 발표한 본 논문은, 다양한 로그 데이터로부터 실제 업무 프로세스를 발견하고 분석하는 오픈소스 파이썬 라이브러리인 PM4Py의 구조와 활용 방안을 소개한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 20분",
+    "file": "papers/paper-2023-pm4py-a-process-mining-library-for-python.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-machine-learning-for-labor-market-matching",
     "verified": true,
     "category": "인공지능",
