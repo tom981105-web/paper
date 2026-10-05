@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "kicker": "SECTION 01",
+      "title": "풍력 에너지 변동성을 해결하기 위한 에너지 저장 장치의 필요성을 다루어 Energy Storage 저널에 게재된 에너지 및 환경 분야 학술 논문",
+      "html": "<p>내용을 확인할 수 없습니다.</p>"
+    }
+  ],
+  "id": "paper-2019-energy-storage-requirements-to-address-wind-energy",
+  "verified": true,
+  "category": "에너지·환경",
+  "color": "#2E7D32",
+  "title": "풍력 에너지 변동성을 해결하기 위한 에너지 저장 장치의 필요성을 다루어 Energy Storage 저널에 게재된 에너지 및 환경 분야 학술 논문",
+  "shortTitle": "풍력 에너지 변동성과 에너지 저장 장치의 필요성",
+  "originalTitle": "Energy storage requirements to address wind energy variability",
+  "authors": "Alberto Boretti",
+  "year": 2019,
+  "journal": "Energy Storage",
+  "doi": "10.1002/est2.77",
+  "sourceUrl": "https://doi.org/10.1002/est2.77",
+  "keywords": [
+    "에너지·환경",
+    "풍력에너지",
+    "에너지저장",
+    "용량계수",
+    "전력계통",
+    "재생에너지",
+    "학술논문"
+  ],
+  "difficulty": "★★★☆☆",
+  "prerequisites": "특별한 선행지식 없음",
+  "readingTime": "약 20분",
+  "summary": "Alberto Boretti가 2019년 Energy Storage 저널에 발표한 본 논문은, 미국과 호주 지역의 풍력 발전 단지 용량 계수가 가지는 극심한 저주파 및 고주파 변동성을 분석하여, 재생에너지 중심 전력망에서 에너지 저장 장치가 왜 필수적인지 그 당위성을 밝힌 연구이다."
+}
