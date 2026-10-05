@@ -1,5 +1,191 @@
 [
   {
+    "id": "paper-2025-small-group-discussion-strategies-reviewed-to-improve",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "MI 술탄 아궁(MI Sultan Agung) 학교에서 시민 윤리 학습 성과 향상을 위한 소그룹 토론 전략을 다루어 DEEP LEARNING 저널에 게재된 인공지능 및 교육 공학 분야 학술 논문",
+    "shortTitle": "소그룹 토론 전략을 통한 시민 윤리 학습 성과 향상 연구",
+    "originalTitle": "Small Group Discussion Strategies Reviewed to Improve Student Learning Outcomes in Civics Learning at MI Sultan Agung",
+    "authors": [
+      "Wahyu Rustyaningsih"
+    ],
+    "year": 2025,
+    "journal": "DEEP LEARNING: Journal of Educational Research",
+    "doi": "10.62945/deeplearning.v1i1.202",
+    "sourceUrl": "https://doi.org/10.62945/deeplearning.v1i1.202",
+    "keywords": [
+      "인공지능",
+      "교육공학",
+      "소그룹학습",
+      "토론전략",
+      "시민윤리교육",
+      "학습성과",
+      "교실행동연구",
+      "학술논문"
+    ],
+    "summary": "Wahyu Rustyaningsih가 2025년 DEEP LEARNING: Journal of Educational Research 저널에 발표한 본 논문은, 전통적인 강의식 수업의 수동적 참여 문제를 해결하기 위해 소그룹 토론 전략을 초등학교 시민 윤리(Civics) 수업에 적용하여 학생들의 학업 성취도와 참여도를 높인 교실 행동 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2025-small-group-discussion-strategies-reviewed-to-improve.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-brief-review-exploring-avicenna-s-recommendations-for",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Journal of Motor Control and Learning 저널에 게재된 전기 및 페르시아 의학 분야 학술 논문",
+    "shortTitle": "아비센나의 권고사항을 통한 노인성 근감소증 예방 고찰",
+    "originalTitle": "Brief Review: Exploring Avicenna's Recommendations for Preventing Age-Related Sarcopenia and Improving Motor Control: Insights from Persian Medicine",
+    "authors": [
+      "Morteza Taheri",
+      "Marzieh Beygom Siahpoosh"
+    ],
+    "year": 2024,
+    "journal": "Journal of Motor Control and Learning",
+    "doi": "10.5812/jmcl-146113",
+    "sourceUrl": "https://doi.org/10.5812/jmcl-146113",
+    "keywords": [
+      "전기",
+      "페르시아의학",
+      "근감소증",
+      "운동조절",
+      "노인성의학",
+      "학술논문"
+    ],
+    "summary": "Morteza Taheri와 Marzieh Beygom Siahpoosh가 2024년 Journal of Motor Control and Learning 저널에 발표한 본 논문은, 페르시아의 전통 의학자 아비센나의 건강 유지 권고사항을 현대의 노인성 근감소증 예방 및 운동 조절 연구와 비교 분석한 문헌 고찰 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2024-brief-review-exploring-avicenna-s-recommendations-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-hyperspectral-imaging-for-mobile-robot-navigation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Hyperspectral Imaging for Mobile Robot Navigation 저널에 게재된 로봇·자동화 분야 학술 논문",
+    "shortTitle": "초스펙트럼 영상 기반 모바일 로봇 내비게이션",
+    "originalTitle": "Hyperspectral Imaging for Mobile Robot Navigation",
+    "authors": [
+      "Kacper Jakubczyk",
+      "Barbara Siemiątkowska",
+      "Rafał Więckowski",
+      "Jerzy Rapcewicz"
+    ],
+    "year": 2022,
+    "journal": "Sensors",
+    "doi": "10.3390/s23010383",
+    "sourceUrl": "https://doi.org/10.3390/s23010383",
+    "keywords": [
+      "로봇·자동화",
+      "초스펙트럼이미징",
+      "모바일로봇",
+      "경로계획",
+      "지면인식",
+      "A*알고리즘",
+      "센서",
+      "학술논문"
+    ],
+    "summary": "Kacper Jakubczyk 등이 2022년 Sensors 저널에 발표한 본 논문은, 다양한 파장대의 빛을 감지하는 초스펙트럼 카메라를 모바일 로봇에 장착하여 복잡한 오프로드 환경에서 지면 상태를 정확히 인식하고, 이를 바탕으로 안전하고 효율적인 최적 경로를 계획하는 방법을 제안한 로봇 공학 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2022-hyperspectral-imaging-for-mobile-robot-navigation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-temperature-sensitivity-of-solar-photovoltaic-systems-in",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Temperature sensitivity of solar photovoltaic systems in makurdi, nigeria 저널에 게재된 에너지·환경 분야 학술 논문",
+    "shortTitle": "나이지리아 마쿠르디 지역 태양광 발전 시스템의 온도 민감도 분석",
+    "originalTitle": "Temperature sensitivity of solar photovoltaic systems in makurdi, nigeria",
+    "authors": [
+      "John John"
+    ],
+    "year": 2026,
+    "journal": "Journal of Interdisciplinary Postgraduate Research",
+    "doi": "10.61955/frnokx",
+    "sourceUrl": "https://doi.org/10.61955/frnokx",
+    "keywords": [
+      "에너지",
+      "환경",
+      "태양광발전",
+      "온도민감도",
+      "신재생에너지",
+      "나이지리아",
+      "학술논문"
+    ],
+    "summary": "John John이 2026년 Journal of Interdisciplinary Postgraduate Research 저널에 발표한 본 논문은, 나이지리아 마쿠르디 지역을 배경으로 기온 변화가 태양광 발전 시스템의 효율과 성능에 미치는 영향을 분석한 에너지·환경 분야 학술 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2026-temperature-sensitivity-of-solar-photovoltaic-systems-in.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-united-states-facility-management-industry-demographic-trends",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A6B82",
+    "title": "United States Facility Management Industry Demographic Trends and Contemporary Workforce Challenges 저널에 게재된 건축 및 시설관리 분야 학술 논문",
+    "shortTitle": "미국 시설관리 산업 인구통계학적 트렌드와 인력 과제",
+    "originalTitle": "United States Facility Management Industry Demographic Trends and Contemporary Workforce Challenges",
+    "authors": [
+      "Steven Call"
+    ],
+    "year": 2022,
+    "journal": "Journal of Facility Management Education and Research",
+    "doi": "10.22361/jfmer/151121",
+    "sourceUrl": "https://doi.org/10.22361/jfmer/151121",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "인구통계",
+      "고용구조",
+      "인력채용",
+      "세대교체",
+      "다양성",
+      "학술논문"
+    ],
+    "summary": "Steven Call이 2022년 Journal of Facility Management Education and Research 저널에 발표한 본 논문은, 미국 국제시설관리협회(IFMA) 회원들을 대상으로 한 대규모 설문조사를 통해 미국 시설관리(FM) 산업의 인구통계학적 변화 추이를 분석하고, 인력 채용과 고위직 승계 과정에서 직면한 현대적 과제들을 진단한 학술 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2022-united-states-facility-management-industry-demographic-trends.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-preliminary-investigation-of-sustainability-awareness-and-activities",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A709C",
+    "title": "Preliminary Investigation of Sustainability Awareness and Activities among Academic Libraries in the United States 저널에 게재된 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "미국 대학 도서관의 지속가능성 인식 및 활동 조사",
+    "originalTitle": "Preliminary Investigation of Sustainability Awareness and Activities among Academic Libraries in the United States",
+    "authors": [
+      "Sarah K. Tribelhorn"
+    ],
+    "year": 2023,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2022.102661",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2022.102661",
+    "keywords": [
+      "도서관·문헌정보",
+      "지속가능성",
+      "대학도서관",
+      "환경인식",
+      "도서관활동",
+      "그린라이브러리",
+      "학술논문"
+    ],
+    "summary": "Sarah K. Tribelhorn이 2023년 The Journal of Academic Librarianship 저널에 발표한 본 논문은, 미국의 대학 도서관들을 대상으로 환경적·사회적 지속가능성에 대한 인식 수준과 실제 수행 중인 관련 활동들을 조사하여 현황을 파악한 문헌정보학 분야의 기초 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2023-preliminary-investigation-of-sustainability-awareness-and-activities.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-conscious-learning-model-in-improving-students-learning",
     "verified": true,
     "category": "인공지능",
