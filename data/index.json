@@ -1,5 +1,197 @@
 [
   {
+    "id": "paper-2022-rulkov-neural-network-coupled-with-discrete-memristors",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 이산 멤리스터와 결합된 룰코프 신경망을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "이산 멤리스터와 결합된 룰코프 신경망",
+    "originalTitle": "Rulkov neural network coupled with discrete memristors",
+    "authors": [
+      "Yanmei Lu",
+      "Chunhua Wang",
+      "Quanli Deng"
+    ],
+    "year": 2022,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1080/0954898x.2022.2131921",
+    "sourceUrl": "https://doi.org/10.1080/0954898x.2022.2131921",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "룰코프모델",
+      "멤리스터",
+      "비선형동역학",
+      "뉴로모픽",
+      "카오스현상",
+      "학술논문"
+    ],
+    "summary": "Yanmei Lu, Chunhua Wang, Quanli Deng이 2022년 Network: Computation in Neural Systems 저널에 발표한 본 논문은, 인간의 뇌 신경세포의 복잡한 전기적 활동을 모사하기 위해 이산 룰코프 신경망 모델과 이산 멤리스터를 결합하여 비선형 동역학적 특성과 카오스 현상을 분석한 인공지능 및 신경과학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2022-rulkov-neural-network-coupled-with-discrete-memristors.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-design-of-switched-reluctance-machine-for-starter",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 하이브리드 전기 자동차 시동기/발전기용 스위치드 릴룩턴스 전동기 설계를 다룬 전기 분야 학술 논문",
+    "shortTitle": "하이브리드 전기차 시동기/발전기용 SRM 설계",
+    "originalTitle": "Design of switched reluctance machine for starter/generator of hybrid electric vehicle",
+    "authors": [
+      "Jawad Faiz",
+      "K. Moayed-Zadeh"
+    ],
+    "year": 2005,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2005.02.004",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2005.02.004",
+    "keywords": [
+      "전기",
+      "스위치드릴룩턴스전동기",
+      "하이브리드전기자동차",
+      "시동기발전기",
+      "전동기설계",
+      "전기기기",
+      "전력공학",
+      "학술논문"
+    ],
+    "summary": "Jawad Faiz와 K. Moayed-Zadeh가 2005년 Electric Power Systems Research 저널에 발표한 본 논문은, 하이브리드 전기 자동차(HEV)의 시동기 및 발전기(Starter/Generator) 용도로 활용하기 위한 스위치드 릴룩턴스 전동기(SRM)의 설계 방법과 특성을 분석한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2005-design-of-switched-reluctance-machine-for-starter.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-benchmarking-and-optimization-of-robot-motion-planning",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "The International Journal of Advanced Manufacturing Technology 저널에 게재된 모션 플래닝 파이프라인을 활용한 로봇 모션 플래닝 벤치마킹 및 최적화를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 모션 플래닝 벤치마킹 및 최적화",
+    "originalTitle": "Benchmarking and optimization of robot motion planning with motion planning pipeline",
+    "authors": [
+      "Shuai Liu",
+      "Pengcheng Liu"
+    ],
+    "year": 2021,
+    "journal": "The International Journal of Advanced Manufacturing Technology",
+    "doi": "10.1007/s00170-021-07985-5",
+    "sourceUrl": "https://doi.org/10.1007/s00170-021-07985-5",
+    "keywords": [
+      "로봇·자동화",
+      "모션플래닝",
+      "OMPL",
+      "CHOMP",
+      "STOMP",
+      "벤치마킹",
+      "궤적최적화",
+      "학술논문"
+    ],
+    "summary": "Shuai Liu와 Pengcheng Liu가 2021년 The International Journal of Advanced Manufacturing Technology에 발표한 본 논문은, 샘플링 기반 모션 플래닝 알고리즘과 궤적 최적화 알고리즘(CHOMP, STOMP)을 모션 플래닝 파이프라인과 플래닝 요청 어댑터를 통해 결합하고, 다양한 시나리오에서 벤치마킹을 수행하여 최적의 플래너를 선정하는 방법을 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2021-benchmarking-and-optimization-of-robot-motion-planning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-quantum-battery-vs-lithium-ion-battery",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#D47A37",
+    "title": "Advances in Engineering Innovation 저널에 게재된 양자 배터리와 리튬이온 배터리의 작동 원리 비교를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "양자 배터리 대 리튬이온 배터리 비교",
+    "originalTitle": "Quantum battery VS Lithium-ion battery",
+    "authors": [
+      "Yuhan Liu"
+    ],
+    "year": 2024,
+    "journal": "Advances in Engineering Innovation",
+    "doi": "10.54254/2977-3903/11/2024102",
+    "sourceUrl": "https://doi.org/10.54254/2977-3903/11/2024102",
+    "keywords": [
+      "에너지·환경",
+      "양자배터리",
+      "리튬이온배터리",
+      "에너지저장장치",
+      "양자역학",
+      "차세대배터리",
+      "문헌연구",
+      "학술논문"
+    ],
+    "summary": "Yuhan Liu가 2024년 Advances in Engineering Innovation 저널에 발표한 본 논문은, 기존의 화학 반응 기반 리튬이온 배터리와 양자 물리 원리를 활용하는 차세대 양자 배터리의 작동 원리를 문헌 조사를 통해 비교하고, 현재는 리튬이온 배터리가 우세하지만 미래 기술 발전 시 양자 배터리가 대체할 가능성을 고찰한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2024-quantum-battery-vs-lithium-ion-battery.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-machine-learning-driven-processes-in-architectural-building",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B7C",
+    "title": "Automation in Construction 저널에 게재된 건축 빌딩 설계에서의 기계학습 기반 프로세스를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건축 빌딩 설계의 머신러닝 기반 프로세스",
+    "originalTitle": "Machine learning-driven processes in architectural building design",
+    "authors": [
+      "Michael Sahl Lystbæk"
+    ],
+    "year": 2025,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/j.autcon.2025.106379",
+    "sourceUrl": "https://doi.org/10.1016/j.autcon.2025.106379",
+    "keywords": [
+      "건축·시설관리",
+      "기계학습",
+      "머신러닝",
+      "건축설계",
+      "자동화",
+      "설계프로세스",
+      "인공지능건축",
+      "학술논문"
+    ],
+    "summary": "Michael Sahl Lystbæk이 2025년 Automation in Construction 저널에 발표한 본 논문은, 건축 빌딩 설계 과정에서 기계학습(머신러닝) 기술이 어떻게 도입되고 활용될 수 있으며 설계 프로세스 전반에 미치는 영향을 체계적으로 분석한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2025-machine-learning-driven-processes-in-architectural-building.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-the-provision-of-smart-service-at-academic",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#D05B7C",
+    "title": "Journal of Librarianship and Information Science 저널에 게재된 대학 도서관의 스마트 서비스 제공과 관련 과제를 다룬 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "대학 도서관의 스마트 서비스 제공과 과제",
+    "originalTitle": "The provision of smart service at academic libraries and associated challenges",
+    "authors": [
+      "Faten Hamad",
+      "Maha Al-Fadel",
+      "Hussam Fakhouri"
+    ],
+    "year": 2022,
+    "journal": "Journal of Librarianship and Information Science",
+    "doi": "10.1177/09610006221114173",
+    "sourceUrl": "https://doi.org/10.1177/09610006221114173",
+    "keywords": [
+      "도서관·문헌정보",
+      "스마트서비스",
+      "대학도서관",
+      "신기술적용",
+      "원격학습",
+      "도서관과제",
+      "사서설문조사",
+      "학술논문"
+    ],
+    "summary": "Faten Hamad, Maha Al-Fadel, Hussam Fakhouri가 2022년 Journal of Librarianship and Information Science에 발표한 본 논문은, 요르단 대학 도서관들을 대상으로 스마트 서비스의 도입 수준과 이를 구축 및 제공하는 과정에서 직면하는 주요 과제를 설문조사를 통해 분석한 도서관·문헌정보 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2022-the-provision-of-smart-service-at-academic.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-questionable-practices-in-methodological-deep-learning-research",
     "verified": true,
     "category": "인공지능",
