@@ -1,5 +1,196 @@
 [
   {
+    "id": "paper-2023-a-novel-parallel-merge-neural-network-with",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Information Sciences 저널에 게재된 스파이크 신경망과 인공신경망 스트림을 결합한 새로운 병렬 머지 신경망을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "스파이크 신경망과 인공신경망을 결합한 병렬 머지 신경망",
+    "originalTitle": "A novel parallel merge neural network with streams of spiking neural network and artificial neural network",
+    "authors": [
+      "Jie Yang",
+      "Junhong Zhao"
+    ],
+    "year": 2023,
+    "journal": "Information Sciences",
+    "doi": "10.1016/j.ins.2023.119034",
+    "sourceUrl": "https://doi.org/10.1016/j.ins.2023.119034",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "스파이크신경망",
+      "인공신경망",
+      "병렬머지",
+      "딥러닝",
+      "정보과학",
+      "학술논문"
+    ],
+    "summary": "Jie Yang과 Junhong Zhao가 2023년 Information Sciences 저널에 발표한 본 논문은, 생물학적 뇌의 작동 방식을 모사하는 스파이크 신경망(SNN)과 전통적인 딥러닝의 핵심인 인공신경망(ANN)의 스트림을 병렬로 결합한 새로운 신경망 구조를 제안하고 분석한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2023-a-novel-parallel-merge-neural-network-with.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-optimization-of-grid-connected-microgrid-demand-considering",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "National Security and Strategic Planning 저널에 게재된 수요 반응을 고려한 계통 연계형 마이크로그리드 수요 최적화를 다룬 전기 분야 학술 논문",
+    "shortTitle": "수요 반응을 고려한 계통 연계형 마이크로그리드 수요 최적화",
+    "originalTitle": "Optimization of grid-connected MicroGrid demand considering demand response",
+    "authors": [
+      "Mirzaei Talabari Mohammad"
+    ],
+    "year": 2024,
+    "journal": "National Security and Strategic Planning",
+    "doi": "10.37468/2307-1400-2024-1-60-65",
+    "sourceUrl": "https://doi.org/10.37468/2307-1400-2024-1-60-65",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "수요반응",
+      "전력가격탄력성",
+      "스마트그리드",
+      "운영비용최적화",
+      "에너지관리",
+      "학술논문"
+    ],
+    "summary": "Mirzaei Talabari Mohammad가 2024년 National Security and Strategic Planning 저널에 발표한 본 논문은, 전력 가격 탄력성을 기반으로 한 수요 반응(DR) 경제 모델을 마이크로그리드에 적용하여 피크 시간대 전력 수요를 줄이고 양방향 통신을 통해 운영 비용을 효과적으로 절감하는 방안을 다룬 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2024-optimization-of-grid-connected-microgrid-demand-considering.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-eil-slam-depth-enhanced-edge-based-infrared",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Field Robotics 저널에 게재된 심도 강화 에지 기반 적외선-라이다 동시적 위치 추정 및 지도 작성(SLAM)을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "심도 강화 에지 기반 적외선-라이다 SLAM",
+    "originalTitle": "EIL‐SLAM: Depth‐enhanced edge‐based infrared‐LiDAR SLAM",
+    "authors": [
+      "Wenqiang Chen",
+      "Yu Wang",
+      "Haoyao Chen",
+      "Yunhui Liu"
+    ],
+    "year": 2021,
+    "journal": "Journal of Field Robotics",
+    "doi": "10.1002/rob.22040",
+    "sourceUrl": "https://doi.org/10.1002/rob.22040",
+    "keywords": [
+      "로봇·자동화",
+      "SLAM",
+      "적외선카메라",
+      "라이다",
+      "에지피처",
+      "자율주행",
+      "센서융합",
+      "학술논문"
+    ],
+    "summary": "Wenqiang Chen 등이 2021년 Journal of Field Robotics 저널에 발표한 본 논문은, 먼지가 많거나 어두운 극한 환경에서도 안정적으로 작동할 수 있도록 열화상 적외선 카메라와 라이다(LiDAR)를 단단하게 결합한 새로운 에지 기반 적외선-라이다 SLAM 프레임워크를 제안한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2021-eil-slam-depth-enhanced-edge-based-infrared.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-hybrid-energy-storage-approach-for-renewable-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Journal of Energy Storage 저널에 게재된 신재생에너지 응용을 위한 하이브리드 에너지 저장 접근법을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "신재생에너지 응용을 위한 하이브리드 에너지 저장 접근법",
+    "originalTitle": "Hybrid energy storage approach for renewable energy applications",
+    "authors": [
+      "Thilo Bocklisch"
+    ],
+    "year": 2016,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2016.01.004",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2016.01.004",
+    "keywords": [
+      "에너지·환경",
+      "하이브리드에너지저장",
+      "신재생에너지",
+      "에너지저장장치",
+      "배터리",
+      "슈퍼커패시터",
+      "전력계통",
+      "학술논문"
+    ],
+    "summary": "Thilo Bocklisch가 2016년 Journal of Energy Storage 저널에 발표한 본 논문은, 태양광이나 풍력 등 간헐적으로 전기를 생산하는 신재생에너지의 효율을 극대화하기 위해 서로 다른 특성을 가진 여러 에너지 저장 장치를 결합하는 하이브리드 에너지 저장 시스템의 접근법과 설계 원리를 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2016-hybrid-energy-storage-approach-for-renewable-energy.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-the-role-of-building-automation-system-for",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A6FA5",
+    "title": "International Journal of Research Publication and Reviews 저널에 게재된 건물의 인테리어 디자인을 위한 빌딩 자동화 시스템의 역할을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "실내 디자인을 위한 빌딩 자동화 시스템의 역할",
+    "originalTitle": "The Role of Building Automation System For Interior Design of Building",
+    "authors": [
+      "Sidhant Kumar Singh",
+      "Prof. Alok Omar"
+    ],
+    "year": 2024,
+    "journal": "International Journal of Research Publication and Reviews",
+    "doi": "10.55248/gengpi.5.0424.1115",
+    "sourceUrl": "https://doi.org/10.55248/gengpi.5.0424.1115",
+    "keywords": [
+      "건축·시설관리",
+      "빌딩자동화시스템",
+      "인테리어디자인",
+      "스마트빌딩",
+      "에너지효율",
+      "실내환경",
+      "자동제어",
+      "학술논문"
+    ],
+    "summary": "Sidhant Kumar Singh와 Prof. Alok Omar가 2024년 International Journal of Research Publication and Reviews 저널에 발표한 본 논문은, 현대 건축물에서 빌딩 자동화 시스템(BAS)이 실내 인테리어 디자인 및 공간 활용에 미치는 영향과 역할을 고찰한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2024-the-role-of-building-automation-system-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-student-learning-outcomes-assessment-in-higher-education",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A6FA5",
+    "title": "The Journal of Academic Librarianship 저널에 게재된 고등교육과 대학 도서관에서의 학생 학습 성과 평가를 다룬 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "고등교육 및 대학 도서관의 학생 학습 성과 평가 고찰",
+    "originalTitle": "Student Learning Outcomes Assessment in Higher Education and in Academic Libraries: A Review of the Literature",
+    "authors": [
+      "Harold Goss"
+    ],
+    "year": 2022,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2021.102485",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2021.102485",
+    "keywords": [
+      "도서관·문헌정보",
+      "학생학습성과",
+      "고등교육",
+      "대학도서관",
+      "문헌고찰",
+      "정보활용교육",
+      "평가방법론",
+      "학술논문"
+    ],
+    "summary": "Harold Goss가 2022년 The Journal of Academic Librarianship 저널에 발표한 본 논문은, 고등교육 전반과 대학 도서관 맥락에서 학생들의 학습 성과(Student Learning Outcomes)를 어떻게 평가해 왔는지를 기존 문헌들을 바탕으로 종합적으로 검토하고 분석한 도서관·문헌정보 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2022-student-learning-outcomes-assessment-in-higher-education.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-applications-of-machine-learning-in-cricket-a",
     "verified": true,
     "category": "인공지능",
