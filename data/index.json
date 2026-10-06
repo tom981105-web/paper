@@ -1,5 +1,198 @@
 [
   {
+    "id": "paper-2024-uncertainty-estimation-in-deep-learning-methods-and",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Machine Learning and Deep Learning 저널에 게재된 딥러닝에서의 불확실성 추정 방법과 응용을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝에서의 불확실성 추정 방법과 응용",
+    "originalTitle": "Uncertainty Estimation in Deep Learning: Methods and Applications",
+    "authors": [
+      "Hina Batool",
+      "Tahir Abbas",
+      "Jamshaid Iqbal Janjua",
+      "Sadaqat Ali Ramay"
+    ],
+    "year": 2024,
+    "journal": "Journal of Machine Learning and Deep Learning",
+    "doi": "10.64820/aepjmldl.11.41.46.122024",
+    "sourceUrl": "https://doi.org/10.64820/aepjmldl.11.41.46.122024",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "불확실성추정",
+      "베이지안",
+      "앙상블",
+      "몬테카를로샘플링",
+      "모델신뢰성",
+      "학술논문"
+    ],
+    "summary": "Hina Batool 등 4명의 연구진이 2024년 Journal of Machine Learning and Deep Learning 저널에 발표한 본 논문은, 딥러닝 모델의 신뢰성과 의사결정의 정확도를 높이기 위해 활용되는 다양한 불확실성 추정 기법(베이지안 접근법, 앙상블, 몬테카를로 샘플링 등)과 그 장단점, 그리고 의료, 자율주행 등 안전 필수 분야에서의 응용 가능성을 종합적으로 분석한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2024-uncertainty-estimation-in-deep-learning-methods-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-power-systems-optimal-peak-shaving-applying-secondary",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 보조 에너지 저장장치를 활용한 전력 시스템의 최적 피크 삭감을 다룬 전기 분야 학술 논문",
+    "shortTitle": "보조 에너지 저장장치를 활용한 전력 시스템의 최적 피크 삭감",
+    "originalTitle": "Power systems’ optimal peak-shaving applying secondary storage",
+    "authors": [
+      "Yoash Levron",
+      "Doron Shmilovitz"
+    ],
+    "year": 2012,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2012.02.007",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2012.02.007",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "피크삭감",
+      "에너지저장장치",
+      "부하관리",
+      "전력경제",
+      "최적화",
+      "학술논문"
+    ],
+    "summary": "Yoash Levron과 Doron Shmilovitz가 2012년 Electric Power Systems Research 저널에 발표한 본 논문은, 전력 수요가 급증하는 피크 타임에 보조 에너지 저장장치를 효율적으로 활용하여 전력 시스템의 부하 변동을 줄이고 경제성과 안정성을 높이는 최적 피크 삭감 기법을 다룬 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2012-power-systems-optimal-peak-shaving-applying-secondary.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-collection-of-microrobots-for-gentle-cell-manipulation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Science Robotics 저널에 게재된 세포의 부드러운 조작을 위한 미세로봇 군집을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "세포의 부드러운 조작을 위한 미세로봇 군집",
+    "originalTitle": "Collection of microrobots for gentle cell manipulation",
+    "authors": [
+      "Melisa Yashinski"
+    ],
+    "year": 2024,
+    "journal": "Science Robotics",
+    "doi": "10.1126/scirobotics.ads6194",
+    "sourceUrl": "https://doi.org/10.1126/scirobotics.ads6194",
+    "keywords": [
+      "로봇·자동화",
+      "미세로봇",
+      "세포조작",
+      "광학구동",
+      "소프트로보틱스",
+      "세포상호작용",
+      "생체의학",
+      "학술논문"
+    ],
+    "summary": "Melisa Yashinski가 2024년 Science Robotics 저널에 발표한 본 논문은, 세포의 운송, 조작 및 세포 간 상호작용을 안전하고 부드럽게 수행하기 위해 빛으로 구동되는 소프트 미세로봇 도구를 설계하고 그 활용성을 다룬 로봇 및 생체 의료 융합 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2024-collection-of-microrobots-for-gentle-cell-manipulation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-evaluating-the-potential-of-the-lithium-carbon",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Journal of High School Science 저널에 게재된 리튬-이온 배터리를 대체하기 위한 리튬-이산화탄소 배터리의 잠재력 평가를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "리튬-이산화탄소 배터리의 잠재력 평가",
+    "originalTitle": "Evaluating the potential of the lithium-carbon dioxide battery to replace the lithium-ion battery",
+    "authors": [
+      "Raghav Rajan"
+    ],
+    "year": 2023,
+    "journal": "Journal of High School Science",
+    "doi": "10.64336/001c.83933",
+    "sourceUrl": "https://doi.org/10.64336/001c.83933",
+    "keywords": [
+      "에너지",
+      "환경",
+      "리튬이산화탄소배터리",
+      "리튬이온배터리",
+      "에너지저장",
+      "테크노경제적비교",
+      "온실가스저감",
+      "학술논문"
+    ],
+    "summary": "Raghav Rajan이 2023년 Journal of High School Science 저널에 발표한 본 논문은, 대기 중의 이산화탄소를 포집하여 에너지를 저장·방전하는 차세대 리튬-이산화탄소(Li-CO2) 배터리의 장단점을 리튬-이온 배터리(LIB)와의 테크노-경제적 비교를 통해 분석하고, 상용화를 위한 기술적 과제와 해결 방안을 제시한 에너지 및 환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2023-evaluating-the-potential-of-the-lithium-carbon.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-possibilities-of-bim-building-information-modeling-technologies",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A2A",
+    "title": "Digitalization 저널에 게재된 혁신적 개발을 위한 BIM(Building Information Modeling) 기술의 가능성을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "혁신적 개발을 위한 BIM 기술의 가능성",
+    "originalTitle": "POSSIBILITIES OF BIM (BUILDING INFORMATION MODELING)- TECHNOLOGIES FOR INNOVATIVE DEVELOPMENT",
+    "authors": [
+      "N.P. Koptseva"
+    ],
+    "year": 2021,
+    "journal": "Digitalization",
+    "doi": "10.37993/2712-8733-2021-2-2-8-24",
+    "sourceUrl": "https://doi.org/10.37993/2712-8733-2021-2-2-8-24",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "BIM",
+      "건물정보모델링",
+      "디지털전환",
+      "혁신개발",
+      "스마트건설",
+      "학술논문"
+    ],
+    "summary": "N.P. Koptseva가 2021년 Digitalization 저널에 발표한 본 논문은, 건축 및 시설관리 분야에서 혁신적인 개발을 이끌어내기 위한 빌딩 정보 모델링(BIM) 기술의 잠재력과 적용 가능성을 다룬 학술 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2021-possibilities-of-bim-building-information-modeling-technologies.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-basix-a-runtime-finite-element-basis-evaluation",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A7C59",
+    "title": "Journal of Open Source Software 저널에 게재된 런타임 유한요소 기저 평가 라이브러리인 Basix를 다룬 도서관·문헌정보 및 계산과학 분야 학술 논문",
+    "shortTitle": "런타임 유한요소 기저 평가 라이브러리 Basix",
+    "originalTitle": "Basix: a runtime finite element basis evaluation library",
+    "authors": [
+      "Matthew W. Scroggs",
+      "Igor A. Baratta",
+      "Chris N. Richardson",
+      "Garth N. Wells"
+    ],
+    "year": 2022,
+    "journal": "Journal of Open Source Software",
+    "doi": "10.21105/joss.03982",
+    "sourceUrl": "https://doi.org/10.21105/joss.03982",
+    "keywords": [
+      "도서관·문헌정보",
+      "계산과학",
+      "유한요소법",
+      "Basix",
+      "오픈소스소프트웨어",
+      "기저함수",
+      "수치해석",
+      "학술논문"
+    ],
+    "summary": "Matthew W. Scroggs 외 3인이 2022년 Journal of Open Source Software 저널에 발표한 본 논문은, 다양한 유한요소 기저 함수를 런타임에 효율적으로 평가할 수 있도록 설계된 오픈소스 라이브러리 Basix의 구조와 활용 방식을 소개한 계산과학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2022-basix-a-runtime-finite-element-basis-evaluation.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2024-deep-chinese-teaching-and-learning-model-based",
     "verified": true,
     "category": "인공지능",
