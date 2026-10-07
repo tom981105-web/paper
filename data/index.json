@@ -1,5 +1,197 @@
 [
   {
+    "id": "paper-1948-a-mathematical-theory-of-communication",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Bell System Technical Journal 저널에 게재된 통신에 대한 수학적 이론을 다룬 인공지능 및 정보 이론 분야 학술 논문",
+    "shortTitle": "통신에 대한 수학적 이론 (연속 가변 신호 및 메시지)",
+    "originalTitle": "A Mathematical Theory of Communication",
+    "authors": [
+      "C. E. Shannon"
+    ],
+    "year": 1948,
+    "journal": "Bell System Technical Journal",
+    "doi": "10.1002/j.1538-7305.1948.tb00917.x",
+    "sourceUrl": "https://doi.org/10.1002/j.1538-7305.1948.tb00917.x",
+    "keywords": [
+      "인공지능",
+      "정보이론",
+      "통신이론",
+      "연속신호",
+      "극한과정",
+      "확률론",
+      "학술논문"
+    ],
+    "summary": "C. E. Shannon이 1948년 Bell System Technical Journal에 발표한 본 논문은, 이산적 분석에 이어 신호와 메시지가 연속적으로 변화하는 경우를 극한 과정을 통해 수학적으로 다루며 정보 이론의 기틀을 확립한 인공지능 및 통신 분야의 고전적 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-1948-a-mathematical-theory-of-communication.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-microgrid-working-conditions-identification-based-on-cluster",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Access 저널에 게재된 클러스터 분석을 기반으로 한 마이크로그리드 작업 조건 식별을 다룬 전기 분야 학술 논문",
+    "shortTitle": "클러스터 분석 기반 마이크로그리드 작업 조건 식별",
+    "originalTitle": "Microgrid Working Conditions Identification Based on Cluster Analysis—A Case Study From Lambda Microgrid",
+    "authors": [
+      "Michal Jasinski",
+      "Luigi Martirano",
+      "Arsalan Najafi",
+      "Omid Homaee",
+      "Zbigniew Leonowicz",
+      "Mostafa Kermani"
+    ],
+    "year": 2022,
+    "journal": "IEEE Access",
+    "doi": "10.1109/access.2022.3186092",
+    "sourceUrl": "https://doi.org/10.1109/access.2022.3186092",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "클러스터분석",
+      "작업조건",
+      "람다마이크로그리드",
+      "전력계통",
+      "데이터분석",
+      "학술논문"
+    ],
+    "summary": "Michal Jasinski 외 5명의 연구진이 2022년 IEEE Access 저널에 발표한 본 논문은, 람다 마이크로그리드 사례 연구를 바탕으로 클러스터 분석 기법을 활용하여 전력망의 다양한 작업 조건을 효과적으로 식별하고 분류한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 14분",
+    "file": "papers/paper-2022-microgrid-working-conditions-identification-based-on-cluster.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-advances-in-robotics-and-mechatronics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 로봇공학 및 메카트로닉스의 최근 발전 동향을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇공학 및 메카트로닉스의 최근 발전 동향",
+    "originalTitle": "Advances in Robotics and Mechatronics",
+    "authors": [
+      "Yukio Takeda",
+      "Giuseppe Carbone",
+      "Shaoping Bai"
+    ],
+    "year": 2020,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics9020036",
+    "sourceUrl": "https://doi.org/10.3390/robotics9020036",
+    "keywords": [
+      "로봇·자동화",
+      "메카트로닉스",
+      "로봇공학",
+      "자동화기술",
+      "인간지원",
+      "학술논문"
+    ],
+    "summary": "Yukio Takeda, Giuseppe Carbone, Shaoping Bai가 2020년 Robotics 저널에 발표한 본 논문은, 인간의 삶과 사회를 지원하기 위해 발전해 온 로봇공학 및 메카트로닉스 기술의 핵심 발전 동향과 응용 가치를 조망한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2020-advances-in-robotics-and-mechatronics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-feasibility-analysis-of-replacing-lithium-ion-battery",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A8C82",
+    "title": "Highlights in Science, Engineering and Technology 저널에 게재된 리튬이온 배터리를 수계 아연-이온 배터리로 대체하기 위한 타당성 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "리튬이온 배터리의 수계 아연-이온 배터리 대체 타당성 분석",
+    "originalTitle": "Feasibility analysis of replacing lithium-ion battery with aqueous zinc-ion battery",
+    "authors": [
+      "Yi Tong"
+    ],
+    "year": 2023,
+    "journal": "Highlights in Science, Engineering and Technology",
+    "doi": "10.54097/hset.v32i.4953",
+    "sourceUrl": "https://doi.org/10.54097/hset.v32i.4953",
+    "keywords": [
+      "에너지",
+      "환경",
+      "수계아연이온배터리",
+      "리튬이온배터리",
+      "배터리안전성",
+      "웨어러블기기",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "Yi Tong이 2023년 Highlights in Science, Engineering and Technology 저널에 발표한 본 논문은, 가연성 유기 전해액을 사용하는 리튬이온 배터리의 화재 및 독성 위험을 극복하기 위해 비독성·불연성 수계 아연-이온 배터리의 특성을 분석하고, 특히 스마트 웨어러블 기기 분야에서의 대체 가능성과 타당성을 검토한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2023-feasibility-analysis-of-replacing-lithium-ion-battery.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-measurement-of-residential-hvac-system-runtime",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A2A",
+    "title": "Building and Environment 저널에 게재된 주거용 HVAC 시스템 가동 시간 측정을 다룬 건축·시설관리 및 에너지 분야 학술 논문",
+    "shortTitle": "주거용 HVAC 시스템 가동 시간 측정 방법",
+    "originalTitle": "Measurement of residential HVAC system runtime",
+    "authors": [
+      "Tianyuan Li",
+      "Masih Alavy",
+      "Jeffrey A. Siegel"
+    ],
+    "year": 2019,
+    "journal": "Building and Environment",
+    "doi": "10.1016/j.buildenv.2019.01.004",
+    "sourceUrl": "https://doi.org/10.1016/j.buildenv.2019.01.004",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "HVAC",
+      "가동시간",
+      "실내공기질",
+      "에너지소비",
+      "건축환경",
+      "학술논문"
+    ],
+    "summary": "Tianyuan Li, Masih Alavy, Jeffrey A. Siegel이 2019년 Building and Environment 저널에 발표한 본 논문은, 주거용 건물의 난방·환기·공조(HVAC) 시스템 가동 시간을 정확하게 측정하기 위한 방법론을 다룬 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2019-measurement-of-residential-hvac-system-runtime.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-extending-technology-acceptance-model-to-higher-education",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#D2691E",
+    "title": "International Journal of Educational Technology in Higher Education 저널에 게재된 고등교육 학생들의 컴퓨터 기반 디지털 학술 독서 도구 수용에 관한 기술수용모델 확장을 다룬 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "컴퓨터 기반 디지털 학술 독서 도구 수용에 관한 기술수용모델 확장",
+    "originalTitle": "Extending Technology Acceptance Model to higher-education students’ use of digital academic reading tools on computers",
+    "authors": [
+      "Yupeng Lin",
+      "Zhonggen YU"
+    ],
+    "year": 2023,
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "doi": "10.1186/s41239-023-00403-8",
+    "sourceUrl": "https://doi.org/10.1186/s41239-023-00403-8",
+    "keywords": [
+      "도서관·문헌정보",
+      "디지털독서도구",
+      "기술수용모델",
+      "고등교육",
+      "학술정보",
+      "구조방정식모형",
+      "학술논문"
+    ],
+    "summary": "Yupeng Lin과 Zhonggen Yu가 2023년 International Journal of Educational Technology in Higher Education에 발표한 본 논문은, 고등교육 학생들이 컴퓨터를 이용해 디지털 학술 독서 도구를 수용하고 사용하는 과정에 영향을 미치는 다양한 외생 변인들을 구조방정식 모형을 통해 분석한 도서관·문헌정보 및 교육공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2023-extending-technology-acceptance-model-to-higher-education.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1999-lecture-notes-in-computer-science-1205",
     "verified": true,
     "category": "인공지능",
