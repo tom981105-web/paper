@@ -1,5 +1,195 @@
 [
   {
+    "id": "paper-2023-machine-learning-and-deep-learning-approaches-for",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Science and Research (IJSR) 저널에 게재된 사이버 보안을 위한 머신러닝 및 딥러닝 접근법 리뷰를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "사이버 보안을 위한 머신러닝·딥러닝 접근법 리뷰",
+    "originalTitle": "Machine Learning and Deep Learning Approaches for Cybersecurity: A Review",
+    "authors": [
+      "Migul Jain"
+    ],
+    "year": 2023,
+    "journal": "International Journal of Science and Research (IJSR)",
+    "doi": "10.21275/sr231023115126",
+    "sourceUrl": "https://doi.org/10.21275/sr231023115126",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "딥러닝",
+      "사이버보안",
+      "침입탐지",
+      "위협분석",
+      "학술논문"
+    ],
+    "summary": "Migul Jain이 2023년 International Journal of Science and Research (IJSR) 저널에 발표한 본 논문은, 급증하는 사이버 위협에 대응하기 위해 머신러닝과 딥러닝 기술이 사이버 보안 분야에서 어떻게 적용되고 있는지 종합적으로 검토하고 분석한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2023-machine-learning-and-deep-learning-approaches-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-sensitivity-analysis-of-an-ac-microgrid-turning",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IET Conference Proceedings 저널에 게재된 AC 마이크로그리드의 DC 마이크로그리드 전환에 대한 민감도 분석 연구를 다룬 전기 분야 학술 논문",
+    "shortTitle": "AC 마이크로그리드의 DC 전환 민감도 분석",
+    "originalTitle": "Sensitivity analysis of an AC microgrid turning in DC microgrid _UCY case study",
+    "authors": [
+      "C. Charalambous",
+      "C. N. Papadimitriou",
+      "A. Polycarpou",
+      "V. Efthymiou"
+    ],
+    "year": 2021,
+    "journal": "IET Conference Proceedings",
+    "doi": "10.1049/icp.2021.1257",
+    "sourceUrl": "https://doi.org/10.1049/icp.2021.1257",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "AC마이크로그리드",
+      "DC마이크로그리드",
+      "민감도분석",
+      "전력변환",
+      "UCY사례연구",
+      "학술논문"
+    ],
+    "summary": "C. Charalambous 외 3명의 연구진이 2021년 IET Conference Proceedings 저널에 발표한 본 논문은, 기존의 교류(AC) 마이크로그리드를 직류(DC) 마이크로그리드로 전환할 때 발생하는 시스템적 특성과 변화를 민감도 분석을 통해 평가한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2021-sensitivity-analysis-of-an-ac-microgrid-turning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-leveraging-human-perception-in-robot-grasping-and",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Frontiers in Robotics and AI 저널에 게재된 크라우드소싱과 게이미피케이션을 통한 로봇 grasping 및 조작의 인간 지각 활용을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "크라우드소싱 기반 로봇 grasping 및 인간 지각 활용",
+    "originalTitle": "Leveraging Human Perception in Robot Grasping and Manipulation Through Crowdsourcing and Gamification",
+    "authors": [
+      "Gal Gorjup",
+      "Lucas Gerez",
+      "Minas Liarokapis"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Robotics and AI",
+    "doi": "10.3389/frobt.2021.652760",
+    "sourceUrl": "https://doi.org/10.3389/frobt.2021.652760",
+    "keywords": [
+      "로봇·자동화",
+      "로봇그래스핑",
+      "크라우드소싱",
+      "게이미피케이션",
+      "인간지각",
+      "소프트로보틱스",
+      "인공지능",
+      "학술논문"
+    ],
+    "summary": "Gal Gorjup 외 2명의 연구진이 2021년 Frontiers in Robotics and AI 저널에 발표한 본 논문은, 비정형 환경에서 로봇의 물체 인식과 속성 추정 능력을 높이기 위해 크라우드소싱과 온라인 퍼즐 게임(게이미피케이션)을 결합하여 인간의 지각과 경험을 활용하는 새로운 프레임워크를 제안한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2021-leveraging-human-perception-in-robot-grasping-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-building-a-better-lithium-ion-battery-management",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Scilight 저널에 게재된 예측 정확도 향상을 위한 머신러닝과 전통적 방법의 결합을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "머신러닝과 전통 방식을 결합한 배터리 관리 시스템",
+    "originalTitle": "Building a better lithium-ion battery management system",
+    "authors": [
+      "Ben Ikenson"
+    ],
+    "year": 2024,
+    "journal": "Scilight",
+    "doi": "10.1063/10.0032402",
+    "sourceUrl": "https://doi.org/10.1063/10.0032402",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "배터리관리시스템",
+      "머신러닝",
+      "예측정확도",
+      "전력저장",
+      "학술논문"
+    ],
+    "summary": "Ben Ikenson이 2024년 Scilight 저널에 발표한 본 논문은, 전통적인 배터리 관리 방식에 머신러닝을 결합하여 리튬이온배터리의 예측 정확도를 향상시키는 혁신적인 배터리 관리 시스템(BMS) 구축 방안을 다룬 에너지 및 인공지능 융합 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2024-building-a-better-lithium-ion-battery-management.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-in-building-automated-external-defibrillator-location-planning",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D2691E",
+    "title": "Automation in Construction 저널에 게재된 건물 정보 모델(BIM) 기반의 자동심장충격기(AED) 위치 계획 및 평가를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "BIM 기반 실내 자동심장충격기(AED) 최적 위치 계획",
+    "originalTitle": "In-building automated external defibrillator location planning and assessment through building information models",
+    "authors": [
+      "Cheng-Ta Lee",
+      "Yu-Ching Lee",
+      "Albert Y. Chen"
+    ],
+    "year": 2019,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/j.autcon.2019.102883",
+    "sourceUrl": "https://doi.org/10.1016/j.autcon.2019.102883",
+    "keywords": [
+      "건축·시설관리",
+      "건물정보모델",
+      "BIM",
+      "자동심장충격기",
+      "AED",
+      "위치계획",
+      "공간분석",
+      "학술논문"
+    ],
+    "summary": "Cheng-Ta Lee 외 2명의 연구진이 2019년 Automation in Construction 저널에 발표한 본 논문은, 대형 건물 내에서 응급 상황 시 생명을 구할 수 있는 자동심장충격기(AED)의 최적 배치 위치를 건물 정보 모델(BIM)을 활용해 계획하고 평가하는 건축 및 시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2019-in-building-automated-external-defibrillator-location-planning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-research-data-management-systems-and-the-organization",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#8C564B",
+    "title": "Journal of Librarianship and Information Science 저널에 게재된 대학 및 연구기관의 연구데이터 관리 시스템과 조직적 요인을 다룬 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "대학의 연구데이터 관리 시스템(RDMS)과 조직 구조",
+    "originalTitle": "Research data management systems and the organization of universities and research institutes: A systematic literature review",
+    "authors": [
+      "Eva Katharina Donner"
+    ],
+    "year": 2022,
+    "journal": "Journal of Librarianship and Information Science",
+    "doi": "10.1177/09610006211070282",
+    "sourceUrl": "https://doi.org/10.1177/09610006211070282",
+    "keywords": [
+      "도서관·문헌정보",
+      "연구데이터관리",
+      "RDMS",
+      "대학조직",
+      "체계적문헌고찰",
+      "연구지원",
+      "학술논문"
+    ],
+    "summary": "Eva Katharina Donner가 2022년 Journal of Librarianship and Information Science 저널에 발표한 본 논문은, 고등교육 기관과 연구소에서 연구데이터 관리 시스템(RDMS)을 성공적으로 도입하기 위해 고려해야 할 조직적 요인과 이해관계자 간의 상호작용을 체계적 문헌고찰을 통해 분석한 도서관·문헌정보 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2022-research-data-management-systems-and-the-organization.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2021-application-of-machine-learning-algorithms-for-prediction",
     "verified": true,
     "category": "인공지능",
