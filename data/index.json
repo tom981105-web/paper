@@ -1,5 +1,198 @@
 [
   {
+    "id": "paper-2002-first-principles-simulation-ideas-illustrations-and-the",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Physics: Condensed Matter 저널에 게재된 제일원리 시뮬레이션의 개념과 CASTEP 코드의 구현을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "제일원리 시뮬레이션과 CASTEP 코드",
+    "originalTitle": "First-principles simulation: ideas, illustrations and the CASTEP code",
+    "authors": [
+      "M D Segall",
+      "Philip J D Lindan",
+      "M J Probert",
+      "C J Pickard",
+      "P J Hasnip",
+      "S J Clark",
+      "M C Payne"
+    ],
+    "year": 2002,
+    "journal": "Journal of Physics: Condensed Matter",
+    "doi": "10.1088/0953-8984/14/11/301",
+    "sourceUrl": "https://doi.org/10.1088/0953-8984/14/11/301",
+    "keywords": [
+      "인공지능",
+      "제일원리시뮬레이션",
+      "밀도범함수이론",
+      "CASTEP",
+      "재료과학",
+      "계산물리학",
+      "학술논문"
+    ],
+    "summary": "M. D. Segall 외 6명의 연구진이 2002년 Journal of Physics: Condensed Matter 저널에 발표한 본 논문은, 평면파와 유사포텐셜을 활용한 밀도범함수이론 기반의 제일원리 시뮬레이션 기초와 이를 구현한 모듈러 소프트웨어 CASTEP 코드의 설계 방식을 다룬 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2002-first-principles-simulation-ideas-illustrations-and-the.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1989-superconducting-electric-power-systems",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 초전도 전력 시스템을 다룬 전기 분야 학술 논문",
+    "shortTitle": "초전도 전력 시스템",
+    "originalTitle": "Superconducting electric power systems",
+    "authors": [
+      "C.R. Haden"
+    ],
+    "year": 1989,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/0378-7796(89)90052-7",
+    "sourceUrl": "https://doi.org/10.1016/0378-7796(89)90052-7",
+    "keywords": [
+      "전기",
+      "초전도",
+      "전력시스템",
+      "전력손실",
+      "송전",
+      "에너지효율",
+      "전기공학",
+      "학술논문"
+    ],
+    "summary": "C.R. Haden이 1989년 Electric Power Systems Research 저널에 발표한 본 논문은, 전력 손실을 극적으로 줄이고 대규모 전력 수송 효율을 극대화할 수 있는 초전도 기술의 전력 시스템 적용 가능성과 잠재력을 고찰한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-1989-superconducting-electric-power-systems.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-mobile-robot-navigation-and-obstacle-avoidance-techniques",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "International Robotics & Automation Journal 저널에 게재된 모바일 로봇 내비게이션 및 장애물 회피 기술의 동향을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모바일 로봇 내비게이션 및 장애물 회피 기술 리뷰",
+    "originalTitle": "Mobile Robot Navigation and Obstacle Avoidance Techniques: A Review",
+    "authors": [
+      "Anish Pandey"
+    ],
+    "year": 2017,
+    "journal": "International Robotics & Automation Journal",
+    "doi": "10.15406/iratj.2017.02.00023",
+    "sourceUrl": "https://doi.org/10.15406/iratj.2017.02.00023",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로봇",
+      "내비게이션",
+      "장애물회피",
+      "경로계획",
+      "센서기술",
+      "학술논문"
+    ],
+    "summary": "Anish Pandey가 2017년 International Robotics & Automation Journal 저널에 발표한 본 논문은, 모바일 로봇이 미지의 환경에서 안전하게 목적지까지 이동하기 위해 활용되는 다양한 내비게이션 기법과 장애물 회피 알고리즘의 발전 과정을 종합적으로 분석한 리뷰 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 14분",
+    "file": "papers/paper-2017-mobile-robot-navigation-and-obstacle-avoidance-techniques.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-editorial-cpote-2018-renewable-energy-si",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 CPOTE 2018 재생에너지 특별호를 소개하는 에너지·환경 분야 학술 편집 논문",
+    "shortTitle": "CPOTE 2018 재생에너지 특별호 사설",
+    "originalTitle": "Editorial CPOTE 2018 renewable energy SI",
+    "authors": [
+      "Wojciech Stanek"
+    ],
+    "year": 2020,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/j.renene.2019.11.042",
+    "sourceUrl": "https://doi.org/10.1016/j.renene.2019.11.042",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "CPOTE2018",
+      "특별호",
+      "지속가능성",
+      "에너지전환",
+      "학술논문"
+    ],
+    "summary": "Wojciech Stanek이 2020년 Renewable Energy 저널에 발표한 본 논문은, CPOTE 2018 학술대회에서 논의된 첨단 재생에너지 기술과 지속가능한 에너지 시스템 연구들을 모아 엮은 특별호(Special Issue)의 서문(Editorial)으로, 관련 연구 동향과 성과를 종합적으로 소개하는 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2020-editorial-cpote-2018-renewable-energy-si.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-implementation-of-model-predictive-control-for-an",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D08A5B",
+    "title": "HVAC&R Research 저널에 게재된 중규모 상업용 건물의 HVAC 시스템을 위한 모델 예측 제어 구현을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "중규모 상업용 건물의 HVAC 모델 예측 제어 구현",
+    "originalTitle": "Implementation of model predictive control for an HVAC system in a mid-size commercial building",
+    "authors": [
+      "Sorin C. Bengea",
+      "Anthony D. Kelman",
+      "Francesco Borrelli",
+      "Russell Taylor",
+      "Satish Narayanan"
+    ],
+    "year": 2014,
+    "journal": "HVAC&R Research",
+    "doi": "10.1080/10789669.2013.834781",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2013.834781",
+    "keywords": [
+      "건축·시설관리",
+      "HVAC",
+      "모델예측제어",
+      "상업용건물",
+      "에너지효율",
+      "빌딩자동화",
+      "제어시스템",
+      "학술논문"
+    ],
+    "summary": "Sorin C. Bengea 외 4명의 연구진이 2014년 HVAC&R Research 저널에 발표한 본 논문은, 중규모 상업용 건물의 공조(HVAC) 시스템에 모델 예측 제어(MPC) 기법을 실제 구현하여 에너지 효율과 실내 쾌적성을 동시에 향상시킨 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 15분",
+    "file": "papers/paper-2014-implementation-of-model-predictive-control-for-an.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-university-libraries-as-open-innovation-partners-harnessing",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A6FA5",
+    "title": "The Journal of Academic Librarianship 저널에 게재된 오픈 혁신 파트너로서의 대학 도서관과 글로벌 기업가정신 함양을 다룬 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "대학 도서관의 오픈 혁신 파트너십과 기업가정신",
+    "originalTitle": "University libraries as open innovation partners: Harnessing hidden potential to foster global entrepreneurship",
+    "authors": [
+      "Varun Gupta",
+      "Luis Rubalcaba"
+    ],
+    "year": 2022,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2021.102432",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2021.102432",
+    "keywords": [
+      "도서관·문헌정보",
+      "대학도서관",
+      "오픈혁신",
+      "기업가정신",
+      "글로벌창업",
+      "지식공유",
+      "학술논문"
+    ],
+    "summary": "Varun Gupta와 Luis Rubalcaba가 2022년 The Journal of Academic Librarianship 저널에 발표한 본 논문은, 전통적인 도서 공간을 넘어 대학 도서관이 오픈 혁신의 핵심 파트너로서 숨겨진 잠재력을 발휘하고 글로벌 기업가정신을 고취하는 전략적 역할을 다룬 도서관·문헌정보 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 14분",
+    "file": "papers/paper-2022-university-libraries-as-open-innovation-partners-harnessing.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1975-the-concept-of-a-linguistic-variable-and",
     "verified": true,
     "category": "인공지능",
