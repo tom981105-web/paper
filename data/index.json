@@ -1,5 +1,161 @@
 [
   {
+    "id": "paper-2020-introducing-article-numbering-to-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 아티클 넘버링 도입과 출판 체계 변화를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "Artificial Intelligence 저널의 아티클 넘버링 도입",
+    "originalTitle": "Introducing article numbering to Artificial Intelligence",
+    "authors": [
+      "Sweitze Roffel"
+    ],
+    "year": 2020,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/s0004-3702(19)30204-8",
+    "sourceUrl": "https://doi.org/10.1016/s0004-3702(19)30204-8",
+    "keywords": [
+      "인공지능",
+      "학술출판",
+      "아티클넘버링",
+      "저널운영",
+      "출판체계",
+      "학술논문",
+      "메타데이터",
+      "과학커뮤니케이션"
+    ],
+    "summary": "Sweitze Roffel이 2020년 Artificial Intelligence 저널에 발표한 본 논문은, 유서 깊은 인공지능 분야 학술지에서 논문 인용 및 출판의 효율성을 높이기 위해 새롭게 도입한 아티클 넘버링(Article Numbering) 체계와 그 출판학적 의의를 고찰한 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2020-introducing-article-numbering-to-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-microgrid-in-a-box-a-plug-and",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Spectrum 저널에 게재된 플러그앤플레이 방식의 지붕형 태양광 마이크로그리드 시스템을 다룬 전기 분야 학술 논문",
+    "shortTitle": "그리드 친화적 태양광을 위한 플러그앤플레이 마이크로그리드",
+    "originalTitle": "Microgrid in a box: A plug-and-play microgrid will make rooftop solar grid-friendly",
+    "authors": [
+      "Scott Hinson"
+    ],
+    "year": 2019,
+    "journal": "IEEE Spectrum",
+    "doi": "10.1109/mspec.2019.8913830",
+    "sourceUrl": "https://doi.org/10.1109/mspec.2019.8913830",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "태양광",
+      "플러그앤플레이",
+      "전력계통",
+      "신재생에너지",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "Scott Hinson이 2019년 IEEE Spectrum 저널에 발표한 본 논문은, 지붕형 태양광 발전이 전력망에 미치는 부담을 줄이고 쉽게 연결하여 활용할 수 있도록 고안된 플러그앤플레이 방식의 마이크로그리드 기술을 고찰한 전기공학 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2019-microgrid-in-a-box-a-plug-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-an-introduction-to-swarm-robotics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ISRN Robotics 저널에 게재된 군집 로봇공학의 주요 특성과 응용 전망을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "군집 로봇공학 개론",
+    "originalTitle": "An Introduction to Swarm Robotics",
+    "authors": [
+      "Iñaki Navarro",
+      "Fernando Matía"
+    ],
+    "year": 2013,
+    "journal": "ISRN Robotics",
+    "doi": "10.5402/2013/608164",
+    "sourceUrl": "https://doi.org/10.5402/2013/608164",
+    "keywords": [
+      "로봇·자동화",
+      "군집로봇",
+      "분산제어",
+      "다중로봇",
+      "자연모방",
+      "로봇공학",
+      "학술논문"
+    ],
+    "summary": "Iñaki Navarro와 Fernando Matía가 2013년 ISRN Robotics 저널에 발표한 본 논문은, 다수 로봇이 중앙 집중식 통제 없이 국소적 규칙만으로 협력하여 복잡한 작업을 수행하는 군집 로봇공학의 핵심 특성과 연구 동향을 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2013-an-introduction-to-swarm-robotics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-renewable-energy-education-in-turkey",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A8550",
+    "title": "Renewable Energy 저널에 게재된 튀르키예의 재생에너지 교육 현황과 필요성을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "튀르키예의 재생에너지 교육 현황",
+    "originalTitle": "Renewable energy education in Turkey",
+    "authors": [
+      "Caglayan Acikgoz"
+    ],
+    "year": 2011,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/j.renene.2010.08.015",
+    "sourceUrl": "https://doi.org/10.1016/j.renene.2010.08.015",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "에너지교육",
+      "튀르키예",
+      "지속가능발전",
+      "공학실무",
+      "환경정책",
+      "학술논문"
+    ],
+    "summary": "Caglayan Acikgoz가 2011년 Renewable Energy 저널에 발표한 본 논문은, 튀르키예를 중심으로 재생에너지 분야의 전문 인력 양성을 위한 교육 시스템의 현황과 향후 과제를 고찰한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2011-renewable-energy-education-in-turkey.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-smart-thermostats-in-building-automation-systems-and",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D2691E",
+    "title": "KnE Engineering 저널에 게재된 빌딩 자동화 시스템과 스마트 홈을 위한 스마트 온도조절기의 스마트성 수준과 발전 방향을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "스마트 홈과 빌딩 자동화를 위한 스마트 온도조절기",
+    "originalTitle": "Smart Thermostats in Building Automation Systems and Smart Homes",
+    "authors": [
+      "V.V. Goman",
+      "S.I. Korolev"
+    ],
+    "year": 2020,
+    "journal": "KnE Engineering",
+    "doi": "10.18502/keg.v5i3.6760",
+    "sourceUrl": "https://doi.org/10.18502/keg.v5i3.6760",
+    "keywords": [
+      "건축·시설관리",
+      "스마트온도조절기",
+      "스마트홈",
+      "빌딩자동화",
+      "에너지절약",
+      "제어시스템",
+      "자기학습",
+      "학술논문"
+    ],
+    "summary": "V.V. Goman과 S.I. Korolev가 2020년 KnE Engineering 저널에 발표한 본 논문은, 스마트 홈과 빌딩 자동화 시스템에서 사용되는 스마트 온도조절기의 최신 기술을 조사하고, 제어 시스템의 '스마트성 수준'을 3단계로 분류하여 향후 자기학습 알고리즘의 발전 방향을 고찰한 건축 및 시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2020-smart-thermostats-in-building-automation-systems-and.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2019-down-the-deep-rabbit-hole-untangling-deep",
     "verified": true,
     "category": "인공지능",
