@@ -1,5 +1,162 @@
 [
   {
+    "id": "paper-2020-deep-learning-in-diverse-computing-and-network",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "SSRN Electronic Journal에 게재된 딥러닝 기술을 활용한 학생 입학 예측 시스템을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝을 활용한 학생 입학 예측 시스템",
+    "originalTitle": "Deep Learning in diverse Computing and Network Applications Student Admission Predictor using Deep Learning",
+    "authors": [
+      "P. Nandal"
+    ],
+    "year": 2020,
+    "journal": "SSRN Electronic Journal",
+    "doi": "10.2139/ssrn.3562976",
+    "sourceUrl": "https://doi.org/10.2139/ssrn.3562976",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "입학예측",
+      "컴퓨팅",
+      "네트워크",
+      "교육공학",
+      "데이터분석",
+      "학술논문"
+    ],
+    "summary": "P. Nandal이 2020년 SSRN Electronic Journal에 발표한 본 논문은, 다양한 컴퓨팅 및 네트워크 환경에서 딥러닝 기술을 적용하여 학생들이 대학이나 교육 기관에 합격할 가능성을 정확하게 예측하는 모델의 설계와 구현 방안을 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2020-deep-learning-in-diverse-computing-and-network.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-performance-of-an-ovt-inverter-reliant-on",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "RE&PQJ 저널에 게재된 직교 공간 벡터 이론(OVT) 인버터의 필터 인버터 스위칭 주파수 성능 분석을 다룬 전기 분야 학술 논문",
+    "shortTitle": "OVT 인버터의 스위칭 주파수 성능 분석",
+    "originalTitle": "Performance of an OVT inverter reliant on the switching frequency of the filtering inverter",
+    "authors": [
+      "A. Muc",
+      "J. Iwaszkiewicz"
+    ],
+    "year": 2024,
+    "journal": "RE&PQJ",
+    "doi": "10.24084/repqj21.450",
+    "sourceUrl": "https://doi.org/10.24084/repqj21.450",
+    "keywords": [
+      "전기",
+      "OVT인버터",
+      "공간벡터이론",
+      "필터인버터",
+      "스위칭주파수",
+      "고조파제어",
+      "전력변환",
+      "학술논문"
+    ],
+    "summary": "A. Muc과 J. Iwaszkiewicz가 2024년 RE&PQJ 저널에 발표한 본 논문은, 직교 공간 벡터 이론(OVT)을 기반으로 하는 인버터에서 보조 필터 인버터의 스위칭 주파수가 출력 전압의 고조파 저감과 전체 시스템 성능 및 변압기 크기에 미치는 영향을 분석한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2024-performance-of-an-ovt-inverter-reliant-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-trajectory-control-of-designed-experimental-mobile-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Recent Innovations in Mechatronics 저널에 게재된 병원 내 모바일 로봇의 경로 제어 및 PID 제어기 성능 검증을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "실험용 모바일 로봇의 궤적 제어",
+    "originalTitle": "Trajectory Control of Designed Experimental Mobile Robot",
+    "authors": [
+      "Şahin Yildirim",
+      "Berkay Eren"
+    ],
+    "year": 2024,
+    "journal": "Recent Innovations in Mechatronics",
+    "doi": "10.17667/riim.2020.1/2.",
+    "sourceUrl": "https://doi.org/10.17667/riim.2020.1/2.",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로봇",
+      "궤적제어",
+      "PID제어기",
+      "병원자동화",
+      "시뮬레이션",
+      "지상표면거칠기",
+      "학술논문"
+    ],
+    "summary": "Şahin Yildirim과 Berkay Eren이 2024년 Recent Innovations in Mechatronics 저널에 발표한 본 논문은, 병원 환경 등에서 활용도가 높아지는 모바일 로봇의 궤적 제어 문제를 다루며, 지상 표면의 거칠기라는 외란 속에서도 표준 PID 제어기가 로봇의 경로 추종 성능을 우수하게 개선함을 시뮬레이션을 통해 입증한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2024-trajectory-control-of-designed-experimental-mobile-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-renewable-energy-update-malaysia",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 말레이시아의 신재생에너지 도입 현황과 전망을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "말레이시아 신재생에너지 동향 및 전망",
+    "originalTitle": "Renewable energy update: Malaysia",
+    "authors": [
+      "Mohd Noh Dalimin"
+    ],
+    "year": 1995,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(94)00070-m",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(94)00070-m",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "말레이시아에너지",
+      "태양광",
+      "바이오매스",
+      "수력발전",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "Mohd Noh Dalimin이 1995년 Renewable Energy 저널에 발표한 본 논문은, 말레이시아의 신재생에너지 자원 현황과 개발 잠재력, 그리고 지속 가능한 국가 에너지 정책 수립을 위한 발전 방향을 종합적으로 조명한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-1995-renewable-energy-update-malaysia.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-intelligent-building-maintenance-a-novel-discipline",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A7C59",
+    "title": "Journal of Building Appraisal 저널에 게재된 지능형 건물 유지관리라는 새로운 학문적 분야의 개념을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "지능형 건물 유지관리: 새로운 학문 분야",
+    "originalTitle": "Intelligent building maintenance — A novel discipline",
+    "authors": [
+      "Chung Yim Yiu"
+    ],
+    "year": 2008,
+    "journal": "Journal of Building Appraisal",
+    "doi": "10.1057/jba.2008.9",
+    "sourceUrl": "https://doi.org/10.1057/jba.2008.9",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "지능형건물",
+      "유지관리",
+      "건물평가",
+      "스마트빌딩",
+      "건축관리",
+      "학술논문"
+    ],
+    "summary": "Chung Yim Yiu가 2008년 Journal of Building Appraisal 저널에 발표한 본 논문은, 급변하는 건축 환경 속에서 건물의 가치를 보존하고 효율적으로 관리하기 위한 새로운 학문적 접근으로서 '지능형 건물 유지관리(Intelligent Building Maintenance)'의 개념과 필요성을 정립한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2008-intelligent-building-maintenance-a-novel-discipline.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2019-artificial-intelligence-real-radiology",
     "verified": true,
     "category": "인공지능",
