@@ -1,5 +1,185 @@
 [
   {
+    "id": "paper-2023-performance-analysis-of-extensional-deep-learning-and",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Neuroquantology 저널에 게재된 확장적 딥러닝과 부스팅 집약적 딥러닝 방법의 성능 분석을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "확장적 및 부스팅 집약적 딥러닝 성능 분석",
+    "originalTitle": "Performance Analysis of Extensional Deep Learning And Boosted Intensional Deep Learning Method",
+    "authors": [],
+    "year": 2023,
+    "journal": "neuroquantology",
+    "doi": "10.48047/nq.2022.20.3.nq22955",
+    "sourceUrl": "https://doi.org/10.48047/nq.2022.20.3.nq22955",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "확장적딥러닝",
+      "부스팅",
+      "집약적딥러닝",
+      "성능분석",
+      "학술논문"
+    ],
+    "summary": "2023년 Neuroquantology 저널에 발표된 본 논문은, 인공지능 분야에서 확장적 딥러닝과 부스팅을 결합한 집약적 딥러닝 방법들의 성능을 비교하고 분석한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2023-performance-analysis-of-extensional-deep-learning-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-grid-connected-microgrid-with-power-offset-synchronization",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Journal of Advanced Research in Dynamical and Control Systems 저널에 게재된 C2000 프로세서를 이용한 전력 오프셋 동기화 기반 계통 연계형 마이크로그리드 연구를 다룬 전기 분야 학술 논문",
+    "shortTitle": "C2000 프로세서 기반 마이크로그리드 전력 오프셋 동기화",
+    "originalTitle": "Grid Connected Microgrid with Power Offset Synchronization Using c2000 Processor",
+    "authors": [
+      "Syahril M"
+    ],
+    "year": 2020,
+    "journal": "Journal of Advanced Research in Dynamical and Control Systems",
+    "doi": "10.5373/jardcs/v12sp7/20202223",
+    "sourceUrl": "https://doi.org/10.5373/jardcs/v12sp7/20202223",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "계통연계",
+      "전력오프셋동기화",
+      "C2000프로세서",
+      "전력제어",
+      "임베디드시스템",
+      "학술논문"
+    ],
+    "summary": "Syahril M이 2020년 Journal of Advanced Research in Dynamical and Control Systems 저널에 발표한 본 논문은, C2000 마이크로컨트롤러 프로세서를 활용하여 전력 오프셋 동기화 방식을 적용한 계통 연계형 마이크로그리드의 제어와 구현을 다룬 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2020-grid-connected-microgrid-with-power-offset-synchronization.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-acknowledgement-to-reviewers-of-robotics-in-2019",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 2019년도 학술지 심사위원들에 대한 감사의 글을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "2019년 Robotics 저널 심사위원 감사의 글",
+    "originalTitle": "Acknowledgement to Reviewers of Robotics in 2019",
+    "authors": [
+      "Robotics Editorial Office"
+    ],
+    "year": 2020,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics9010006",
+    "sourceUrl": "https://doi.org/10.3390/robotics9010006",
+    "keywords": [
+      "로봇·자동화",
+      "학술지",
+      "심사위원",
+      "동료평가",
+      "편집위원회",
+      "학술논문"
+    ],
+    "summary": "Robotics Editorial Office가 2020년 Robotics 저널에 발표한 본 논문은, 지난 12개월 동안 학술지의 엄격한 동료평가(Peer Review) 과정에 헌신적으로 참여하여 시간과 전문성을 기여한 심사위원들에게 깊은 감사를 표명하는 편집자 주(Editorial) 형식의 기록이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2020-acknowledgement-to-reviewers-of-robotics-in-2019.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-unsteady-state-performance-comparison-of-tandem-photovoltaic",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Solar Energy 저널에 게재된 탠덤 태양광-열전 하이브리드 시스템과 일반 태양광 시스템의 비정상 상태 성능 비교를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탠덤 태양광-열전 하이브리드 시스템 비정상 상태 성능 비교",
+    "originalTitle": "Unsteady-state performance comparison of tandem photovoltaic-thermoelectric hybrid system and conventional photovoltaic system",
+    "authors": [
+      "Ershuai Yin",
+      "Qiang Li"
+    ],
+    "year": 2020,
+    "journal": "Solar Energy",
+    "doi": "10.1016/j.solener.2020.09.049",
+    "sourceUrl": "https://doi.org/10.1016/j.solener.2020.09.049",
+    "keywords": [
+      "에너지·환경",
+      "태양광발전",
+      "열전발전",
+      "하이브리드시스템",
+      "탠덤시스템",
+      "비정상상태성능",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "Ershuai Yin과 Qiang Li가 2020년 Solar Energy 저널에 발표한 본 논문은, 탠덤 태양광-열전 하이브리드 시스템과 기존 태양광 시스템의 비정상 상태 성능을 비교 분석하여 에너지 전환 효율의 차이를 검증한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2020-unsteady-state-performance-comparison-of-tandem-photovoltaic.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-rfid-based-building-maintenance-system",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "Automation in Construction 저널에 게재된 RFID 기반 건물 유지관리 시스템 구축 연구를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "RFID 기반 건물 유지관리 시스템",
+    "originalTitle": "RFID-based building maintenance system",
+    "authors": [
+      "Chien-Ho Ko"
+    ],
+    "year": 2009,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/j.autcon.2008.09.001",
+    "sourceUrl": "https://doi.org/10.1016/j.autcon.2008.09.001",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "RFID",
+      "건물유지관리",
+      "자산관리",
+      "자동화",
+      "학술논문"
+    ],
+    "summary": "Chien-Ho Ko가 2009년 Automation in Construction 저널에 발표한 본 논문은, 건축물의 효율적인 유지관리를 위해 무선 주파수 식별(RFID) 기술을 도입하여 건물 내 자산과 설비를 체계적으로 추적하고 관리하는 시스템을 제안한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2009-rfid-based-building-maintenance-system.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-online-health-information-seeking-and-digital-health",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#4A6FA5",
+    "title": "The Journal of Academic Librarianship 저널에 게재된 정보 및 학습 자원 학부생들의 온라인 건강 정보 탐색과 디지털 건강 리터러시를 다룬 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "대학생의 온라인 건강 정보 탐색과 디지털 건강 리터러시",
+    "originalTitle": "Online health information seeking and digital health literacy among information and learning resources undergraduate students",
+    "authors": [
+      "Esra Abdoh"
+    ],
+    "year": 2022,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2022.102603",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2022.102603",
+    "keywords": [
+      "도서관문헌정보",
+      "건강정보탐색",
+      "디지털건강리터러시",
+      "정보학부생",
+      "온라인정보",
+      "정보행동",
+      "학술논문"
+    ],
+    "summary": "Esra Abdoh가 2022년 The Journal of Academic Librarianship 저널에 발표한 본 논문은, 정보 및 학습 자원 관련 학부생들을 대상으로 이들의 온라인 건강 정보 탐색 행태와 디지털 건강 리터러시 수준을 조사하고 분석한 도서관·문헌정보 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2022-online-health-information-seeking-and-digital-health.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-machine-learning-and-deep-learning-approaches-for",
     "verified": true,
     "category": "인공지능",
