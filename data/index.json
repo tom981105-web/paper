@@ -1,5 +1,162 @@
 [
   {
+    "id": "paper-2019-down-the-deep-rabbit-hole-untangling-deep",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "First Monday 저널에 게재된 딥러닝과 머신러닝, 인공지능의 개념적 차이와 한계를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능, 머신러닝, 딥러닝의 개념적 분리와 한계",
+    "originalTitle": "Down the deep rabbit hole: Untangling deep learning from machine learning and artificial intelligence",
+    "authors": [
+      "Niel Chah"
+    ],
+    "year": 2019,
+    "journal": "First Monday",
+    "doi": "10.5210/fm.v24i2.8237",
+    "sourceUrl": "https://doi.org/10.5210/fm.v24i2.8237",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "딥러닝",
+      "개념분석",
+      "기술사",
+      "시스템한계",
+      "비기술적가이드",
+      "학술논문"
+    ],
+    "summary": "Niel Chah가 2019년 First Monday 저널에 발표한 본 논문은, 대중과 산업계에서 자주 혼용되고 오용되는 인공지능, 머신러닝, 딥러닝의 개념을 명확히 구분하고, 딥러닝의 역사적 배경과 대중적 인식, 그리고 기술적 한계와 취약점을 비기술적 관점에서 종합적으로 분석한 인공지능 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2019-down-the-deep-rabbit-hole-untangling-deep.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-decentralized-and-communicating-management-of-a-hydrogen",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Journal of Advanced Research in Dynamical and Control Systems 저널에 게재된 수소 기반 마이크로그리드의 분산형 통신 관리 시스템을 다룬 전기 분야 학술 논문",
+    "shortTitle": "수소 기반 마이크로그리드의 분산 통신 관리",
+    "originalTitle": "Decentralized and Communicating Management of a Hydrogen-Based Microgrid",
+    "authors": [
+      "Elmahni L."
+    ],
+    "year": 2020,
+    "journal": "Journal of Advanced Research in Dynamical and Control Systems",
+    "doi": "10.5373/jardcs/v12sp3/20201287",
+    "sourceUrl": "https://doi.org/10.5373/jardcs/v12sp3/20201287",
+    "keywords": [
+      "전기",
+      "수소에너지",
+      "마이크로그리드",
+      "분산제어",
+      "통신기반",
+      "에너지관리",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "Elmahni L.이 2020년 Journal of Advanced Research in Dynamical and Control Systems 저널에 발표한 본 논문은, 수소 기반의 마이크로그리드 시스템에서 각 구성 요소가 통신을 통해 유기적으로 소통하며 에너지를 분산 제어하는 관리 기법을 고찰한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2020-decentralized-and-communicating-management-of-a-hydrogen.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-mechanism-design-for-robotics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 로봇 기구 설계의 최신 동향과 국제 심포지엄 성과를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 기구 설계를 위한 메커니즘",
+    "originalTitle": "Mechanism Design for Robotics",
+    "authors": [
+      "Marco Ceccarelli",
+      "Alessandro Gasparetto"
+    ],
+    "year": 2019,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics8020030",
+    "sourceUrl": "https://doi.org/10.3390/robotics8020030",
+    "keywords": [
+      "로봇·자동화",
+      "기구설계",
+      "메커니즘",
+      "로봇공학",
+      "IFToMM",
+      "심포지엄",
+      "자동화시스템",
+      "학술논문"
+    ],
+    "summary": "Marco Ceccarelli와 Alessandro Gasparetto가 2019년 Robotics 저널에 발표한 본 논문은, 로봇 기구 설계 분야의 국제 심포지엄(MEDER)을 바탕으로 로봇 메커니즘 설계의 학술적 성과와 최신 연구 동향을 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2019-mechanism-design-for-robotics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-a-novel-approach-to-ligand-exchange-rates",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#4A7C59",
+    "title": "The Journal of Chemical Physics 저널에 게재된 리튬 및 나트륨 이온 배터리 전해질의 리간드 교환 속도 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "리튬 및 나트륨 이온 배터리 전해질 리간드 교환 속도",
+    "originalTitle": "A novel approach to ligand-exchange rates applied to lithium-ion battery and sodium-ion battery electrolytes",
+    "authors": [
+      "Gustav Åvall",
+      "Patrik Johansson"
+    ],
+    "year": 2020,
+    "journal": "The Journal of Chemical Physics",
+    "doi": "10.1063/5.0005397",
+    "sourceUrl": "https://doi.org/10.1063/5.0005397",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "나트륨이온배터리",
+      "전해질",
+      "리간드교환",
+      "분자역학",
+      "이온전도",
+      "학술논문"
+    ],
+    "summary": "Gustav Åvall과 Patrik Johansson이 2020년 The Journal of Chemical Physics 저널에 발표한 본 논문은, 용매와 음이온의 힘과 속도를 분석하는 새로운 접근법을 통해 리튬 이온 및 나트륨 이온 배터리 전해질 내 리간드 교환 속도를 계산하고 비교한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2020-a-novel-approach-to-ligand-exchange-rates.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-building-occupancy-detection-for-intelligent-hvac-management",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A3B",
+    "title": "International Journal of Science and Research (IJSR) 저널에 게재된 지능형 냉난방공조 관리를 위한 건물 재실 감지를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "지능형 HVAC 관리를 위한 재실 감지",
+    "originalTitle": "Building Occupancy Detection for Intelligent HVAC Management",
+    "authors": [
+      "Vrushank Mistry"
+    ],
+    "year": 2019,
+    "journal": "International Journal of Science and Research (IJSR)",
+    "doi": "10.21275/sr24203214904",
+    "sourceUrl": "https://doi.org/10.21275/sr24203214904",
+    "keywords": [
+      "건축·시설관리",
+      "재실감지",
+      "HVAC",
+      "지능형건물",
+      "에너지관리",
+      "냉난방공조",
+      "건물자동화",
+      "학술논문"
+    ],
+    "summary": "Vrushank Mistry가 2019년 International Journal of Science and Research (IJSR) 저널에 발표한 본 논문은, 건물 내부의 에너지 소비를 최적화하기 위해 실내에 사람이 있는지 여부를 감지하고 이를 지능형 냉난방공조(HVAC) 시스템 제어에 활용하는 방안을 고찰한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2019-building-occupancy-detection-for-intelligent-hvac-management.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-object-recognition-with-deep-learning-and-machine",
     "verified": true,
     "category": "인공지능",
