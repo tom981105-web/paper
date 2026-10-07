@@ -1,5 +1,166 @@
 [
   {
+    "id": "paper-2022-object-recognition-with-deep-learning-and-machine",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "NWSA Academic Journals 저널에 게재된 딥러닝과 머신러닝 방법을 활용한 객체 인식을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝과 머신러닝을 이용한 객체 인식",
+    "originalTitle": "OBJECT RECOGNITION WITH DEEP LEARNING AND MACHINE LEARNING METHODS",
+    "authors": [
+      "İsmail Akgül",
+      "Yıldız Aydın"
+    ],
+    "year": 2022,
+    "journal": "NWSA Academic Journals",
+    "doi": "10.12739/nwsa.2022.17.4.2a0189",
+    "sourceUrl": "https://doi.org/10.12739/nwsa.2022.17.4.2a0189",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "머신러닝",
+      "객체인식",
+      "컴퓨터비전",
+      "이미지처리",
+      "패턴인식",
+      "학술논문"
+    ],
+    "summary": "İsmail Akgül과 Yıldız Aydın이 2022년 NWSA Academic Journals 저널에 발표한 본 논문은, 딥러닝과 머신러닝 기술을 활용하여 이미지 속 객체를 정확하게 인식하고 분류하는 다양한 방법론을 고찰한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2022-object-recognition-with-deep-learning-and-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-technical-challenges-in-microgrid",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Psychosocial Rehabilitation 저널에 게재된 마이크로그리드의 기술적 과제 분석을 다룬 전기 분야 학술 논문",
+    "shortTitle": "마이크로그리드의 기술적 과제 분석",
+    "originalTitle": "Technical Challenges in Microgrid",
+    "authors": [
+      "Ashutosh Rai"
+    ],
+    "year": 2020,
+    "journal": "International Journal of Psychosocial Rehabilitation",
+    "doi": "10.37200/ijpr/v24i5/pr202054",
+    "sourceUrl": "https://doi.org/10.37200/ijpr/v24i5/pr202054",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "전력계통",
+      "신재생에너지",
+      "에너지관리",
+      "분산전원",
+      "전력제어",
+      "학술논문"
+    ],
+    "summary": "Ashutosh Rai가 2020년 International Journal of Psychosocial Rehabilitation 저널에 발표한 본 논문은, 차세대 소형 전력망인 마이크로그리드를 구축하고 운영하는 과정에서 마주치는 다양한 기술적 과제와 해결 방향을 고찰한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2020-technical-challenges-in-microgrid.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-manipulation-for-self-identification-and-self-identification",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Science Robotics 저널에 게재된 로봇의 자기 식별과 조작 기술의 상호 작용을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇의 자기 식별과 조작 기술",
+    "originalTitle": "Manipulation for self-Identification, and self-Identification for better manipulation",
+    "authors": [
+      "Kaiyu Hang",
+      "Walter G. Bircher",
+      "Andrew S. Morgan",
+      "Aaron M. Dollar"
+    ],
+    "year": 2021,
+    "journal": "Science Robotics",
+    "doi": "10.1126/scirobotics.abe1321",
+    "sourceUrl": "https://doi.org/10.1126/scirobotics.abe1321",
+    "keywords": [
+      "로봇·자동화",
+      "자기식별",
+      "로봇조작",
+      "센서융합",
+      "모델파라미터",
+      "지능형로봇",
+      "상호작용",
+      "학술논문"
+    ],
+    "summary": "Kaiyu Hang 외 저자들이 2021년 Science Robotics 저널에 발표한 본 논문은, 로봇이 스스로를 인식하는 자기 식별(Self-identification)을 통해 제한된 센서 환경에서도 정밀하게 물체를 조작하고, 반대로 물체 조작 행위를 통해 자신의 모델 파라미터를 더 정확하게 파악하는 상호 순환적 관계를 탐구한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2021-manipulation-for-self-identification-and-self-identification.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-battery-management-systems-for-electric-vehicles-using",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "International Journal of Science and Research (IJSR) 저널에 게재된 리튬 이온 배터리를 활용한 전기차 배터리 관리 시스템(BMS)을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "전기차를 위한 리튬 이온 배터리 관리 시스템",
+    "originalTitle": "Battery Management Systems for Electric Vehicles using Lithium-Ion Batteries",
+    "authors": [
+      "Samudrala Hitesh Chandra",
+      "Jn Chandra Sekhar"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Science and Research (IJSR)",
+    "doi": "10.21275/sr221228121715",
+    "sourceUrl": "https://doi.org/10.21275/sr221228121715",
+    "keywords": [
+      "에너지·환경",
+      "배터리관리시스템",
+      "BMS",
+      "리튬이온배터리",
+      "전기자동차",
+      "에너지저장",
+      "전력제어",
+      "학술논문"
+    ],
+    "summary": "Samudrala Hitesh Chandra와 Jn Chandra Sekhar가 2022년 International Journal of Science and Research (IJSR) 저널에 발표한 본 논문은, 전기자동차에 널리 사용되는 리튬 이온 배터리의 성능과 안정성을 극대화하기 위한 배터리 관리 시스템(BMS)의 핵심 역할과 설계 원리를 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2022-battery-management-systems-for-electric-vehicles-using.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-performance-evaluation-for-hospital-facility-management-literature",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A709C",
+    "title": "Journal of Facility Management Education and Research 저널에 게재된 병원 시설관리 성과 평가 문헌 검토 및 연구 방법론을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "병원 시설관리 성과 평가 및 연구 방법론",
+    "originalTitle": "Performance evaluation for hospital facility management: literature review and a research methodology",
+    "authors": [
+      "Joseph Lai",
+      "P.L. Yuen"
+    ],
+    "year": 2019,
+    "journal": "Journal of Facility Management Education and Research",
+    "doi": "10.22361/jfmer/96267",
+    "sourceUrl": "https://doi.org/10.22361/jfmer/96267",
+    "keywords": [
+      "건축·시설관리",
+      "병원시설관리",
+      "성과평가",
+      "핵심성과지표",
+      "문헌검토",
+      "분석적네트워크과제",
+      "연구방법론",
+      "학술논문"
+    ],
+    "summary": "Joseph Lai와 P.L. Yuen이 2019년 Journal of Facility Management Education and Research 저널에 발표한 본 논문은, 병원 건축물의 종합적인 시설관리(FM) 성과를 체계적으로 평가하기 위한 지표 개발의 필요성을 강조하고, 이를 구축하기 위한 문헌 검토 결과와 5단계 연구 방법론을 제시한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2019-performance-evaluation-for-hospital-facility-management-literature.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2019-deep-iris-deep-learning-for-gender-classification",
     "verified": true,
     "category": "인공지능",
