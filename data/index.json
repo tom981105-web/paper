@@ -1,5 +1,164 @@
 [
   {
+    "id": "paper-2022-seeing-deep-into-the-lungs-with-deep",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Scientia 저널에 게재된 딥러닝을 활용한 폐 내부 진단 및 영상 분석 기술을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝을 통한 폐 내부 정밀 진단",
+    "originalTitle": "Seeing Deep into the Lungs with Deep Learning",
+    "authors": [
+      "Yiqiao Yin"
+    ],
+    "year": 2022,
+    "journal": "Scientia",
+    "doi": "10.33548/scientia849",
+    "sourceUrl": "https://doi.org/10.33548/scientia849",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "폐진단",
+      "의료영상",
+      "컴퓨터비전",
+      "의학인공지능",
+      "헬스케어",
+      "학술논문"
+    ],
+    "summary": "Yiqiao Yin이 2022년 Scientia 저널에 발표한 본 논문은, 첨단 인공지능 기술인 딥러닝을 활용해 폐 내부의 미세한 병변과 상태를 정밀하게 분석하고 진단하는 의료 인공지능 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2022-seeing-deep-into-the-lungs-with-deep.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-multi-objective-optimization-of-preplanned-microgrid-islanding",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Transactions on Electrical Energy Systems 저널에 게재된 확률론적 단기 시뮬레이션 기반 마이크로그리드 계획 섬락 최적화를 다룬 전기 분야 학술 논문",
+    "shortTitle": "확률적 단기 시뮬레이션 기반 마이크로그리드 섬락 최적화",
+    "originalTitle": "Multi-objective optimization of preplanned microgrid islanding based on stochastic short-term simulation",
+    "authors": [
+      "Xiaoyu Cao",
+      "Jianxue Wang",
+      "Zhong Zhang"
+    ],
+    "year": 2016,
+    "journal": "International Transactions on Electrical Energy Systems",
+    "doi": "10.1002/etep.2238",
+    "sourceUrl": "https://doi.org/10.1002/etep.2238",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "섬락운전",
+      "다목적최적화",
+      "확률론적시뮬레이션",
+      "전력계통",
+      "분산전원",
+      "학술논문"
+    ],
+    "summary": "Xiaoyu Cao 외 2인이 2016년 International Transactions on Electrical Energy Systems 저널에 발표한 본 논문은, 전력망 사고나 비상 상황 시 마이크로그리드가 안전하고 효율적으로 독립 운전(섬락) 상태로 전환할 수 있도록 다목적 최적화 기법을 적용한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2016-multi-objective-optimization-of-preplanned-microgrid-islanding.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-simultaneous-grasp-and-motion-planning-humanoid-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "IEEE Robotics & Automation Magazine 저널에 게재된 휴머노이드 로봇 ARMAR-III의 동시 파프 및 모션 계획 기법을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "휴머노이드 로봇 ARMAR-III의 동시 파프 및 모션 계획",
+    "originalTitle": "Simultaneous Grasp and Motion Planning: Humanoid Robot ARMAR-III",
+    "authors": [
+      "Nikolaus Vahrenkamp",
+      "Tamim Asfour",
+      "Rudiger Dillmann"
+    ],
+    "year": 2012,
+    "journal": "IEEE Robotics & Automation Magazine",
+    "doi": "10.1109/mra.2012.2192171",
+    "sourceUrl": "https://doi.org/10.1109/mra.2012.2192171",
+    "keywords": [
+      "로봇·자동화",
+      "휴머노이드로봇",
+      "모션계획",
+      "파지계획",
+      "ARMAR-III",
+      "로봇조작",
+      "자동화",
+      "학술논문"
+    ],
+    "summary": "Nikolaus Vahrenkamp, Tamim Asfour, Rudiger Dillmann이 2012년 IEEE Robotics & Automation Magazine에 발표한 본 논문은, 인간형 로봇 ARMAR-III가 물체를 잡는 파지(Grasp) 과정과 이동하는 모션(Motion) 계획을 동시에 최적화하여 복잡한 환경에서 자연스럽게 물체를 조작할 수 있는 기법을 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-2012-simultaneous-grasp-and-motion-planning-humanoid-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-output-variation-of-photovoltaic-modules-with-environmental",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Solar Energy 저널에 게재된 환경 요인에 따른 태양광 모듈 출력 변동과 스펙트럼 복사의 영향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 모듈 출력과 스펙트럼 복사",
+    "originalTitle": "Output variation of photovoltaic modules with environmental factors—I. The effect of spectral solar radiation on photovoltaic module output",
+    "authors": [
+      "Youichi Hirata",
+      "Tatsuo Tani"
+    ],
+    "year": 1995,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(95)00063-w",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(95)00063-w",
+    "keywords": [
+      "에너지·환경",
+      "태양광모듈",
+      "스펙트럼복사",
+      "환경요인",
+      "신재생에너지",
+      "태양전지",
+      "학술논문"
+    ],
+    "summary": "Youichi Hirata와 Tatsuo Tani가 1995년 Solar Energy 저널에 발표한 본 논문은, 다양한 환경 요인 중 태양광 스펙트럼 복사가 태양광 모듈의 전력 출력 변동에 미치는 영향을 분석한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 13분",
+    "file": "papers/paper-1995-output-variation-of-photovoltaic-modules-with-environmental.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1993-what-is-building-maintenance",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#9C6ADE",
+    "title": "Facilities 저널에 게재된 건축물 유지관리의 개념과 장기적 계획의 중요성을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건축물 유지관리란 무엇인가?",
+    "originalTitle": "What Is Building Maintenance?",
+    "authors": [
+      "David Allen"
+    ],
+    "year": 1993,
+    "journal": "Facilities",
+    "doi": "10.1108/eum0000000002230",
+    "sourceUrl": "https://doi.org/10.1108/eum0000000002230",
+    "keywords": [
+      "건축·시설관리",
+      "건물유지관리",
+      "장기계획",
+      "내구성",
+      "건설재료",
+      "시설운영",
+      "학술논문",
+      "건축경영"
+    ],
+    "summary": "David Allen이 1993년 Facilities 저널에 발표한 본 논문은, 현대 건축 디자인의 변화와 덜 내구성 있는 재료 사용에 대응하여 건물이 수익성을 유지하고 가치를 보존하기 위해 왜 장기적인 유지관리 계획이 필수적인지 고찰한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-1993-what-is-building-maintenance.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-introducing-article-numbering-to-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
