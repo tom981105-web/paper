@@ -1,5 +1,163 @@
 [
   {
+    "id": "paper-2026-beyond-point-estimates-distributional-uncertainty-in-machine",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning with Applications 저널에 게재된 머신러닝 성능 평가에서의 분포 불확실성과 점 추정 한계 극복을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "머신러닝 성능 평가의 분포 불확실성",
+    "originalTitle": "Beyond point estimates: Distributional uncertainty in machine learning performance evaluation",
+    "authors": [
+      "Christoph Lehmann",
+      "Yahor Paromau"
+    ],
+    "year": 2026,
+    "journal": "Machine Learning with Applications",
+    "doi": "10.1016/j.mlwa.2026.101033",
+    "sourceUrl": "https://doi.org/10.1016/j.mlwa.2026.101033",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "성능평가",
+      "분포불확실성",
+      "점추정",
+      "불확실성정량화",
+      "학술논문"
+    ],
+    "summary": "Christoph Lehmann과 Yahor Paromau가 2026년 Machine Learning with Applications 저널에 발표한 본 논문은, 머신러닝 모델의 성능을 평가할 때 흔히 사용되는 단순 점 추정 방식의 한계를 지적하고, 성능 평가 과정에서의 분포 불확실성을 체계적으로 다루어 더 신뢰성 높은 평가 체계를 제안한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2026-beyond-point-estimates-distributional-uncertainty-in-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-competitiveness-of-pv-inverter-as-a-reactive",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Energy Procedia 저널에 게재된 인버터 수명 감소를 고려한 무효 전력 보상기로서의 태양광(PV) 인버터 경쟁력 분석을 다룬 전기 분야 학술 논문",
+    "shortTitle": "인버터 수명 감소를 고려한 태양광 인버터의 무효 전력 보상 경쟁력",
+    "originalTitle": "Competitiveness of PV Inverter as a Reactive Power Compensator considering Inverter Lifetime Reduction",
+    "authors": [
+      "Oktoviano Gandhi",
+      "Carlos Rodríguez-Gallegos",
+      "Thomas Reindl",
+      "Dipti Srinivasan"
+    ],
+    "year": 2018,
+    "journal": "Energy Procedia",
+    "doi": "10.1016/j.egypro.2018.09.005",
+    "sourceUrl": "https://doi.org/10.1016/j.egypro.2018.09.005",
+    "keywords": [
+      "전기",
+      "태양광인버터",
+      "무효전력보상",
+      "인버터수명",
+      "전력계통",
+      "신재생에너지",
+      "에너지경제",
+      "학술논문"
+    ],
+    "summary": "Oktoviano Gandhi 등이 2018년 Energy Procedia 저널에 발표한 본 논문은, 태양광(PV) 인버터를 활용하여 전력 계통에 무효 전력을 공급할 때 발생하는 인버터 수명 단축 문제를 경제적으로 분석하고, 전용 무효 전력 보상 장치와의 비용 경쟁력을 비교 평가한 전기 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2018-competitiveness-of-pv-inverter-as-a-reactive.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-homotopic-roadmap-generation-for-robot-motion-planning",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Intelligent & Robotic Systems 저널에 게재된 로봇 모션 계획을 위한 호모토픽 로드맵 생성을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 모션 계획을 위한 호모토픽 로드맵 생성",
+    "originalTitle": "Homotopic Roadmap Generation for Robot Motion Planning",
+    "authors": [
+      "Rahul Kala"
+    ],
+    "year": 2015,
+    "journal": "Journal of Intelligent & Robotic Systems",
+    "doi": "10.1007/s10846-015-0278-z",
+    "sourceUrl": "https://doi.org/10.1007/s10846-015-0278-z",
+    "keywords": [
+      "로봇·자동화",
+      "모션계획",
+      "호모토픽",
+      "로드맵생성",
+      "경로계획",
+      "위상학",
+      "자율이동로봇",
+      "학술논문"
+    ],
+    "summary": "Rahul Kala가 2015년 Journal of Intelligent & Robotic Systems 저널에 발표한 본 논문은, 자율 이동 로봇이 장애물 환경에서 서로 다른 위상학적 특성을 가진 경로들을 효율적으로 탐색할 수 있도록 호모토픽 로드맵을 생성하는 새로운 모션 계획 알고리즘을 제안한 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2015-homotopic-roadmap-generation-for-robot-motion-planning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2006-rural-energy-development-in-iran-non-renewable",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 이란의 농촌 지역 에너지 개발과 비재생 및 재생 가능 자원 활용을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "이란의 농촌 지역 에너지 개발 및 자원 활용",
+    "originalTitle": "Rural energy development in Iran: Non-renewable and renewable resources",
+    "authors": [
+      "M.M. Ardehali"
+    ],
+    "year": 2006,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/j.renene.2005.08.002",
+    "sourceUrl": "https://doi.org/10.1016/j.renene.2005.08.002",
+    "keywords": [
+      "에너지·환경",
+      "농촌에너지",
+      "이란",
+      "재생에너지",
+      "비재생에너지",
+      "에너지개발",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "M.M. Ardehali가 2006년 Renewable Energy 저널에 발표한 본 논문은, 이란의 농촌 지역을 대상으로 비재생 에너지 자원과 재생 가능 에너지 자원의 현황을 검토하고, 지속 가능한 농촌 에너지 개발을 위한 방향성을 제시한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2006-rural-energy-development-in-iran-non-renewable.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1984-bs-on-building-maintenance",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D35400",
+    "title": "Facilities 저널에 게재된 건물 유지관리 경영을 위한 영국 표준(BS) 초안 제정을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지관리 영국 표준 초안 검토",
+    "originalTitle": "BS on building maintenance",
+    "authors": [
+      "John Streeter"
+    ],
+    "year": 1984,
+    "journal": "Facilities",
+    "doi": "10.1108/eb018737",
+    "sourceUrl": "https://doi.org/10.1108/eb018737",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "유지관리",
+      "영국표준",
+      "BS",
+      "건물관리",
+      "전문직업",
+      "학술논문"
+    ],
+    "summary": "John Streeter가 1984년 Facilities 저널에 발표한 본 논문은, 새롭게 대두되는 시설관리(Facilities Management) 전문 직업군을 위해 건물 유지관리 경영 절차의 초석을 다지는 영국 표준(BS) 초안의 의의와 주요 내용을 검토한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1984-bs-on-building-maintenance.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-las-transformer-an-enhanced-transformer-based-on",
     "verified": true,
     "category": "인공지능",
