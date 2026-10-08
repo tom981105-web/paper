@@ -1,5 +1,153 @@
 [
   {
+    "id": "paper-2020-guest-editorial-computer-vision-for-the-creative",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "IET Computer Vision 저널에 게재된 크리에이티브 산업을 위한 컴퓨터 비전 분야의 인공지능 학술 논문",
+    "shortTitle": "크리에이티브 산업을 위한 컴퓨터 비전",
+    "originalTitle": "Guest Editorial: Computer Vision for the Creative Industries",
+    "authors": [],
+    "year": 2020,
+    "journal": "IET Computer Vision",
+    "doi": "10.1049/iet-cvi.2020.0536",
+    "sourceUrl": "https://doi.org/10.1049/iet-cvi.2020.0536",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "크리에이티브산업",
+      "미디어아트",
+      "콘텐츠생성",
+      "시각인식",
+      "학술논문"
+    ],
+    "summary": "IET Computer Vision 저널에 2020년 게재된 본 논문은, 예술, 디자인, 미디어 등 창의적 산업 분야에서 컴퓨터 비전 기술이 어떻게 활용되고 접목될 수 있는지 그 최신 동향과 발전 가능성을 조망한 편집 사설이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2020-guest-editorial-computer-vision-for-the-creative.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-comparison-of-cntfet-inverter-with-cmos-inverter",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal for Research in Applied Science and Engineering Technology 저널에 게재된 CNTFET 인버터와 CMOS 인버터의 성능 비교를 다룬 전기 분야 학술 논문",
+    "shortTitle": "CNTFET 인버터와 CMOS 인버터 비교",
+    "originalTitle": "Comparison of CNTFET Inverter with CMOS Inverter",
+    "authors": [
+      "Prof. Tushar Surwadkar"
+    ],
+    "year": 2020,
+    "journal": "International Journal for Research in Applied Science and Engineering Technology",
+    "doi": "10.22214/ijraset.2020.6413",
+    "sourceUrl": "https://doi.org/10.22214/ijraset.2020.6413",
+    "keywords": [
+      "전기",
+      "CNTFET",
+      "CMOS",
+      "인버터",
+      "나노튜브",
+      "반도체",
+      "전력전자",
+      "학술논문"
+    ],
+    "summary": "Prof. Tushar Surwadkar가 2020년 International Journal for Research in Applied Science and Engineering Technology 저널에 발표한 본 논문은, 차세대 반도체 소자로 주목받는 탄소나노튜브 전계효과 트랜지스터(CNTFET) 기반 인버터와 기존의 실리콘 기반 CMOS 인버터의 특성을 비교 분석하여 차세대 회로 설계의 가능성을 고찰한 전기 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2020-comparison-of-cntfet-inverter-with-cmos-inverter.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-1998-international-ground-robotics-vehicle-competition-robotics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 국제 지상 로봇 차량 경진대회(IGVC)의 코너 및 운영을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "국제 지상 로봇 차량 경진대회(IGVC) 코너",
+    "originalTitle": "1998 International ground robotics vehicle competition robotics competition corner",
+    "authors": [
+      "Robin R. Murphy"
+    ],
+    "year": 1999,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/s0921-8890(99)80014-1",
+    "sourceUrl": "https://doi.org/10.1016/s0921-8890(99)80014-1",
+    "keywords": [
+      "로봇·자동화",
+      "지상로봇",
+      "로봇경진대회",
+      "자율주행",
+      "모바일로봇",
+      "경연대회",
+      "학술논문"
+    ],
+    "summary": "Robin R. Murphy가 1999년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 1998년에 개최된 국제 지상 로봇 차량 경진대회(IGVC)의 경기 양상과 기술적 의의를 조명한 로봇·자동화 분야의 리포트 형식 문헌이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1999-1998-international-ground-robotics-vehicle-competition-robotics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-wind-energy-literature-survey-no-34",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 분야의 최신 문헌 조사(Literature Survey No. 34)를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제34호",
+    "originalTitle": "Wind energy literature survey no. 34",
+    "authors": [
+      "Christian Pavese"
+    ],
+    "year": 2014,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1813",
+    "sourceUrl": "https://doi.org/10.1002/we.1813",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "공학연구",
+      "학술논문"
+    ],
+    "summary": "Christian Pavese가 2014년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지와 직접 관련된 전용 저널 외에 다양한 과학 기술 및 에너지 관련 학술지에 발표된 풍력 관련 핵심 논문들을 체계적으로 분류하고 조사하여 독자들에게 제공하는 문헌 조사 보고서이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2014-wind-energy-literature-survey-no-34.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-l-architecte-face-au-bim-building-information",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B73",
+    "title": "Industrie du futur 저널에 게재된 BIM 환경 속 건축가의 역할 변화를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "BIM 환경에 직면한 건축가",
+    "originalTitle": "L'Architecte face au BIM (Building Information Modeling)",
+    "authors": [
+      "Zeina KHAWAM"
+    ],
+    "year": 2017,
+    "journal": "Industrie du futur",
+    "doi": "10.51257/a-v1-c3203",
+    "sourceUrl": "https://doi.org/10.51257/a-v1-c3203",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "건축가역할",
+      "건설디지털전환",
+      "건축설계",
+      "통합설계",
+      "학술논문"
+    ],
+    "summary": "Zeina KHAWAM이 2017년 Industrie du futur 저널에 발표한 본 논문은, 건설 산업의 디지털 혁신을 이끄는 BIM(Building Information Modeling) 도입에 따라 전통적인 건축가의 역할과 실무 방식이 어떻게 변화하고 대응해야 하는지 조망한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2017-l-architecte-face-au-bim-building-information.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-guest-editorial-local-image-descriptors-in-computer",
     "verified": true,
     "category": "인공지능",
