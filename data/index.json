@@ -1,5 +1,157 @@
 [
   {
+    "id": "paper-2000-learnable-evolution-model-evolutionary-processes-guided-by",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 머신러닝 기반의 진화 과정을 유도하는 학습 가능한 진화 모델을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "머신러닝으로 유도되는 학습 가능한 진화 모델",
+    "originalTitle": "LEARNABLE EVOLUTION MODEL: Evolutionary Processes Guided by Machine Learning",
+    "authors": [
+      "Ryszard S. Michalski"
+    ],
+    "year": 2000,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1007677805582",
+    "sourceUrl": "https://doi.org/10.1023/a:1007677805582",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "진화모델",
+      "유전알고리즘",
+      "최적화",
+      "기계학습",
+      "학술논문"
+    ],
+    "summary": "Ryszard S. Michalski가 2000년 Machine Learning 저널에 발표한 본 논문은, 전통적인 진화 알고리즘의 무작위성에 의존하는 방식에서 벗어나 머신러닝 기법을 통해 진화 과정을 똑똑하게 유도하는 '학습 가능한 진화 모델(Learnable Evolution Model, LEM)'을 제안한 인공지능 분야의 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2000-learnable-evolution-model-evolutionary-processes-guided-by.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-vertical-stack-nanowire-structure-of-mos-inverter",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Access 저널에 게재된 저온 응용 환경에서의 MOS 인버터 및 TFET 인버터 수직 적층 나노와이어 구조를 다룬 전기 분야 학술 논문",
+    "shortTitle": "저온 환경 MOS 및 TFET 나노와이어 인버터",
+    "originalTitle": "Vertical-Stack Nanowire Structure of MOS Inverter and TFET Inverter in Low-Temperature Application",
+    "authors": [
+      "Chi-Cheng Tien",
+      "Yu-Hsien Lin"
+    ],
+    "year": 2024,
+    "journal": "IEEE Access",
+    "doi": "10.1109/access.2024.3410677",
+    "sourceUrl": "https://doi.org/10.1109/access.2024.3410677",
+    "keywords": [
+      "전기",
+      "반도체",
+      "나노와이어",
+      "수직적층",
+      "MOS인버터",
+      "TFET인버터",
+      "저온응용",
+      "학술논문"
+    ],
+    "summary": "Chi-Cheng Tien과 Yu-Hsien Lin이 2024년 IEEE Access 저널에 발표한 본 논문은, 극저온 환경에서 동작하는 전자 소자를 위해 수직 적층 나노와이어 구조를 적용한 MOS 인버터와 TFET 인버터의 특성을 분석한 전기 및 반도체 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2024-vertical-stack-nanowire-structure-of-mos-inverter.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2001-underwater-robotics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Advanced Robotics 저널에 게재된 수중 로봇 기술의 발전과 과제를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "수중 로봇 기술의 발전과 과제",
+    "originalTitle": "Underwater robotics",
+    "authors": [
+      "J. Yuh",
+      "M. West"
+    ],
+    "year": 2001,
+    "journal": "Advanced Robotics",
+    "doi": "10.1163/156855301317033595",
+    "sourceUrl": "https://doi.org/10.1163/156855301317033595",
+    "keywords": [
+      "로봇·자동화",
+      "수중로봇",
+      "해양탐사",
+      "자율무인잠수정",
+      "제어시스템",
+      "해양공학",
+      "학술논문"
+    ],
+    "summary": "J. Yuh와 M. West가 2001년 Advanced Robotics 저널에 발표한 본 논문은, 미지의 영역인 수중 환경을 탐사하고 작업하기 위한 수중 로봇(Underwater Robotics) 기술의 현황과 발전 방향, 그리고 앞으로 해결해야 할 기술적 과제들을 종합적으로 정리한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2001-underwater-robotics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1966-drift-fields-in-photovoltaic-solar-energy-converter",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Solar Energy 저널에 게재된 태양광 에너지 변환 셀 내부의 표류 전장(Drift Fields) 효과를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 셀의 표류 전장 효과",
+    "originalTitle": "Drift Fields in Photovoltaic Solar Energy Converter Cells",
+    "authors": [],
+    "year": 1966,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(66)90035-1",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(66)90035-1",
+    "keywords": [
+      "에너지",
+      "환경",
+      "태양광셀",
+      "표류전장",
+      "태양전지",
+      "광전환",
+      "반도체",
+      "학술논문"
+    ],
+    "summary": "1966년 Solar Energy 저널에 발표된 본 논문은, 태양광 에너지 변환 셀 내부에서 발생하는 표류 전장(Drift Field)이 광전 변환 효율과 전하 수집 과정에 미치는 영향을 분석한 에너지·환경 분야의 기초 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-1966-drift-fields-in-photovoltaic-solar-energy-converter.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-a-review-of-building-earth-contact-heat",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "Advances in Building Energy Research 저널에 게재된 건물 지중 접촉 열전달 연구의 동향과 분석을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 지중 접촉 열전달 리뷰",
+    "originalTitle": "A Review of Building Earth-Contact Heat Transfer",
+    "authors": [
+      "Stamatis Zoras"
+    ],
+    "year": 2009,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.3763/aber.2009.0312",
+    "sourceUrl": "https://doi.org/10.3763/aber.2009.0312",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "지중열전달",
+      "건물에너지",
+      "열역학",
+      "지하구조물",
+      "학술논문"
+    ],
+    "summary": "Stamatis Zoras가 2009년 Advances in Building Energy Research 저널에 발표한 본 논문은, 건물과 지면이 접촉하는 부위를 통해 발생하는 열전달 현상과 관련 연구들의 동향을 종합적으로 검토하고 분석한 건축·시설관리 분야의 문헌 고찰 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2009-a-review-of-building-earth-contact-heat.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1998-guest-editors-introduction-on-applied-research-in",
     "verified": true,
     "category": "인공지능",
