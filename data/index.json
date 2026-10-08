@@ -1,5 +1,167 @@
 [
   {
+    "id": "paper-2022-las-transformer-an-enhanced-transformer-based-on",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Information 저널에 게재된 로컬 어텐션 메커니즘 기반 음성 인식을 위한 향상된 트랜스포머 설계를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "음성 인식을 위한 로컬 어텐션 트랜스포머",
+    "originalTitle": "LAS-Transformer: An Enhanced Transformer Based on the Local Attention Mechanism for Speech Recognition",
+    "authors": [
+      "Pengbin Fu",
+      "Daxing Liu",
+      "Huirong Yang"
+    ],
+    "year": 2022,
+    "journal": "Information",
+    "doi": "10.3390/info13050250",
+    "sourceUrl": "https://doi.org/10.3390/info13050250",
+    "keywords": [
+      "인공지능",
+      "음성인식",
+      "트랜스포머",
+      "로컬어텐션",
+      "상대적위치임베딩",
+      "딥러닝",
+      "LibriSpeech",
+      "학술논문"
+    ],
+    "summary": "Pengbin Fu 등이 2022년 Information 저널에 발표한 본 논문은, 음성 인식(ASR) 성능을 극대화하기 위해 상대적 위치 임베딩과 모수적 위치 관계에 기반한 로컬 어텐션을 트랜스포머에 결합하여 음성 프레임 간의 상관관계를 효과적으로 학습하고 단어 오류율을 대폭 낮춘 새로운 인공지능 모델(LAS-Transformer)을 제안한 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2022-las-transformer-an-enhanced-transformer-based-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-grid-tie-inverter-untuk-plts-atap-di",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Jurnal SPEKTRUM 저널에 게재된 인도네시아 주택용 태양광(PLTS) 그리드 타이 인버터의 표준 및 시장 가용성 검토를 다룬 전기 분야 학술 논문",
+    "shortTitle": "인도네시아 주택용 태양광 그리드 타이 인버터 검토",
+    "originalTitle": "GRID TIE INVERTER UNTUK PLTS ATAP DI INDONESIA: REVIEW STANDAR DAN INVERTER YANG COMPLIANCE DI PASAR DOMESTIK",
+    "authors": [
+      "P.G.G. Priajana",
+      "I.N.S. Kumara",
+      "I.N. Setiawan"
+    ],
+    "year": 2020,
+    "journal": "Jurnal SPEKTRUM",
+    "doi": "10.24843/spektrum.2020.v07.i02.p9",
+    "sourceUrl": "https://doi.org/10.24843/spektrum.2020.v07.i02.p9",
+    "keywords": [
+      "전기",
+      "그리드타이인버터",
+      "태양광발전",
+      "PLTS",
+      "인도네시아",
+      "전력표준",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "P.G.G. Priajana 등이 2020년 Jurnal SPEKTRUM 저널에 발표한 본 논문은, 인도네시아의 주택용 태양광(PLTS Atap) 보급 정책(장관 규정 49/2018)에 발맞추어 국내 시장에서 가용한 513개 인버터 모델을 수집하고, 관련 표준, 제조 상태, 출력 용량, 고조파(THD), 효율, 가격 등을 종합적으로 분석한 전기 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2020-grid-tie-inverter-untuk-plts-atap-di.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-autonomous-robot-motion-control-situational-planning-model",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Advanced Information Systems 저널에 게재된 자율 로봇 모션 제어를 위한 상황 계획 모델을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "자율 로봇 모션 제어 상황 계획 모델",
+    "originalTitle": "Autonomous robot motion control situational planning model",
+    "authors": [
+      "Anatolii Kargin",
+      "Oleksandr Ivaniuk"
+    ],
+    "year": 2020,
+    "journal": "Advanced Information Systems",
+    "doi": "10.20998/2522-9052.2020.3.05",
+    "sourceUrl": "https://doi.org/10.20998/2522-9052.2020.3.05",
+    "keywords": [
+      "로봇·자동화",
+      "자율로봇",
+      "모션제어",
+      "상황계획",
+      "경로계획",
+      "동적환경",
+      "제어모델",
+      "학술논문"
+    ],
+    "summary": "Anatolii Kargin과 Oleksandr Ivaniuk가 2020년 Advanced Information Systems 저널에 발표한 본 논문은, 자율 로봇이 예측하기 어려운 동적 환경에서 안전하고 유연하게 이동할 수 있도록 지원하는 모션 제어 및 상황 계획 모델을 제안한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2020-autonomous-robot-motion-control-situational-planning-model.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-wind-energy-literature-survey-no-33",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 분야 최신 문헌 및 학술 연구 동향 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제33보",
+    "originalTitle": "Wind Energy literature survey no. 33",
+    "authors": [
+      "Christian Pavese"
+    ],
+    "year": 2014,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1782",
+    "sourceUrl": "https://doi.org/10.1002/we.1782",
+    "keywords": [
+      "에너지",
+      "풍력에너지",
+      "문헌조사",
+      "서베이",
+      "신재생에너지",
+      "학술동향",
+      "연구리뷰",
+      "학술논문"
+    ],
+    "summary": "Christian Pavese가 2014년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지 분야의 전문 저널이 아닌 다양한 관련 학술지(공학, 에너지, 응용역학 등)에 발표된 최신 풍력 관련 연구 논문들을 광범위하게 수집하고 체계적인 카테고리로 분류하여 독자들에게 제공하는 문헌 조사(Literature Survey) 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2014-wind-energy-literature-survey-no-33.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-building-power-demand-response-methods-toward-smart",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D87093",
+    "title": "HVAC&amp;R Research 저널에 게재된 스마트 그리드 연계를 위한 건물 전력 수요반응 방법을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "스마트 그리드를 위한 건물 수요반응 방법",
+    "originalTitle": "Building power demand response methods toward smart grid",
+    "authors": [
+      "Shengwei Wang",
+      "Xue Xue",
+      "Chengchu Yan"
+    ],
+    "year": 2014,
+    "journal": "HVAC&amp;R Research",
+    "doi": "10.1080/10789669.2014.929887",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2014.929887",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "수요반응",
+      "스마트그리드",
+      "HVAC",
+      "에너지절감",
+      "전력수요",
+      "학술논문"
+    ],
+    "summary": "Shengwei Wang 등이 2014년 HVAC&R Research 저널에 발표한 본 논문은, 스마트 그리드 환경에서 건물의 전력 사용량을 유연하게 조절하여 전력망의 안정성을 돕고 에너지 효율을 극대화하는 건물 전력 수요반응(Demand Response) 방법들을 체계적으로 분석하고 정리한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2014-building-power-demand-response-methods-toward-smart.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-context-understanding-in-computer-vision-a-survey",
     "verified": true,
     "category": "인공지능",
