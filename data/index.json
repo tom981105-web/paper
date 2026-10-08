@@ -1,5 +1,163 @@
 [
   {
+    "id": "paper-2021-guest-editorial-graph-learning-for-computer-vision",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "IET Computer Vision 저널에 게재된 컴퓨터 비전 분야의 그래프 학습 동향과 응용을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "컴퓨터 비전을 위한 그래프 학습",
+    "originalTitle": "Guest editorial: Graph learning for computer vision",
+    "authors": [
+      "Qi Wang",
+      "Hongkai Yu",
+      "Song Wang",
+      "Jianzhe Lin"
+    ],
+    "year": 2021,
+    "journal": "IET Computer Vision",
+    "doi": "10.1049/cvi2.12071",
+    "sourceUrl": "https://doi.org/10.1049/cvi2.12071",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "그래프학습",
+      "그래프신경망",
+      "이미지처리",
+      "패턴인식",
+      "특징추출",
+      "학술논문"
+    ],
+    "summary": "Qi Wang 등이 2021년 IET Computer Vision 저널에 발표한 본 논문은, 컴퓨터 비전 영역에서 급부상하고 있는 그래프 학습(Graph Learning) 및 그래프 신경망(GNN) 기술의 최신 동향을 조망하고, 이미지와 비디오 처리 태스크에서 구조적 관계를 모델링하는 핵심 방법론들을 소개한 특집 편집(Guest Editorial) 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2021-guest-editorial-graph-learning-for-computer-vision.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-rancang-bangun-inverter-pada-generator-aksial-satu",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electrician 저널에 게재된 축방향 단상 발전기를 위한 인버터 설계 및 제작을 다룬 전기 분야 학술 논문",
+    "shortTitle": "축방향 단상 발전기를 위한 인버터 설계 및 제작",
+    "originalTitle": "Rancang Bangun Inverter Pada Generator Aksial Satu Phasa",
+    "authors": [
+      "Yosi Apriani"
+    ],
+    "year": 2020,
+    "journal": "Electrician",
+    "doi": "10.23960/elc.v14n3.2154",
+    "sourceUrl": "https://doi.org/10.23960/elc.v14n3.2154",
+    "keywords": [
+      "전기",
+      "인버터",
+      "축방향발전기",
+      "직교류변환",
+      "전력전자",
+      "배터리",
+      "에너지변환",
+      "학술논문"
+    ],
+    "summary": "Yosi Apriani가 2020년 Electrician 저널에 발표한 본 논문은, 축방향 단상 발전기 시스템에 연동하여 직류 전원을 가정용 교류 전원으로 변환하기 위한 400W급 인버터의 설계, 제작 및 성능 테스트 과정을 다룬 전기 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2020-rancang-bangun-inverter-pada-generator-aksial-satu.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-vision-for-robust-robot-manipulation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Sensors 저널에 게재된 강건한 로봇 조작을 위한 깊이 비전 기반 성공 평가 및 회복 방법을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 조작의 강건성을 위한 깊이 비전 기반 평가",
+    "originalTitle": "Vision for Robust Robot Manipulation",
+    "authors": [
+      "Ester Martinez-Martin",
+      "Angel del Pobil"
+    ],
+    "year": 2019,
+    "journal": "Sensors",
+    "doi": "10.3390/s19071648",
+    "sourceUrl": "https://doi.org/10.3390/s19071648",
+    "keywords": [
+      "로봇·자동화",
+      "로봇조작",
+      "깊이비전",
+      "물체파손",
+      "촉각센서대안",
+      "랩컬러세분화",
+      "학술논문"
+    ],
+    "summary": "Ester Martinez-Martin과 Angel del Pobil이 2019년 Sensors 저널에 발표한 본 논문은, 가정 환경 등 일상적인 공간에서 어시스턴트 로봇이 물체를 쥐고 이동할 때 발생하는 미끄러짐이나 물체 이탈 상황을 복잡한 촉각 센서 없이 깊이 카메라와 색상 세분화 기법만으로 실시간 감지하고 강건하게 복구할 수 있는 비전 기반 접근법을 제안한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2019-vision-for-robust-robot-manipulation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-energy-storage-systems-for-pv-based-communal",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Journal of Energy Storage 저널에 게재된 태양광(PV) 기반 공동체 그리드를 위한 에너지 저장 시스템 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 기반 공동체 그리드를 위한 에너지 저장 시스템",
+    "originalTitle": "Energy storage systems for PV-based communal grids",
+    "authors": [
+      "Nicholas Opiyo"
+    ],
+    "year": 2016,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2016.05.001",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2016.05.001",
+    "keywords": [
+      "에너지·환경",
+      "태양광발전",
+      "에너지저장시스템",
+      "ESS",
+      "공동체그리드",
+      "마이크로그리드",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "Nicholas Opiyo가 2016년 Journal of Energy Storage 저널에 발표한 본 논문은, 태양광(PV) 발전을 기반으로 하는 지역 공동체 그리드(Communal Grids) 환경에서 에너지 저장 시스템(ESS)이 어떻게 효율적으로 활용될 수 있는지 분석하고 그 역할과 중요성을 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2016-energy-storage-systems-for-pv-based-communal.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2002-modelling-user-acceptance-of-building-management-systems",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A7C59",
+    "title": "Automation in Construction 저널에 게재된 건물 관리 시스템(BMS)에 대한 사용자 수용 모델링을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 관리 시스템 사용자 수용 모델링",
+    "originalTitle": "Modelling user acceptance of building management systems",
+    "authors": [
+      "Gordon Lowry"
+    ],
+    "year": 2002,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/s0926-5805(02)00010-9",
+    "sourceUrl": "https://doi.org/10.1016/s0926-5805(02)00010-9",
+    "keywords": [
+      "건축·시설관리",
+      "건물관리시스템",
+      "BMS",
+      "사용자수용",
+      "기술수용모델",
+      "시설운영",
+      "자동화",
+      "학술논문"
+    ],
+    "summary": "Gordon Lowry가 2002년 Automation in Construction 저널에 발표한 본 논문은, 첨단 건물 관리 시스템(BMS)을 도입할 때 실제 사용자들과 시설 관리자들이 시스템을 어떻게 받아들이고 활용하는지 그 수용 결정 요인을 분석하고 모델링한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2002-modelling-user-acceptance-of-building-management-systems.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-beyond-point-estimates-distributional-uncertainty-in-machine",
     "verified": true,
     "category": "인공지능",
