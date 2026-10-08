@@ -1,5 +1,163 @@
 [
   {
+    "id": "paper-1995-classification-accuracy-machine-learning-vs-explicit-knowledge",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 기계학습과 명시적 지식 획득의 분류 정확도를 비교 분석한 인공지능 분야 학술 논문",
+    "shortTitle": "기계학습과 명시적 지식 획득의 분류 정확도 비교",
+    "originalTitle": "Classification Accuracy: Machine Learning vs. Explicit Knowledge Acquisition",
+    "authors": [
+      "Arie Ben-David",
+      "Janice Mandel"
+    ],
+    "year": 1995,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022826724635",
+    "sourceUrl": "https://doi.org/10.1023/a:1022826724635",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "명시적지식획득",
+      "분류정확도",
+      "지식기반시스템",
+      "전문가시스템",
+      "학술논문"
+    ],
+    "summary": "Arie Ben-David와 Janice Mandel이 1995년 Machine Learning 저널에 발표한 본 논문은, 데이터를 통해 스스로 규칙을 찾아내는 기계학습 방법과 사람이 직접 지식을 추출해 입력하는 명시적 지식 획득 방법의 분류 정확도를 비교하여 각각의 장단점과 성능적 차이를 고찰한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-1995-classification-accuracy-machine-learning-vs-explicit-knowledge.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1985-heirarchical-power-system-control",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Electrical Power &amp; Energy Systems 저널에 게재된 전력계통 계층 제어 시스템을 다룬 전기 분야 학술 논문",
+    "shortTitle": "계층적 전력계통 제어",
+    "originalTitle": "Heirarchical power system control",
+    "authors": [
+      "Y. Sekine"
+    ],
+    "year": 1985,
+    "journal": "International Journal of Electrical Power &amp; Energy Systems",
+    "doi": "10.1016/0142-0615(85)90012-2",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(85)90012-2",
+    "keywords": [
+      "전기",
+      "전력계통",
+      "계층제어",
+      "전력제어",
+      "계통운영",
+      "안정도",
+      "학술논문"
+    ],
+    "summary": "Y. Sekine이 1985년 International Journal of Electrical Power & Energy Systems 저널에 발표한 본 논문은, 복잡하고 거대한 전력계통을 효율적이고 안정적으로 운영하기 위해 권한과 제어 단계를 나누는 '계층적 전력계통 제어(Hierarchical Power System Control)'의 개념과 체계를 고찰한 전기 분야의 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-1985-heirarchical-power-system-control.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-dual-arm-co-manipulation-architecture-with-enhanced",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Sensors 저널에 게재된 대형 부품 조작을 위한 인간-로봇 소통 강화형 듀얼 암 협업 제어 아키텍처를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "대형 부품 조작을 위한 듀얼 암 협업 제어",
+    "originalTitle": "Dual Arm Co-Manipulation Architecture with Enhanced Human–Robot Communication for Large Part Manipulation",
+    "authors": [
+      "Aitor Ibarguren",
+      "Iveta Eimontaite",
+      "José Luis Outón",
+      "Sarah Fletcher"
+    ],
+    "year": 2020,
+    "journal": "Sensors",
+    "doi": "10.3390/s20216151",
+    "sourceUrl": "https://doi.org/10.3390/s20216151",
+    "keywords": [
+      "로봇·자동화",
+      "협업로봇",
+      "듀얼암",
+      "임피던스제어",
+      "인간로봇상호작용",
+      "대형부품조작",
+      "학술논문"
+    ],
+    "summary": "Aitor Ibarguren 등이 2020년 Sensors 저널에 발표한 본 논문은, 산업 현장에서 인간 작업자와 로봇이 함께 거대한 부품을 협동하여 다룰 때 발생하는 기술적 난제를 해결하기 위해 임피던스 제어와 궤적 조정을 결합하고 효과적인 로봇-human 피드백 메커니즘을 더한 새로운 협업 제어 아키텍처를 제안한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2020-dual-arm-co-manipulation-architecture-with-enhanced.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-i-wind-energy-i-literature-survey-no",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 비(非)풍력 전문 저널의 최신 풍력 관련 문헌 조사 제27보를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제27보",
+    "originalTitle": "<i>Wind Energy</i> literature survey no. 27",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2013,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1582",
+    "sourceUrl": "https://doi.org/10.1002/we.1582",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "학술동향",
+      "연구문헌",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 Wind Energy 저널에 2013년 발표한 본 논문은, 풍력 에너지 전문 학술지가 아닌 다양한 인접 분야의 저널(공학, 에너지, 태양광 등)에 출판된 풍력 관련 최신 연구 논문들을 광범위하게 수집하고 체계적으로 분류하여 독자들에게 제공하는 정기 문헌 조사 보고서이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-i-wind-energy-i-literature-survey-no.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-translating-building-legislation-into-a-computer-executable",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D07C5B",
+    "title": "Automation in Construction 저널에 게재된 건축 법규를 컴퓨터 실행 가능한 형식으로 변환하여 건축 허가 요건을 평가하는 방법을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건축 법규의 컴퓨터 실행 가능형 변환",
+    "originalTitle": "Translating building legislation into a computer-executable format for evaluating building permit requirements",
+    "authors": [
+      "Hyunsoo Lee",
+      "Jin-Kook Lee",
+      "Seokyung Park",
+      "Inhan Kim"
+    ],
+    "year": 2016,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/j.autcon.2016.04.008",
+    "sourceUrl": "https://doi.org/10.1016/j.autcon.2016.04.008",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "건축법규",
+      "BIM",
+      "컴퓨터실행가능",
+      "자동인허가",
+      "규칙검증",
+      "학술논문"
+    ],
+    "summary": "Hyunsoo Lee 외 연구진이 2016년 Automation in Construction 저널에 발표한 본 논문은, 복잡한 건축 법규와 규정을 컴퓨터가 이해하고 자동으로 실행할 수 있는 형식으로 변환하여 건축 허가 및 규정 준수 여부를 효율적으로 평가하는 방법론을 제시한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 11분",
+    "file": "papers/paper-2016-translating-building-legislation-into-a-computer-executable.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1991-logic-and-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
