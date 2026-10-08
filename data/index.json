@@ -1,5 +1,163 @@
 [
   {
+    "id": "paper-2024-advanced-multiple-document-summarization-i-via-i",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "PeerJ Computer Science 저널에 게재된 반복 재귀 트랜스포머와 다중 모달 트랜스포머를 활용한 다중 문서 요약 기법을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "반복 재귀 트랜스포머 기반 다중 문서 요약",
+    "originalTitle": "Advanced multiple document summarization <i>via</i> iterative recursive transformer networks and multimodal transformer",
+    "authors": [
+      "Sunilkumar Ketineni",
+      "Sheela Jayachandran"
+    ],
+    "year": 2024,
+    "journal": "PeerJ Computer Science",
+    "doi": "10.7717/peerj-cs.2463",
+    "sourceUrl": "https://doi.org/10.7717/peerj-cs.2463",
+    "keywords": [
+      "인공지능",
+      "다중문서요약",
+      "트랜스포머",
+      "재귀네트워크",
+      "다중모달",
+      "강화학습",
+      "메타러닝",
+      "학술논문"
+    ],
+    "summary": "Sunilkumar Ketineni와 Sheela Jayachandran이 2024년 PeerJ Computer Science 저널에 발표한 본 논문은, 방대한 텍스트와 이미지 등 다중 모달 데이터를 효율적이고 일관성 있게 요약하기 위해 반복 재귀 트랜스포머 네트워크, 다중 모달 주의 집중 메커니즘, 배우-비평가 강화학습, 메타러닝, 지식 강화 방식을 융합하여 요약 성능을 대폭 향상시킨 인공지능 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 12분",
+    "file": "papers/paper-2024-advanced-multiple-document-summarization-i-via-i.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-design-a-half-bridge-inverter-and-a",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Industrial Engineering 저널에 게재된 IC555 타이머를 이용한 하프 브리지 및 풀 브리지 인버터와 과부하 보호 회로 설계를 다룬 전기 분야 학술 논문",
+    "shortTitle": "IC555를 이용한 인버터 및 보호회로 설계",
+    "originalTitle": "Design a Half Bridge Inverter and a Full Bridge Inverter with Overload Protection Circuit Using IC555",
+    "authors": [
+      "Samhar Saeed Shukir"
+    ],
+    "year": 2021,
+    "journal": "Industrial Engineering",
+    "doi": "10.11648/j.ie.20210501.13",
+    "sourceUrl": "https://doi.org/10.11648/j.ie.20210501.13",
+    "keywords": [
+      "전기",
+      "인버터",
+      "하프브리지",
+      "풀브리지",
+      "IC555",
+      "과부하보호회로",
+      "전력변환",
+      "학술논문"
+    ],
+    "summary": "Samhar Saeed Shukir가 2021년 Industrial Engineering 저널에 발표한 본 논문은, 다목적 타이머 IC인 IC555를 활용하여 하프 브리지 인버터와 풀 브리지 인버터를 각각 설계하고, 시스템의 안정성을 보장하기 위한 과부하 보호 회로를 결합하여 구현한 전기 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2021-design-a-half-bridge-inverter-and-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-impact-of-a-robot-manipulation-on-the",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Applied Sciences 저널에 게재된 로봇 조작이 SPC 기반 로봇 셀의 치수 측정에 미치는 영향을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 조작이 SPC 셀 치수 측정에 미치는 영향",
+    "originalTitle": "Impact of a Robot Manipulation on the Dimensional Measurements in an SPC-Based Robot Cell",
+    "authors": [
+      "Aleš Zore",
+      "Robert Čerin",
+      "Marko Munih"
+    ],
+    "year": 2021,
+    "journal": "Applied Sciences",
+    "doi": "10.3390/app11146397",
+    "sourceUrl": "https://doi.org/10.3390/app11146397",
+    "keywords": [
+      "로봇·자동화",
+      "로봇조작",
+      "SPC",
+      "치수측정",
+      "측정시스템분석",
+      "MSA",
+      "학술논문"
+    ],
+    "summary": "Aleš Zore 등이 2021년 Applied Sciences 저널에 발표한 본 논문은, Equator 게우징 시스템을 이용한 SPC(통계적 공정 관리) 기반 로봇 셀에서 로봇의 부품 조작 과정이 치수 측정 결과와 데이터 산포에 미치는 영향을 9가지 조작 시나리오와 MSA(측정 시스템 분석)를 통해 분석한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2021-impact-of-a-robot-manipulation-on-the.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-a-review-of-wind-energy-activities-in",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#277562",
+    "title": "Wind Energy 저널에 게재된 일본의 풍력 에너지 활동과 연구 동향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "일본의 풍력 에너지 활동 리뷰",
+    "originalTitle": "A review of wind energy activities in Japan",
+    "authors": [
+      "Takao Maeda",
+      "Yasunari Kamada"
+    ],
+    "year": 2009,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.313",
+    "sourceUrl": "https://doi.org/10.1002/we.313",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "신재생에너지",
+      "온실가스감축",
+      "전력계통연계",
+      "일본에너지",
+      "학술논문"
+    ],
+    "summary": "Takao Maeda와 Yasunari Kamada가 2009년 Wind Energy 저널에 발표한 본 논문은, 온실가스 감축 목표 달성을 위해 주목받는 일본의 풍력 에너지 개발 현황과 기후·지형적 한계, 전력망 연계 문제 및 연구 개발 동향을 종합적으로 고찰한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2009-a-review-of-wind-energy-activities-in.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-what-is-a-smart-building",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D27D2D",
+    "title": "Smart and Sustainable Built Environment 저널에 게재된 스마트 빌딩의 정의와 지능형 건물과의 구분을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "스마트 빌딩의 정의",
+    "originalTitle": "What is a Smart Building?",
+    "authors": [
+      "A.H. Buckman",
+      "M. Mayfield",
+      "Stephen B.M. Beck"
+    ],
+    "year": 2014,
+    "journal": "Smart and Sustainable Built Environment",
+    "doi": "10.1108/sasbe-01-2014-0003",
+    "sourceUrl": "https://doi.org/10.1108/sasbe-01-2014-0003",
+    "keywords": [
+      "건축·시설관리",
+      "스마트빌딩",
+      "지능형건물",
+      "빌딩자동화",
+      "예측형건물",
+      "용어정립",
+      "학술논문"
+    ],
+    "summary": "A.H. Buckman 등이 2014년 Smart and Sustainable Built Environment 저널에 발표한 본 논문은, 혼용되어 사용되던 '스마트 빌딩(Smart Building)'과 '지능형 건물(Intelligent Building)'의 용어적 혼란을 바로잡고, 양자의 명확한 경계와 미래 지향점인 예측형 건물의 개념을 고찰한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2014-what-is-a-smart-building.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2003-embodied-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
