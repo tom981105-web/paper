@@ -1,5 +1,154 @@
 [
   {
+    "id": "paper-1995-evaluation-and-selection-of-biases-in-machine",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 기계학습에서의 편향 평가 및 선택을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "기계학습 편향의 평가와 선택",
+    "originalTitle": "Evaluation and Selection of Biases in Machine Learning",
+    "authors": [
+      "Diana F. Gordon",
+      "Marie Desjardins"
+    ],
+    "year": 1995,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022630017346",
+    "sourceUrl": "https://doi.org/10.1023/a:1022630017346",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "편향선택",
+      "귀납적편향",
+      "학습알고리즘",
+      "모델평가",
+      "학술논문"
+    ],
+    "summary": "Diana F. Gordon과 Marie Desjardins가 1995년 Machine Learning 저널에 발표한 본 논문은, 기계학습 알고리즘이 학습 과정에서 올바른 귀납적 편향을 평가하고 선택함으로써 성능을 최적화하는 방법론을 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-1995-evaluation-and-selection-of-biases-in-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-the-effect-of-unified-power-flow-controller",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Electrical Power &amp; Energy Systems 저널에 게재된 통합 전력 흐름 제어기 위치 선정의 영향을 다룬 전기 분야 학술 논문",
+    "shortTitle": "통합 전력 흐름 제어기 위치의 영향",
+    "originalTitle": "The effect of unified power flow controller location in power systems",
+    "authors": [
+      "M TUMAY"
+    ],
+    "year": 2004,
+    "journal": "International Journal of Electrical Power &amp; Energy Systems",
+    "doi": "10.1016/s0142-0615(04)00040-7",
+    "sourceUrl": "https://doi.org/10.1016/s0142-0615(04)00040-7",
+    "keywords": [
+      "전기",
+      "UPFC",
+      "전력계통",
+      "통합전력흐름제어기",
+      "위치선정",
+      "전력제어",
+      "학술논문"
+    ],
+    "summary": "M. TUMAY가 2004년 International Journal of Electrical Power & Energy Systems 저널에 발표한 본 논문은, 전력 계통에서 유연한 교류 송전 시스템(FACTS) 기기 중 하나인 통합 전력 흐름 제어기(UPFC)를 어느 위치에 설치하느냐가 전력 시스템의 성능과 안정성에 미치는 영향을 분석한 전기공학 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2004-the-effect-of-unified-power-flow-controller.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-acknowledgement-to-reviewers-of-robotics-in-2014",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 2014년도 논문 심사위원 감사의 글을 다룬 로봇·자동화 분야 학술 문헌",
+    "shortTitle": "Robotics 저널 2014 심사위원 감사",
+    "originalTitle": "Acknowledgement to Reviewers of Robotics in 2014",
+    "authors": [
+      "Robotics Editorial Office"
+    ],
+    "year": 2015,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics4010023",
+    "sourceUrl": "https://doi.org/10.3390/robotics4010023",
+    "keywords": [
+      "로봇·자동화",
+      "학술저널",
+      "심사위원",
+      "연구윤리",
+      "학술출판",
+      "로봇공학",
+      "학술논문"
+    ],
+    "summary": "Robotics Editorial Office가 2015년 Robotics 저널에 발표한 본 문헌은, 2014년 한 해 동안 해당 학술지에 투고된 다양한 로봇 및 자동화 분야 연구 원고를 공정하고 엄격하게 심사해 준 전 세계 연구자들의 노고에 깊은 감사를 표하기 위해 작성된 공식 감사의 글(Acknowledgement)이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2015-acknowledgement-to-reviewers-of-robotics-in-2014.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-wind-energy-literature-survey-no-9",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B8C5E",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 관련 최신 연구 문헌 동향 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사",
+    "originalTitle": "Wind energy literature survey no. 9",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2008,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.282",
+    "sourceUrl": "https://doi.org/10.1002/we.282",
+    "keywords": [
+      "에너지",
+      "환경",
+      "풍력에너지",
+      "문헌조사",
+      "연구동향",
+      "재생에너지",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 2008년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지 분야의 연구자들이 최신 연구 동향을 놓치지 않도록 다양한 학술지에 발표된 관련 문헌들을 체계적으로 수집하고 분류하여 제공하는 문헌 조사(Literature Survey) 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2008-wind-energy-literature-survey-no-9.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-building-maintenance-information",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "Property Management 저널에 게재된 건물 유지관리 정보를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지관리 정보",
+    "originalTitle": "Building maintenance information",
+    "authors": [],
+    "year": 1998,
+    "journal": "Property Management",
+    "doi": "10.1108/pm.1998.11316bab.001",
+    "sourceUrl": "https://doi.org/10.1108/pm.1998.11316bab.001",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "건물유지관리",
+      "유지관리정보",
+      "자산관리",
+      "부동산관리",
+      "학술논문"
+    ],
+    "summary": "Property Management 저널에 1998년 게재된 본 논문은, 건축물의 수명 주기를 연장하고 효율적인 자산 가치를 유지하기 위해 필수적인 건물 유지관리(Building Maintenance) 정보의 체계적인 관리와 활용 방안을 다룬 건축·시설관리 분야의 문헌이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1998-building-maintenance-information.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2018-guest-editorial-computer-vision-in-healthcare-and",
     "verified": true,
     "category": "인공지능",
