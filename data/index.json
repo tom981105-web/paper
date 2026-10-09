@@ -1,5 +1,157 @@
 [
   {
+    "id": "paper-1994-activity-dependent-neural-network-development",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 활동 의존적 신경망 발달을 다룬 인공지능 및 신경과학 분야 학술 논문",
+    "shortTitle": "활동 의존적 신경망 발달",
+    "originalTitle": "Activity-dependent neural network development",
+    "authors": [
+      "A van Ooyen"
+    ],
+    "year": 1994,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x_5_3_006",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x_5_3_006",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "신경망발달",
+      "인공신경망",
+      "활동의존성",
+      "컴퓨터신경과학",
+      "A van Ooyen"
+    ],
+    "summary": "A van Ooyen이 1994년 Network: Computation in Neural Systems 저널에 발표한 본 논문은, 인공 신경망과 생물학적 신경망에서 신경 세포의 전기적 활동(Activity)이 신경망의 구조적 발달과 시냅스 연결 형성에 어떠한 영향을 미치는지 분석한 인공지능 및 신경컴퓨팅 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1994-activity-dependent-neural-network-development.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-indirect-measurement-and-extreme-learning-machine-based",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IET Electric Power Applications 저널에 게재된 간접 측정 및 익스트림 러닝 머신 기반의 복극형 전자기 기기 자속 쇄교 모델링을 다룬 전기 분야 학술 논문",
+    "shortTitle": "DSEM 자속 쇄교 모델링 및 간접 측정",
+    "originalTitle": "Indirect measurement and extreme learning machine based modelling for flux linkage of doubly salient electromagnetic machine",
+    "authors": [
+      "Yanwu Xu",
+      "Zhuoran Zhang",
+      "Li Yu",
+      "Zhangming Bian"
+    ],
+    "year": 2018,
+    "journal": "IET Electric Power Applications",
+    "doi": "10.1049/iet-epa.2017.0685",
+    "sourceUrl": "https://doi.org/10.1049/iet-epa.2017.0685",
+    "keywords": [
+      "전기",
+      "전기기기",
+      "자속쇄교",
+      "익스트림러닝머신",
+      "간접측정",
+      "전력시스템",
+      "학술논문"
+    ],
+    "summary": "Yanwu Xu 외 3명이 2018년 IET Electric Power Applications 저널에 발표한 본 논문은, 항공기 발전 시스템 등 가혹한 환경에서 주로 사용되는 이중 돌극형 전자기 기기(DSEM)의 비선형적이고 강한 결합 특성을 가진 자속 쇄교를 간접 측정하고, 고효율·고정밀 익스트림 러닝 머신(ELM)을 활용하여 효과적으로 모델링하는 방법을 다룬 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2018-indirect-measurement-and-extreme-learning-machine-based.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-robotics-in-endometrial-cancer-care",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 자궁내막암 치료에서의 로봇 수술 활용을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "자궁내막암 치료에서의 로봇 수술",
+    "originalTitle": "Robotics in Endometrial Cancer Care",
+    "authors": [
+      "Joseph Ng"
+    ],
+    "year": 2013,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics2040198",
+    "sourceUrl": "https://doi.org/10.3390/robotics2040198",
+    "keywords": [
+      "로봇·자동화",
+      "로봇수술",
+      "자궁내막암",
+      "부인과암",
+      "최소침습수술",
+      "의료로봇",
+      "학술논문"
+    ],
+    "summary": "Joseph Ng가 2013년 Robotics 저널에 발표한 본 논문은, 선진국 여성에게 흔히 발생하는 부인과 암인 자궁내막암 치료 과정에서 로봇 기술이 어떻게 최소침습 수술의 범위를 넓히고 환자에게 가해지는 신체적 부담을 줄여주었는지 고찰한 로봇·자동화 및 의료 기술 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-robotics-in-endometrial-cancer-care.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-renewable-energy-strategy-in-japan",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 일본의 재생에너지 전략을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "일본의 재생에너지 전략",
+    "originalTitle": "Renewable energy strategy in Japan",
+    "authors": [
+      "Izumi Ushiyama"
+    ],
+    "year": 1999,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(98)00467-4",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(98)00467-4",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "에너지전략",
+      "일본",
+      "지속가능발전",
+      "에너지정책",
+      "학술논문",
+      "Izumi Ushiyama"
+    ],
+    "summary": "Izumi Ushiyama가 1999년 Renewable Energy 저널에 발표한 본 논문은, 자원 소국이자 에너지 수입 의존도가 높은 일본이 지속 가능한 미래를 위해 수립한 재생에너지 보급 전략과 정책적 방향성을 종합적으로 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1999-renewable-energy-strategy-in-japan.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2000-building-maintenance-price-book",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#9C6B30",
+    "title": "Structural Survey 저널에 게재된 건물 유지관리 가격 책정 가이드를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지관리 가격 책정 가이드",
+    "originalTitle": "Building maintenance price book",
+    "authors": [],
+    "year": 2000,
+    "journal": "Structural Survey",
+    "doi": "10.1108/ss.2000.11018dae.004",
+    "sourceUrl": "https://doi.org/10.1108/ss.2000.11018dae.004",
+    "keywords": [
+      "건축·시설관리",
+      "건물유지관리",
+      "가격책정",
+      "시설보수",
+      "건축경제",
+      "유지보수비용",
+      "학술논문"
+    ],
+    "summary": "Structural Survey 저널에 2000년 게재된 본 논문은, 건축물의 수명을 연장하고 자산 가치를 유지하기 위해 필수적인 건물 유지관리(Building Maintenance) 작업과 이에 수반되는 비용 및 가격 책정 기준을 다룬 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2000-building-maintenance-price-book.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2000-a-machine-learning-approach-to-pos-tagging",
     "verified": true,
     "category": "인공지능",
