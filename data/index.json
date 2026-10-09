@@ -1,5 +1,152 @@
 [
   {
+    "id": "paper-2020-guest-editorial-computer-vision-for-smart-cameras",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "IET Computer Vision 저널에 게재된 스마트 카메라 및 카메라 네트워크를 위한 컴퓨터 비전 분야의 인공지능 학술 논문",
+    "shortTitle": "스마트 카메라와 카메라 네트워크를 위한 컴퓨터 비전",
+    "originalTitle": "Guest Editorial: Computer Vision for Smart Cameras and Camera Networks",
+    "authors": [],
+    "year": 2020,
+    "journal": "IET Computer Vision",
+    "doi": "10.1049/iet-cvi.2020.0601",
+    "sourceUrl": "https://doi.org/10.1049/iet-cvi.2020.0601",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "스마트카메라",
+      "카메라네트워크",
+      "영상처리",
+      "객체인식",
+      "학술논문"
+    ],
+    "summary": "IET Computer Vision 저널에 2020년 게재된 본 논문은, 스마트 카메라와 분산된 카메라 네트워크 환경에서 영상 데이터를 효율적으로 처리하고 분석하는 컴퓨터 비전 기술의 최신 동향과 응용 방향을 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2020-guest-editorial-computer-vision-for-smart-cameras.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-three-dimensional-visualization-and-animation-for-power",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 전력 시스템 분석을 위한 3차원 시각화 및 애니메이션 기법을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 분석을 위한 3차원 시각화 및 애니메이션",
+    "originalTitle": "Three-dimensional visualization and animation for power systems analysis",
+    "authors": [
+      "Federico Milano"
+    ],
+    "year": 2009,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2009.06.009",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2009.06.009",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "3차주시각화",
+      "애니메이션",
+      "전력계통해석",
+      "전력전자",
+      "학술논문"
+    ],
+    "summary": "Federico Milano가 2009년 Electric Power Systems Research 저널에 발표한 본 논문은, 복잡하고 방대한 전력 시스템의 상태를 직관적으로 파악하기 위해 3차원 시각화 및 애니메이션 기법을 도입하고 전력 계통 해석에 적용한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2009-three-dimensional-visualization-and-animation-for-power.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-1998-international-ground-robotics-vehicle-competition-robotics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 1998년 국제 지상 로봇 차량 경진대회(IGVC) 소식을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "1998 국제 지상 로봇 차량 경진대회(IGVC)",
+    "originalTitle": "1998 International Ground Robotics Vehicle Competition Robotics Competition Corner",
+    "authors": [
+      "Robin R. Murphy"
+    ],
+    "year": 1998,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/s0921-8890(98)90018-5",
+    "sourceUrl": "https://doi.org/10.1016/s0921-8890(98)90018-5",
+    "keywords": [
+      "로봇·자동화",
+      "지상로봇",
+      "자율주행",
+      "경진대회",
+      "로봇공학",
+      "모바일로봇",
+      "학술논문"
+    ],
+    "summary": "Robin R. Murphy가 1998년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 야외 지형에서 무인으로 주행하는 로봇 기술을 겨루는 국제 지상 로봇 차량 경진대회(IGVC)의 1998년 대회 현황과 의미를 소개한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1998-1998-international-ground-robotics-vehicle-competition-robotics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-wind-energy-literature-survey-no-29",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 분야의 최신 문헌 동향 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 동향 조사 제29호",
+    "originalTitle": "Wind energy literature survey no. 29",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2013,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1642",
+    "sourceUrl": "https://doi.org/10.1002/we.1642",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 2013년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지 전문 학술지가 아닌 다양한 관련 학술지(공학, 에너지, 태양에너지 등)에 출판된 풍력 관련 핵심 연구 문헌들을 수집하고 체계적으로 분류하여 독자들에게 제공하는 정기 문헌 조사 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-wind-energy-literature-survey-no-29.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-investigation-into-capital-costs-of-hvac-systems",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A3B",
+    "title": "Building and Environment 저널에 게재된 HVAC 시스템의 초기 투자 비용 분석을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "HVAC 시스템 초기 투자 비용 분석",
+    "originalTitle": "Investigation into capital costs of HVAC systems",
+    "authors": [
+      "J.H. Buys",
+      "E.H. Mathews"
+    ],
+    "year": 2005,
+    "journal": "Building and Environment",
+    "doi": "10.1016/j.buildenv.2004.11.011",
+    "sourceUrl": "https://doi.org/10.1016/j.buildenv.2004.11.011",
+    "keywords": [
+      "건축·시설관리",
+      "HVAC",
+      "공조시스템",
+      "초기투자비용",
+      "건축설비",
+      "비용분석",
+      "학술논문"
+    ],
+    "summary": "J.H. Buys와 E.H. Mathews가 2005년 Building and Environment 저널에 발표한 본 논문은, 건축물에서 많은 예산이 소요되는 HVAC(냉난방공조) 시스템의 초기 투자 비용 구조와 관련 요인을 분석하여 경제적이고 효율적인 설비 계획의 기초를 제공한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2005-investigation-into-capital-costs-of-hvac-systems.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-chatting-and-cheating-ensuring-academic-integrity-in",
     "verified": true,
     "category": "인공지능",
