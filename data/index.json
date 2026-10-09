@@ -1,5 +1,154 @@
 [
   {
+    "id": "paper-1986-computer-vision-theory-the-lack-thereof",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 컴퓨터 비전 이론의 부재를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "컴퓨터 비전 이론의 부재",
+    "originalTitle": "Computer vision theory: The lack thereof",
+    "authors": [
+      "Robert M Haralick"
+    ],
+    "year": 1986,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/0734-189x(86)90082-4",
+    "sourceUrl": "https://doi.org/10.1016/0734-189x(86)90082-4",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이론부재",
+      "영상처리",
+      "패턴인식",
+      "학술논문",
+      "Robert M Haralick"
+    ],
+    "summary": "Robert M. Haralick이 1986년 Computer Vision, Graphics, and Image Processing 저널에 발표한 본 논문은, 초기 컴퓨터 비전 분야가 체계적인 수학적·이론적 기반 없이 개별 알고리즘과 휴리스틱(경험적 방법) 위주로 발전해 온 한계를 지적하고 탄탄한 이론 정립의 필요성을 주장한 인공지능 분야의 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-1986-computer-vision-theory-the-lack-thereof.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-worst-case-identification-of-reactive-power-margin",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 무효 전력 여유 및 국부적 취약성 최악 조건 식별을 다룬 전기 분야 학술 논문",
+    "shortTitle": "무효 전력 여유 및 국부 취약성 식별",
+    "originalTitle": "Worst-case identification of reactive power margin and local weakness of power systems",
+    "authors": [
+      "C.S Chang",
+      "J.S Huang"
+    ],
+    "year": 1998,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/s0378-7796(97)01186-3",
+    "sourceUrl": "https://doi.org/10.1016/s0378-7796(97)01186-3",
+    "keywords": [
+      "전기",
+      "무효전력",
+      "전력계통",
+      "전력안정도",
+      "취약성분석",
+      "전력손실",
+      "학술논문"
+    ],
+    "summary": "C.S Chang과 J.S Huang이 1998년 Electric Power Systems Research 저널에 발표한 본 논문은, 전력 시스템에서 전압 안정을 위협하는 무효 전력의 여유 한계와 계통 내 국부적인 취약 지점을 최악의 시나리오 관점에서 식별하는 방법론을 다룬 전기공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-1998-worst-case-identification-of-reactive-power-margin.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-acknowledgement-to-reviewers-of-robotics-in-2015",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 2015년도 논문 심사위원 감사의 글을 다룬 로봇·자동화 분야 학술 문헌",
+    "shortTitle": "Robotics 저널 2015 심사위원 감사",
+    "originalTitle": "Acknowledgement to Reviewers of Robotics in 2015",
+    "authors": [
+      "Robotics Editorial Office"
+    ],
+    "year": 2016,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics5010003",
+    "sourceUrl": "https://doi.org/10.3390/robotics5010003",
+    "keywords": [
+      "로봇·자동화",
+      "학술저널",
+      "심사위원",
+      "연구윤리",
+      "학술출판",
+      "로봇공학",
+      "학술논문"
+    ],
+    "summary": "Robotics Editorial Office가 2016년 Robotics 저널에 발표한 본 문헌은, 2015년 한 해 동안 해당 학술지에 투고된 다양한 로봇 및 자동화 분야 연구 원고를 공정하고 엄격하게 심사해 준 전 세계 연구자들의 노고에 깊은 감사를 표하기 위해 작성된 공식 감사의 글(Acknowledgement)이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2016-acknowledgement-to-reviewers-of-robotics-in-2015.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-wind-energy-literature-survey-no-8",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 분야 관련 문헌 조사를 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "풍력 에너지 문헌 조사 제8호",
+    "originalTitle": "Wind energy literature survey no. 8",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2008,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.275",
+    "sourceUrl": "https://doi.org/10.1002/we.275",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "학술동향",
+      "재생에너지",
+      "연구발표",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 2008년 Wind Energy 저널에 발표한 본 문헌은, 전 세계의 다양한 학술지에 발표된 풍력 에너지 관련 최신 연구 논문들을 체계적으로 분류하고 정리하여 독자들에게 최신 연구 동향을 제공하기 위해 작성된 문헌 조사(Literature Survey) 보고서이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2008-wind-energy-literature-survey-no-8.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-building-maintenance-information-2",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "Structural Survey 저널에 게재된 건물 유지관리에 필요한 정보 체계를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지관리 정보",
+    "originalTitle": "Building Maintenance Information",
+    "authors": [],
+    "year": 1998,
+    "journal": "Structural Survey",
+    "doi": "10.1108/ss.1998.11016cab.004",
+    "sourceUrl": "https://doi.org/10.1108/ss.1998.11016cab.004",
+    "keywords": [
+      "건축·시설관리",
+      "건물유지관리",
+      "시설정보",
+      "유지보수",
+      "건축구조",
+      "시설운영",
+      "학술논문"
+    ],
+    "summary": "1998년 Structural Survey 저널에 발표된 본 논문은, 건축물의 수명을 연장하고 안전성을 확보하기 위해 필수적인 건물 유지관리(Building Maintenance) 정보의 체계적인 수집, 관리, 활용 방안을 다룬 건축 및 시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1998-building-maintenance-information-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1995-evaluation-and-selection-of-biases-in-machine",
     "verified": true,
     "category": "인공지능",
