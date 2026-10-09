@@ -1,5 +1,153 @@
 [
   {
+    "id": "paper-2017-guest-editorial-deep-learning-in-computer-vision",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "IET Computer Vision 저널에 게재된 딥러닝 기반 컴퓨터 비전 기술의 최신 동향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝과 컴퓨터 비전",
+    "originalTitle": "Guest Editorial: Deep Learning in Computer Vision",
+    "authors": [],
+    "year": 2017,
+    "journal": "IET Computer Vision",
+    "doi": "10.1049/iet-cvi.2017.0496",
+    "sourceUrl": "https://doi.org/10.1049/iet-cvi.2017.0496",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "컴퓨터비전",
+      "영상처리",
+      "객체인식",
+      "인공신경망",
+      "학술논문"
+    ],
+    "summary": "IET Computer Vision 저널에 2017년 게재된 본 논문은, 인공지능의 핵심 기술인 딥러닝이 컴퓨터 비전 분야에 도입되면서 영상 인식과 처리 기술이 어떻게 혁신적으로 발전하고 있는지 조명한 특집 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2017-guest-editorial-deep-learning-in-computer-vision.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1976-operating-characteristics-of-the-current-feed-time",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electrical Engineering in Japan 저널에 게재된 직렬 인버터 유닛으로 구성된 전류원 방식 타임셰어링 인버터의 동작 특성을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전류원 방식 타임셰어링 인버터의 동작 특성",
+    "originalTitle": "Operating characteristics of the current‐feed time‐sharing inverter consisting of series inverter units",
+    "authors": [
+      "Mitsuo Shioya"
+    ],
+    "year": 1976,
+    "journal": "Electrical Engineering in Japan",
+    "doi": "10.1002/eej.4390960309",
+    "sourceUrl": "https://doi.org/10.1002/eej.4390960309",
+    "keywords": [
+      "전기",
+      "인버터",
+      "전류원인버터",
+      "타임셰어링",
+      "직렬인버터",
+      "전력전자",
+      "학술논문"
+    ],
+    "summary": "Mitsuo Shioya가 1976년 Electrical Engineering in Japan 저널에 발표한 본 논문은, 직렬 인버터 유닛들을 결합한 전류원 방식 타임셰어링 인버터의 전기적 동작 특성과 회로 거동을 분석한 전력전자 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-1976-operating-characteristics-of-the-current-feed-time.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1997-1997-international-ground-robotics-vehicle-competition-robotics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 1997년 국제 지상 로봇 차량 경진대회(IGVC) 소식을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "1997 국제 지상 로봇 차량 경진대회(IGVC)",
+    "originalTitle": "1997 international ground robotics vehicle competition robotics competition corner",
+    "authors": [
+      "Robin R. Murphy"
+    ],
+    "year": 1997,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/s0921-8890(97)90008-7",
+    "sourceUrl": "https://doi.org/10.1016/s0921-8890(97)90008-7",
+    "keywords": [
+      "로봇·자동화",
+      "지상로봇",
+      "자율주행",
+      "경진대회",
+      "로봇공학",
+      "모바일로봇",
+      "학술논문"
+    ],
+    "summary": "Robin R. Murphy가 1997년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 야외 비포장 지형과 장애물 환경에서 무인으로 주행하는 모바일 로봇 기술을 겨루는 국제 지상 로봇 차량 경진대회(IGVC)의 1997년 대회 현황과 의미를 조명한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1997-1997-international-ground-robotics-vehicle-competition-robotics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-wind-energy-literature-survey-no-30",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A7B4C",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 관련 최신 문헌 조사 및 동향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제30호",
+    "originalTitle": "Wind energy literature survey no. 30",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2013,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1673",
+    "sourceUrl": "https://doi.org/10.1002/we.1673",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "공학연구",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 2013년 Wind Energy 저널에 발표한 본 논문은, 다양한 과학 및 공학 저널에 게재된 풍력 에너지 관련 핵심 연구 논문들을 체계적으로 분류하고 정리하여 독자들에게 최신 연구 동향을 제공하는 문헌 조사 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-wind-energy-literature-survey-no-30.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-predictive-control-of-residential-hvac-and-its",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A3B",
+    "title": "Journal of Building Performance Simulation 저널에 게재된 주거용 HVAC 시스템의 예측 제어와 전력망 연계 시뮬레이션을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "주거용 HVAC 예측 제어와 전력망 연계 시뮬레이션",
+    "originalTitle": "Predictive control of residential HVAC and its impact on the grid. Part II: simulation studies of residential HVAC as a supply following resource",
+    "authors": [
+      "C.D. Corbin",
+      "G.P. Henze"
+    ],
+    "year": 2016,
+    "journal": "Journal of Building Performance Simulation",
+    "doi": "10.1080/19401493.2016.1231221",
+    "sourceUrl": "https://doi.org/10.1080/19401493.2016.1231221",
+    "keywords": [
+      "건축·시설관리",
+      "HVAC",
+      "예측제어",
+      "건물에너지",
+      "전력망연계",
+      "시뮬레이션",
+      "학술논문"
+    ],
+    "summary": "C.D. Corbin과 G.P. Henze가 2016년 Journal of Building Performance Simulation 저널에 발표한 본 논문은, 주거용 냉난방 공조(HVAC) 시스템의 예측 제어가 전력 공급 유연성 자원으로 어떻게 활용될 수 있는지 시뮬레이션을 통해 분석한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2016-predictive-control-of-residential-hvac-and-its.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-guest-editorial-computer-vision-for-smart-cameras",
     "verified": true,
     "category": "인공지능",
