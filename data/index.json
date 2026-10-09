@@ -1,5 +1,153 @@
 [
   {
+    "id": "paper-1993-neural-networks-in-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 분야에서의 신경망 연구와 역할을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능 속의 신경망",
+    "originalTitle": "Neural networks in artificial intelligence",
+    "authors": [
+      "David S. Touretzky"
+    ],
+    "year": 1993,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(93)90054-f",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(93)90054-f",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "인공신경망",
+      "기계학습",
+      "인지과학",
+      "학술논문"
+    ],
+    "summary": "David S. Touretzky가 1993년 Artificial Intelligence 저널에 발표한 본 논문은, 전통적인 상징주의 인공지능과 연결주의(신경망) 접근법 간의 관계를 조명하고 인공지능 분야에서 신경망이 차지하는 위치와 역할을 고찰한 인공지능 분야의 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1993-neural-networks-in-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-optimal-reactive-power-control-in-hybrid-power",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Components and Systems 저널에 게재된 하이브리드 전력 시스템에서의 최적 무효 전력 제어를 다룬 전기 분야 학술 논문",
+    "shortTitle": "하이브리드 전력 시스템의 최적 무효 전력 제어",
+    "originalTitle": "Optimal Reactive Power Control in Hybrid Power Systems",
+    "authors": [
+      "Reza Taghavi",
+      "Alireza Seifi"
+    ],
+    "year": 2012,
+    "journal": "Electric Power Components and Systems",
+    "doi": "10.1080/15325008.2012.658597",
+    "sourceUrl": "https://doi.org/10.1080/15325008.2012.658597",
+    "keywords": [
+      "전기",
+      "무효전력제어",
+      "하이브리드전력시스템",
+      "전력계통",
+      "최적화",
+      "전력품질",
+      "학술논문"
+    ],
+    "summary": "Reza Taghavi와 Alireza Seifi가 2012년 Electric Power Components and Systems 저널에 발표한 본 논문은, 다양한 전력원이 결합된 하이브리드 전력 시스템에서 전력 손실을 줄이고 전압 안정성을 유지하기 위한 최적의 무효 전력 제어 방안을 다룬 전기공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2012-optimal-reactive-power-control-in-hybrid-power.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1986-mobile-robotics-state-of-the-art-review",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 모바일 로보틱스의 당시 기술 현황과 발전 방향을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모바일 로보틱스 기술 현황",
+    "originalTitle": "Mobile robotics — state of the art review",
+    "authors": [
+      "T.M. Knasel"
+    ],
+    "year": 1986,
+    "journal": "Robotics",
+    "doi": "10.1016/0167-8493(86)90051-3",
+    "sourceUrl": "https://doi.org/10.1016/0167-8493(86)90051-3",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로보틱스",
+      "이동로봇",
+      "자율주행",
+      "센서기술",
+      "자동화",
+      "학술논문"
+    ],
+    "summary": "T.M. Knasel이 1986년 Robotics 저널에 발표한 본 논문은, 당시 초기 단계에 있던 모바일 로봇(이동 로봇) 기술의 전반적인 현황을 종합하고, 센서와 제어 시스템을 바탕으로 한 발전 가능성을 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1986-mobile-robotics-state-of-the-art-review.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2007-wind-energy-literature-survey-no-7",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 관련 최근 연구 동향과 문헌 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제7보",
+    "originalTitle": "Wind energy literature survey no. 7",
+    "authors": [],
+    "year": 2007,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.260",
+    "sourceUrl": "https://doi.org/10.1002/we.260",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "재생에너지",
+      "공기역학",
+      "전력계통",
+      "학술논문"
+    ],
+    "summary": "Remko Gerbenzon과 Gijs van Kuik이 2007년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지를 전적으로 다루지 않는 다양한 타 분야 저널에 발표된 최근 풍력 관련 연구 논문들을 체계적으로 수집하고 분류하여 연구자들에게 최신 동향을 제공하는 에너지·환경 분야의 문헌 조사 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2007-wind-energy-literature-survey-no-7.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-multiview-databases-for-building-modelling",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "Automation in Construction 저널에 게재된 건물 모델링을 위한 다중 뷰 데이터베이스 구축을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 모델링을 위한 다중 뷰 데이터베이스",
+    "originalTitle": "Multiview databases for building modelling",
+    "authors": [
+      "H Naja"
+    ],
+    "year": 1999,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/s0926-5805(98)00116-2",
+    "sourceUrl": "https://doi.org/10.1016/s0926-5805(98)00116-2",
+    "keywords": [
+      "건축·시설관리",
+      "건물모델링",
+      "다중뷰",
+      "데이터베이스",
+      "자동화",
+      "건축정보",
+      "학술논문"
+    ],
+    "summary": "H Naja가 1999년 Automation in Construction 저널에 발표한 본 논문은, 건축물의 복잡한 형상과 정보를 다양한 시점(다중 뷰)에서 효율적으로 관리하고 통합하기 위한 데이터베이스 구조 설계 방안을 다룬 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1999-multiview-databases-for-building-modelling.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2018-guest-editorial-computer-vision-for-animal-biometrics",
     "verified": true,
     "category": "인공지능",
