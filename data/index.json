@@ -1,5 +1,157 @@
 [
   {
+    "id": "paper-2022-gafl-global-adaptive-filtering-layer-for-computer",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision and Image Understanding 저널에 게재된 컴퓨터 비전을 위한 글로벌 적응형 필터링 레이어를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "컴퓨터 비전을 위한 글로벌 적응형 필터링 레이어",
+    "originalTitle": "GAFL: Global adaptive filtering layer for computer vision",
+    "authors": [
+      "Viktor Shipitsin",
+      "Iaroslav Bespalov",
+      "Dmitry V. Dylov"
+    ],
+    "year": 2022,
+    "journal": "Computer Vision and Image Understanding",
+    "doi": "10.1016/j.cviu.2022.103519",
+    "sourceUrl": "https://doi.org/10.1016/j.cviu.2022.103519",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "적응형필터링",
+      "GAFL",
+      "이미지처리",
+      "딥러닝",
+      "학술논문"
+    ],
+    "summary": "Viktor Shipitsin 외 연구진이 2022년 Computer Vision and Image Understanding 저널에 발표한 본 논문은, 컴퓨터 비전 작업에서 이미지의 전역적 문맥을 효율적으로 파악하고 처리하기 위한 글로벌 적응형 필터링 레이어(GAFL) 아키텍처를 제안한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2022-gafl-global-adaptive-filtering-layer-for-computer.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-loewner-matrix-approach-for-modelling-fdnes-of",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 전력 시스템의 주파수 의존 네트워크 등가물 모델링을 위한 뢰우너 행렬 접근법을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 FDNE 모델링을 위한 뢰우너 행렬 접근법",
+    "originalTitle": "Loewner matrix approach for modelling FDNEs of power systems",
+    "authors": [
+      "Gurunath Gurrala"
+    ],
+    "year": 2015,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2015.03.016",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2015.03.016",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "뢰우너행렬",
+      "주파수의존네트워크등가물",
+      "FDNE",
+      "시스템식별",
+      "학술논문"
+    ],
+    "summary": "Gurunath Gurrala가 2015년 Electric Power Systems Research 저널에 발표한 본 논문은, 대규모 전력 시스템 분석을 효율적으로 수행하기 위해 주파수 의존 네트워크 등가물(FDNE)을 뢰우너 행렬(Loewner matrix) 기법을 이용해 모델링하는 전기공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2015-loewner-matrix-approach-for-modelling-fdnes-of.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1986-robotics-an-academic-discipline",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 로보틱스의 학문적 독립성과 정체성을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로보틱스는 하나의 학문인가?",
+    "originalTitle": "Robotics, an academic discipline?",
+    "authors": [
+      "Phillip John McKerrow"
+    ],
+    "year": 1986,
+    "journal": "Robotics",
+    "doi": "10.1016/0167-8493(86)90035-5",
+    "sourceUrl": "https://doi.org/10.1016/0167-8493(86)90035-5",
+    "keywords": [
+      "로봇·자동화",
+      "로보틱스",
+      "학문분야",
+      "학제적연구",
+      "엔지니어링",
+      "교육과정",
+      "학술논문"
+    ],
+    "summary": "Phillip John McKerrow가 1986년 Robotics 저널에 발표한 본 논문은, 로보틱스가 단순한 기계·전자 기술의 조합을 넘어 독자적인 체계와 교육 과정을 갖춘 독립된 학문 분야로 성립할 수 있는지 그 정체성과 학문적 위치를 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1986-robotics-an-academic-discipline.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-withdrawn-worldwide-progress-in-renewable-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 전 세계 재생에너지 보급 및 기술 발전 동향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "전 세계 재생에너지 발전 동향",
+    "originalTitle": "Worldwide progress in renewable energy",
+    "authors": [
+      "Ali Sayigh"
+    ],
+    "year": 2009,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/j.renene.2008.12.025",
+    "sourceUrl": "https://doi.org/10.1016/j.renene.2008.12.025",
+    "keywords": [
+      "에너지",
+      "환경",
+      "재생에너지",
+      "태양광",
+      "풍력",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "Ali Sayigh가 2009년 Renewable Energy 저널에 발표한 본 논문은, 전 세계적으로 추진되고 있는 재생에너지 기술의 도입 현황과 친환경 에너지 전환의 진행 과정을 조망한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2009-withdrawn-worldwide-progress-in-renewable-energy.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-i-editorial-i-wireless-networks-and-their",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B7C",
+    "title": "HVAC&R Research 저널에 게재된 빌딩 자동화 시스템에서의 무선 네트워크 응용을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "빌딩 자동화 시스템과 무선 네트워크 응용",
+    "originalTitle": "Editorial: Wireless Networks and Their Applications in Building Automation Systems",
+    "authors": [
+      "Shengwei Wang"
+    ],
+    "year": 2008,
+    "journal": "HVAC&R Research",
+    "doi": "10.1080/10789669.2008.10391023",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2008.10391023",
+    "keywords": [
+      "건축·시설관리",
+      "빌딩자동화",
+      "무선네트워크",
+      "HVAC",
+      "공조시스템",
+      "스마트빌딩",
+      "학술논문"
+    ],
+    "summary": "Shengwei Wang이 2008년 HVAC&R Research 저널에 발표한 본 논문은, 현대 빌딩 자동화 및 공조 시스템(BAS)에서 무선 네트워크 기술이 어떻게 적용되고 있으며 어떤 가치를 제공하는지 조명한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2008-i-editorial-i-wireless-networks-and-their.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1988-gensep-a-multiple-neural-network-learning-system",
     "verified": true,
     "category": "인공지능",
