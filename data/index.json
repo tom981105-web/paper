@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-1995-monotonicity-maintenance-in-information-theoretic-machine-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 정보이론 기반 머신러닝 알고리즘의 단조성 유지를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "정보이론 머신러닝 알고리즘의 단조성 유지",
+    "originalTitle": "Monotonicity Maintenance in Information-Theoretic Machine Learning Algorithms",
+    "authors": [
+      "Arie Ben-David"
+    ],
+    "year": 1995,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022655006810",
+    "sourceUrl": "https://doi.org/10.1023/a:1022655006810",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "정보이론",
+      "단조성",
+      "학습알고리즘",
+      "결정트리",
+      "학술논문"
+    ],
+    "summary": "Arie Ben-David가 1995년 Machine Learning 저널에 발표한 본 논문은, 정보이론을 활용한 머신러닝 알고리즘에서 예측 성능이나 결정 과정의 단조성을 유지하는 방법과 그 중요성을 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-1995-monotonicity-maintenance-in-information-theoretic-machine-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2006-pv-array-lt-5kwp-single-inverter-grid",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Solar Energy 저널에 게재된 5kWp 미만 태양광 어레이에서 단일 인버터와 다중 인버터 대안의 경제성을 분석한 전기 분야 학술 논문",
+    "shortTitle": "소형 태양광 시스템의 인버터 경제성 분석",
+    "originalTitle": "PV array <5kWp+single inverter=grid connected PV system: Are multiple inverter alternatives economic?",
+    "authors": [
+      "P.A.B. James",
+      "A.S. Bahaj",
+      "R.M. Braid"
+    ],
+    "year": 2006,
+    "journal": "Solar Energy",
+    "doi": "10.1016/j.solener.2005.09.010",
+    "sourceUrl": "https://doi.org/10.1016/j.solener.2005.09.010",
+    "keywords": [
+      "전기",
+      "태양광",
+      "인버터",
+      "경제성분석",
+      "신재생에너지",
+      "그리드연계",
+      "학술논문"
+    ],
+    "summary": "P.A.B. James 외 연구진이 2006년 Solar Energy 저널에 발표한 본 논문은, 5kWp 미만의 소규모 계통연계형 태양광 발전 시스템에서 전통적인 단일 인버터 방식과 여러 개의 인버터를 사용하는 대안 중 어느 쪽이 더 경제적인지 분석한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2006-pv-array-lt-5kwp-single-inverter-grid.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-construction-of-potential-fields-in-mobile-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Автометрия 저널에 게재된 모바일 로봇 자율 주행을 위한 포텐셜 필드 구성을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모바일 로봇 내비게이션의 포텐셜 필드 구성",
+    "originalTitle": "Construction of potential fields in mobile robot local navigation",
+    "authors": [],
+    "year": 2019,
+    "journal": "Автометрия",
+    "doi": "10.15372/aut20190407",
+    "sourceUrl": "https://doi.org/10.15372/aut20190407",
+    "keywords": [
+      "로봇·자동화",
+      "포텐셜필드",
+      "이동로봇",
+      "자율주행",
+      "국소내비게이션",
+      "경로계획",
+      "학술논문"
+    ],
+    "summary": "Автометрия 저널에 2019년 게재된 본 논문은, 모바일 로봇의 안전하고 효율적인 국소 내비게이션을 위해 장애물을 피하고 목적지로 찾아가도록 만드는 포텐셜 필드(Potential Fields) 구성 방법을 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2019-construction-of-potential-fields-in-mobile-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-energy-based-excitation-control-of-doubly-fed",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B998B",
+    "title": "Wind Energy 저널에 게재된 이중급전 유도풍력발전기의 최적 풍력 에너지 포집을 위한 에너지 기반 여자 제어 방식을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "이중급전 유도풍력발전기 에너지 기반 여자 제어",
+    "originalTitle": "Energy‐based excitation control of doubly‐fed induction wind generator for optimum wind energy capture",
+    "authors": [
+      "H.H. Song",
+      "Y.B. Qu"
+    ],
+    "year": 2012,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1514",
+    "sourceUrl": "https://doi.org/10.1002/we.1514",
+    "keywords": [
+      "에너지·환경",
+      "풍력발전",
+      "이중급전유도발전기",
+      "여자제어",
+      "포트제어해밀턴",
+      "시뮬레이션",
+      "학술논문"
+    ],
+    "summary": "H.H. Song과 Y.B. Qu가 2012년 Wind Energy 저널에 발표한 본 논문은, 이중급전 유도풍력발전기(DFIWG)의 물리적 본질과 에너지 흐름을 고려하여 최적의 풍력 에너지 포집을 달성하기 위한 비선형 에너지 기반 여자 제어 전략을 제안한 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2012-energy-based-excitation-control-of-doubly-fed.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1988-building-maintenance",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D27D2D",
+    "title": "Property Management 저널에 게재된 건물 유지관리와 생애주기 비용의 관계를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지관리와 생애주기 비용",
+    "originalTitle": "BUILDING MAINTENANCE",
+    "authors": [
+      "Richard Rooley"
+    ],
+    "year": 1988,
+    "journal": "Property Management",
+    "doi": "10.1108/eb006688",
+    "sourceUrl": "https://doi.org/10.1108/eb006688",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "유지관리",
+      "생애주기비용",
+      "건물관리",
+      "자산관리",
+      "학술논문"
+    ],
+    "summary": "Richard Rooley가 1988년 Property Management 저널에 발표한 본 논문은, David Hoar의 선행 연구에서 논의된 생애주기 비용(LCC) 이슈와 연계하여 건물 유지관리의 핵심적인 측면들을 노트 형태로 상세히 정리한 건축 및 시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1988-building-maintenance.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2019-deep-learning-an-overview",
     "verified": true,
     "category": "인공지능",
