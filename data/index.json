@@ -1,5 +1,154 @@
 [
   {
+    "id": "paper-1974-artificial-intelligence-a-paper-symposium",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 분야의 초기 논문 심포지엄을 다룬 학술 논문",
+    "shortTitle": "인공지능 논문 심포지엄",
+    "originalTitle": "Artificial intelligence: a paper symposium",
+    "authors": [
+      "John McCarthy"
+    ],
+    "year": 1974,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(74)90016-2",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(74)90016-2",
+    "keywords": [
+      "인공지능",
+      "심포지엄",
+      "존매카시",
+      "AI역사",
+      "학술논문",
+      "초기인공지능",
+      "이론연구"
+    ],
+    "summary": "John McCarthy가 1974년 Artificial Intelligence 저널에 발표한 본 논문은, 인공지능 분야의 개척자로서 당시 AI 연구의 방향성과 주요 논점들을 학술적 심포지엄 형태로 모아 고찰한 인공지능 역사 및 이론 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1974-artificial-intelligence-a-paper-symposium.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-power-electronics-in-2025-and-beyond-a",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Magazine 저널에 게재된 2025년 이후 전력전자 및 시스템 기술의 미래 전망을 다룬 전기 분야 학술 논문",
+    "shortTitle": "2025년 이후의 전력전자 기술 전망",
+    "originalTitle": "Power Electronics in 2025 and Beyond: A Focus on Power Electronics and Systems Technology",
+    "authors": [
+      "Don Tan"
+    ],
+    "year": 2017,
+    "journal": "IEEE Power Electronics Magazine",
+    "doi": "10.1109/mpel.2017.2760958",
+    "sourceUrl": "https://doi.org/10.1109/mpel.2017.2760958",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "시스템기술",
+      "미래전망",
+      "전력변환",
+      "SmartGrid",
+      "Don Tan",
+      "학술논문"
+    ],
+    "summary": "Don Tan이 2017년 IEEE Power Electronics Magazine 저널에 발표한 본 논문은, 2025년과 그 이후를 내다보며 전력전자 및 시스템 기술이 나아갈 발전 방향과 핵심 과제를 조망한 전기공학 분야의 전망 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2017-power-electronics-in-2025-and-beyond-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-autonomous-robot-motion-path-planning-using-shortest",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "IOSR Journal of Engineering 저널에 게재된 최단 경로 계획 알고리즘을 이용한 자율주행 로봇의 모션 경로 계획을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "최단 경로 알고리즘을 이용한 자율주행 로봇 경로 계획",
+    "originalTitle": "Autonomous robot motion path planning using shortest path planning algorithms",
+    "authors": [
+      "T. Ravi teja"
+    ],
+    "year": 2013,
+    "journal": "IOSR Journal of Engineering",
+    "doi": "10.9790/3021-03116569",
+    "sourceUrl": "https://doi.org/10.9790/3021-03116569",
+    "keywords": [
+      "로봇·자동화",
+      "자율주행로봇",
+      "경로계획",
+      "최단경로알고리즘",
+      "모션플래닝",
+      "T. Ravi teja",
+      "학술논문"
+    ],
+    "summary": "T. Ravi teja가 2013년 IOSR Journal of Engineering 저널에 발표한 본 논문은, 자율주행 로봇이 출발지에서 목적지까지 장애물을 피해 가장 안전하고 빠르게 이동할 수 있도록 최단 경로 계획 알고리즘을 적용하여 모션 경로를 생성하는 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-autonomous-robot-motion-path-planning-using-shortest.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-i-wind-energy-i-literature-survey-no",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A8A56",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 관련 타 분야 문헌 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제25호",
+    "originalTitle": "Wind Energy literature survey no. 25",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2012,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1536",
+    "sourceUrl": "https://doi.org/10.1002/we.1536",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "서지목록",
+      "재생에너지",
+      "공학연구",
+      "Lars Christian Henriksen",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 2012년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지 분야를 전문적으로 다루지 않는 다양한 타 학술지에서 발표된 풍력 관련 핵심 논문들을 발췌하고 카테고리별로 분류하여 독자들에게 제공하는 서지학적 문헌 조사 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-i-wind-energy-i-literature-survey-no.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-building-maintenance-and-refurbishment",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D0825B",
+    "title": "Facilities 저널에 게재된 건물의 유지보수와 개보수 전략을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지보수와 개보수 전략",
+    "originalTitle": "Building maintenance and refurbishment",
+    "authors": [],
+    "year": 1999,
+    "journal": "Facilities",
+    "doi": "10.1108/f.1999.06917aab.001",
+    "sourceUrl": "https://doi.org/10.1108/f.1999.06917aab.001",
+    "keywords": [
+      "건축·시설관리",
+      "건물유지보수",
+      "개보수",
+      "자산관리",
+      "시설운영",
+      "학술논문"
+    ],
+    "summary": "1999년 Facilities 저널에 발표된 본 논문은, 건축물의 수명 주기를 연장하고 자산 가치를 유지하기 위한 체계적인 건물 유지보수(Maintenance)와 개보수(Refurbishment)의 핵심 전략과 실무적 접근법을 다룬 시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1999-building-maintenance-and-refurbishment.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2001-from-image-analysis-to-computer-vision-an",
     "verified": true,
     "category": "인공지능",
