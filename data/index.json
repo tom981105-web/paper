@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-1989-image-analysis-and-computer-vision-1988",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 이미지 분석과 컴퓨터 비전 연구 동향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "이미지 분석과 컴퓨터 비전 동향",
+    "originalTitle": "Image analysis and computer vision: 1988",
+    "authors": [
+      "Azriel Rosenfeld"
+    ],
+    "year": 1989,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/0734-189x(89)90169-2",
+    "sourceUrl": "https://doi.org/10.1016/0734-189x(89)90169-2",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이미지분석",
+      "영상처리",
+      "패턴인식",
+      "Azriel Rosenfeld",
+      "학술논문"
+    ],
+    "summary": "Azriel Rosenfeld가 1989년 Computer Vision, Graphics, and Image Processing 저널에 발표한 본 논문은, 1988년 한 해 동안 진행된 이미지 분석과 컴퓨터 비전 분야의 주요 연구 성과와 기술적 진보를 종합적으로 정리한 인공지능 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1989-image-analysis-and-computer-vision-1988.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1980-machine-constants-and-design-considerations-of-a",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Machines & Power Systems 저널에 게재된 고출력·고속 영구자석 디스크형 동기기 설계 고려사항을 다룬 전기 분야 학술 논문",
+    "shortTitle": "고출력 영구자석 동기기 설계",
+    "originalTitle": "MACHINE CONSTANTS AND DESIGN CONSIDERATIONS OF A HIGH-POWER, HIGH-SPEED PERMANENT MAGNET DISC TYPE SYNCHRONOUS MACHINE",
+    "authors": [
+      "NADY BOULES",
+      "HERBERT WEH"
+    ],
+    "year": 1980,
+    "journal": "Electric Machines & Power Systems",
+    "doi": "10.1080/07313568008955395",
+    "sourceUrl": "https://doi.org/10.1080/07313568008955395",
+    "keywords": [
+      "전기",
+      "영구자석",
+      "동기기",
+      "디스크형",
+      "고출력",
+      "고속",
+      "전기기기설계",
+      "NADY BOULES",
+      "HERBERT WEH",
+      "학술논문"
+    ],
+    "summary": "Nady Boules와 Herbert Weh가 1980년 Electric Machines & Power Systems 저널에 발표한 본 논문은, 고출력 및 고속 환경에서 작동하는 영구자석 디스크형 동기기의 기계 상수와 주요 설계 고려사항을 고찰한 전기기기 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1980-machine-constants-and-design-considerations-of-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1989-extending-robotics-capabilities",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 로봇의 기능 확장 및 활용 범위를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇의 기능 확장",
+    "originalTitle": "Extending robotics capabilities",
+    "authors": [
+      "T.M. Knasel"
+    ],
+    "year": 1989,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/0921-8890(89)90039-0",
+    "sourceUrl": "https://doi.org/10.1016/0921-8890(89)90039-0",
+    "keywords": [
+      "로봇·자동화",
+      "로봇기능",
+      "자동화",
+      "로봇시스템",
+      "T.M. Knasel",
+      "학술논문"
+    ],
+    "summary": "T.M. Knasel이 1989년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 초기 로봇 공학 환경에서 로봇의 성능과 적용 범위를 넓히기 위한 핵심 기능 확장 방안과 시스템 설계 방향을 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1989-extending-robotics-capabilities.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-i-wind-energy-i-literature-survey-no-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 관련 최신 문헌 조사 및 동향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사",
+    "originalTitle": "<i>Wind Energy</i> literature survey no. 19",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2011,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.448",
+    "sourceUrl": "https://doi.org/10.1002/we.448",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "재생에너지",
+      "풍력발전",
+      "Lars Christian Henriksen",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 2011년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지 분야 연구자들에게 도움을 주기 위해 다양한 학술지에 발표된 관련 논문들을 폭넓게 수집하고 분류하여 제공하는 문헌 조사 및 동향 분석 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-i-wind-energy-i-literature-survey-no-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-bmi-building-maintenance-price-book-1999",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D07C5B",
+    "title": "Facilities 저널에 게재된 건물 유지보수 비용과 가격 산정 기준을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지보수 가격 백서",
+    "originalTitle": "BMI Building Maintenance Price Book 1999",
+    "authors": [],
+    "year": 1999,
+    "journal": "Facilities",
+    "doi": "10.1108/f.1999.06917gab.005",
+    "sourceUrl": "https://doi.org/10.1108/f.1999.06917gab.005",
+    "keywords": [
+      "건축·시설관리",
+      "건물유지보수",
+      "유지관리비용",
+      "가격산정",
+      "시설운영",
+      "BMI",
+      "학술논문"
+    ],
+    "summary": "1999년 Facilities 저널에 발표된 본 논문은, 건축물의 유지보수에 소요되는 각종 비용과 가격 산정 기준을 체계적으로 정리하여 시설 관리자들이 합리적인 예산을 수립하고 경제적인 건물 운영을 할 수 있도록 돕는 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1999-bmi-building-maintenance-price-book-1999.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1999-learning-to-take-actions",
     "verified": true,
     "category": "인공지능",
