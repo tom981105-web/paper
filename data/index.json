@@ -1,5 +1,155 @@
 [
   {
+    "id": "paper-1988-gensep-a-multiple-neural-network-learning-system",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Neural Networks 저널에 게재된 구조 변경이 가능한 다중 신경망 학습 시스템을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "구조 변경 가능한 다중 신경망 학습 시스템",
+    "originalTitle": "Gensep: A multiple neural network learning system with modifiable network topology",
+    "authors": [],
+    "year": 1988,
+    "journal": "Neural Networks",
+    "doi": "10.1016/0893-6080(88)90162-1",
+    "sourceUrl": "https://doi.org/10.1016/0893-6080(88)90162-1",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "다중신경망",
+      "네트워크구조",
+      "학습시스템",
+      "신경망토폴로지",
+      "학술논문"
+    ],
+    "summary": "1988년 Neural Networks 저널에 게재된 본 논문은, 복잡한 문제 해결을 위해 네트워크의 구조(토폴로지)를 유연하게 수정할 수 있는 다중 인공신경망 학습 시스템인 Gensep의 개념과 원리를 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-1988-gensep-a-multiple-neural-network-learning-system.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-analisis-perbandingan-efisiensi-daya-modified-sine-inverter",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Jurnal Riset Rekayasa Elektro 저널에 게재된 수정형 사인파 인버터와 순수 사인파 인버터의 전력 효율 비교 분석을 다룬 전기 분야 학술 논문",
+    "shortTitle": "수정형 및 순수 사인파 인버터 전력 효율 비교",
+    "originalTitle": "Analisis Perbandingan Efisiensi Daya Modified Sine Inverter Dengan Pure Sine Inverter",
+    "authors": [
+      "Fariz Yulianto",
+      "Wakhyu Dwiono",
+      "W Winarso"
+    ],
+    "year": 2019,
+    "journal": "Jurnal Riset Rekayasa Elektro",
+    "doi": "10.30595/jrre.v1i1.4924",
+    "sourceUrl": "https://doi.org/10.30595/jrre.v1i1.4924",
+    "keywords": [
+      "전기",
+      "인버터",
+      "수정사인파",
+      "순수사인파",
+      "전력효율",
+      "무정전전원장치",
+      "학술논문"
+    ],
+    "summary": "Fariz Yulianto 외 연구진이 2019년 Jurnal Riset Rekayasa Elektro 저널에 발표한 본 논문은, 다양한 부하 조건에서 수정형 사인파 인버터(MSI)와 순수 사인파 인버터(PSI)의 전력 효율 및 출력 파형을 비교 분석한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2019-analisis-perbandingan-efisiensi-daya-modified-sine-inverter.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-motor-schema-based-control-of-mobile-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "International Journal of Robotics and Automation 저널에 게재된 모바일 로봇 내비게이션을 위한 모터 스키마 기반 제어를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모바일 로봇 내비게이션의 모터 스키마 제어",
+    "originalTitle": "MOTOR SCHEMA-BASED CONTROL OF MOBILE ROBOT NAVIGATION",
+    "authors": [
+      "Panus Nattharith"
+    ],
+    "year": 2016,
+    "journal": "International Journal of Robotics and Automation",
+    "doi": "10.2316/journal.206.2016.4.206-4393",
+    "sourceUrl": "https://doi.org/10.2316/journal.206.2016.4.206-4393",
+    "keywords": [
+      "로봇·자동화",
+      "모터스키마",
+      "이동로봇",
+      "자율주행",
+      "내비게이션",
+      "행동기반제어",
+      "학술논문"
+    ],
+    "summary": "Panus Nattharith가 2016년 International Journal of Robotics and Automation 저널에 발표한 본 논문은, 이동 로봇이 복잡한 환경에서 장애물을 회피하고 목적지로 이동하기 위해 모터 스키마(Motor Schema) 기반의 분산 제어 방식을 활용하는 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2016-motor-schema-based-control-of-mobile-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2001-i-wind-energy-i-literature-survey-no",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 발전 관련 최근 연구 동향 및 문헌 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 분야 최근 문헌 조사",
+    "originalTitle": "Wind Energy Literature Survey No. 2",
+    "authors": [
+      "Martin Hird"
+    ],
+    "year": 2001,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.41",
+    "sourceUrl": "https://doi.org/10.1002/we.41",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "전력변환",
+      "제어시스템",
+      "학술논문"
+    ],
+    "summary": "Martin Hird가 2001년 Wind Energy 저널에 발표한 본 논문은, 전력 변환, 전력 전자, 제어 시스템, 재생에너지 등 다양한 관련 저널에 출판된 최근 풍력 에너지 관련 주요 논문들을 체계적으로 정리하여 독자들에게 최신 연구 동향을 제공하는 문헌 조사 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2001-i-wind-energy-i-literature-survey-no.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1994-integrated-facility-management",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#8C6D46",
+    "title": "Facilities 저널에 게재된 조직 내 시설관리의 역할과 통합적 접근을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "통합 시설관리의 역할과 적용",
+    "originalTitle": "Integrated Facility Management",
+    "authors": [
+      "David Kincaid"
+    ],
+    "year": 1994,
+    "journal": "Facilities",
+    "doi": "10.1108/02632779410062353",
+    "sourceUrl": "https://doi.org/10.1108/02632779410062353",
+    "keywords": [
+      "건축·시설관리",
+      "시설관리",
+      "통합관리",
+      "조직경영",
+      "공간전략",
+      "건물운영",
+      "학술논문"
+    ],
+    "summary": "David Kincaid가 1994년 Facilities 저널에 발표한 본 논문은, 조직 내에서 시설관리(Facility Management)가 갖는 역할과 목적, 그리고 잠재력을 탐구하고 효과적인 관리를 위해 요구되는 핵심 특성을 제시한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1994-integrated-facility-management.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1995-monotonicity-maintenance-in-information-theoretic-machine-learning",
     "verified": true,
     "category": "인공지능",
