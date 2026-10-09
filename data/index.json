@@ -1,5 +1,157 @@
 [
   {
+    "id": "paper-2000-a-machine-learning-approach-to-pos-tagging",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 머신러닝 기반의 품사 태깅 접근법을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "머신러닝 기반 품사 태깅",
+    "originalTitle": "A Machine Learning Approach to POS Tagging",
+    "authors": [
+      "Lluís Màrquez",
+      "Lluís Padró",
+      "Horacio Rodríguez"
+    ],
+    "year": 2000,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1007673816718",
+    "sourceUrl": "https://doi.org/10.1023/a:1007673816718",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "품사태깅",
+      "자연어처리",
+      "텍스트분석",
+      "학술논문",
+      "Lluís Màrquez"
+    ],
+    "summary": "Lluís Màrquez, Lluís Padró, Horacio Rodríguez가 2000년 Machine Learning 저널에 발표한 본 논문은, 자연어 처리의 기초 단계인 품사 태깅(POS Tagging) 작업에 기계학습 알고리즘을 적용하여 언어 데이터로부터 자동으로 규칙과 패턴을 학습하고 분류 성능을 높이는 방법을 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2000-a-machine-learning-approach-to-pos-tagging.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-design-considerations-of-a-multitasked-electric-machine",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 자동차용 다기능 전기 기기의 설계 고려사항을 다룬 전기 분야 학술 논문",
+    "shortTitle": "자동차용 다기능 전기 기기 설계 고려사항",
+    "originalTitle": "Design considerations of a multitasked electric machine for automotive applications",
+    "authors": [
+      "Erkan Mese",
+      "Murat Ayaz",
+      "M. Murat Tezcan"
+    ],
+    "year": 2016,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/j.epsr.2015.10.017",
+    "sourceUrl": "https://doi.org/10.1016/j.epsr.2015.10.017",
+    "keywords": [
+      "전기",
+      "전기기기",
+      "자동차전기",
+      "다기능모터",
+      "설계고려사항",
+      "전력시스템",
+      "학술논문"
+    ],
+    "summary": "Erkan Mese, Murat Ayaz, M. Murat Tezcan이 2016년 Electric Power Systems Research 저널에 발표한 본 논문은, 친환경 자동차 등 현대 자동차 응용 분야에서 하나의 전기 기기가 여러 가지 역할을 동시에 수행하도록 설계할 때 고려해야 할 핵심 요소와 공학적 방법론을 다룬 전기공학 분야의 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2016-design-considerations-of-a-multitasked-electric-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-acknowledgement-to-reviewers-of-robotics-in-2013",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 2013년도 논문 심사위원 감사의 글을 다룬 로봇·자동화 분야 학술 문헌",
+    "shortTitle": "Robotics 저널 2013 심사위원 감사",
+    "originalTitle": "Acknowledgement to Reviewers of Robotics in 2013",
+    "authors": [
+      "Robotics Editorial Office"
+    ],
+    "year": 2014,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics3010068",
+    "sourceUrl": "https://doi.org/10.3390/robotics3010068",
+    "keywords": [
+      "로봇·자동화",
+      "학술저널",
+      "심사위원",
+      "연구윤리",
+      "학술출판",
+      "로봇공학",
+      "학술논문"
+    ],
+    "summary": "Robotics Editorial Office가 2014년 Robotics 저널에 발표한 본 문헌은, 2013년 한 해 동안 해당 학술지에 투고된 로봇 및 자동화 관련 연구 논문들을 공정하고 철저하게 평가해 준 전 세계 심사위원들의 노고에 깊은 감사를 표하기 위해 작성된 공식 감사의 글(Acknowledgement)이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2014-acknowledgement-to-reviewers-of-robotics-in-2013.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-wind-energy-literature-survey-no-31",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 31번째 풍력 에너지 문헌 조사를 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "풍력 에너지 문헌 조사 제31호",
+    "originalTitle": "Wind energy literature survey no. 31",
+    "authors": [
+      "Lars Henriksen"
+    ],
+    "year": 2014,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1698",
+    "sourceUrl": "https://doi.org/10.1002/we.1698",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "학술동향",
+      "재생에너지",
+      "덴마크기술대학교",
+      "Lars Henriksen"
+    ],
+    "summary": "Lars Henriksen이 2014년 Wind Energy 저널에 발표한 본 문헌은, 전 세계 주요 학술지에 발표된 풍력 에너지 관련 최신 연구 논문들을 체계적으로 분류하고 정리하여 독자들에게 제공하는 정기 문헌 조사(Literature Survey) 제31호이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2014-wind-energy-literature-survey-no-31.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-building-maintenance-price-inflation",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#8C6A3F",
+    "title": "Structural Survey 저널에 게재된 건물 유지보수 물가 상승을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 유지보수 물가 상승",
+    "originalTitle": "Building maintenance price inflation",
+    "authors": [],
+    "year": 1999,
+    "journal": "Structural Survey",
+    "doi": "10.1108/ss.1999.11017bab.004",
+    "sourceUrl": "https://doi.org/10.1108/ss.1999.11017bab.004",
+    "keywords": [
+      "건축·시설관리",
+      "유지보수",
+      "물가상승률",
+      "건물관리",
+      "시설경제",
+      "건축물자산",
+      "학술논문"
+    ],
+    "summary": "1999년 Structural Survey 저널에 발표된 본 논문은, 건축물의 장기적 가치 유지를 위해 필수적인 건물 유지보수 비용과 물가 상승의 관계를 분석하고 시설관리 경제성 확보의 중요성을 다룬 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1999-building-maintenance-price-inflation.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-computer-vision-theory-the-lack-thereof",
     "verified": true,
     "category": "인공지능",
