@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-2018-guest-editorial-computer-vision-for-animal-biometrics",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "IET Computer Vision 저널에 게재된 동물 생체인식을 위한 컴퓨터 비전을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "동물 생체인식을 위한 컴퓨터 비전",
+    "originalTitle": "Guest Editorial: Computer Vision for Animal Biometrics",
+    "authors": [],
+    "year": 2018,
+    "journal": "IET Computer Vision",
+    "doi": "10.1049/iet-cvi.2018.0019",
+    "sourceUrl": "https://doi.org/10.1049/iet-cvi.2018.0019",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "동물생체인식",
+      "생체측정",
+      "이미지처리",
+      "딥러닝",
+      "학술논문"
+    ],
+    "summary": "IET Computer Vision 저널에 2018년 게재된 본 논문은, 인간을 넘어 다양한 동물들의 개체를 식별하고 특성을 분석하기 위해 컴퓨터 비전 기술을 응용하는 동물 생체인식(Animal Biometrics) 분야의 연구 동향과 핵심 과제를 소개한 인공지능 분야의 사설(Editorial) 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2018-guest-editorial-computer-vision-for-animal-biometrics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-power-quality-enhancement-utilising-single-phase-unified",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IET Power Electronics 저널에 게재된 단상 통합 전력 품질 보상기를 이용한 전력 품질 향상 및 디지털 신호 프로세서 기반 실험적 검증을 다룬 전기 분야 학술 논문",
+    "shortTitle": "단상 UPQC를 이용한 전력 품질 향상",
+    "originalTitle": "Power quality enhancement utilising single-phase unified power quality conditioner: digital signal processor-based experimental validation",
+    "authors": [
+      "V. Khadkikar",
+      "A. Chandra",
+      "A.O. Barry",
+      "T.D. Nguyen"
+    ],
+    "year": 2011,
+    "journal": "IET Power Electronics",
+    "doi": "10.1049/iet-pel.2010.0031",
+    "sourceUrl": "https://doi.org/10.1049/iet-pel.2010.0031",
+    "keywords": [
+      "전기",
+      "전력품질",
+      "통합전력품질보상기",
+      "UPQC",
+      "디지털신호프로세서",
+      "DSP",
+      "학술논문"
+    ],
+    "summary": "V. Khadkikar 외 연구진이 2011년 IET Power Electronics 저널에 발표한 본 논문은, 단상 전력 시스템에서 전력 품질 문제를 동시에 해결하기 위해 통합 전력 품질 보상기(UPQC)를 적용하고 디지털 신호 프로세서(DSP) 기반의 실험을 통해 그 성능을 검증한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2011-power-quality-enhancement-utilising-single-phase-unified.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1985-robotics-and-the-space-station",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 우주정거장에서의 로봇 활용과 역할 정립을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "우주정거장과 로보틱스",
+    "originalTitle": "Robotics and the space station",
+    "authors": [
+      "David R. Criswell"
+    ],
+    "year": 1985,
+    "journal": "Robotics",
+    "doi": "10.1016/s0167-8493(85)90121-4",
+    "sourceUrl": "https://doi.org/10.1016/s0167-8493(85)90121-4",
+    "keywords": [
+      "로봇·자동화",
+      "우주정거장",
+      "우주로봇",
+      "원격조작",
+      "자동화",
+      "우주탐사",
+      "학술논문"
+    ],
+    "summary": "David R. Criswell가 1985년 Robotics 저널에 발표한 본 논문은, 유인 우주정거장 환경에서 우주비행사의 안전을 도모하고 작업 효율성을 극대화하기 위해 로봇 및 자동화 기술이 수행해야 할 역할과 발전 방향을 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1985-robotics-and-the-space-station.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2001-wind-energy-literature-survey-no-3",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 관련 최신 학술 문헌 동향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제3호",
+    "originalTitle": "Wind Energy literature survey no. 3",
+    "authors": [
+      "Martin Hird"
+    ],
+    "year": 2001,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.53",
+    "sourceUrl": "https://doi.org/10.1002/we.53",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "학술동향",
+      "신재생에너지",
+      "전력변환",
+      "학술논문"
+    ],
+    "summary": "Martin Hird가 2001년 Wind Energy 저널에 발표한 본 논문은, 전력 변환, 제어 시스템, 공기역학, 재생에너지 등 다양한 학술 저널에 발표된 최신 풍력 에너지 관련 연구 문헌들을 체계적으로 수집하고 정리하여 연구자들에게 최신 동향을 제공하는 에너지·환경 분야의 문헌 조사 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2001-wind-energy-literature-survey-no-3.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2006-i-editorial-i-building-performance-simulation-the",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "HVAC&R Research 저널에 게재된 건물 성능 시뮬레이션의 현재와 미래를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 성능 시뮬레이션: 현재와 미래",
+    "originalTitle": "Building Performance Simulation: The Now and the Not Yet",
+    "authors": [
+      "Jeffrey D. Spitler"
+    ],
+    "year": 2006,
+    "journal": "HVAC&R Research",
+    "doi": "10.1080/10789669.2006.10391194",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2006.10391194",
+    "keywords": [
+      "건축·시설관리",
+      "건물성능시뮬레이션",
+      "HVAC",
+      "에너지효율",
+      "시뮬레이션도구",
+      "건축환경",
+      "학술논문"
+    ],
+    "summary": "Jeffrey D. Spitler가 2006년 HVAC&R Research 저널에 발표한 본 논문은, 건물 성능 시뮬레이션 분야의 기술적 발전 과정과 당시의 현주소를 진단하고, 앞으로 나아가야 할 방향과 해결해야 할 과제를 조망한 건축·시설관리 분야의 편집 사설(Editorial) 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2006-i-editorial-i-building-performance-simulation-the.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-gafl-global-adaptive-filtering-layer-for-computer",
     "verified": true,
     "category": "인공지능",
