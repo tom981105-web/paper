@@ -1,5 +1,153 @@
 [
   {
+    "id": "paper-1990-image-analysis-and-computer-vision-1989",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 1989년도 이미지 분석 및 컴퓨터 비전 연구 동향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "1989년 이미지 분석 및 컴퓨터 비전 동향",
+    "originalTitle": "Image analysis and computer vision: 1989",
+    "authors": [
+      "Azriel Rosenfeld"
+    ],
+    "year": 1990,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/0734-189x(90)90041-s",
+    "sourceUrl": "https://doi.org/10.1016/0734-189x(90)90041-s",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이미지분석",
+      "영상처리",
+      "패턴인식",
+      "학술논문"
+    ],
+    "summary": "Azriel Rosenfeld가 1990년 Computer Vision, Graphics, and Image Processing 저널에 발표한 본 논문은, 1989년 한 해 동안 발표된 이미지 분석과 컴퓨터 비전 분야의 주요 연구 성과와 발전 동향을 종합적으로 정리한 인공지능 분야의 서베이 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1990-image-analysis-and-computer-vision-1989.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1984-an-introduction-to-power-electronics",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Electrical Power & Energy Systems 저널에 게재된 전력 전자의 개요를 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 전자의 개요",
+    "originalTitle": "An introduction to power electronics",
+    "authors": [
+      "B.W. Williams"
+    ],
+    "year": 1984,
+    "journal": "International Journal of Electrical Power &amp; Energy Systems",
+    "doi": "10.1016/0142-0615(84)90039-5",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(84)90039-5",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "전력변환",
+      "반도체소자",
+      "에너지시스템",
+      "전기공학",
+      "학술논문"
+    ],
+    "summary": "B.W. Williams가 1984년 International Journal of Electrical Power & Energy Systems 저널에 발표한 본 논문은, 전기에너지를 효율적으로 변환하고 제어하는 핵심 기술인 전력 전자의 기초 개념과 반도체 스위칭 소자의 역할 및 응용 방향을 체계적으로 다룬 전기 공학 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1984-an-introduction-to-power-electronics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-an-autonomous-micro-robot-fish-based-on",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 이온 고분자 금속 복합체 구동기를 기반으로 하는 자율형 초소형 로봇 물고기를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "IPMC 구동기 기반 자율형 초소형 로봇 물고기",
+    "originalTitle": "An Autonomous Micro Robot Fish Based on IPMC Actuator",
+    "authors": [
+      "Yudong SU",
+      "Xiufen YE",
+      "Shuxiang GUO"
+    ],
+    "year": 2010,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2010.00262",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2010.00262",
+    "keywords": [
+      "로봇·자동화",
+      "로봇물고기",
+      "IPMC구동기",
+      "초소형로봇",
+      "자율주행",
+      "생체모방로봇",
+      "학술논문"
+    ],
+    "summary": "Yudong SU, Xiufen YE, Shuxiang GUO가 2010년 ROBOT 저널에 발표한 본 논문은, 전압에 반응하여 부드럽게 구부러지는 이온 고분자 금속 복합체(IPMC) 구동기를 활용하여 물속에서 유연하게 헤엄치는 자율형 초소형 로봇 물고기의 설계와 구현을 다룬 로봇·자동화 분야 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2010-an-autonomous-micro-robot-fish-based-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-wind-energy-literature-survey-no-5",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B8A5A",
+    "title": "Wind Energy 저널에 게재된 제5호 풍력 에너지 문헌 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "제5호 풍력 에너지 문헌 조사",
+    "originalTitle": "Wind energy literature survey No. 5",
+    "authors": [
+      "Dave Rollinson"
+    ],
+    "year": 2004,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.110",
+    "sourceUrl": "https://doi.org/10.1002/we.110",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "전력변환",
+      "제어시스템",
+      "학술논문"
+    ],
+    "summary": "Dave Rollinson이 2004년 Wind Energy 저널에 발표한 본 논문은, 주요 학술 저널에 최근 게재된 풍력 및 관련 에너지 변환, 제어, 공기역학 분야의 최신 연구 논문들을 체계적으로 수집하고 정리한 문헌 조사(Literature Survey) 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2004-wind-energy-literature-survey-no-5.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-corrigendum",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D07C5B",
+    "title": "Advances in Building Energy Research 저널에 게재된 정오표(Corrigendum)를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "Advances in Building Energy Research 정오표",
+    "originalTitle": "Corrigendum",
+    "authors": [],
+    "year": 2017,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.1080/17512549.2017.1334328",
+    "sourceUrl": "https://doi.org/10.1080/17512549.2017.1334328",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "건대에너지연구",
+      "정오표",
+      "학술논문",
+      "오타수정"
+    ],
+    "summary": "2017년 Advances in Building Energy Research 저널에 발표된 본 논문은, 해당 학술지에 앞서 게재되었던 이전 논문의 오류나 오탈자를 공식적으로 바로잡는 정오표(Corrigendum)를 다룬 건축 및 에너지 시설 관리 분야의 학술 기록이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2017-corrigendum.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1994-dynamics-of-an-attractor-neural-network-converting",
     "verified": true,
     "category": "인공지능",
