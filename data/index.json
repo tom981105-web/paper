@@ -1,5 +1,157 @@
 [
   {
+    "id": "paper-2026-uzbek-language-morphology-analyser",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Natural Language Processing Journal 저널에 게재된 우즈베크어 형태소 분석기를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "우즈베크어 형태소 분석기",
+    "originalTitle": "Uzbek language morphology analyser",
+    "authors": [
+      "Nikita Murzintcev",
+      "Shakhlo Shukurlaevna Yuldasheva"
+    ],
+    "year": 2026,
+    "journal": "Natural Language Processing Journal",
+    "doi": "10.1016/j.nlp.2025.100195",
+    "sourceUrl": "https://doi.org/10.1016/j.nlp.2025.100195",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "우즈베크어",
+      "형태소분석",
+      "언어모델",
+      "어형변화",
+      "학술논문"
+    ],
+    "summary": "Nikita Murzintcev 외 연구진이 2026년 Natural Language Processing Journal에 발표한 본 논문은, 교착어적 특성을 지닌 우즈베크어의 복잡한 형태소를 정확하고 효율적으로 분석하기 위한 언어처리 모델과 알고리즘을 제안한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2026-uzbek-language-morphology-analyser.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-protection-and-commissioning-of-digital-transformer-relays",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Industry Applications Magazine 저널에 게재된 디지털 변압기 계전기의 보호 및 시운전을 다룬 전기 분야 학술 논문",
+    "shortTitle": "디지털 변압기 계전기의 보호 및 시운전",
+    "originalTitle": "Protection and Commissioning of Digital Transformer Relays: Improvements in Medium-Voltage Industrial Transformer Protection",
+    "authors": [
+      "Charles Mozina"
+    ],
+    "year": 2012,
+    "journal": "IEEE Industry Applications Magazine",
+    "doi": "10.1109/mias.2012.2210092",
+    "sourceUrl": "https://doi.org/10.1109/mias.2012.2210092",
+    "keywords": [
+      "전기",
+      "변압기계전기",
+      "디지털보호",
+      "중전압설비",
+      "산업용전력",
+      "전력계통보호",
+      "학술논문"
+    ],
+    "summary": "Charles Mozina가 2012년 IEEE Industry Applications Magazine 저널에 발표한 본 논문은, 중전압 산업용 변압기 보호를 위한 디지털 변압기 계전기의 도입 과정과 그 보호 및 시운전(Commissioning) 기법의 개선 사항을 다룬 전기 공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-protection-and-commissioning-of-digital-transformer-relays.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-power-slam-a-linear-complexity-anytime-algorithm",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "The International Journal of Robotics Research 저널에 게재된 선형 복잡도를 가지는 실시간 SLAM 알고리즘인 파워 SLAM을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "선형 복잡도 실시간 SLAM 알고리즘 파워 SLAM",
+    "originalTitle": "Power-SLAM: a linear-complexity, anytime algorithm for SLAM",
+    "authors": [
+      "Esha D Nerurkar",
+      "Stergios I Roumeliotis"
+    ],
+    "year": 2011,
+    "journal": "The International Journal of Robotics Research",
+    "doi": "10.1177/0278364910390539",
+    "sourceUrl": "https://doi.org/10.1177/0278364910390539",
+    "keywords": [
+      "로봇·자동화",
+      "파워SLAM",
+      "확장칼만필터",
+      "선형복잡도",
+      "실시간알고리즘",
+      "동시지도작성및위치추정",
+      "학술논문"
+    ],
+    "summary": "Esha D Nerurkar와 Stergios I Roumeliotis가 2011년 The International Journal of Robotics Research 저널에 발표한 본 논문은, 확장 칼만 필터 기반의 SLAM에서 맵에 포함된 특징점 개수에 비례하는 선형 계산 복잡도를 가지며 컴퓨팅 자원에 따라 연산량을 조절할 수 있는 파워 SLAM 알고리즘을 제안한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2011-power-slam-a-linear-complexity-anytime-algorithm.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1996-development-of-china-renewable-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 중국의 재생에너지 발전과 개발 동향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국의 재생에너지 발전과 개발",
+    "originalTitle": "Development of China renewable energy",
+    "authors": [
+      "Zhou Fengqi"
+    ],
+    "year": 1996,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(96)88478-3",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(96)88478-3",
+    "keywords": [
+      "에너지·환경",
+      "중국신재생에너지",
+      "에너지개발",
+      "청정에너지",
+      "재생에너지정책",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "Zhou Fengqi가 1996년 Renewable Energy 저널에 발표한 본 논문은, 급격한 경제 성장을 겪던 중국의 에너지 수요에 대응하기 위한 재생에너지 개발 현황과 향후 발전 방향을 종합적으로 조망한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1996-development-of-china-renewable-energy.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1997-building-process-summary",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "Automation in Construction 저널에 게재된 건물 프로세스 요약을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 프로세스 요약",
+    "originalTitle": "Building process summary",
+    "authors": [
+      "Victor Torrance"
+    ],
+    "year": 1997,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/s0926-5805(96)00174-4",
+    "sourceUrl": "https://doi.org/10.1016/s0926-5805(96)00174-4",
+    "keywords": [
+      "건축·시설관리",
+      "건물프로세스",
+      "건설관리",
+      "자동화",
+      "건축공정",
+      "시설운영",
+      "학술논문"
+    ],
+    "summary": "Victor Torrance가 1997년 Automation in Construction 저널에 발표한 본 논문은, 복잡한 건축물 건설 및 시설관리 프로세스의 흐름을 체계적으로 요약하고 분석하여 건설 자동화와 효율성 향상 방안을 모색한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1997-building-process-summary.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1990-the-effectiveness-of-analogue-neural-network-hardware-2",
     "verified": true,
     "category": "인공지능",
