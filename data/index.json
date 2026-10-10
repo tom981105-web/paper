@@ -1,5 +1,154 @@
 [
   {
+    "id": "paper-1979-ijcai-79-sixth-international-joint-conference-on",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 제6차 국제인공지능합동컨퍼런스(IJCAI-79) 논문집을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "제6차 국제인공지능합동컨퍼런스(IJCAI-79)",
+    "originalTitle": "IJCAI-79, Sixth international joint conference on artificial intelligence",
+    "authors": [],
+    "year": 1979,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(79)90006-7",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(79)90006-7",
+    "keywords": [
+      "인공지능",
+      "IJCAI",
+      "인공지능컨퍼런스",
+      "지식표현",
+      "추론",
+      "자연어처리",
+      "학술논문"
+    ],
+    "summary": "1979년 Artificial Intelligence 저널에 게재된 본 논문은, 제6차 국제인공지능합동컨퍼런스(IJCAI-79)에서 발표된 당대 최고 수준의 인공지능 연구 성과들과 학술적 논의를 모아 소개한 인공지능 분야의 종합 학술 기록이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1979-ijcai-79-sixth-international-joint-conference-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-present-situation-of-research-on-microgrid-and",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Advanced Materials Research 저널에 게재된 마이크로그리드의 연구 동향 및 직류 마이크로그리드 개발의 필요성을 다룬 전기 분야 학술 논문",
+    "shortTitle": "마이크로그리드 연구 동향과 직류 마이크로그리드",
+    "originalTitle": "Present Situation of Research on Microgrid and the Necessity of Developing DC Microgrid",
+    "authors": [
+      "Gao Fei Ge",
+      "Ming Sun",
+      "Yuan Liu"
+    ],
+    "year": 2012,
+    "journal": "Advanced Materials Research",
+    "doi": "10.4028/www.scientific.net/amr.614-615.1744",
+    "sourceUrl": "https://doi.org/10.4028/www.scientific.net/amr.614-615.1744",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "직류마이크로그리드",
+      "신재생에너지",
+      "분산전원",
+      "AC/DC하이브리드",
+      "학술논문"
+    ],
+    "summary": "Gao Fei Ge, Ming Sun, Yuan Liu가 2012년 Advanced Materials Research 저널에 발표한 본 논문은, 전 세계 마이크로그리드 연구 현황을 요약하고 구성품, 운전, 제어 측면에서 직류(DC) 마이크로그리드 개발의 장점과 필요성을 분석하여 최종적으로 AC/DC 하이브리드 마이크로그리드 구조를 제안한 전기 공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-present-situation-of-research-on-microgrid-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-robot-adaptivity",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 로봇의 적응성을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇의 적응성",
+    "originalTitle": "Robot adaptivity",
+    "authors": [
+      "Carme Torras"
+    ],
+    "year": 1995,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/0921-8890(95)00013-6",
+    "sourceUrl": "https://doi.org/10.1016/0921-8890(95)00013-6",
+    "keywords": [
+      "로봇·자동화",
+      "로봇적응성",
+      "적응제어",
+      "자율로봇",
+      "학습알고리즘",
+      "학술논문"
+    ],
+    "summary": "Carme Torras가 1995년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 로봇이 변화하는 환경과 예기치 못한 상황 속에서 스스로 유연하게 대처하고 능동적으로 적응할 수 있도록 만드는 핵심 이론과 접근법을 고찰한 로봇·자동화 분야 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1995-robot-adaptivity.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-i-wind-energy-i-literature-survey-no-3",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 관련 최신 문헌 조사 제15보를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제15보",
+    "originalTitle": "<i>Wind Energy</i> literature survey no. 15",
+    "authors": [
+      "L. C. Henriksen"
+    ],
+    "year": 2010,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.387",
+    "sourceUrl": "https://doi.org/10.1002/we.387",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "재생에너지",
+      "학술연구",
+      "에너지공학",
+      "학술논문"
+    ],
+    "summary": "L. C. Henriksen이 2010년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지를 전공으로 하지 않는 다양한 인접 분야의 저널들에서 출판된 풍력 관련 핵심 논문들을 체계적으로 수집하고 분류하여 연구자들에게 제공하는 종합 문헌 조사 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2010-i-wind-energy-i-literature-survey-no-3.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-inteligentna-przestrzen-mie-dzy-smart-building-a",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "Środowisko Mieszkaniowe 저널에 게재된 스마트 빌딩과 스마트 시티 사이의 지능형 공간을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "스마트 빌딩과 스마트 시티 사이의 지능형 공간",
+    "originalTitle": "Inteligentna przestrzeń – między smart building a smart city",
+    "authors": [
+      "Matylda Wdowiarz-Bilska"
+    ],
+    "year": 2017,
+    "journal": "Środowisko Mieszkaniowe",
+    "doi": "10.4467/25438700sm.17.022.7612",
+    "sourceUrl": "https://doi.org/10.4467/25438700sm.17.022.7612",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "스마트빌딩",
+      "스마트시티",
+      "지능형공간",
+      "도시계획",
+      "학술논문"
+    ],
+    "summary": "Matylda Wdowiarz-Bilska가 2017년 Środowisko Mieszkaniowe 저널에 발표한 본 논문은, 개별 건축물 단위의 스마트 빌딩과 광범위한 도시 단위의 스마트 시티를 연결하는 중간 단계로서 '지능형 공간(Intelligent Space)'의 개념과 건축적 역할을 고찰한 건축·시설관리 분야 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2017-inteligentna-przestrzen-mie-dzy-smart-building-a.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1990-image-analysis-and-computer-vision-1989",
     "verified": true,
     "category": "인공지능",
