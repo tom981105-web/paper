@@ -1,5 +1,158 @@
 [
   {
+    "id": "paper-1994-activity-dependent-neural-network-development-2",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 활동 의존적 신경망 발달을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "활동 의존적 신경망 발달",
+    "originalTitle": "Activity-dependent neural network development",
+    "authors": [
+      "A van Ooyen"
+    ],
+    "year": 1994,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x/5/3/006",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x/5/3/006",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "인공신경망",
+      "신경망발달",
+      "활동의존적",
+      "A van Ooyen",
+      "학술논문"
+    ],
+    "summary": "A van Ooyen이 1994년 Network: Computation in Neural Systems 저널에 발표한 본 논문은, 생물학적 뇌 신경망이 외부 자극이나 내부 활동에 따라 어떻게 스스로 연결을 형성하고 발달하는지 그 원리를 인공신경망 모델을 통해 탐구한 인공지능 및 신경과학 융합 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1994-activity-dependent-neural-network-development-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-transformer-differential-protection-applications-of-the-applicant",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Applied Mechanics and Materials 저널에 게재된 전자식 변압기를 활용한 변압기 차동 보호 응용을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전자식 변압기 기반 차동 보호",
+    "originalTitle": "Transformer Differential Protection Applications of the Applicant Electronic Current Transformer",
+    "authors": [
+      "Li Xue Mei"
+    ],
+    "year": 2014,
+    "journal": "Applied Mechanics and Materials",
+    "doi": "10.4028/www.scientific.net/amm.644-650.3818",
+    "sourceUrl": "https://doi.org/10.4028/www.scientific.net/amm.644-650.3818",
+    "keywords": [
+      "전기",
+      "변압기보호",
+      "차동보호",
+      "전자식변류기",
+      "전력계통",
+      "Li Xue Mei",
+      "학술논문"
+    ],
+    "summary": "Li Xue Mei가 2014년 Applied Mechanics and Materials 저널에 발표한 본 논문은, 기존 전자기식 변류기의 한계를 극복하기 위해 전자식 변류기를 도입하고, 이를 활용하여 변압기 차동 보호 시스템의 하드웨어 인터페이스와 비율차동곡선을 개선하는 등 계전기 보호 성능을 높인 전기 공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2014-transformer-differential-protection-applications-of-the-applicant.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-nao-humanoid-robot-analysis-of-calibration-techniques",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 NAO 휴머노이드 로봇의 스케치 드로잉 캘리브레이션 기법 분석을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "NAO 휴머노이드 로봇 스케치 드로잉 캘리브레이션 분석",
+    "originalTitle": "NAO humanoid robot: Analysis of calibration techniques for robot sketch drawing",
+    "authors": [
+      "Avinash Kumar Singh",
+      "G.C. Nandi"
+    ],
+    "year": 2016,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/j.robot.2016.01.009",
+    "sourceUrl": "https://doi.org/10.1016/j.robot.2016.01.009",
+    "keywords": [
+      "로봇·자동화",
+      "휴머노이드로봇",
+      "NAO로봇",
+      "캘리브레이션",
+      "로봇스케치",
+      "Avinash Kumar Singh",
+      "G.C. Nandi",
+      "학술논문"
+    ],
+    "summary": "Avinash Kumar Singh와 G.C. Nandi가 2016년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 인간형 로봇인 NAO가 정교한 스케치 드로잉 작업을 수행할 때 발생하는 오차를 줄이기 위해 다양한 캘리브레이션 기법을 분석하고 비교한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2016-nao-humanoid-robot-analysis-of-calibration-techniques.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2000-wind-energy-literature-survey-no-1",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 문헌 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제1보",
+    "originalTitle": "Wind Energy literature survey no.1",
+    "authors": [
+      "Martin Hird"
+    ],
+    "year": 2000,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.38",
+    "sourceUrl": "https://doi.org/10.1002/we.38",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "연구동향",
+      "전력변환",
+      "Martin Hird",
+      "학술논문"
+    ],
+    "summary": "Martin Hird가 2000년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지 연구자들이 최신 연구 동향을 파악할 수 있도록 다양한 전력 및 공학 분야 저널에 발표된 관련 논문 목록을 체계적으로 수집하고 정리한 에너지·환경 분야의 서베이 문헌이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2000-wind-energy-literature-survey-no-1.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-integrating-agent-based-human-behavior-simulation-with",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D85A38",
+    "title": "International Journal of Engineering and Technology 저널에 게재된 에이전트 기반 인간 행동 시뮬레이션과 빌딩 정보 모델링(BIM)의 통합을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "BIM과 에이전트 기반 인간 행동 시뮬레이션 통합",
+    "originalTitle": "Integrating Agent-Based Human Behavior Simulation with Building Information Modeling for Building Design",
+    "authors": [
+      "Jack C. P. Cheng",
+      "Vincent J. L. Vincent J. L."
+    ],
+    "year": 2013,
+    "journal": "International Journal of Engineering and Technology",
+    "doi": "10.7763/ijet.2013.v5.600",
+    "sourceUrl": "https://doi.org/10.7763/ijet.2013.v5.600",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "에이전트시뮬레이션",
+      "인간행동",
+      "건축설계",
+      "Jack C. P. Cheng",
+      "학술논문"
+    ],
+    "summary": "Jack C. P. Cheng과 Vincent J. L.이 2013년 International Journal of Engineering and Technology에 발표한 본 논문은, 가상의 건축 공간 안에서 사람들이 어떻게 움직이고 행동하는지 예측하는 에이전트 기반 시뮬레이션 기술을 건물의 3차원 정보 모델(BIM)과 결합하여 더욱 안전하고 효율적인 건축 설계를 수행하는 방안을 제시한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-integrating-agent-based-human-behavior-simulation-with.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1993-artificial-intelligence-in-perspective-a-retrospective-on",
     "verified": true,
     "category": "인공지능",
