@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-1988-image-analysis-and-computer-vision-1987",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 1987년도 이미지 분석 및 컴퓨터 비전 연구 동향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "1987년도 이미지 분석 및 컴퓨터 비전 동향",
+    "originalTitle": "Image analysis and computer vision: 1987",
+    "authors": [
+      "Azriel Rosenfeld"
+    ],
+    "year": 1988,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/0734-189x(88)90166-1",
+    "sourceUrl": "https://doi.org/10.1016/0734-189x(88)90166-1",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이미지분석",
+      "영상처리",
+      "패턴인식",
+      "인공지능역사",
+      "학술논문"
+    ],
+    "summary": "Azriel Rosenfeld가 1988년 Computer Vision, Graphics, and Image Processing 저널에 발표한 본 논문은, 1987년 한 해 동안 전 세계적으로 발표된 이미지 분석 및 컴퓨터 비전 분야의 주요 연구 성과와 기술 발전 동향을 종합적으로 정리한 인공지능 분야의 문헌 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1988-image-analysis-and-computer-vision-1987.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-research-on-microgrid-information-engineering-with-probabilistic",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Advanced Materials Research 저널에 게재된 확률적 통계 기반 마이크로그리드 에너지 저장장치 최적 용량 산정 방법을 다룬 전기 분야 학술 논문",
+    "shortTitle": "확률적 통계 기반 마이크로그리드 에너지 저장장치 최적 용량 산정",
+    "originalTitle": "Research on Microgrid Information Engineering with Probabilistic Optimal Capacity of Energy Storage in Microgrid",
+    "authors": [
+      "Xiao Bo Ma"
+    ],
+    "year": 2014,
+    "journal": "Advanced Materials Research",
+    "doi": "10.4028/www.scientific.net/amr.978.174",
+    "sourceUrl": "https://doi.org/10.4028/www.scientific.net/amr.978.174",
+    "keywords": [
+      "전기",
+      "마이크로그리드",
+      "에너지저장장치",
+      "최적용량",
+      "확률방법",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "Xiao Bo Ma가 2014년 Advanced Materials Research 저널에 발표한 본 논문은, 독립 운전 상태의 마이크로그리드에서 풍력 및 태양광 등 변동성 큰 신재생에너지의 안정적인 수용을 위해 통계적 확률 밀도 함수를 활용해 에너지 저장장치의 최적 충·방전 전력과 용량을 산정하는 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2014-research-on-microgrid-information-engineering-with-probabilistic.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-mobile-robot-navigation-based-on-circle-recognition",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Electrical Engineering 저널에 게재된 원형 표식을 이용한 모바일 로봇 내비게이션 방법을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "원형 표식 기반 모바일 로봇 내비게이션",
+    "originalTitle": "Mobile Robot Navigation Based on Circle Recognition",
+    "authors": [
+      "Peter Pásztó",
+      "Peter Hubinský"
+    ],
+    "year": 2013,
+    "journal": "Journal of Electrical Engineering",
+    "doi": "10.2478/jee-2013-0012",
+    "sourceUrl": "https://doi.org/10.2478/jee-2013-0012",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로봇",
+      "내비게이션",
+      "원형인식",
+      "컴퓨터비전",
+      "경로계획",
+      "학술논문"
+    ],
+    "summary": "Peter Pásztó와 Peter Hubinský가 2013년 Journal of Electrical Engineering에 발표한 본 논문은, 단일 카메라와 색상이 지정된 원형 표식을 활용하여 모바일 로봇의 실시간 위치 추정 및 경로 주행을 수행하는 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-mobile-robot-navigation-based-on-circle-recognition.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1999-renewable-energy-trading-experience",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#4A7C59",
+    "title": "Renewable Energy 저널에 게재된 신재생에너지 거래 경험을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "신재생에너지 거래 경험 분석",
+    "originalTitle": "Renewable energy trading experience",
+    "authors": [
+      "Martin Alder"
+    ],
+    "year": 1999,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(98)00289-4",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(98)00289-4",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "에너지거래",
+      "전력시장",
+      "청정에너지",
+      "에너지정책",
+      "학술논문"
+    ],
+    "summary": "Martin Alder가 1999년 Renewable Energy 저널에 발표한 본 논문은, 초기 신재생에너지 시장에서 이루어진 전력 거래의 실제 사례와 경험을 토대로 시장 도입 과정의 과제와 시사점을 고찰한 에너지 및 환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1999-renewable-energy-trading-experience.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-the-application-trend-of-smart-sensing-technology",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D2691E",
+    "title": "International Journal of Automation and Smart Technology 저널에 게재된 스마트 센싱 기술의 건축 및 주거 적용 동향을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "스마트 센싱 기술의 건축 및 주거 적용 동향",
+    "originalTitle": "The Application Trend of Smart Sensing Technology in Home of Building: An Example of a Green and Smart Building for the Seniors Citizens Offered by Farglory Land Development",
+    "authors": [
+      "Meng-Hsien Hsieh"
+    ],
+    "year": 2011,
+    "journal": "International Journal of Automation and Smart Technology",
+    "doi": "10.5875/ausmt.v1i1.95",
+    "sourceUrl": "https://doi.org/10.5875/ausmt.v1i1.95",
+    "keywords": [
+      "건축·시설관리",
+      "스마트센싱",
+      "스마트빌딩",
+      "녹색건축",
+      "시니어주거",
+      "센서융합",
+      "학술논문"
+    ],
+    "summary": "Meng-Hsien Hsieh가 2011년 International Journal of Automation and Smart Technology에 발표한 본 논문은, 스마트 빌딩 내에서 에너지 절약과 쾌적성, 보안 및 방재, 헬스케어를 구현하기 위한 스마트 센싱 기술의 응용 동향과 시니어 친화형 주거 프로젝트 사례를 다룬 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2011-the-application-trend-of-smart-sensing-technology.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-whose-morality-do-they-speak-unraveling-cultural",
     "verified": true,
     "category": "인공지능",
