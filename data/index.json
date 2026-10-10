@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-2025-precise-length-control-for-large-language-models",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Natural Language Processing Journal 저널에 게재된 대규모 언어 모델을 위한 정밀 길이 제어 기법을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "대규모 언어 모델의 정밀 길이 제어",
+    "originalTitle": "Precise length control for large language models",
+    "authors": [
+      "Bradley Butcher",
+      "Michael O’Keefe",
+      "James Titchener"
+    ],
+    "year": 2025,
+    "journal": "Natural Language Processing Journal",
+    "doi": "10.1016/j.nlp.2025.100143",
+    "sourceUrl": "https://doi.org/10.1016/j.nlp.2025.100143",
+    "keywords": [
+      "인공지능",
+      "대규모언어모델",
+      "LLM",
+      "길이제어",
+      "텍스트생성",
+      "자연어처리",
+      "학술논문"
+    ],
+    "summary": "Bradley Butcher, Michael O’Keefe, James Titchener가 2025년 Natural Language Processing Journal에 발표한 본 논문은, 대규모 언어 모델(LLM)이 생성하는 텍스트의 길이를 사용자의 요구에 맞춰 정밀하게 제어하는 방법론을 탐구한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2025-precise-length-control-for-large-language-models.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1994-dynamic-phenomena-in-island-power-systems",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Machines & Power Systems 저널에 게재된 독립 전력 계통에서의 동적 현상을 다룬 전기 분야 학술 논문",
+    "shortTitle": "독립 전력 계통의 동적 현상",
+    "originalTitle": "DYNAMIC PHENOMENA IN ISLAND POWER SYSTEMS",
+    "authors": [
+      "DANIEL KOTTICK"
+    ],
+    "year": 1994,
+    "journal": "Electric Machines & Power Systems",
+    "doi": "10.1080/07313569408955581",
+    "sourceUrl": "https://doi.org/10.1080/07313569408955581",
+    "keywords": [
+      "전기",
+      "독립전력계통",
+      "아일랜드계통",
+      "동적현상",
+      "전력계통안정도",
+      "전력공학",
+      "학술논문"
+    ],
+    "summary": "Daniel Kottick이 1994년 Electric Machines & Power Systems 저널에 발표한 본 논문은, 대규모 전력망과 연결되지 않은 채 고립되어 운영되는 독립 전력 계통(Island Power Systems)에서 발생하는 다양한 동적 거동과 안정도 특성을 분석한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1994-dynamic-phenomena-in-island-power-systems.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-inspection-application-in-an-industrial-environment-with",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Automation 저널에 게재된 협동로봇을 활용한 산업 환경 내 자동화 품질 검사 솔루션을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "협동로봇을 활용한 산업용 자동 품질 검사",
+    "originalTitle": "Inspection Application in an Industrial Environment with Collaborative Robots",
+    "authors": [
+      "Paulo Magalhaes",
+      "Nuno Ferreira"
+    ],
+    "year": 2022,
+    "journal": "Automation",
+    "doi": "10.3390/automation3020013",
+    "sourceUrl": "https://doi.org/10.3390/automation3020013",
+    "keywords": [
+      "로봇·자동화",
+      "협동로봇",
+      "품질검사",
+      "머신비전",
+      "스마트팩토리",
+      "제조공정",
+      "학술논문"
+    ],
+    "summary": "Paulo Magalhaes와 Nuno Ferreira가 2022년 Automation 저널에 발표한 본 논문은, 산업용 비전 시스템과 협동로봇을 결합하여 제조 현장에서 패널의 표면 결함을 고정밀로 검사하고 품질 불량을 줄이는 자동화 솔루션의 성능을 평가한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2022-inspection-application-in-an-industrial-environment-with.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-renewable-energy-energy-efficiency-policy-and-the",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 신재생에너지, 에너지 효율, 정책 및 환경적 연계성을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "신재생에너지와 에너지 효율 및 정책",
+    "originalTitle": "Renewable energy—Energy efficiency, policy and the environment",
+    "authors": [],
+    "year": 1998,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(98)90036-2",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(98)90036-2",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "에너지효율",
+      "환경정책",
+      "지속가능성",
+      "에너지정책",
+      "학술논문"
+    ],
+    "summary": "1998년 Renewable Energy 저널에 발표된 본 논문은, 신재생에너지의 보급 확대와 에너지 효율 향상이 환경 보호 및 관련 정부 정책과 어떻게 유기적으로 맞물려 있는지 종합적으로 고찰한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1998-renewable-energy-energy-efficiency-policy-and-the.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-building-information-modeling",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D35400",
+    "title": "International Journal of 3-D Information Modeling 저널에 게재된 2016년 공공 부문 BIM 의무화에 따른 수준별 요구사항과 영국 건설 산업의 준비 상태를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "BIM Level 2 구현 요구사항과 산업계 준비도 평가",
+    "originalTitle": "Building Information Modeling",
+    "authors": [
+      "Bimal Kumar"
+    ],
+    "year": 2012,
+    "journal": "International Journal of 3-D Information Modeling",
+    "doi": "10.4018/ij3dim.2012100101",
+    "sourceUrl": "https://doi.org/10.4018/ij3dim.2012100101",
+    "keywords": [
+      "건축·시설관리",
+      "BIM",
+      "빌딩정보모델링",
+      "Level2",
+      "건설산업",
+      "영국정부요구사항",
+      "학술논문"
+    ],
+    "summary": "Bimal Kumar가 2012년 International Journal of 3-D Information Modeling 저널에 발표한 본 논문은, 2016년 영국 공공 부문 프로젝트의 BIM 의무 도입에 앞서 Level 2 구현을 위한 요구사항을 분석하고, 영국 건설 산업 전체의 준비 상태와 향후 해결 과제를 진단한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-building-information-modeling.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-bibliometric-analysis-of-natural-language-processing-using",
     "verified": true,
     "category": "인공지능",
