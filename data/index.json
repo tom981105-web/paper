@@ -1,5 +1,164 @@
 [
   {
+    "id": "paper-1988-machine-learning-as-an-experimental-science",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 기계학습을 실험 과학으로 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "기계학습은 실험 과학이다",
+    "originalTitle": "Machine Learning as an Experimental Science",
+    "authors": [
+      "Pat Langley"
+    ],
+    "year": 1988,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022623814640",
+    "sourceUrl": "https://doi.org/10.1023/a:1022623814640",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "실험과학",
+      "경험적연구",
+      "알고리즘평가",
+      "Pat Langley",
+      "학술논문"
+    ],
+    "summary": "Pat Langley가 1988년 Machine Learning 저널에 발표한 본 논문은, 당시 이론 중심적이거나 단편적인 시연에 치우쳐 있던 기계학습 연구를 체계적인 가설 설정과 엄밀한 실증적 실험을 거치는 '실험 과학'으로 정립해야 한다는 방법론적 주장을 담은 인공지능 분야의 중요 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1988-machine-learning-as-an-experimental-science.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-fuzzy-logiccontrol-of-differential-protection-for-large",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "i-manager's Journal on Circuits and Systems 저널에 게재된 퍼지 논리를 이용한 대형 전력 변압기 차동 보호 제어를 다룬 전기 분야 학술 논문",
+    "shortTitle": "퍼지 논리 기반 전력 변압기 차동 보호 제어",
+    "originalTitle": "Fuzzy Logiccontrol Of Differential Protection For Large Power Transformer",
+    "authors": [
+      "S.Padmini"
+    ],
+    "year": 2013,
+    "journal": "i-manager's Journal on Circuits and Systems",
+    "doi": "10.26634/jcir.1.1.2194",
+    "sourceUrl": "https://doi.org/10.26634/jcir.1.1.2194",
+    "keywords": [
+      "전기",
+      "전력변압기",
+      "차동보호",
+      "퍼지논리",
+      "클라크변환",
+      "돌입전류",
+      "S.Padmini",
+      "학술논문"
+    ],
+    "summary": "S.Padmini가 2013년 i-manager's Journal on Circuits and Systems 저널에 발표한 본 논문은, 대형 전력 변압기의 차동 보호 시스템 성능을 향상시키기 위해 퍼지 논리와 클라크 변환을 결합한 새로운 알고리즘을 제안하여 내부 고장과 자화 돌입 전류를 효과적으로 구별한 전기 공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-fuzzy-logiccontrol-of-differential-protection-for-large.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-the-agilo-robot-soccer-team-experience-based",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Autonomous Robots 저널에 게재된 경험 기반 학습과 확률적 추론을 활용한 자율 로봇 축구 팀 AGILO의 제어 시스템을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "AGILO 로봇 축구 팀의 자율 제어 시스템",
+    "originalTitle": "The AGILO Robot Soccer Team—Experience-Based Learning and Probabilistic Reasoning in Autonomous Robot Control",
+    "authors": [
+      "Michael Beetz",
+      "Thorsten Schmitt",
+      "Robert Hanek",
+      "Sebastian Buck",
+      "Freek Stulp",
+      "Derik Schröter",
+      "Bernd Radig"
+    ],
+    "year": 2004,
+    "journal": "Autonomous Robots",
+    "doi": "10.1023/b:auro.0000032938.72058.61",
+    "sourceUrl": "https://doi.org/10.1023/b:auro.0000032938.72058.61",
+    "keywords": [
+      "로봇·자동화",
+      "로봇축구",
+      "경험기반학습",
+      "확률적추론",
+      "자율로봇제어",
+      "Michael Beetz",
+      "학술논문"
+    ],
+    "summary": "Michael Beetz 등 7인의 저자가 2004년 Autonomous Robots 저널에 발표한 본 논문은, 로봇 축구 환경에서 자율 이동 로봇이 경험을 통해 스스로 학습하고 불확실한 상황을 확률적으로 추론하여 효과적으로 경기를 수행할 수 있는 제어 아키텍처를 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2004-the-agilo-robot-soccer-team-experience-based.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-capability-study-of-dry-gravity-energy-storage",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Journal of Energy Storage 저널에 게재된 건식 중력 에너지 저장 시스템의 성능 및 역량 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "건식 중력 에너지 저장 시스템 역량 분석",
+    "originalTitle": "Capability study of dry gravity energy storage",
+    "authors": [
+      "C.D. Botha",
+      "M.J. Kamper"
+    ],
+    "year": 2019,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2019.03.015",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2019.03.015",
+    "keywords": [
+      "에너지·환경",
+      "중력에너지저장",
+      "에너지저장시스템",
+      "건식중력",
+      "신재생에너지",
+      "C.D. Botha",
+      "M.J. Kamper",
+      "학술논문"
+    ],
+    "summary": "C.D. Botha와 M.J. Kamper가 2019년 Journal of Energy Storage 저널에 발표한 본 논문은, 물을 사용하지 않고 고체 추이나 거대한 질량을 이용해 위치에너지를 저장하고 전력을 생산하는 건식 중력 에너지 저장 시스템의 기술적 역량과 잠재력을 분석한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2019-capability-study-of-dry-gravity-energy-storage.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-net-zero-energy-technology-for-building-retrofit",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D87093",
+    "title": "HVAC&R Research 저널에 게재된 건물 개보수를 위한 제로 에너지 기술을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 개보수를 위한 제로 에너지 기술",
+    "originalTitle": "Net-zero-energy technology for building retrofit",
+    "authors": [
+      "Reinhard Radermacher"
+    ],
+    "year": 2011,
+    "journal": "HVAC&R Research",
+    "doi": "10.1080/10789669.2011.558460",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2011.558460",
+    "keywords": [
+      "건축·시설관리",
+      "제로에너지",
+      "건물개보수",
+      "HVAC",
+      "에너지효율",
+      "Reinhard Radermacher",
+      "학술논문"
+    ],
+    "summary": "Reinhard Radermacher가 2011년 HVAC&R Research 저널에 발표한 본 논문은, 기존 건물의 에너지 소비를 극단적으로 줄이고 신재생에너지를 활용하여 건물 운영 과정에서 발생하는 에너지 소비를 상쇄하는 제로 에너지 개보수 기술의 개념과 방향성을 다룬 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-net-zero-energy-technology-for-building-retrofit.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-design-and-implementation-of-a-colour-vision",
     "verified": true,
     "category": "인공지능",
