@@ -1,5 +1,158 @@
 [
   {
+    "id": "paper-1997-image-analysis-and-computer-vision-1996",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision and Image Understanding 저널에 게재된 1996년 컴퓨터 비전 및 이미지 분석 연구 동향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "1996년 컴퓨터 비전과 이미지 분석 연구 동향",
+    "originalTitle": "Image Analysis and Computer Vision: 1996",
+    "authors": [
+      "Azriel Rosenfeld"
+    ],
+    "year": 1997,
+    "journal": "Computer Vision and Image Understanding",
+    "doi": "10.1006/cviu.1997.0602",
+    "sourceUrl": "https://doi.org/10.1006/cviu.1997.0602",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이미지분석",
+      "연구동향",
+      "영상처리",
+      "Azriel Rosenfeld",
+      "학술논문"
+    ],
+    "summary": "Azriel Rosenfeld가 1997년 Computer Vision and Image Understanding 저널에 발표한 본 논문은, 1996년 한 해 동안 전 세계적으로 발표된 컴퓨터 비전과 이미지 분석 분야의 방대한 학술 문헌과 연구 성과를 체계적으로 정리하고 분석한 인공지능 분야의 고전적 문헌 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1997-image-analysis-and-computer-vision-1996.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1931-percentage-differential-transformer-protection",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electrical Engineering 저널에 게재된 비율차동 변압기 보호를 다룬 전기 분야 학술 논문",
+    "shortTitle": "비율차동 변압기 보호",
+    "originalTitle": "Percentage-differential transformer protection",
+    "authors": [
+      "R. E. Cordray"
+    ],
+    "year": 1931,
+    "journal": "Electrical Engineering",
+    "doi": "10.1109/ee.1931.6430259",
+    "sourceUrl": "https://doi.org/10.1109/ee.1931.6430259",
+    "keywords": [
+      "전기",
+      "변압기보호",
+      "비율차동계전기",
+      "전력계통",
+      "과전류",
+      "R. E. Cordray",
+      "학술논문"
+    ],
+    "summary": "R. E. Cordray가 1931년 Electrical Engineering 저널에 발표한 본 논문은, 전력 변압기의 내부 고장과 외부 고장 시 발생하는 오동작 문제를 해결하기 위해 도입된 비율차동 보호(Percentage-differential protection) 방식의 원리와 설계 개념을 다룬 전기 공학 분야의 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1931-percentage-differential-transformer-protection.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-robust-optimal-tracking-control-for-wheel-mobile",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Robotics and Control (JRC) 저널에 게재된 강화학습 기반 바퀴 이동 로봇 강건 최적 추종 제어를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "강화학습 기반 바퀴 이동 로봇 강건 최적 추종 제어",
+    "originalTitle": "Robust Optimal Tracking Control for Wheel Mobile Robot via Reinforcement Learning",
+    "authors": [
+      "Ngoc Trung Dang",
+      "Duc Trinh Duong"
+    ],
+    "year": 2025,
+    "journal": "Journal of Robotics and Control (JRC)",
+    "doi": "10.18196/jrc.v6i3.26659",
+    "sourceUrl": "https://doi.org/10.18196/jrc.v6i3.26659",
+    "keywords": [
+      "로봇·자동화",
+      "바퀴이동로봇",
+      "강화학습",
+      "강건최적제어",
+      "HJB방정식",
+      "경로추종",
+      "Ngoc Trung Dang",
+      "학술논문"
+    ],
+    "summary": "Ngoc Trung Dang과 Duc Trinh Duong이 2025년 Journal of Robotics and Control (JRC)에 발표한 본 논문은, 동역학 모델을 정확히 알 수 없는 비홀로노믹 바퀴 이동 로봇(WMR)이 불확실성과 입력 외란 속에서도 최적의 경로를 추종할 수 있도록 입력-출력 시스템 데이터와 강화학습 알고리즘을 활용해 HJB 방정식을 해결하는 강건 최적 제어 기법을 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2025-robust-optimal-tracking-control-for-wheel-mobile.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-i-wind-energy-i-literature-survey-no-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A7B4C",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지를 제외한 관련 학술 문헌 조사 보고를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 관련 문헌 조사 제28호",
+    "originalTitle": "Wind Energy literature survey no. 28",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2013,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1604",
+    "sourceUrl": "https://doi.org/10.1002/we.1604",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "학술동향",
+      "재생에너지",
+      "Lars Christian Henriksen",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 2013년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지를 직접 다루지 않는 다양한 인접 학술지에서 출판된 풍력 관련 유관 논문들을 수집하여 독자들에게 체계적으로 분류 및 제공한 에너지·환경 분야의 문헌 조사(Literature Survey) 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-i-wind-energy-i-literature-survey-no-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-i-editorial-i-computational-fluid-dynamics-cfd",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A2B",
+    "title": "HVAC&R Research 저널에 게재된 건물 내부 공기 흐름 시뮬레이션의 전산유체역학(CFD) 과제를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "건물 공기 흐름 시뮬레이션의 CFD 과제",
+    "originalTitle": "Editorial : Computational Fluid Dynamics (CFD) Challenges in Simulating Building Airflows",
+    "authors": [
+      "Jelena Srebric"
+    ],
+    "year": 2010,
+    "journal": "HVAC&R Research",
+    "doi": "10.1080/10789669.2010.10390930",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2010.10390930",
+    "keywords": [
+      "건축·시설관리",
+      "전산유체역학",
+      "CFD",
+      "건물공기흐름",
+      "HVAC",
+      "실내환경",
+      "Jelena Srebric",
+      "학술논문"
+    ],
+    "summary": "Jelena Srebric이 2010년 HVAC&R Research 저널에 발표한 본 논문은, 건물 내부의 복잡한 공기 흐름과 열환경을 시뮬레이션할 때 전산유체역학(CFD)이 직면하는 기술적 한계와 과제를 진단하고 향후 연구 방향을 제시한 건축 및 설비 분야의 편집 에세이 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2010-i-editorial-i-computational-fluid-dynamics-cfd.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1988-machine-learning-as-an-experimental-science",
     "verified": true,
     "category": "인공지능",
