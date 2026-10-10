@@ -1,5 +1,154 @@
 [
   {
+    "id": "paper-2026-employing-large-language-models-in-swahili-a",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Natural Language Processing Journal 저널에 게재된 자원 희소 언어인 스와힐리어에서의 대규모 언어 모델 활용 방안을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "스와힐리어에서의 대규모 언어 모델 활용",
+    "originalTitle": "Employing large language models in Swahili, a low-resource language",
+    "authors": [
+      "Dietram Efrem Mgeni"
+    ],
+    "year": 2026,
+    "journal": "Natural Language Processing Journal",
+    "doi": "10.1016/j.nlp.2026.100209",
+    "sourceUrl": "https://doi.org/10.1016/j.nlp.2026.100209",
+    "keywords": [
+      "인공지능",
+      "대규모언어모델",
+      "스와힐리어",
+      "저자원언어",
+      "자연어처리기계",
+      "LLM",
+      "학술논문"
+    ],
+    "summary": "Dietram Efrem Mgeni가 2026년 Natural Language Processing Journal에 발표한 본 논문은, 상대적으로 학습 데이터가 부족한 저자원 언어인 스와힐리어 환경에서 대규모 언어 모델(LLM)을 효과적으로 도입하고 활용하기 위한 방안을 탐구한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2026-employing-large-language-models-in-swahili-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1986-power-transmission-through-ring-transmission-systems",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 링 형태 전력 송전 시스템의 전력 전송 특성을 다룬 전기 분야 학술 논문",
+    "shortTitle": "링 송전 시스템을 통한 전력 전송",
+    "originalTitle": "Power transmission through ring transmission systems",
+    "authors": [
+      "M. Hamed"
+    ],
+    "year": 1986,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/0378-7796(86)90004-0",
+    "sourceUrl": "https://doi.org/10.1016/0378-7796(86)90004-0",
+    "keywords": [
+      "전기",
+      "전력송전",
+      "링송전시스템",
+      "전력계통",
+      "송전망",
+      "전력공학",
+      "학술논문"
+    ],
+    "summary": "M. Hamed가 1986년 Electric Power Systems Research 저널에 발표한 본 논문은, 고리(Ring) 구조를 가진 전력 송전 시스템에서 전력이 안정적으로 전송되고 분배되는 특성을 분석한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1986-power-transmission-through-ring-transmission-systems.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1987-robotics-in-france",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 1980년대 프랑스의 로봇 공학 및 자동화 기술 발전 현황을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "1980년대 프랑스의 로봇 공학 및 자동화 현황",
+    "originalTitle": "Robotics in France",
+    "authors": [
+      "J. Chabrol"
+    ],
+    "year": 1987,
+    "journal": "Robotics",
+    "doi": "10.1016/0167-8493(87)90038-6",
+    "sourceUrl": "https://doi.org/10.1016/0167-8493(87)90038-6",
+    "keywords": [
+      "로봇·자동화",
+      "프랑스로봇",
+      "산업용로봇",
+      "자동화기술",
+      "로봇역사",
+      "학술논문"
+    ],
+    "summary": "J. Chabrol이 1987년 Robotics 저널에 발표한 본 논문은, 1980년대 당시 프랑스 내에서의 로봇 공학 연구, 산업용 로봇 보급, 그리고 국가적 자동화 기술의 발전 동향을 종합적으로 조망한 로봇·자동화 분야의 문헌 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1987-robotics-in-france.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-renewable-energy-focus-changes",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A8C4B",
+    "title": "Renewable Energy Focus 저널에 게재된 신재생에너지 분야의 패러다임과 초점 변화를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "신재생에너지 분야의 초점 변화",
+    "originalTitle": "Renewable Energy Focus changes",
+    "authors": [
+      "David Hopwood"
+    ],
+    "year": 2013,
+    "journal": "Renewable Energy Focus",
+    "doi": "10.1016/s1755-0084(13)70081-4",
+    "sourceUrl": "https://doi.org/10.1016/s1755-0084(13)70081-4",
+    "keywords": [
+      "에너지환경",
+      "신재생에너지",
+      "에너지정책",
+      "기술동향",
+      "지속가능성",
+      "에너지산업",
+      "학술논문"
+    ],
+    "summary": "David Hopwood가 2013년 Renewable Energy Focus 저널에 발표한 본 논문은, 전 세계적으로 급변하는 에너지 환경 속에서 신재생에너지 연구와 산업의 핵심 초점이 어떻게 진화하고 이동해왔는지를 다룬 에너지·환경 분야의 문헌 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-renewable-energy-focus-changes.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1985-facility-management",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D4763A",
+    "title": "Performance + Instruction 저널에 게재된 시설관리의 개념과 역할을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "시설관리(Facility Management)의 개념과 역할",
+    "originalTitle": "Facility management",
+    "authors": [
+      "Mado J. Kreutz"
+    ],
+    "year": 1985,
+    "journal": "Performance + Instruction",
+    "doi": "10.1002/pfi.4150240913",
+    "sourceUrl": "https://doi.org/10.1002/pfi.4150240913",
+    "keywords": [
+      "건축·시설관리",
+      "시설관리",
+      "FM",
+      "공간운영",
+      "업무환경",
+      "조직생산성",
+      "학술논문"
+    ],
+    "summary": "Mado J. Kreutz가 1985년 Performance + Instruction 저널에 발표한 본 논문은, 기업이나 조직에서 물리적인 공간과 시설을 효율적으로 관리하여 업무 수행 능력을 극대화하는 시설관리(Facility Management)의 핵심 개념과 역할을 다룬 건축 및 경영·시설관리 분야의 문헌 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1985-facility-management.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1988-image-analysis-and-computer-vision-1987",
     "verified": true,
     "category": "인공지능",
