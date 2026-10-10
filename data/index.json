@@ -1,5 +1,154 @@
 [
   {
+    "id": "paper-2025-bibliometric-analysis-of-natural-language-processing-using",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Natural Language Processing Journal 저널에 게재된 CiteSpace와 VOSviewer를 활용한 자연어 처리 분야 계량정보학적 분석을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "CiteSpace와 VOSviewer를 활용한 자연어 처리 계량분석",
+    "originalTitle": "Bibliometric analysis of natural language processing using CiteSpace and VOSviewer",
+    "authors": [
+      "Xiuming Chen",
+      "Wenjie Tian",
+      "Haoyun Fang"
+    ],
+    "year": 2025,
+    "journal": "Natural Language Processing Journal",
+    "doi": "10.1016/j.nlp.2024.100123",
+    "sourceUrl": "https://doi.org/10.1016/j.nlp.2024.100123",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "계량정보학",
+      "CiteSpace",
+      "VOSviewer",
+      "텍스트마이닝",
+      "학술논문"
+    ],
+    "summary": "Xiuming Chen, Wenjie Tian, Haoyun Fang이 2025년 Natural Language Processing Journal에 발표한 본 논문은, CiteSpace와 VOSviewer 도구를 활용하여 자연어 처리(NLP) 분야의 연구 동향, 주요 키워드, 그리고 학술적 네트워크 구조를 계량정보학적으로 분석한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2025-bibliometric-analysis-of-natural-language-processing-using.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1991-extended-security-enhancement-algorithm-for-power-systems",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 전력 시스템 보안 향상을 위한 확장 알고리즘을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 보안 향상 확장 알고리즘",
+    "originalTitle": "Extended security enhancement algorithm for power systems",
+    "authors": [
+      "A.O. Ekwue"
+    ],
+    "year": 1991,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/0378-7796(91)90058-u",
+    "sourceUrl": "https://doi.org/10.1016/0378-7796(91)90058-u",
+    "keywords": [
+      "전기",
+      "전력계통",
+      "전력보안",
+      "보안향상",
+      "알고리즘",
+      "전력공학",
+      "학술논문"
+    ],
+    "summary": "A.O. Ekwue가 1991년 Electric Power Systems Research 저널에 발표한 본 논문은, 전력 계통의 예기치 않은 사고나 과부하 상황에서도 시스템이 안정적으로 유지되도록 돕는 확장된 전력 보안 향상 알고리즘을 다룬 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1991-extended-security-enhancement-algorithm-for-power-systems.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1985-seminar-on-industrial-robotics-86-international-experience",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 1980년대 국제 산업용 로봇의 경험, 기술 발전 및 응용 사례를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "산업용 로봇 '86 국제 경험과 응용",
+    "originalTitle": "Seminar on Industrial Robotics '86: international Experience, Developments and Applications",
+    "authors": [],
+    "year": 1985,
+    "journal": "Robotics",
+    "doi": "10.1016/s0167-8493(85)80027-9",
+    "sourceUrl": "https://doi.org/10.1016/s0167-8493(85)80027-9",
+    "keywords": [
+      "로봇·자동화",
+      "산업용로봇",
+      "국제경험",
+      "로봇응용",
+      "자동화기술",
+      "로봇역사",
+      "학술논문"
+    ],
+    "summary": "1985년 Robotics 저널에 발표된 본 논문은, 1980년대 중반 당시 국제적으로 축적된 산업용 로봇의 현장 운용 경험과 기술적 발전 양상, 그리고 다양한 제조 공정에서의 응용 사례를 종합적으로 조망한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1985-seminar-on-industrial-robotics-86-international-experience.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-wind-energy-literature-survey-no-32",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 분야의 최신 연구 동향과 문헌 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 조사 제32보",
+    "originalTitle": "Wind energy literature survey no. 32",
+    "authors": [
+      "Lars Christian Henriksen"
+    ],
+    "year": 2014,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1732",
+    "sourceUrl": "https://doi.org/10.1002/we.1732",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "풍력발전",
+      "학술논문"
+    ],
+    "summary": "Lars Christian Henriksen이 2014년 Wind Energy 저널에 발표한 본 논문은, 풍력 에너지 분야에서 축적된 방대한 최신 연구 성과와 학술 문헌들을 체계적으로 조사하고 정리하여 동향을 분석한 에너지·환경 분야의 종합 리뷰 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2014-wind-energy-literature-survey-no-32.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-the-future-of-integrated-facility-management-a",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#8C6D46",
+    "title": "Corporate Real Estate Journal 저널에 게재된 통합 시설관리(IFM)의 미래와 글로벌 비즈니스 트렌드의 변화를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "통합 시설관리(IFM)의 미래와 변화",
+    "originalTitle": "The future of integrated facility management: A convergence of business trends is driving dynamic transformation and a new paradigm for integrated facility management in 2016",
+    "authors": [
+      "Maureen Ehrenberg"
+    ],
+    "year": 2016,
+    "journal": "Corporate Real Estate Journal",
+    "doi": "10.69554/lcws8192",
+    "sourceUrl": "https://doi.org/10.69554/lcws8192",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "통합시설관리",
+      "IFM",
+      "업무환경",
+      "스마트빌딩",
+      "학술논문"
+    ],
+    "summary": "Maureen Ehrenberg가 2016년 Corporate Real Estate Journal에 발표한 본 논문은, 글로벌 금융위기 이후 변화된 비즈니스 트렌드와 유연 근무 인력의 증가가 통합 시설관리(IFM) 패러다임에 미치는 영향과 미래 전망을 탐구한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2016-the-future-of-integrated-facility-management-a.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-employing-large-language-models-in-swahili-a",
     "verified": true,
     "category": "인공지능",
