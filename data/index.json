@@ -1,5 +1,154 @@
 [
   {
+    "id": "paper-2023-a-comprehensive-review-of-yolo-architectures-in",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning and Knowledge Extraction 저널에 게재된 YOLO 객체 검출 모델의 진화 과정을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "YOLO 아키텍처 종합 리뷰",
+    "originalTitle": "A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS",
+    "authors": [
+      "Juan Terven",
+      "Diana-Margarita Córdova-Esparza",
+      "Julio-Alejandro Romero-González"
+    ],
+    "year": 2023,
+    "journal": "Machine Learning and Knowledge Extraction",
+    "doi": "10.3390/make5040083",
+    "sourceUrl": "https://doi.org/10.3390/make5040083",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "YOLO",
+      "객체검출",
+      "딥러닝",
+      "실시간처리",
+      "학술논문"
+    ],
+    "summary": "Juan Terven 등이 2023년 Machine Learning and Knowledge Extraction 저널에 발표한 본 논문은, 최초의 YOLO부터 YOLOv8 및 YOLO-NAS에 이르기까지 실시간 객체 검출 시스템의 핵심인 YOLO 아키텍처의 구조적 변화와 진화 과정을 종합적으로 분석한 인공지능 분야의 서베이 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2023-a-comprehensive-review-of-yolo-architectures-in.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1980-15th-universities-power-engineering-conference",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Electrical Power & Energy Systems 저널에 게재된 제15회 대학 전력 공학 컨퍼런스를 다룬 전기 분야 학술 논문",
+    "shortTitle": "제15회 대학 전력 공학 컨퍼런스",
+    "originalTitle": "15th Universities power engineering conference",
+    "authors": [],
+    "year": 1980,
+    "journal": "International Journal of Electrical Power &amp; Energy Systems",
+    "doi": "10.1016/0142-0615(80)90035-6",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(80)90035-6",
+    "keywords": [
+      "전기",
+      "전력공학",
+      "전력계통",
+      "에너지시스템",
+      "대학컨퍼런스",
+      "학술논문"
+    ],
+    "summary": "1980년 International Journal of Electrical Power & Energy Systems 저널에 발표된 본 논문은, 제15회 대학 전력 공학 컨퍼런스의 주요 연구 성과와 발표 내용을 다루며 당대 전력 시스템 및 에너지 공학 분야의 학술적 동향을 조명한 전기 공학 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1980-15th-universities-power-engineering-conference.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2006-2p2-e21-high-speed-navigation-of-a",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec) 저널에 게재된 로봇의 경험을 기반으로 한 이동로봇의 고속 주행을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 경험 기반 이동로봇 고속 주행",
+    "originalTitle": "High speed navigation of a mobile robot based on robot's experiences",
+    "authors": [
+      "Woojin Chung",
+      "Seokgyu Kim",
+      "Jaesik Choi"
+    ],
+    "year": 2006,
+    "journal": "The Proceedings of JSME_annual Conference on Robotics and Mechatronics (Robomec)",
+    "doi": "10.1299/jsmermd.2006._2p2-e21_1",
+    "sourceUrl": "https://doi.org/10.1299/jsmermd.2006._2p2-e21_1",
+    "keywords": [
+      "로봇·자동화",
+      "이동로봇",
+      "고속주행",
+      "로봇경험",
+      "자율주행",
+      "학술논문"
+    ],
+    "summary": "2006년 JSME 메카트로닉스 연례 학술대회에서 우진정, 석규김, 재식최가 발표한 본 논문은, 이동로봇이 과거의 주행 경험을 활용하여 복잡한 환경에서도 안정적으로 고속 주행을 수행할 수 있도록 돕는 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2006-2p2-e21-high-speed-navigation-of-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-an-investigation-into-sodium-metal-battery-as",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#3A7D44",
+    "title": "International Journal of Science and Research (IJSR) 저널에 게재된 나트륨 금속 배터리를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "나트륨 금속 배터리 연구",
+    "originalTitle": "An Investigation into Sodium-Metal Battery as an Alternative to Lithium-Ion Batteries",
+    "authors": [
+      "M M Nishtha Singh"
+    ],
+    "year": 2021,
+    "journal": "International Journal of Science and Research (IJSR)",
+    "doi": "10.21275/sr21102173054",
+    "sourceUrl": "https://doi.org/10.21275/sr21102173054",
+    "keywords": [
+      "에너지",
+      "환경",
+      "나트륨금속배터리",
+      "이차전지",
+      "리튬이온배터리대체",
+      "학술논문"
+    ],
+    "summary": "M M Nishtha Singh가 2021년 International Journal of Science and Research (IJSR) 저널에 발표한 본 논문은, 고갈 위험과 높은 비용 문제가 있는 리튬이온 배터리를 대체할 차세대 에너지 저장장치로서 나트륨 금속 배터리의 가능성과 장단점을 종합적으로 검토한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2021-an-investigation-into-sodium-metal-battery-as.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-estimating-tall-building-infiltration-at-main-entryway",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D35400",
+    "title": "HVAC&R Research 저널에 게재된 고층 건물 주출입구 공기 침입량 추정을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "고층 건물 주출입구 공기 침입량 추정",
+    "originalTitle": "Estimating tall building infiltration at main entryway",
+    "authors": [
+      "Derek Whitehead",
+      "Andrea Frisque"
+    ],
+    "year": 2014,
+    "journal": "HVAC&R Research",
+    "doi": "10.1080/10789669.2014.888368",
+    "sourceUrl": "https://doi.org/10.1080/10789669.2014.888368",
+    "keywords": [
+      "건축·시설관리",
+      "고층건물",
+      "공기침입",
+      "주출입구",
+      "HVAC",
+      "학술논문"
+    ],
+    "summary": "Derek Whitehead와 Andrea Frisque가 2014년 HVAC&R Research 저널에 발표한 본 논문은, 고층 건물의 주출입구를 통해 외부 공기가 건물 내부로 유입되는 공기 침입량을 추정하고 관리하는 방법을 다룬 건축 및 시설관리 분야의 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2014-estimating-tall-building-infiltration-at-main-entryway.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1999-image-analysis-and-computer-vision-1998",
     "verified": true,
     "category": "인공지능",
