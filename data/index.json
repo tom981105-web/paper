@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-1993-artificial-intelligence-in-perspective-a-retrospective-on",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 저널 50권 발행 기념 회고를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능 저널 50권 발행 기념 회고",
+    "originalTitle": "Artificial intelligence in perspective: a retrospective on fifty volumes of the Artificial Intelligence Journal",
+    "authors": [
+      "Daniel G. Bobrow"
+    ],
+    "year": 1993,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(93)90163-6",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(93)90163-6",
+    "keywords": [
+      "인공지능",
+      "학술저널",
+      "연구회고",
+      "역사적발전",
+      "지식표현",
+      "Daniel G. Bobrow",
+      "학술논문"
+    ],
+    "summary": "Daniel G. Bobrow가 1993년 Artificial Intelligence 저널에 발표한 본 논문은, 해당 저널의 50권 발행을 기념하여 인공지능 분야가 걸어온 역사적 발전 과정을 되돌아보고, 주요 연구 주제와 학문적 성취를 종합적으로 회고한 인공지능 분야의 고전적 서베이 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1993-artificial-intelligence-in-perspective-a-retrospective-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1947-simplicity-in-transformer-protection",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electrical Engineering 저널에 게재된 단순화된 변압기 보호를 다룬 전기 분야 학술 논문",
+    "shortTitle": "단순화된 변압기 보호",
+    "originalTitle": "Simplicity in transformer protection",
+    "authors": [
+      "Eric T. B. Gross"
+    ],
+    "year": 1947,
+    "journal": "Electrical Engineering",
+    "doi": "10.1109/ee.1947.6443571",
+    "sourceUrl": "https://doi.org/10.1109/ee.1947.6443571",
+    "keywords": [
+      "전기",
+      "변압기보호",
+      "전력계통",
+      "보호계전기",
+      "전력설비",
+      "Eric T. B. Gross",
+      "학술논문"
+    ],
+    "summary": "Eric T. B. Gross가 1947년 Electrical Engineering 저널에 발표한 본 논문은, 전력 변압기를 보호하는 복잡하고 고비용인 시스템을 보다 단순하면서도 신뢰성 있게 설계하여 전력망의 안전성을 유지하고자 한 전기 공학 분야의 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1947-simplicity-in-transformer-protection.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1988-a-supervised-autonomous-security-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 감독형 자율 보안 로봇을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "감독형 자율 보안 로봇",
+    "originalTitle": "A supervised autonomous security robot",
+    "authors": [
+      "CDR H.R. Everett",
+      "G.A. Gilbreath"
+    ],
+    "year": 1988,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/0921-8890(88)90030-9",
+    "sourceUrl": "https://doi.org/10.1016/0921-8890(88)90030-9",
+    "keywords": [
+      "로봇·자동화",
+      "자율로봇",
+      "보안로봇",
+      "감독형제어",
+      "모바일로봇",
+      "CDR H.R. Everett",
+      "G.A. Gilbreath",
+      "학술논문"
+    ],
+    "summary": "CDR H.R. Everett과 G.A. Gilbreath가 1988년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 위험한 시설 감시 및 경비 업무를 수행하기 위해 인간의 감독 아래 스스로 이동하며 주변을 감시하는 초기 자율 보안 로봇 시스템의 아키텍처와 설계 원리를 다룬 로봇·자동화 분야의 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1988-a-supervised-autonomous-security-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-wind-turbine-wakes-for-wind-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 터빈 후류 현상을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 터빈 후류 연구",
+    "originalTitle": "Wind turbine wakes for wind energy",
+    "authors": [],
+    "year": 2011,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.534",
+    "sourceUrl": "https://doi.org/10.1002/we.534",
+    "keywords": [
+      "에너지",
+      "환경",
+      "풍력터빈",
+      "후류",
+      "바람자원",
+      "풍력에너지",
+      "학술논문"
+    ],
+    "summary": "2011년 Wind Energy 저널에 발표된 본 논문은, 풍력 터빈이 회전하면서 발생하는 바람의 감속과 난류 증가 현상인 후류(Wake)가 풍력 발전 단지의 전체 효율과 구조물 안전에 미치는 영향과 관련 이론을 다룬 에너지·환경 분야의 학술 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-wind-turbine-wakes-for-wind-energy.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1992-a-remotely-operated-building-inspection-cell",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B5B",
+    "title": "Automation in Construction 저널에 게재된 원격 조작 건물 검사 셀을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "원격 조작 건물 검사 셀",
+    "originalTitle": "A remotely operated building inspection cell",
+    "authors": [
+      "Denis A. Chamberlain"
+    ],
+    "year": 1992,
+    "journal": "Automation in Construction",
+    "doi": "10.1016/0926-5805(92)90038-l",
+    "sourceUrl": "https://doi.org/10.1016/0926-5805(92)90038-l",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "원격조작",
+      "건물검사",
+      "자동화",
+      "로보틱스",
+      "Denis A. Chamberlain",
+      "학술논문"
+    ],
+    "summary": "Denis A. Chamberlain이 1992년 Automation in Construction 저널에 발표한 본 논문은, 위험하거나 접근하기 어려운 건축물 내부와 구조물을 안전하고 효율적으로 진단하기 위해 개발된 원격 조작 건물 검사 시스템(Inspection Cell)의 개념과 적용 방안을 다룬 건축·시설관리 분야의 고전적 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1992-a-remotely-operated-building-inspection-cell.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1997-image-analysis-and-computer-vision-1996",
     "verified": true,
     "category": "인공지능",
