@@ -1,5 +1,125 @@
 [
   {
+    "id": "paper-1989-can-machine-learning-offer-anything-to-expert",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 머신러닝이 전문가 시스템에 기여할 수 있는 바를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "머신러닝이 전문가 시스템에 주는 가치",
+    "originalTitle": "Can Machine Learning Offer Anything to Expert Systems?",
+    "authors": [
+      "Bruce G. Buchanan"
+    ],
+    "year": 1989,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022646520981",
+    "sourceUrl": "https://doi.org/10.1023/a:1022646520981",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "전문가시스템",
+      "지식획득",
+      "지식기반시스템",
+      "기계학습",
+      "학술논문"
+    ],
+    "summary": "Bruce G. Buchanan이 1989년 Machine Learning 저널에 발표한 본 논문은, 초기 인공지능의 핵심이었던 '전문가 시스템'의 고질적인 한계인 지식획득 병목 현상을 해결하기 위해 '머신러닝'이 어떤 실질적이고 이론적인 도움을 줄 수 있는지 고찰한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1989-can-machine-learning-offer-anything-to-expert.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1936-distribution-transformer-lightning-protection-practices",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electrical Engineering 저널에 게재된 배전용 변압기 뇌보호 관행을 다룬 전기 분야 학술 논문",
+    "shortTitle": "배전용 변압기 뇌보호 관행",
+    "originalTitle": "Distribution transformer lightning protection practices",
+    "authors": [
+      "L. G. Smith"
+    ],
+    "year": 1936,
+    "journal": "Electrical Engineering",
+    "doi": "10.1109/ee.1936.6541203",
+    "sourceUrl": "https://doi.org/10.1109/ee.1936.6541203",
+    "keywords": [
+      "전기",
+      "변압기",
+      "뇌보호",
+      "낙뢰",
+      "배전계통",
+      "서지보호",
+      "전력설비",
+      "학술논문"
+    ],
+    "summary": "L. G. Smith가 1936년 Electrical Engineering에 발표한 본 논문은, 전력 배전 계통의 핵심 기기인 배전용 변압기를 낙뢰(번개)로 인한 과전압으로부터 안전하게 보호하기 위한 실무적 관행과 대책을 고찰한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1936-distribution-transformer-lightning-protection-practices.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1978-industrial-robots-in-production-automation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 생산 자동화를 위한 산업용 로봇 설계를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "생산 자동화를 위한 산업용 로봇",
+    "originalTitle": "Industrial robots in production automation",
+    "authors": [
+      "P.N. Belianin"
+    ],
+    "year": 1978,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/eb004503",
+    "sourceUrl": "https://doi.org/10.1108/eb004503",
+    "keywords": [
+      "로봇·자동화",
+      "산업용로봇",
+      "생산자동화",
+      "제조공정",
+      "지능형로봇",
+      "로봇제어",
+      "학술논문"
+    ],
+    "summary": "P.N. Belianin이 1978년 Industrial Robot: An International Journal에 발표한 본 논문은, 제품 마케팅 요구에 따른 생산 공정 재설계 과정에서 핵심 요소로 부각된 산업용 로봇의 최신 설계 방식과 제어 기술, 그리고 지능형 로봇의 응용 가능성을 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1978-industrial-robots-in-production-automation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-renewable-energy-energy-efficiency-policy-and-the-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 재생에너지, 에너지 효율, 정책 및 환경의 상호관계를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "재생에너지, 에너지 효율, 정책 및 환경",
+    "originalTitle": "Renewable energy, energy efficiency, policy and the environment",
+    "authors": [],
+    "year": 1998,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(98)90003-9",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(98)90003-9",
+    "keywords": [
+      "에너지",
+      "환경",
+      "재생에너지",
+      "에너지효율",
+      "환경정책",
+      "지속가능성",
+      "에너지정책",
+      "학술논문"
+    ],
+    "summary": "1998년 Renewable Energy 저널에 발표된 본 논문은, 재생에너지의 보급, 에너지 효율의 향상, 그리고 관련 환경 정책들이 서로 어떻게 유기적으로 맞물려 지구 환경 개선에 기여하는지 고찰한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1998-renewable-energy-energy-efficiency-policy-and-the-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2014-study-on-constants-of-natural-language-texts",
     "verified": true,
     "category": "인공지능",
