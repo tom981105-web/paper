@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-2026-semantic-mediation-in-audio-and-music-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Natural Language Processing Journal 저널에 게재된 오디오 및 음악 지능에서의 의미 매개를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "오디오 및 음악 지능의 의미 매개",
+    "originalTitle": "Semantic mediation in audio and music intelligence through natural language processing a systematic literature review",
+    "authors": [
+      "Novia Ratnasari",
+      "Aji Prasetya Wibawa"
+    ],
+    "year": 2026,
+    "journal": "Natural Language Processing Journal",
+    "doi": "10.1016/j.nlp.2026.100225",
+    "sourceUrl": "https://doi.org/10.1016/j.nlp.2026.100225",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "오디오지능",
+      "음악인공지능",
+      "의미매개",
+      "체계적문헌고찰",
+      "학술논문"
+    ],
+    "summary": "Novia Ratnasari와 Aji Prasetya Wibawa가 2026년 Natural Language Processing Journal에 발표한 본 논문은, 자연어 처리를 통해 오디오 및 음악 지능 분야에서 의미를 매개하는 연구들의 동향을 체계적으로 고찰한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2026-semantic-mediation-in-audio-and-music-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-noise-and-vibration-in-brushless-doubly-fed",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IET Electric Power Applications 저널에 게재된 브러시리스 이중급전기 및 브러시리스 이중급전 릴럭턴스기의 소음과 진동을 다룬 전기 분야 학술 논문",
+    "shortTitle": "브러시리스 이중급전기의 소음과 진동",
+    "originalTitle": "Noise and vibration in brushless doubly fed machine and brushless doubly fed reluctance machine",
+    "authors": [
+      "Thomas Logan",
+      "Richard McMahon",
+      "Keith Seffen"
+    ],
+    "year": 2014,
+    "journal": "IET Electric Power Applications",
+    "doi": "10.1049/iet-epa.2013.0113",
+    "sourceUrl": "https://doi.org/10.1049/iet-epa.2013.0113",
+    "keywords": [
+      "전기",
+      "브러시리스이중급전기",
+      "릴럭턴스기",
+      "소음",
+      "진동",
+      "전자기력",
+      "학술논문"
+    ],
+    "summary": "Thomas Logan 외 2명이 2014년 IET Electric Power Applications에 발표한 본 논문은, 브러시리스 이중급전기 및 브러시리스 이중급전 릴럭턴스기에서 기본 자기장들의 상호작용으로 인해 발생하는 굽힘 힘과 소음·진동 모드를 분석하고 그 주파수와 크기를 실험적으로 검증한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2014-noise-and-vibration-in-brushless-doubly-fed.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-space-robotics-in-2050",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Advanced Robotics 저널에 게재된 2050년의 우주 로봇 공학을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "2050년의 우주 로봇 공학",
+    "originalTitle": "Space Robotics in 2050",
+    "authors": [
+      "Yasuharu Kunii"
+    ],
+    "year": 2009,
+    "journal": "Advanced Robotics",
+    "doi": "10.1163/016918609x12469686515539",
+    "sourceUrl": "https://doi.org/10.1163/016918609x12469686515539",
+    "keywords": [
+      "로봇·자동화",
+      "우주로봇",
+      "미래기술",
+      "우주탐사",
+      "자율로봇",
+      "원격조작",
+      "학술논문"
+    ],
+    "summary": "Yasuharu Kunii가 2009년 Advanced Robotics 저널에 발표한 본 논문은, 먼 미래인 2050년을 시점으로 우주 공간에서 로봇 공학이 어떻게 발전하고 인류의 우주 활동을 지원하게 될 것인지 전망한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2009-space-robotics-in-2050.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1988-hydrogen-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지",
+    "originalTitle": "Hydrogen energy",
+    "authors": [],
+    "year": 1988,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(88)90057-2",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(88)90057-2",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "청정에너지",
+      "대체에너지",
+      "에너지저장",
+      "친환경연료",
+      "학술논문"
+    ],
+    "summary": "1988년 International Journal of Hydrogen Energy에 게재된 본 논문은, 화석연료를 대체할 미래의 청정 에너지원으로서 수소 에너지가 지닌 잠재력과 기술적 가치를 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1988-hydrogen-energy.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1985-facility-supervision-a-vital-function-in-overall",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#4A6FA5",
+    "title": "Recreational Sports Journal 저널에 게재된 전반적인 시설 관리 속 핵심 기능으로서의 시설 감시를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "시설 관리 속 핵심 기능, 시설 감시",
+    "originalTitle": "Facility Supervision: A Vital Function in Overall Facility Management",
+    "authors": [
+      "Gene G. Lamke"
+    ],
+    "year": 1985,
+    "journal": "Recreational Sports Journal",
+    "doi": "10.1123/nirsa.10.1.42",
+    "sourceUrl": "https://doi.org/10.1123/nirsa.10.1.42",
+    "keywords": [
+      "건축·시설관리",
+      "시설감시",
+      "시설관리",
+      "레포츠시설",
+      "운영관리",
+      "안전관리",
+      "학술논문"
+    ],
+    "summary": "Gene G. Lamke가 1985년 Recreational Sports Journal에 발표한 본 논문은, 레크리에이션 및 스포츠 시설을 비롯한 전반적인 시설 관리에서 '시설 감시(Facility Supervision)'가 왜 필수적이고 핵심적인 기능인지 그 역할과 중요성을 고찰한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1985-facility-supervision-a-vital-function-in-overall.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-bridging-gaps-in-natural-language-processing-for",
     "verified": true,
     "category": "인공지능",
