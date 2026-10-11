@@ -1,5 +1,158 @@
 [
   {
+    "id": "paper-2020-robotics-grounding-and-natural-language-processing",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Natural Language Processing 저널에 게재된 로보틱스와 언어 접지 및 자연어 처리를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "로보틱스와 언어 접지 및 자연어 처리",
+    "originalTitle": "Robotics, Grounding and Natural Language Processing",
+    "authors": [
+      "Daichi Mochihashi"
+    ],
+    "year": 2020,
+    "journal": "Journal of Natural Language Processing",
+    "doi": "10.5715/jnlp.27.963",
+    "sourceUrl": "https://doi.org/10.5715/jnlp.27.963",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "로보틱스",
+      "언어접지",
+      "기계학습",
+      "인지로봇",
+      "학술논문"
+    ],
+    "summary": "Daichi Mochihashi가 2020년 Journal of Natural Language Processing에 발표한 본 논문은, 인간의 언어를 로봇이 이해하고 물리적 세계와 연결하는 '언어 접지(Language Grounding)'와 자연어 처리의 융합 방향을 조망한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2020-robotics-grounding-and-natural-language-processing.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-performance-analysis-of-unified-power-quality-conditioner",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Applied Mechanics and Materials 저널에 게재된 통합 전력 품질 개선 장치의 성능 분석을 다룬 전기 분야 학술 논문",
+    "shortTitle": "통합 전력 품질 개선 장치의 성능 분석 및 제어",
+    "originalTitle": "Performance Analysis of Unified Power Quality Conditioner for Power Quality Improvement",
+    "authors": [
+      "Ragavan Saravanan",
+      "P.S. Manoharan"
+    ],
+    "year": 2014,
+    "journal": "Applied Mechanics and Materials",
+    "doi": "10.4028/www.scientific.net/amm.573.690",
+    "sourceUrl": "https://doi.org/10.4028/www.scientific.net/amm.573.690",
+    "keywords": [
+      "전기",
+      "전력품질",
+      "UPQC",
+      "퍼지논리제어",
+      "동기기준틀이론",
+      "고조파제거",
+      "인버터",
+      "학술논문"
+    ],
+    "summary": "Ragavan Saravanan과 P.S. Manoharan이 2014년 Applied Mechanics and Materials에 발표한 본 논문은, 직·병렬 인버터로 구성된 통합 전력 품질 개선 장치(UPQC)에 퍼지 논리 제어기와 동기 기준틀 이론을 적용하여 선형 및 비선형 부하 환경에서 전압 강하·상승 및 고조파를 효과적으로 제거하는 성능을 분석한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2014-performance-analysis-of-unified-power-quality-conditioner.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-design-and-realization-of-the-hybrid-vision",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 자율 축구 로봇을 위한 하이브리드 비전 시스템 설계를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "자율 축구 로봇을 위한 하이브리드 비전 시스템 설계",
+    "originalTitle": "Design and Realization of the Hybrid Vision System for Autonomous Soccer Robot",
+    "authors": [
+      "Xuexi ZHANG",
+      "Yimin YANG",
+      "Rundan LIU",
+      "Runing LIU"
+    ],
+    "year": 2010,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2010.00375",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2010.00375",
+    "keywords": [
+      "로봇·자동화",
+      "자율축구로봇",
+      "하이브리드비전",
+      "비전시스템",
+      "영상처리기법",
+      "로봇시야",
+      "학술논문"
+    ],
+    "summary": "Xuexi ZHANG 외 3인이 2010년 ROBOT 저널에 발표한 본 논문은, 자율 축구 로봇이 경기장 상황을 빠르게 인식하고 공과 골대를 정확히 파악할 수 있도록 돕는 혼합형(하이브리드) 비전 시스템의 설계 및 구현 방식을 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2010-design-and-realization-of-the-hybrid-vision.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-renewable-energy-project-monitor",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy Focus 저널에 게재된 재생에너지 프로젝트 모니터링을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "재생에너지 프로젝트 모니터링",
+    "originalTitle": "Renewable energy project monitor",
+    "authors": [
+      "Mike Major"
+    ],
+    "year": 2012,
+    "journal": "Renewable Energy Focus",
+    "doi": "10.1016/s1755-0084(12)70008-x",
+    "sourceUrl": "https://doi.org/10.1016/s1755-0084(12)70008-x",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "프로젝트모니터링",
+      "태양광",
+      "풍력",
+      "에너지인프라",
+      "학술논문"
+    ],
+    "summary": "Mike Major가 2012년 Renewable Energy Focus에 발표한 본 논문은, 전 세계적으로 급증하는 재생에너지 프로젝트의 진행 상황과 인프라 구축 현황을 체계적으로 추적하고 관리하기 위한 모니터링 방안을 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-renewable-energy-project-monitor.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-forschungsprojekt-facility-management-in-zahlen",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#94558C",
+    "title": "kma - Klinik Management aktuell 저널에 게재된 병원 시설관리 수치 분석 연구를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "병원 시설관리 지표 및 수치 분석 연구",
+    "originalTitle": "Forschungsprojekt: Facility Management in Zahlen",
+    "authors": [],
+    "year": 2004,
+    "journal": "kma - Klinik Management aktuell",
+    "doi": "10.1055/s-0044-1782582",
+    "sourceUrl": "https://doi.org/10.1055/s-0044-1782582",
+    "keywords": [
+      "건축",
+      "시설관리",
+      "FacilityManagement",
+      "FM수치",
+      "병원관리",
+      "운영비용",
+      "학술논문"
+    ],
+    "summary": "2004년 kma - Klinik Management aktuell에 게재된 본 논문은, 병원 및 의료 시설의 효과적인 관리와 운영 효율성을 높이기 위해 시설관리(Facility Management) 관련 비용과 지표를 수치화하여 분석한 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2004-forschungsprojekt-facility-management-in-zahlen.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2021-combining-event-semantics-and-degree-semantics-for",
     "verified": true,
     "category": "인공지능",
