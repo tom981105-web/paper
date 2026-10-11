@@ -1,5 +1,128 @@
 [
   {
+    "id": "paper-1986-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능 분야 개관 및 발전",
+    "originalTitle": "Artificial intelligence",
+    "authors": [
+      "Roy Rada"
+    ],
+    "year": 1986,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(86)90034-2",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(86)90034-2",
+    "keywords": [
+      "인공지능",
+      "컴퓨터과학",
+      "지능형시스템",
+      "인지과학",
+      "지식표현",
+      "학술논문"
+    ],
+    "summary": "Roy Rada가 1986년 Artificial Intelligence 저널에 발표한 본 논문은, 초기 인공지능 분야의 핵심 개념과 발전 방향을 조망하며 지능형 시스템 구축의 기초를 다진 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1986-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-undergraduate-power-electronics-laboratory-applying-tsmst-method",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Journal of Power Electronics 저널에 게재된 TSMST 방법을 적용한 학부 전력전자 실험실 구성을 다룬 전기 분야 학술 논문",
+    "shortTitle": "TSMST 방법을 적용한 학부 전력전자 실험실",
+    "originalTitle": "Undergraduate Power Electronics Laboratory - Applying TSMST Method",
+    "authors": [
+      "Zeljko Jakopovic",
+      "Viktor Sunde",
+      "Zvonko Benci"
+    ],
+    "year": 2010,
+    "journal": "Journal of Power Electronics",
+    "doi": "10.6113/jpe.2010.10.6.621",
+    "sourceUrl": "https://doi.org/10.6113/jpe.2010.10.6.621",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "실험실습",
+      "TSMST방법",
+      "학부교육",
+      "전력변환",
+      "공학교육",
+      "학술논문"
+    ],
+    "summary": "Zeljko Jakopovic, Viktor Sunde, Zvonko Benci가 2010년 Journal of Power Electronics에 발표한 본 논문은, 학부생들이 전력전자 공학의 복잡한 원리를 효과적으로 체득할 수 있도록 TSMST(Target-System-Measurement-Simulation-Test) 교육 방법론을 도입한 실험실 구성 및 교육 설계 방식을 다룬 전기공학 교육 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2010-undergraduate-power-electronics-laboratory-applying-tsmst-method.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-towards-small-robot-aided-victim-manipulation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Intelligent & Robotic Systems 저널에 게재된 소형 로봇을 활용한 조난자 조작 및 지원을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "소형 로봇을 활용한 조난자 조작 및 지원",
+    "originalTitle": "Towards Small Robot Aided Victim Manipulation",
+    "authors": [
+      "Mark Yim",
+      "Jedtsada Laucharoen"
+    ],
+    "year": 2011,
+    "journal": "Journal of Intelligent & Robotic Systems",
+    "doi": "10.1007/s10846-010-9519-3",
+    "sourceUrl": "https://doi.org/10.1007/s10846-010-9519-3",
+    "keywords": [
+      "로봇·자동화",
+      "소형로봇",
+      "조난자구조",
+      "로봇조작",
+      "수색구조",
+      "재난로봇",
+      "모듈러로봇",
+      "학술논문"
+    ],
+    "summary": "Mark Yim과 Jedtsada Laucharoen이 2011년 Journal of Intelligent & Robotic Systems에 발표한 본 논문은, 재난 현장에서 붕괴된 건물 틈새나 위험한 공간에 투입된 소형 로봇이 부상당한 조난자를 안전하게 다루고 이동시키기 위한 조작 기법과 시스템 설계 방향을 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-towards-small-robot-aided-victim-manipulation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1992-world-association-for-renewable-energy-news",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#10B981",
+    "title": "Renewable Energy 저널에 게재된 세계 신재생에너지 협회 소식을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "세계 신재생에너지 협회 소식",
+    "originalTitle": "World association for renewable energy—news",
+    "authors": [],
+    "year": 1992,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(92)90050-d",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(92)90050-d",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "세계신재생에너지협회",
+      "청정에너지",
+      "에너지정책",
+      "국제협력",
+      "학술동향",
+      "학술논문"
+    ],
+    "summary": "1992년 Renewable Energy 저널에 발표된 본 논문은, 세계 신재생에너지 협회(World Association for Renewable Energy)의 활동과 관련 동향을 전달하며 국제 사회에서 청정에너지 보급과 협력의 필요성을 조명한 에너지·환경 분야의 학술 단신 및 보고 문헌이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1992-world-association-for-renewable-energy-news.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-black-litterman-portfolio-optimization-using-machine-learning",
     "verified": true,
     "category": "인공지능",
