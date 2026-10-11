@@ -1,5 +1,127 @@
 [
   {
+    "id": "paper-2025-real-time-phishing-url-detection-using-reinforcement",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Science and Research (IJSR) 저널에 게재된 강화학습 기반 실시간 피싱 URL 탐지를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "강화학습 기반 실시간 피싱 URL 탐지",
+    "originalTitle": "Real-Time Phishing URL Detection Using Reinforcement Learning",
+    "authors": [
+      "Swarup Panda"
+    ],
+    "year": 2025,
+    "journal": "International Journal of Science and Research (IJSR)",
+    "doi": "10.21275/sr25805192420",
+    "sourceUrl": "https://doi.org/10.21275/sr25805192420",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "피싱탐지",
+      "URL보안",
+      "실시간탐지",
+      "사이버보안",
+      "기계학습",
+      "학술논문"
+    ],
+    "summary": "Swarup Panda가 2025년 International Journal of Science and Research (IJSR)에 발표한 본 논문은, 급증하는 사이버 위협 속에서 가짜 웹사이트 주소를 실시간으로 탐지하기 위해 강화학습 기법을 활용한 인공지능 기반 보안 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2025-real-time-phishing-url-detection-using-reinforcement.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1945-rectifier-relay-for-transformer-protection",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electrical Engineering 저널에 게재된 변압기 보호를 위한 정류기 계전기를 다룬 전기 분야 학술 논문",
+    "shortTitle": "변압기 보호용 정류기 계전기",
+    "originalTitle": "Rectifier relay for transformer protection",
+    "authors": [
+      "E. L. Michelson"
+    ],
+    "year": 1945,
+    "journal": "Electrical Engineering",
+    "doi": "10.1109/ee.1945.6441020",
+    "sourceUrl": "https://doi.org/10.1109/ee.1945.6441020",
+    "keywords": [
+      "전기",
+      "변압기",
+      "정류기계전기",
+      "변압기보호",
+      "보호계전기",
+      "전력계통",
+      "회로보호",
+      "학술논문"
+    ],
+    "summary": "E. L. Michelson이 1945년 Electrical Engineering 저널에 발표한 본 논문은, 전력 계통의 핵심 설비인 전력용 변압기를 내부 고장이나 과부하로부터 안전하게 차단하고 보호하기 위해 정류기 원리를 도입한 특수 계전기(Relay)의 설계와 동작 특성을 고찰한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1945-rectifier-relay-for-transformer-protection.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-motion-planning-of-a-bio-inspired-biped",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robot 저널에 게재된 유전 알고리즘 기반 이족 보행 벽 등반 로봇의 장애물 극복 모션 플래닝을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "유전 알고리즘 기반 이족 보행 벽 등반 로봇",
+    "originalTitle": "Motion Planning of a Bio-inspired Biped Wall Climbing Robot Stepping over Obstacles Based on Genetic Algorithm",
+    "authors": [
+      "Zhihai LI",
+      "Yili FU"
+    ],
+    "year": 2012,
+    "journal": "Robot",
+    "doi": "10.3724/sp.j.1218.2012.00751",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2012.00751",
+    "keywords": [
+      "로봇·자동화",
+      "이족보행로봇",
+      "벽등반로봇",
+      "모션플래닝",
+      "유전알고리즘",
+      "장애물극복",
+      "생체모방",
+      "학술논문"
+    ],
+    "summary": "Zhihai LI와 Yili FU가 2012년 Robot 저널에 발표한 본 논문은, 생체 모방형 이족 보행 벽 등반 로봇이 수직 벽면을 이동하다가 전방의 장애물을 마주했을 때 안전하게 발을 디뎌 장애물을 넘어설 수 있도록 최적의 움직임 경로를 찾아내는 모션 플래닝 기법을 유전 알고리즘을 통해 고찰한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2012-motion-planning-of-a-bio-inspired-biped.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-world-renewable-energy-congress-v",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2C7A7B",
+    "title": "Renewable Energy 저널에 게재된 세계 신재생에너지 의회 논문을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "세계 신재생에너지 의회 V",
+    "originalTitle": "World renewable energy congress—V",
+    "authors": [],
+    "year": 1998,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(98)90006-4",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(98)90006-4",
+    "keywords": [
+      "에너지",
+      "환경",
+      "신재생에너지",
+      "태양에너지",
+      "풍력에너지",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "1998년 Renewable Energy 저널에 발표된 본 논문은, 전 세계적인 신재생에너지 관련 최신 연구 성과와 지속 가능한 에너지 기술 보급 전략을 종합적으로 다룬 에너지·환경 분야의 학술 의회 프로시딩이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1998-world-renewable-energy-congress-v.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1989-can-machine-learning-offer-anything-to-expert",
     "verified": true,
     "category": "인공지능",
