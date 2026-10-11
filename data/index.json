@@ -1,5 +1,128 @@
 [
   {
+    "id": "paper-2026-black-litterman-portfolio-optimization-using-machine-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Investment, Banking and Finance 저널에 게재된 머신러닝, 딥러닝, 강화학습 알고리즘을 활용한 블랙-리터만 포트폴리오 최적화를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "머신러닝·딥러닝 기반 블랙-리터만 포트폴리오 최적화",
+    "originalTitle": "Black-Litterman Portfolio Optimization using Machine-Learning, Deep Learning and Reinforcement Learning Algorithms",
+    "authors": [
+      "Shigolakov Ivan Vasilevich",
+      "Joe Wayne Byers"
+    ],
+    "year": 2026,
+    "journal": "Journal of Investment, Banking and Finance",
+    "doi": "10.33140/jibf.04.01.04",
+    "sourceUrl": "https://doi.org/10.33140/jibf.04.01.04",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "딥러닝",
+      "강화학습",
+      "포트폴리오최적화",
+      "블랙리터만모델",
+      "금융공학",
+      "학술논문"
+    ],
+    "summary": "Shigolakov Ivan Vasilevich와 Joe Wayne Byers가 2026년 Journal of Investment, Banking and Finance에 발표한 본 논문은, 전통적인 마코위츠 모델과 블랙-리터만 모델의 한계를 극복하기 위해 머신러닝, 딥러닝, 강화학습 알고리즘의 예측 결과를 뷰(View) 매트릭스 구축에 활용하여 포트폴리오의 수익률과 샤프 지수를 높이고자 한 금융 인공지능 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2026-black-litterman-portfolio-optimization-using-machine-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1938-distribution-transformer-lightning-protection-practice-ii",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electrical Engineering 저널에 게재된 배전 변압기 낙뢰 보호 관행 II를 다룬 전기 분야 학술 논문",
+    "shortTitle": "배전 변압기 낙뢰 보호 관행 II",
+    "originalTitle": "Distribution transformer lightning-protection practice — II",
+    "authors": [
+      "L. G. Smith"
+    ],
+    "year": 1938,
+    "journal": "Electrical Engineering",
+    "doi": "10.1109/ee.1938.6431234",
+    "sourceUrl": "https://doi.org/10.1109/ee.1938.6431234",
+    "keywords": [
+      "전기",
+      "변압기",
+      "낙뢰보호",
+      "배전변압기",
+      "서지보호",
+      "전력계통",
+      "송배전",
+      "학술논문"
+    ],
+    "summary": "L. G. Smith가 1938년 Electrical Engineering 저널에 발표한 본 논문은, 전력망 말단에 위치한 배전 변압기를 낙뢰로부터 안전하게 보호하기 위해 당시 산업 현장에서 적용되던 후속 실무 관행과 개선된 방호 기법을 심층적으로 고찰한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1938-distribution-transformer-lightning-protection-practice-ii.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-an-integrated-learning-approach-to-environment-modelling",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Neurocomputing 저널에 게재된 모바일 로봇 내비게이션을 위한 통합 학습 기반 환경 모델링을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모바일 로봇 내비게이션을 위한 통합 학습 기반 환경 모델링",
+    "originalTitle": "An integrated learning approach to environment modelling in mobile robot navigation",
+    "authors": [
+      "Branko Šter"
+    ],
+    "year": 2004,
+    "journal": "Neurocomputing",
+    "doi": "10.1016/j.neucom.2003.10.005",
+    "sourceUrl": "https://doi.org/10.1016/j.neucom.2003.10.005",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로봇",
+      "내비게이션",
+      "환경모델링",
+      "통합학습",
+      "신경망",
+      "자율주행",
+      "학술논문"
+    ],
+    "summary": "Branko Šter가 2004년 Neurocomputing 저널에 발표한 본 논문은, 모바일 로봇이 미지의 환경을 안전하고 정확하게 주행하기 위해 다양한 학습 방식을 결합하여 주변 공간을 모델링하고 내비게이션 성능을 높인 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2004-an-integrated-learning-approach-to-environment-modelling.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1992-wren-world-renewable-energy-network-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A9D8F",
+    "title": "Renewable Energy 저널에 게재된 세계 재생에너지 네트워크(WREN)의 비전과 역할을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "세계 재생에너지 네트워크(WREN)의 역할",
+    "originalTitle": "WREN (World Renewable Energy Network)",
+    "authors": [],
+    "year": 1992,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(92)90093-i",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(92)90093-i",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "WREN",
+      "세계재생에너지네트워크",
+      "친환경에너지",
+      "에너지정책",
+      "국제협력",
+      "학술논문"
+    ],
+    "summary": "Renewable Energy 저널에 1992년 발표된 본 논문은, 전 세계적인 친환경 에너지 전환과 기술 보급을 가속화하기 위해 출범한 세계 재생에너지 네트워크(WREN)의 설립 취지와 국제적 협력 방안, 그리고 미래 에너지 비전을 고찰한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1992-wren-world-renewable-energy-network-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-deep-reinforcement-learning-with-inverse-reinforcement-learning",
     "verified": true,
     "category": "인공지능",
