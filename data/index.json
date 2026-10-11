@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-2021-applying-natural-language-processing-in-a-cloud",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Natural Language Processing 저널에 게재된 클라우드 기반 명함 관리 서비스에서의 자연어 처리 응용을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "클라우드 기반 명함 관리 서비스와 자연어 처리 응용",
+    "originalTitle": "Applying Natural Language Processing in a Cloud-based Business Card Management Service",
+    "authors": [
+      "Kanji Takahashi",
+      "Tomonori Manabe"
+    ],
+    "year": 2021,
+    "journal": "Journal of Natural Language Processing",
+    "doi": "10.5715/jnlp.28.297",
+    "sourceUrl": "https://doi.org/10.5715/jnlp.28.297",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "클라우드",
+      "명함관리",
+      "텍스트분석",
+      "비즈니스서비스",
+      "학술논문"
+    ],
+    "summary": "Kanji Takahashi와 Tomonori Manabe가 2021년 Journal of Natural Language Processing에 발표한 본 논문은, 클라우드 기반의 명함 관리 서비스 환경에서 자연어 처리 기술을 적용하여 비즈니스 텍스트 정보를 효율적으로 추출하고 관리하는 방법을 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2021-applying-natural-language-processing-in-a-cloud.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1917-electric-wave-phenomena-in-the-dynamo-electric",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Journal of the Institution of Electrical Engineers 저널에 게재된 발전기 및 전동기 내에서의 전기파 현상을 다룬 전기 분야 학술 논문",
+    "shortTitle": "다이나모 전기기기 내의 전기파 현상 분석",
+    "originalTitle": "Electric wave phenomena in the dynamo-electric machine",
+    "authors": [
+      "F. Creedy"
+    ],
+    "year": 1917,
+    "journal": "Journal of the Institution of Electrical Engineers",
+    "doi": "10.1049/jiee-1.1917.0030",
+    "sourceUrl": "https://doi.org/10.1049/jiee-1.1917.0030",
+    "keywords": [
+      "전기",
+      "전기기기",
+      "전기파현상",
+      "다이나모",
+      "발전기",
+      "전동기",
+      "전력공학",
+      "학술논문"
+    ],
+    "summary": "F. Creedy가 1917년 Journal of the Institution of Electrical Engineers에 발표한 본 논문은, 발전기와 전동기와 같은 다이나모 전기기기 내부에서 발생하는 전기적 파동 현상과 그 전파 특성을 분석한 전기공학 분야의 초기 고전적 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-1917-electric-wave-phenomena-in-the-dynamo-electric.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-performance-improvement-for-mobile-robot-position-determination",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Navigation 저널에 게재된 큐빅 칼만 필터를 이용한 이동 로봇 위치 결정 성능 향상을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "큐빅 칼만 필터를 활용한 모바일 로봇 위치 추정 성능 향상",
+    "originalTitle": "Performance Improvement for Mobile Robot Position Determination Using Cubature Kalman Filter",
+    "authors": [
+      "Jafar Zarei",
+      "Abdolrahman Ramezani"
+    ],
+    "year": 2017,
+    "journal": "Journal of Navigation",
+    "doi": "10.1017/s0373463317000716",
+    "sourceUrl": "https://doi.org/10.1017/s0373463317000716",
+    "keywords": [
+      "로봇·자동화",
+      "이동로봇",
+      "위치결정",
+      "큐빅칼만필터",
+      "관성센서",
+      "오도메트리",
+      "학술논문"
+    ],
+    "summary": "Jafar Zarei와 Abdolrahman Ramezani가 2017년 Journal of Navigation에 발표한 본 논문은, 오도메트리와 관성 측정 센서의 데이터를 큐빅 칼만 필터(CKF)를 통해 통합하여 비선형 오차를 효과적으로 보정하고 모바일 로봇의 위치 및 방향 추정 정확도를 향상시킨 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2017-performance-improvement-for-mobile-robot-position-determination.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-world-renewable-energy-congress-1994-final-reports",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2C7A7B",
+    "title": "Renewable Energy 저널에 게재된 세계 재생에너지 의회 1994년 최종 보고서를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "세계 재생에너지 의회 1994 최종 보고서",
+    "originalTitle": "World renewable energy congress 1994 final reports",
+    "authors": [],
+    "year": 1995,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(95)00075-u",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(95)00075-u",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "세계재생에너지의회",
+      "친환경에너지",
+      "에너지정책",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "Renewable Energy 저널에 1995년 발표된 본 논문은, 1994년 개최된 세계 재생에너지 의회(World Renewable Energy Congress)의 최종 보고서로서 당시 전 세계 재생에너지 기술의 발전 현황과 미래 전망을 종합한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1995-world-renewable-energy-congress-1994-final-reports.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-facility-management-and-coaching",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#8C6A47",
+    "title": "Acta Universitatis Bohemiae Meridionalis 저널에 게재된 시설 관리와 코칭의 접목을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "시설 관리와 코칭의 접목 방안",
+    "originalTitle": "Facility management and coaching",
+    "authors": [
+      "Vladimír Štípek"
+    ],
+    "year": 2012,
+    "journal": "Acta Universitatis Bohemiae Meridionalis",
+    "doi": "10.32725/acta.2008.030",
+    "sourceUrl": "https://doi.org/10.32725/acta.2008.030",
+    "keywords": [
+      "건축·시설관리",
+      "시설관리",
+      "코칭",
+      "조직관리",
+      "인적자원",
+      "업무효율성",
+      "학술논문"
+    ],
+    "summary": "Vladimír Štípek가 2012년 Acta Universitatis Bohemiae Meridionalis에 발표한 본 논문은, 건물과 설비를 다루는 전통적인 시설 관리(Facility Management) 분야에 구성원의 소통과 성장을 돕는 '코칭(Coaching)' 기법을 도입하여 조직의 효율성과 관리 역량을 높이는 방안을 다룬 건축·시설관리 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2012-facility-management-and-coaching.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-do-neural-models-learn-systematicity-of-monotonicity",
     "verified": true,
     "category": "인공지능",
