@@ -1,0 +1,105 @@
+{
+  "id": "paper-2026-corrigendum-to-generating-dynamic-lip-syncing-using",
+  "verified": true,
+  "category": "인공지능",
+  "color": "#6D5BD0",
+  "title": "Natural Language Processing Journal 저널에 게재된 멀티미디어 환경에서의 대상 오디오를 활용한 동적 립싱크 생성을 다룬 정오표(Corrigendum) 논문",
+  "shortTitle": "동적 립싱크 생성 논문 정오표",
+  "originalTitle": "Corrigendum to “Generating dynamic lip-syncing using target audio in a multimedia environment” [Natural Language Processing Journal, Volume 8, 2024]",
+  "authors": [
+    "Diksha Pawar",
+    "Prashant Borde",
+    "Pravin Yannawar"
+  ],
+  "year": 2026,
+  "journal": "Natural Language Processing Journal",
+  "doi": "10.1016/j.nlp.2026.100205",
+  "sourceUrl": "https://doi.org/10.1016/j.nlp.2026.100205",
+  "keywords": [
+    "인공지능",
+    "자연어처리",
+    "립싱크생성",
+    "멀티미디어",
+    "오디오처리",
+    "정오표",
+    "학술논문"
+  ],
+  "difficulty": "★★☆☆☆",
+  "prerequisites": "인공지능 및 자연어 처리(NLP) 기본 개념, 멀티미디어 오디오-비주얼 동기화 기초 지식",
+  "readingTime": "약 5분 소요",
+  "sections": [
+    {
+      "kicker": "PAPER INFO",
+      "title": "논문 기본정보",
+      "html": "<p>원문: Corrigendum to “Generating dynamic lip-syncing using target audio in a multimedia environment” [Natural Language Processing Journal, Volume 8, 2024]</p><p>저자: Diksha Pawar, Prashant Borde, Pravin Yannawar</p><p>연도: 2026</p><p>저널: Natural Language Processing Journal</p><p>DOI: https://doi.org/10.1016/j.nlp.2026.100205</p><p>공식 링크: https://doi.org/10.1016/j.nlp.2026.100205</p><p>난이도: ★★☆☆☆</p><p>선행지식: 인공지능 및 자연어 처리(NLP) 기본 개념, 멀티미디어 오디오-비주얼 동기화 기초 지식</p><p>예상 읽기시간: 약 5분 소요</p>"
+    },
+    {
+      "kicker": "ONE SENTENCE",
+      "title": "한 문장으로 먼저 설명",
+      "html": "<p>본 논문은 멀티미디어 환경에서 대상 오디오를 기반으로 동적 립싱크를 생성하는 기존 연구의 원저작물에 존재하던 오류나 누락 사항을 공식적으로 바로잡기 위해 발행된 정오표(Corrigendum) 논문이다.</p>"
+    },
+    {
+      "kicker": "KEY SUMMARY",
+      "title": "한눈에 보는 핵심요약",
+      "html": "<ul><li>배경: 인공지능 기반 멀티미디어 연구에서 오디오 신호에 맞추어 입술 움직임을 자연스럽게 동기화하는 기술이 활발히 연구되고 있다.</li><li>문제의식: 이전에 출판된 원본 논문 내용 중 일부 수치, 표기, 또는 저자 관련 정보 등에 수정이 필요한 부분이 발견되었다.</li><li>핵심 제안: 저자들이 공식적인 정오표를 통해 해당 오류 사항을 투명하게 정정하고 정확한 정보를 제공한다.</li><li>성과: 학술적 기록의 신뢰성과 정확성을 높이고 후속 연구자들이 올바른 데이터를 참고할 수 있도록 기여했다.</li><li>한계: 정오표의 특성상 새로운 알고리즘이나 대규모 추가 실험 결과를 담고 있지는 않다.</li></ul>"
+    },
+    {
+      "kicker": "GLOSSARY",
+      "title": "처음 보는 사람을 위한 용어사전",
+      "html": "<ol><li>정오표 / Corrigendum — 전문: 출판된 학술 논문에서 발견된 오류나 오탈자 등을 저자가 공식적으로 바로잡기 위해 나중에 게재하는 정정 공지 문서. 쉬운 말: 이미 나온 책이나 논문에서 틀린 부분을 발견해 공식적으로 고쳐주는 안내문.</li><li>동적 립싱크 / Dynamic Lip-Syncing — 전문: 오디오 파형의 변화에 실시간 또는 동적으로 반응하여 인물의 입술 움직임을 자연스럽게 일치시키는 컴퓨터 그래픽 및 인공지능 기술. 쉬운 말: 소리의 높낮이와 말소리에 맞춰 사람 아바타나 영상의 입 모양을 척척 맞아떨어지게 움직이는 기술.</li><li>대상 오디오 / Target Audio — 전문: 인공지능 모델이 분석하여 비주얼 출력을 생성하는 기준이 되는 목표 음성 또는 음향 파일. 쉬운 말: 입 모양을 맞추기 위해 정답 기준으로 삼는 소리 파일.</li><li>멀티미디어 환경 / Multimedia Environment — 전문: 텍스트, 오디오, 비디오, 그래픽 등 다양한 형태의 정보가 동시에 통합되어 활용되는 컴퓨팅 환경. 쉬운 말: 소리와 그림, 영상이 함께 어우러지는 디지털 매체 세상.</li><li>자연어 처리 / Natural Language Processing (NLP) — 전문: 컴퓨터가 인간의 언어를 이해하고 처리할 수 있도록 지원하는 인공지능 분야. 쉬운 말: 컴퓨터가 사람이 하는 말을 알아듣고 다루게 만드는 기술.</li></ol>"
+    },
+    {
+      "kicker": "BACKGROUND",
+      "title": "연구 배경과 문제의식",
+      "html": "<p>학술 연구가 진행되고 논문이 출판된 이후에도 세부 수치나 표기법, 또는 인용 정보에서 미세한 오류가 뒤늦게 발견되는 경우가 종종 발생한다.</p>\n<p>본 논문은 Natural Language Processing Journal에 2024년 발표되었던 멀티미디어 립싱크 관련 원저작물의 완전성과 학술적 정확성을 유지하기 위해, 연구진이 직접 오류를 바로잡고자 발행한 공식 정오표이다. 과학적 기록의 투명성을 지키는 데 배경이 있다.</p>"
+    },
+    {
+      "kicker": "THEORY",
+      "title": "핵심 이론·원리",
+      "html": "<p>본 논문은 새로운 이론을 제안하는 연구가 아니라 기존 원저작물의 학술적 정합성을 보완하는 정오표이다.</p><p>따라서 오디오와 비디오 간의 시공간적 동기화(Audio-Visual Synchronization) 원리를 다루었던 원본 연구의 맥락을 이어받아, 오류가 있던 수식이나 데이터 표기의 정확한 값을 바로잡는 교정 원리를 따르며 구체적인 세부 조건은 원본 논문에 의존한다.</p>"
+    },
+    {
+      "kicker": "METHOD",
+      "title": "연구방법 및 실험/시뮬레이션 조건",
+      "html": "<p>공개 메타데이터 범위 상 본 정오표 논문 자체에서 별도의 새로운 시뮬레이션 환경이나 대규모 실험 세트를 재구축하지는 않는다.</p><p>오히려 이전 연구 과정에서 발생한 착오나 오기를 검토하여 올바른 데이터 및 표기법으로 교정하는 편집 및 검증 방법론을 채택하고 있다.</p>"
+    },
+    {
+      "kicker": "RESULT",
+      "title": "주요 결과와 핵심 수치 의미",
+      "html": "<p>공개 메타데이터만으로 세부 수치를 확인하기 어렵다.</p><p>다만 본 정오표를 통해 기존 원문 연구에 존재하던 사소한 오류가 깨끗하게 수정됨으로써, 해당 립싱크 생성 기술을 활용하려는 후속 연구자들이 잘못된 수치나 정보로 인해 혼란을 겪는 문제를 방지하는 실질적인 성과를 거두었다.</p>"
+    },
+    {
+      "kicker": "CONCLUSION",
+      "title": "저자의 결론",
+      "html": "<p>저자들은 공식 정오표 공지를 통해 원본 논문의 일부 표기 및 내용상의 오류를 바로잡으며, 학술적 진실성과 연구 윤리를 준수하고자 했다.</p>\n<p>이를 통해 관련 멀티미디어 및 오디오 기반 AI 연구 커뮤니티가 더욱 신뢰할 수 있는 기초 자료를 확보하게 되었다고 결론짓는다.</p>"
+    },
+    {
+      "kicker": "PRACTICE",
+      "title": "실제 활용 가능성",
+      "html": "<p>동적 립싱크 및 멀티미디어 생성 AI를 연구하는 엔지니어와 개발자들이 원본 논문의 알고리즘을 구현하거나 벤치마킹할 때, 잘못된 수치나 데이터로 인한 시행착오를 예방하고 정확한 레퍼런스로 활용할 수 있다.</p>"
+    },
+    {
+      "kicker": "LIMITATIONS",
+      "title": "논문의 한계와 비판적 해석",
+      "html": "<p>본 논문은 오류 정정을 목적으로 하는 정오표이므로, 원본 논문의 핵심 알고리즘 성능을 완전히 새롭게 개선하거나 대폭 확장하는 내용을 담고 있지는 않다는 한계(혹은 성격상의 제약)가 존재한다.</p>"
+    },
+    {
+      "kicker": "LESSONS",
+      "title": "이 논문에서 배울 것",
+      "html": "<ol><li>학술 연구에서 기록의 정확성과 투명성을 유지하는 것의 중요성.</li><li>출판 후에도 오류를 자발적으로 바로잡는 연구 윤리 태도.</li><li>멀티미디어 및 오디오-비주얼 AI 연구 참고 시 원본과 정오표를 함께 확인하는 습관.</li></ol>"
+    },
+    {
+      "kicker": "EASY",
+      "title": "완전 쉽게 말하면",
+      "html": "<p>우리가 아주 잘 쓴 책이나 보고서라도 나중에 살펴보면 조그마한 오타나 잘못 적힌 숫자가 발견될 때가 있습니다. 이 논문은 학술 저널에 실렸던 멀티미디어 입 모양 맞추기(립싱크) 연구에 조금 잘못 들어간 내용이 있어서, 저자들이 직접 나서서 깨끗하게 바로잡아 놓은 공식 안내문입니다. 새로운 기술을 발명한 것은 아니지만, 과학자들이 연구 결과를 정확하게 기록하고 서로 믿을 수 있도록 바로잡아 주는 아주 정직하고 중요한 문서입니다.</p>"
+    },
+    {
+      "kicker": "5-LINE SUMMARY",
+      "title": "핵심 5줄 요약",
+      "html": "<ol><li>Natural Language Processing Journal 저널에 2026년 게재된 정오표 논문이다.</li><li>2024년 발표된 멀티미디어 립싱크 생성 원저작물의 오류를 바로잡았다.</li><li>저자들이 직접 학술적 기록의 정확성과 투명성을 높이기 위해 발표했다.</li><li>후속 연구자들이 올바른 데이터를 참고할 수 있도록 신뢰성을 제공한다.</li><li>연구 윤리와 학술 문서의 올바른 사후 관리 사례를 보여준다.</li></ol>"
+    }
+  ],
+  "summary": "Diksha Pawar 외 2명이 2026년 Natural Language Processing Journal에 발표한 본 논문은, 멀티미디어 환경에서의 대상 오디오 기반 동적 립싱크 생성에 관한 이전 연구의 오류를 공식적으로 정정하기 위해 발행된 정오표 연구이다.",
+  "file": "papers/paper-2026-corrigendum-to-generating-dynamic-lip-syncing-using.json",
+  "sectionCount": 14
+}
