@@ -1,5 +1,156 @@
 [
   {
+    "id": "paper-2024-automatic-language-ability-assessment-method-based-on",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Natural Language Processing Journal 저널에 게재된 자연어 처리를 기반으로 한 자동 언어 능력 평가 방법을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "자연어 처리 기반 자동 언어 능력 평가 방법",
+    "originalTitle": "Automatic language ability assessment method based on natural language processing",
+    "authors": [
+      "Nonso Nnamoko",
+      "Themis Karaminis",
+      "Jack Procter",
+      "Joseph Barrowclough",
+      "Ioannis Korkontzelos"
+    ],
+    "year": 2024,
+    "journal": "Natural Language Processing Journal",
+    "doi": "10.1016/j.nlp.2024.100094",
+    "sourceUrl": "https://doi.org/10.1016/j.nlp.2024.100094",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "언어능력평가",
+      "텍스트분석",
+      "자동평가",
+      "머신러닝",
+      "학술논문"
+    ],
+    "summary": "Nonso Nnamoko 외 4명이 2024년 Natural Language Processing Journal에 발표한 본 논문은, 자연어 처리 기술을 활용하여 개인의 언어 능력을 자동으로 정확하게 평가할 수 있는 새로운 방법론을 제안한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2024-automatic-language-ability-assessment-method-based-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-reliability-a-neglected-topic-in-the-power",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Journal of Power Electronics 저널에 게재된 전력전자 교육 과정에서의 신뢰성 교육 부재 문제를 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력전자 교육 과정의 신뢰성 문제",
+    "originalTitle": "Reliability: A Neglected Topic in the Power Electronics Curricula",
+    "authors": [
+      "Hugo Calleja",
+      "Freddy Chan"
+    ],
+    "year": 2010,
+    "journal": "Journal of Power Electronics",
+    "doi": "10.6113/jpe.2010.10.6.660",
+    "sourceUrl": "https://doi.org/10.6113/jpe.2010.10.6.660",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "신뢰성",
+      "공학교육",
+      "커리큘럼",
+      "전력변환장치",
+      "학술논문"
+    ],
+    "summary": "Hugo Calleja와 Freddy Chan이 2010년 Journal of Power Electronics에 발표한 본 논문은, 전력전자 공학 교육 과정에서 중요성에도 불구하고 상대적으로 소홀히 다루어져 온 '신뢰성(Reliability)' 분야의 교육 필요성을 지적하고 개선 방향을 제안한 전기공학 교육 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2010-reliability-a-neglected-topic-in-the-power.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-autonomous-navigation-strategy-in-mobile-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Computers 저널에 게재된 모바일 로봇의 자율 주행 전략을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모바일 로봇의 자율 주행 전략",
+    "originalTitle": "Autonomous Navigation Strategy in Mobile Robot",
+    "authors": [
+      "Jianxian Cai",
+      "Lixin Li"
+    ],
+    "year": 2013,
+    "journal": "Journal of Computers",
+    "doi": "10.4304/jcp.8.8.2118-2125",
+    "sourceUrl": "https://doi.org/10.4304/jcp.8.8.2118-2125",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로봇",
+      "자율주행",
+      "내비게이션전략",
+      "경로계획",
+      "제어시스템",
+      "학술논문"
+    ],
+    "summary": "Jianxian Cai와 Lixin Li가 2013년 Journal of Computers에 발표한 본 논문은, 모바일 로봇이 복잡한 환경에서 스스로 목적지까지 안전하고 효율적으로 이동하기 위한 자율 주행 및 내비게이션 전략을 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-autonomous-navigation-strategy-in-mobile-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-renewable-energy-project-monitor",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A8A42",
+    "title": "Renewable Energy Focus 저널에 게재된 신재생 에너지 프로젝트 모니터링을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "신재생 에너지 프로젝트 모니터링",
+    "originalTitle": "Renewable energy project monitor",
+    "authors": [
+      "Mike Major"
+    ],
+    "year": 2011,
+    "journal": "Renewable Energy Focus",
+    "doi": "10.1016/s1755-0084(11)70145-4",
+    "sourceUrl": "https://doi.org/10.1016/s1755-0084(11)70145-4",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "에너지프로젝트",
+      "프로젝트모니터링",
+      "환경관리",
+      "학술논문"
+    ],
+    "summary": "Mike Major가 2011년 Renewable Energy Focus에 발표한 본 논문은, 전 세계적으로 확대되는 신재생 에너지 프로젝트의 진행 상황과 성과를 효과적으로 추적하고 관리하기 위한 모니터링 방안을 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2011-renewable-energy-project-monitor.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-editorial-board",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D47A37",
+    "title": "Advances in Building Energy Research 저널에 게재된 편집위원회를 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "Advances in Building Energy Research 편집위원회",
+    "originalTitle": "Editorial Board",
+    "authors": [],
+    "year": 2013,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.1080/17512549.2013.877646",
+    "sourceUrl": "https://doi.org/10.1080/17512549.2013.877646",
+    "keywords": [
+      "건축·시설관리",
+      "건물에너지",
+      "학술저널",
+      "편집위원회",
+      "학술논문"
+    ],
+    "summary": "2013년 Advances in Building Energy Research 저널에 게재된 본 문서는 건물 에너지 연구 분야의 학술적 발전과 논문 심사 과정을 이끄는 편집위원회(Editorial Board)의 구성과 역할을 소개하는 학술 저널 메타 정보 연구이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2013-editorial-board.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2024-harmonynet-navigating-hate-speech-detection",
     "verified": true,
     "category": "인공지능",
