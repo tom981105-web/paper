@@ -1,5 +1,132 @@
 [
   {
+    "id": "paper-2020-language-processing-for-finance-and-economics",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Natural Language Processing 저널에 게재된 재무 및 경제 분야의 언어 처리를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "재무 및 경제 분야의 언어 처리",
+    "originalTitle": "Language Processing for Finance and Economics",
+    "authors": [
+      "Hiroki Sakaji",
+      "Kiyoshi Izumi",
+      "Hiroyuki Sakai"
+    ],
+    "year": 2020,
+    "journal": "Journal of Natural Language Processing",
+    "doi": "10.5715/jnlp.27.951",
+    "sourceUrl": "https://doi.org/10.5715/jnlp.27.951",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "재무",
+      "경제",
+      "텍스트마이닝",
+      "금융텍스트분석",
+      "기계학습",
+      "학술논문"
+    ],
+    "summary": "Hiroki Sakaji, Kiyoshi Izumi, Hiroyuki Sakai가 2020년 Journal of Natural Language Processing에 발표한 본 논문은, 방대한 금융 및 경제 관련 텍스트 데이터 속에서 유용한 정보를 추출하고 분석하는 자연어 처리(NLP) 기술의 응용과 동향을 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2020-language-processing-for-finance-and-economics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-comparison-study-for-svpwm-based-cmv-elimination",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Engineering Research and 저널에 게재된 인버터 토폴로지에 따른 공통모드전압 제거 비교 연구를 다룬 전기 분야 학술 논문",
+    "shortTitle": "인버터 토폴로지에 따른 공통모드전압 제거 비교",
+    "originalTitle": "Comparison Study for SVPWM based CMV Elimination between Two- Level Inverter, Three-Level NPC Inverter and Dual Two-Level Inverter fed Induction Motor",
+    "authors": [
+      "Midhun. G",
+      "P. Sandhya"
+    ],
+    "year": 2015,
+    "journal": "International Journal of Engineering Research and",
+    "doi": "10.17577/ijertv4is080531",
+    "sourceUrl": "https://doi.org/10.17577/ijertv4is080531",
+    "keywords": [
+      "전기",
+      "인버터",
+      "공통모드전압",
+      "SVPWM",
+      "유도전동기",
+      "전력전자",
+      "학술논문"
+    ],
+    "summary": "Midhun. G와 P. Sandhya가 2015년 International Journal of Engineering Research and에 발표한 본 논문은, 2레벨 인버터, 3레벨 NPC 인버터, 듀얼 2레벨 인버터 등 다양한 인버터 토폴로지에서 공간전압벡터변조(SVPWM)를 활용해 공통모드전압(CMV)을 제거하고 유도전동기에 미치는 영향을 비교 분석한 전기공학 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2015-comparison-study-for-svpwm-based-cmv-elimination.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-robot-learning-from-demonstration",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 로봇의 시연 학습을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇의 시연 학습",
+    "originalTitle": "Robot learning from demonstration",
+    "authors": [
+      "A. Billard"
+    ],
+    "year": 2004,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/s0921-8890(04)00037-5",
+    "sourceUrl": "https://doi.org/10.1016/s0921-8890(04)00037-5",
+    "keywords": [
+      "로봇·자동화",
+      "시연학습",
+      "모방학습",
+      "로봇제어",
+      "인간로봇상호작용",
+      "기계학습",
+      "학술논문"
+    ],
+    "summary": "A. Billard가 2004년 Robotics and Autonomous Systems에 발표한 본 논문은, 인간이 직접 시연하는 동작을 보고 로봇이 이를 모방하고 학습하여 스스로 기술을 익히는 '시연 학습(Learning from Demonstration)'의 핵심 개념과 방법론을 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2004-robot-learning-from-demonstration.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-effects-on-amorphous-silicon-photovoltaic-performance-from",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy Materials and Solar Cells 저널에 게재된 광기전력 열(PV/T) 하이브리드 장치 내 고온 어닐링 펄스가 비정질 실리콘 태양전지 성능에 미치는 영향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "고온 어닐링 펄스가 비정질 실리콘 태양전지 성능에 미치는 영향",
+    "originalTitle": "Effects on amorphous silicon photovoltaic performance from high-temperature annealing pulses in photovoltaic thermal hybrid devices",
+    "authors": [
+      "M.J.M. Pathak",
+      "J.M. Pearce",
+      "S.J. Harrison"
+    ],
+    "year": 2012,
+    "journal": "Solar Energy Materials and Solar Cells",
+    "doi": "10.1016/j.solmat.2012.01.015",
+    "sourceUrl": "https://doi.org/10.1016/j.solmat.2012.01.015",
+    "keywords": [
+      "에너지",
+      "환경",
+      "태양광",
+      "비정질실리콘",
+      "PVT하이브리드",
+      "고온어닐링",
+      "광기전력",
+      "학술논문"
+    ],
+    "summary": "M.J.M. Pathak 외 2인이 2012년 Solar Energy Materials and Solar Cells에 발표한 본 논문은, 광기전력 열(PV/T) 하이브리드 장치에서 발생하는 고온 어닐링 펄스가 비정질 실리콘 태양전지의 성능과 광안정성에 미치는 영향을 분석한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-effects-on-amorphous-silicon-photovoltaic-performance-from.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-natural-language-processing-application-to-the-chemical",
     "verified": true,
     "category": "인공지능",
