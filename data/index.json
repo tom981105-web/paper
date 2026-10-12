@@ -1,5 +1,132 @@
 [
   {
+    "id": "paper-2025-reinforcement-learning-in-der-produktionssteuerung-reinforcement-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "wt Werkstattstechnik online 저널에 게재된 생산 제어에서의 강화학습을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "생산 제어에서의 강화학습",
+    "originalTitle": "Reinforcement Learning in der Produktionssteuerung/Reinforcement Learning for production control",
+    "authors": [
+      "Eckart Uhlmann",
+      "Julian Polte",
+      "Christopher Mühlich"
+    ],
+    "year": 2025,
+    "journal": "wt Werkstattstechnik online",
+    "doi": "10.37544/1436-4980-2025-11-12-90",
+    "sourceUrl": "https://doi.org/10.37544/1436-4980-2025-11-12-90",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "생산제어",
+      "공정자동화",
+      "알고리즘",
+      "최적화",
+      "스마트팩토리",
+      "학술논문"
+    ],
+    "summary": "Eckart Uhlmann 등이 2025년 wt Werkstattstechnik online에 발표한 본 논문은, 높은 프로세스 복잡성을 지닌 생산 제어 환경에서 계획 및 제어 작업을 자동화하기 위해 강화학습 방법을 전통적인 exakten(정확한) 및 메타휴리스틱 알고리즘과 비교하여 현재 개발 단계에서의 경쟁력과 Einsatzgrenzen(적용 한계)을 평가한 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2025-reinforcement-learning-in-der-produktionssteuerung-reinforcement-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1980-power-electronics-problems-manual",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electronics and Power 저널에 게재된 전력전자 문제집을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력전자 문제집",
+    "originalTitle": "Power Electronics: Problems Manual",
+    "authors": [
+      "M.A. Gibbon"
+    ],
+    "year": 1980,
+    "journal": "Electronics and Power",
+    "doi": "10.1049/ep.1980.0093",
+    "sourceUrl": "https://doi.org/10.1049/ep.1980.0093",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "문제집",
+      "전기공학",
+      "전력변환",
+      "회로설계",
+      "교육자료",
+      "학술논문"
+    ],
+    "summary": "M.A. Gibbon이 1980년 Electronics and Power에 발표한 본 논문은, 급성장하는 전력전자 분야의 이론과 실제 응용을 학습하는 이들에게 필수적인 문제와 해법을 체계적으로 정리한 전기 분야의 교육 및 응용 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1980-power-electronics-problems-manual.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-place-recognition-with-memorable-and-stable-cues",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics 저널에 게재된 시각적 SLAM 시스템을 위한 장소 인식 기법을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "시각적 SLAM을 위한 장소 인식 기법",
+    "originalTitle": "Place Recognition with Memorable and Stable Cues for Loop Closure of Visual SLAM Systems",
+    "authors": [
+      "Rafiqul Islam",
+      "Habibullah Habibullah"
+    ],
+    "year": 2022,
+    "journal": "Robotics",
+    "doi": "10.3390/robotics11060142",
+    "sourceUrl": "https://doi.org/10.3390/robotics11060142",
+    "keywords": [
+      "로봇·자동화",
+      "시각적장소인식",
+      "비주얼슬램",
+      "루프클로저",
+      "자율주행",
+      "3D기하학적검증",
+      "딥러닝",
+      "학술논문"
+    ],
+    "summary": "Rafiqul Islam 등이 2022년 Robotics에 발표한 본 논문은, 자율 이동 로봇이 다양한 날씨와 환경 변화 속에서도 과거에 방문했던 장소를 정확히 알아보며 시각적 SLAM 시스템의 오차를 바로잡을 수 있도록 의미 있는 지역 특징과 3D 기하학적 검증을 결합한 새로운 시각적 장소 인식(VPR) 아키텍처를 제안한 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2022-place-recognition-with-memorable-and-stable-cues.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1993-renewable-energy-and-its-enemies",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 재생에너지와 그 적들을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "재생에너지와 그 적들",
+    "originalTitle": "Renewable energy and its enemies",
+    "authors": [
+      "Gwyn Prins"
+    ],
+    "year": 1993,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(93)90005-2",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(93)90005-2",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "에너지정책",
+      "환경정책",
+      "사회적저항",
+      "지속가능성",
+      "에너지전환",
+      "학술논문"
+    ],
+    "summary": "Gwyn Prins가 1993년 Renewable Energy에 발표한 본 논문은, 재생에너지가 기술적으로 가능함에도 불구하고 사회적·경제적·제도적 장벽과 기득권의 저항으로 인해 보급이 지연되는 현실을 분석한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1993-renewable-energy-and-its-enemies.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-competitive-swarm-reinforcement-learning-improves-stability-and",
     "verified": true,
     "category": "인공지능",
