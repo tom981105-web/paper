@@ -1,5 +1,121 @@
 [
   {
+    "id": "paper-2019-reinforcement-learning-in-learning-automata-and-cellular",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Knowledge-Based Systems 저널에 게재된 다중 강화 신호를 활용한 학습 오토마타 및 셀룰러 학습 오토마타의 강화학습 모델을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "다중 강화 신호 기반 학습 오토마타",
+    "originalTitle": "Reinforcement learning in learning automata and cellular learning automata via multiple reinforcement signals",
+    "authors": [
+      "Reza Vafashoar",
+      "Mohammad Reza Meybodi"
+    ],
+    "year": 2019,
+    "journal": "Knowledge-Based Systems",
+    "doi": "10.1016/j.knosys.2019.01.021",
+    "sourceUrl": "https://doi.org/10.1016/j.knosys.2019.01.021",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "학습오토마타",
+      "셀룰러오토마타",
+      "다중강화신호",
+      "머신러닝",
+      "학술논문"
+    ],
+    "summary": "2019년 Knowledge-Based Systems 저널에 게재된 Reza Vafashoar와 Mohammad Reza Meybodi의 본 논문은, 단일 신호에 의존하던 전통적인 강화학습 및 학습 오토마타 모델의 한계를 극복하기 위해 다중 강화 신호를 도입하여 복잡한 환경에서의 학습 성능과 적응력을 높인 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2019-reinforcement-learning-in-learning-automata-and-cellular.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-ieee-power-electronics-society-information-3",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Letters 저널에 게재된 전력전자 학회 정보 및 기술 동향을 다룬 전기 분야 학술 논문",
+    "shortTitle": "IEEE 전력전자 학회 정보",
+    "originalTitle": "IEEE Power Electronics Society Information",
+    "authors": [],
+    "year": 2005,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2005.846679",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2005.846679",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "학회정보",
+      "전력시스템",
+      "학술논문"
+    ],
+    "summary": "2005년 IEEE Power Electronics Letters 저널에 게재된 본 논문은, 전력전자 분야의 세계적 권위 학회인 IEEE PELS의 주요 활동과 최신 기술 동향 및 연구 방향을 소개한 전기 분야의 학술 자료이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2005-ieee-power-electronics-society-information-3.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-towards-multimodal-neural-robot-learning",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 다중 모달 신경망 기반 로봇 학습 모델을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "다중 모달 신경망 로봇 학습",
+    "originalTitle": "Towards multimodal neural robot learning",
+    "authors": [
+      "S WERMTER"
+    ],
+    "year": 2004,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/s0921-8890(04)00047-8",
+    "sourceUrl": "https://doi.org/10.1016/s0921-8890(04)00047-8",
+    "keywords": [
+      "로봇·자동화",
+      "다중모달",
+      "신경망학습",
+      "로봇학습",
+      "인공신경망",
+      "학술논문"
+    ],
+    "summary": "2004년 Robotics and Autonomous Systems 저널에 게재된 S. Wermter의 본 논문은, 로봇이 시각, 청각, 촉각 등 다양한 감각 정보를 통합하여 지능적으로 학습하고 행동할 수 있도록 하는 다중 모달 신경망 기반 로봇 학습의 방향성과 구조를 고찰한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2004-towards-multimodal-neural-robot-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-energy-efficiency-and-resilience-transitions-empirical-evidence",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Efficiency 저널에 게재된 에너지 효율성과 회복력 전환을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "에너지 효율성과 회복력 전환",
+    "originalTitle": "Energy efficiency and resilience transitions: empirical evidence on the roles of energy productivity and environmental innovation",
+    "authors": [
+      "Zeeshan Khan"
+    ],
+    "year": 2026,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-026-10437-2",
+    "sourceUrl": "https://doi.org/10.1007/s12053-026-10437-2",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "회복력전환",
+      "에너지생산성",
+      "환경혁신",
+      "학술논문"
+    ],
+    "summary": "2026년 Energy Efficiency 저널에 게재된 Zeeshan Khan의 본 논문은, 에너지 생산성과 환경 혁신이 에너지 효율성 및 시스템 회복력 전환에 미치는 영향을 실증적 증거를 바탕으로 고찰한 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2026-energy-efficiency-and-resilience-transitions-empirical-evidence.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-monte-carlo-based-reinforcement-learning-mcrl",
     "verified": true,
     "category": "인공지능",
