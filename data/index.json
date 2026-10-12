@@ -1,5 +1,127 @@
 [
   {
+    "id": "paper-2023-modern-general-game-playing-with-reinforcement-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Electrical Electronics Engineering 저널에 게재된 강화학습을 활용한 일반 게임 플레이(GGP) 연구 동향과 핵심 알고리즘을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "강화학습 기반 일반 게임 플레이",
+    "originalTitle": "Modern General Game Playing with Reinforcement Learning",
+    "authors": [],
+    "year": 2023,
+    "journal": "Journal of Electrical Electronics Engineering",
+    "doi": "10.33140/jeee.02.04.16",
+    "sourceUrl": "https://doi.org/10.33140/jeee.02.04.16",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "일반게임플레이",
+      "심층강화학습",
+      "심층Q네트워크",
+      "자율시스템",
+      "알고리즘",
+      "학술논문"
+    ],
+    "summary": "Journal of Electrical Electronics Engineering 저널에 2023년 게재된 본 논문은, 강화학습(RL)을 활용한 일반 게임 플레이(GGP)의 역사, 핵심 알고리즘, 최신 발전 동향 및 다양한 응용 분야를 종합적으로 조망한 인공지능 분야의 서베이 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2023-modern-general-game-playing-with-reinforcement-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1975-electronics-medium-power-m-e-s-f",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electronics and Power 저널에 게재된 RCA의 중전력 MESFET 기술을 다룬 전기 분야 학술 논문",
+    "shortTitle": "RCA의 중전력 MESFET",
+    "originalTitle": "Electronics. Medium-power m.e.s.f.e.t.s developed by RCA",
+    "authors": [
+      "RCA"
+    ],
+    "year": 1975,
+    "journal": "Electronics and Power",
+    "doi": "10.1049/ep.1975.0247",
+    "sourceUrl": "https://doi.org/10.1049/ep.1975.0247",
+    "keywords": [
+      "전기",
+      "MESFET",
+      "중전력",
+      "반도체소자",
+      "전계효과트랜지스터",
+      "RCA",
+      "마이크로파",
+      "학술논문"
+    ],
+    "summary": "1975년 Electronics and Power 저널에 발표된 본 논문은, 유명 전자기업 RCA가 개발한 중전력 MESFET(금속-반도체 전계효과 트랜지스터) 소자의 기술적 특징과 마이크로파 및 고주파 응용 가능성을 다룬 전기·반도체 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1975-electronics-medium-power-m-e-s-f.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1990-british-robot-association-robot-facts-1989",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robotics and Autonomous Systems 저널에 게재된 1989년 영국의 로봇 산업 동향과 통계 사실을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "1989 영국 로봇 산업 사실",
+    "originalTitle": "British robot association — Robot facts 1989",
+    "authors": [
+      "British Robot Association"
+    ],
+    "year": 1990,
+    "journal": "Robotics and Autonomous Systems",
+    "doi": "10.1016/s0921-8890(05)80019-3",
+    "sourceUrl": "https://doi.org/10.1016/s0921-8890(05)80019-3",
+    "keywords": [
+      "로봇·자동화",
+      "로봇산업",
+      "영국로봇협회",
+      "산업용로봇",
+      "로봇통계",
+      "자동화동향",
+      "제조업자동화",
+      "학술논문"
+    ],
+    "summary": "British Robot Association이 1990년 Robotics and Autonomous Systems 저널에 발표한 본 논문은, 1989년 당시 영국의 로봇 산업 현황과 도입 통계, 그리고 제조 현장에서의 자동화 진척 상황을 객관적인 데이터로 정리한 로봇·자동화 분야의 학술 자료이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1990-british-robot-association-robot-facts-1989.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-china-s-renewable-energy-revolution",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Renewable Energy Focus 저널에 게재된 중국의 재생에너지 혁명과 청정에너지 전환 전략을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국의 재생에너지 혁명",
+    "originalTitle": "China's renewable energy revolution",
+    "authors": [
+      "Felicia Jackson"
+    ],
+    "year": 2011,
+    "journal": "Renewable Energy Focus",
+    "doi": "10.1016/s1755-0084(11)70146-6",
+    "sourceUrl": "https://doi.org/10.1016/s1755-0084(11)70146-6",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "중국에너지",
+      "청정에너지",
+      "에너지전환",
+      "태양광",
+      "풍력",
+      "학술논문"
+    ],
+    "summary": "Felicia Jackson이 2011년 Renewable Energy Focus 저널에 발표한 본 논문은, 급격한 경제 성장과 함께 세계 최대의 에너지 소비국이자 온실가스 배출국으로 부상한 중국이 어떻게 재생에너지 중심의 구조적 혁명과 청정에너지 전환을 추진하고 있는지 그 전략과 의미를 분석한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-china-s-renewable-energy-revolution.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-deep-reinforcement-learning-on-stock-data",
     "verified": true,
     "category": "인공지능",
