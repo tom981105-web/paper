@@ -1,5 +1,127 @@
 [
   {
+    "id": "paper-2026-reinforcement-learning-for-personalised-education",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Advanced Research in Mechanical Engineering and Technology 저널에 게재된 개인화 교육을 위한 강화학습을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "개인화 교육을 위한 강화학습",
+    "originalTitle": "Reinforcement Learning for Personalised Education",
+    "authors": [
+      "Jahanvi Arora"
+    ],
+    "year": 2026,
+    "journal": "Journal of Advanced Research in Mechanical Engineering and Technology",
+    "doi": "10.24321/2454.8650.202503",
+    "sourceUrl": "https://doi.org/10.24321/2454.8650.202503",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "개인화교육",
+      "적응형학습",
+      "교육공학",
+      "지능형튜터링",
+      "학습최적화",
+      "학술논문"
+    ],
+    "summary": "Jahanvi Arora가 2026년 Journal of Advanced Research in Mechanical Engineering and Technology에 발표한 본 논문은, 학생 개개인의 특성과 학습 진도에 맞추어 최적의 교육 경로와 콘텐츠를 제공하기 위해 강화학습을 활용한 개인화 교육 시스템의 접근법을 다룬 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2026-reinforcement-learning-for-personalised-education.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-improved-estimation-scheme-for-disturbance-due-to",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electronics Letters 저널에 게재된 데드타임 및 인버터 비선형성 외란 추정 기법을 다룬 전기 분야 학술 논문",
+    "shortTitle": "데드타임 및 인버터 비선형성 외란 추정",
+    "originalTitle": "Improved estimation scheme for disturbance due to dead time and inverter nonlinearity in inverter‐fed PMSM drive",
+    "authors": [
+      "Kyeong‐Hwa Kim"
+    ],
+    "year": 2013,
+    "journal": "Electronics Letters",
+    "doi": "10.1049/el.2013.1704",
+    "sourceUrl": "https://doi.org/10.1049/el.2013.1704",
+    "keywords": [
+      "전기",
+      "전기공학",
+      "PMSM",
+      "인버터",
+      "데드타임",
+      "외란추정",
+      "고조파추출",
+      "학술논문"
+    ],
+    "summary": "Kyeong-Hwa Kim이 2013년 Electronics Letters에 발표한 본 논문은, 인버터 구동 영구자석 동기 전동기(PMSM)에서 발생하는 데드타임과 인버터 비선형성으로 인한 외란을 추가 회로 및 파라미터 정보 없이 신호 처리 및 고조파 성분 추출을 통해 신속하게 추정하는 개선된 기법을 제안한 전기 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-improved-estimation-scheme-for-disturbance-due-to.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-indoor-single-camera-slam-using-fiducial-markers",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Institute of Control, Robotics and Systems 저널에 게재된 마커 기반 실내 단일 카메라 SLAM을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "마커 기반 실내 단일 카메라 SLAM",
+    "originalTitle": "Indoor Single Camera SLAM using Fiducial Markers",
+    "authors": [],
+    "year": 2009,
+    "journal": "Journal of Institute of Control, Robotics and Systems",
+    "doi": "10.5302/j.icros.2009.15.4.353",
+    "sourceUrl": "https://doi.org/10.5302/j.icros.2009.15.4.353",
+    "keywords": [
+      "로봇·자동화",
+      "SLAM",
+      "단일카메라",
+      "마커",
+      "실내위치추정",
+      "자율이동로봇",
+      "비전기반내비게이션",
+      "학술논문"
+    ],
+    "summary": "2009년 Journal of Institute of Control, Robotics and Systems에 발표된 본 논문은, GPS가 닿지 않는 실내 환경에서 단일 카메라와 기준 마커를 활용하여 로봇의 위치를 추정하고 지도를 작성하는 SLAM 기술을 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2009-indoor-single-camera-slam-using-fiducial-markers.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-renewable-energy-focus-restyled",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy Focus 저널에 게재된 신재생 에너지 포커스 저널의 개편과 방향성을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "Renewable Energy Focus 저널 개편",
+    "originalTitle": "Renewable Energy Focus, restyled!",
+    "authors": [
+      "David Hopwood"
+    ],
+    "year": 2015,
+    "journal": "Renewable Energy Focus",
+    "doi": "10.1016/j.ref.2015.09.015",
+    "sourceUrl": "https://doi.org/10.1016/j.ref.2015.09.015",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "에너지포커스",
+      "학술저널",
+      "저널개편",
+      "친환경에너지",
+      "편집방향",
+      "학술논문"
+    ],
+    "summary": "David Hopwood가 2015년 Renewable Energy Focus에 발표한 본 논문은, 급변하는 신재생 에너지 산업의 트렌드와 독자들의 요구에 발맞추어 학술 및 전문 매거진으로서 저널의 편집 방향과 시각적·구조적 개편 내용을 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2015-renewable-energy-focus-restyled.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-automated-firewall-policy-generation-with-reinforcement-learning",
     "verified": true,
     "category": "인공지능",
