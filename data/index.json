@@ -1,5 +1,127 @@
 [
   {
+    "id": "paper-2024-an-exploration-of-reinforcement-learning-and-deep",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Applied and Computational Engineering 저널에 게재된 강화학습과 심층 강화학습의 탐색을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "강화학습과 심층 강화학습 탐색",
+    "originalTitle": "An exploration of reinforcement learning and deep reinforcement learning",
+    "authors": [
+      "Zisheng Fan"
+    ],
+    "year": 2024,
+    "journal": "Applied and Computational Engineering",
+    "doi": "10.54254/2755-2721/73/20240386",
+    "sourceUrl": "https://doi.org/10.54254/2755-2721/73/20240386",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "심층강화학습",
+      "머신러닝",
+      "인공신경망",
+      "결정최적화",
+      "최신응용",
+      "학술논문"
+    ],
+    "summary": "2024년 Applied and Computational Engineering 저널에 발표된 본 논문은, 급격히 진화하는 인공지능 분야에서 머신러닝의 핵심 축인 강화학습과 심층 강화학습의 개념, 작동 절차, 주요 응용 분야를 체계적으로 검토하고 리뷰한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2024-an-exploration-of-reinforcement-learning-and-deep.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-low-speed-electric-machine-used-for-electric",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Advanced Materials Research 저널에 게재된 사보니우스 풍차 기반 저속 발전용 전기기기 특성을 다룬 전기 분야 학술 논문",
+    "shortTitle": "사보니우스 풍차용 저속 전기 발전기 특성",
+    "originalTitle": "Low Speed Electric Machine Used for Electric Generating from Savonius Windmill",
+    "authors": [
+      "Y.B. Lukiyanto"
+    ],
+    "year": 2013,
+    "journal": "Advanced Materials Research",
+    "doi": "10.4028/www.scientific.net/amr.789.443",
+    "sourceUrl": "https://doi.org/10.4028/www.scientific.net/amr.789.443",
+    "keywords": [
+      "전기",
+      "풍력발전",
+      "사보니우스풍차",
+      "저속발전기",
+      "영구자석모터",
+      "배터리충전",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "Y.B. Lukiyanto가 2013년 Advanced Materials Research 저널에 발표한 본 논문은, 인도네시아의 저풍속 환경에 적합한 사보니우스 풍차를 활용하여 저속 영구자석 전기 모터를 발전기로 구동했을 때의 출력 특성과 배터리 충전 성능을 분석한 전기 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2013-low-speed-electric-machine-used-for-electric.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2000-modelling-and-control-of-robot-manipulators",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 로봇 매니퓰레이터의 모델링 및 제어를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 매니퓰레이터 모델링 및 제어",
+    "originalTitle": "Modelling and Control of Robot Manipulators",
+    "authors": [
+      "Jon Rigelsford"
+    ],
+    "year": 2000,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2000.04927eae.002",
+    "sourceUrl": "https://doi.org/10.1108/ir.2000.04927eae.002",
+    "keywords": [
+      "로봇·자동화",
+      "로봇매니퓰레이터",
+      "모델링",
+      "로봇제어",
+      "기구학",
+      "동역학",
+      "자동화공학",
+      "학술논문"
+    ],
+    "summary": "Jon Rigelsford가 2000년 Industrial Robot: An International Journal에 발표한 본 논문은, 산업 현장에서 널리 쓰이는 로봇 매니퓰레이터의 정확한 움직임을 구현하기 위한 수학적 모델링과 효율적인 제어 기법을 다룬 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2000-modelling-and-control-of-robot-manipulators.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1993-wren-world-renewable-energy-network-charter",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 세계 재생 가능 에너지를 위한 WREN 헌장을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "WREN 세계 재생에너지 네트워크 헌장",
+    "originalTitle": "Wren (World renewable energy network) charter",
+    "authors": [],
+    "year": 1993,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(93)90003-y",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(93)90003-y",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "WREN",
+      "세계재생에너지네트워크",
+      "에너지정책",
+      "지속가능성",
+      "국제협력",
+      "학술논문"
+    ],
+    "summary": "1993년 Renewable Energy 저널에 발표된 본 논문은, 전 세계적인 친환경 에너지 전환과 국제적 협력을 도모하기 위해 세계 재생 가능 에너지 네트워크(WREN)의 설립 목적과 기본 원칙을 담은 헌장(Charter)을 제시한 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1993-wren-world-renewable-energy-network-charter.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2024-reinforcement-learning-ddpg-algorithm-based-wheeled-mobility",
     "verified": true,
     "category": "인공지능",
