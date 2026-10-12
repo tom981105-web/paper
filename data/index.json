@@ -1,5 +1,131 @@
 [
   {
+    "id": "paper-2023-deep-reinforcement-learning-on-stock-data",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Alatoo Academic Studies 저널에 게재된 심층 강화학습을 활용한 주식 시장 예측 및 거래 결정 기술을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "심층 강화학습 기반 주식 거래",
+    "originalTitle": "DEEP REINFORCEMENT LEARNING ON STOCK DATA",
+    "authors": [
+      "Abdullayev Nurmuhammet"
+    ],
+    "year": 2023,
+    "journal": "Alatoo Academic Studies",
+    "doi": "10.17015/aas.2023.232.49",
+    "sourceUrl": "https://doi.org/10.17015/aas.2023.232.49",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "심층강화학습",
+      "주식시장",
+      "금융머신러닝",
+      "거래전략",
+      "예측모델",
+      "학술논문"
+    ],
+    "summary": "Abdullayev Nurmuhammet이 2023년 Alatoo Academic Studies 저널에 발표한 본 논문은, 복잡하고 변동성이 큰 주식 시장에서 인공지능 에이전트가 환경과의 상호작용을 통해 최적의 거래 전략을 학습할 수 있도록 돕는 심층 강화학습(DRL) 모델의 활용 가능성과 예측 성능을 검증한 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2023-deep-reinforcement-learning-on-stock-data.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1967-high-power-electronics-vol-2",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electronics and Power 저널에 게재된 고전력 전자공학 기술을 다룬 전기 분야 학술 논문",
+    "shortTitle": "고전력 전자공학 2",
+    "originalTitle": "High-Power Electronics—Vol. 2",
+    "authors": [
+      "R.B. Dyott"
+    ],
+    "year": 1967,
+    "journal": "Electronics and Power",
+    "doi": "10.1049/ep.1967.0092",
+    "sourceUrl": "https://doi.org/10.1049/ep.1967.0092",
+    "keywords": [
+      "전기",
+      "고전력전자",
+      "전력변환",
+      "반도체소자",
+      "전력전자",
+      "전기공학",
+      "학술논문"
+    ],
+    "summary": "R.B. Dyott이 1967년 Electronics and Power 저널에 발표한 본 논문은, 대규모 전력을 제어하고 변환하는 고전력 전자공학(High-Power Electronics)의 당시 기술적 발전 방향과 응용 가능성을 고찰한 전기 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1967-high-power-electronics-vol-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-discrete-abstractions-for-robot-motion-planning-and",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "IEEE Transactions on Robotics 저널에 게재된 다각형 환경에서의 로봇 모션 계획 및 제어를 위한 이산 추상화 기술을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "다각형 환경의 로봇 모션 계획",
+    "originalTitle": "Discrete abstractions for robot motion planning and control in polygonal environments",
+    "authors": [
+      "C. Belta",
+      "V. Isler",
+      "G.J. Pappas"
+    ],
+    "year": 2005,
+    "journal": "IEEE Transactions on Robotics",
+    "doi": "10.1109/tro.2005.851359",
+    "sourceUrl": "https://doi.org/10.1109/tro.2005.851359",
+    "keywords": [
+      "로봇·자동화",
+      "모션계획",
+      "이산추상화",
+      "다각형환경",
+      "로봇제어",
+      "상태공간",
+      "기하학적모델",
+      "학술논문"
+    ],
+    "summary": "C. Belta 외 2인이 2005년 IEEE Transactions on Robotics 저널에 발표한 본 논문은, 복잡한 다각형 장애물이 존재하는 환경에서 로봇이 안전하게 이동할 수 있도록 연속적인 로봇 모션 계획 및 제어 문제를 이산적인 추상화 기법을 통해 효율적으로 해결하는 방법론을 다룬 로봇·자동화 분야의 핵심 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 10분",
+    "file": "papers/paper-2005-discrete-abstractions-for-robot-motion-planning-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-editorial-for-the-inaugural-issue-of-i",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Storage 저널 창간호에 게재된 에너지 저장 기술의 중요성과 저널의 비전을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "에너지 저장 저널 창간 사설",
+    "originalTitle": "Editorial for the Inaugural Issue of Energy Storage",
+    "authors": [
+      "Ibrahim Dincer",
+      "Peter Creaton"
+    ],
+    "year": 2019,
+    "journal": "Energy Storage",
+    "doi": "10.1002/est2.52",
+    "sourceUrl": "https://doi.org/10.1002/est2.52",
+    "keywords": [
+      "에너지·환경",
+      "에너지저장",
+      "창간사설",
+      "배터리",
+      "신재생에너지",
+      "지속가능성",
+      "전력망",
+      "학술논문"
+    ],
+    "summary": "Ibrahim Dincer와 Peter Creaton이 2019년 Energy Storage 저널 창간호에 발표한 본 논문은, 전 세계적으로 급증하는 에너지 저장(Energy Storage) 기술의 중요성을 조명하고, 신재생에너지와 전력 시스템의 미래를 위한 학술적 플랫폼으로서 저널이 나아갈 방향과 비전을 제시한 에너지·환경 분야의 사설 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2019-editorial-for-the-inaugural-issue-of-i.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2024-a-survey-on-evaluation-of-large-language",
     "verified": true,
     "category": "인공지능",
