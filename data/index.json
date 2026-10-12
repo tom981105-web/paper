@@ -1,5 +1,127 @@
 [
   {
+    "id": "paper-2019-multi-objective-safe-reinforcement-learning-the-relationship",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Life and Robotics 저널에 게재된 다목적 강화학습과 안전한 강화학습 간의 관계를 규명한 인공지능 분야 학술 논문",
+    "shortTitle": "다목적·안전 강화학습의 관계",
+    "originalTitle": "Multi-objective safe reinforcement learning: the relationship between multi-objective reinforcement learning and safe reinforcement learning",
+    "authors": [
+      "Naoto Horie",
+      "Tohgoroh Matsui",
+      "Koichi Moriyama",
+      "Atsuko Mutoh",
+      "Nobuhiro Inuzuka"
+    ],
+    "year": 2019,
+    "journal": "Artificial Life and Robotics",
+    "doi": "10.1007/s10015-019-00523-3",
+    "sourceUrl": "https://doi.org/10.1007/s10015-019-00523-3",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "다목적강화학습",
+      "안전한국강화학습",
+      "정책최적화",
+      "학술논문"
+    ],
+    "summary": "2019년 Artificial Life and Robotics 저널에 게재된 Naoto Horie 외 4인의 본 논문은, 여러 개의 상충되는 목표를 동시에 달성하려는 '다목적 강화학습'과 위험을 최소화하며 제약을 준수하는 '안전한 강화학습'의 개념적 및 수학적 관계를 분석하여 두 분야를 연결하는 이론적 토대를 제시한 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2019-multi-objective-safe-reinforcement-learning-the-relationship.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-ieee-power-electronics-society-information-4",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Letters 저널에 게재된 IEEE 전력전자 소사이어티의 정보 및 학술 활동을 다룬 전기 분야 학술 논문",
+    "shortTitle": "IEEE 전력전자 소사이어티 정보",
+    "originalTitle": "IEEE Power Electronics Society Information",
+    "authors": [],
+    "year": 2005,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2005.853245",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2005.853245",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "소사이어티",
+      "학술활동",
+      "학술논문"
+    ],
+    "summary": "2005년 IEEE Power Electronics Letters 저널에 게재된 본 논문은, IEEE 전력전자 소사이어티의 주요 활동과 학술적 기여, 그리고 전력전자 분야의 최신 연구 방향과 커뮤니티 정보를 안내하는 전기 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2005-ieee-power-electronics-society-information-4.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-mobile-robot-navigation-using-direction-sensitive-rfid",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Control and Intelligent Systems 저널에 게재된 방향 감지형 RFID 리더를 활용한 모바일 로봇 내비게이션 기술을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "방향 감지형 RFID 모바일 로봇 내비게이션",
+    "originalTitle": "MOBILE ROBOT NAVIGATION USING DIRECTION-SENSITIVE RFID READER",
+    "authors": [
+      "Suruz Miah",
+      "Wail Gueaieb"
+    ],
+    "year": 2011,
+    "journal": "Control and Intelligent Systems",
+    "doi": "10.2316/journal.201.2011.4.201-2320",
+    "sourceUrl": "https://doi.org/10.2316/journal.201.2011.4.201-2320",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로봇",
+      "내비게이션",
+      "RFID리더",
+      "방향감지",
+      "위치인식",
+      "학술논문"
+    ],
+    "summary": "2011년 Control and Intelligent Systems 저널에 게재된 Suruz Miah와 Wail Gueaieb의 본 논문은, 일반적인 위치 태깅을 넘어 태그와의 상대적 방향까지 감지할 수 있는 특수한 방향 감지형 RFID 리더를 모바일 로봇에 장착하여 실내 환경에서 더욱 정확하고 효율적인 내비게이션(주행 및 위치 인식) 성능을 구현한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-mobile-robot-navigation-using-direction-sensitive-rfid.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-impact-of-building-regulations-on-energy-efficiency",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Efficiency 저널에 게재된 스웨덴 공동주택의 에너지 성능 인증 데이터 기반 건물 규제 효과 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "건물 규제가 에너지 효율에 미치는 영향",
+    "originalTitle": "Impact of building regulations on energy efficiency: Evidence from energy use in Swedish multi-apartment buildings",
+    "authors": [
+      "Xiaoying Li"
+    ],
+    "year": 2025,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-025-10334-0",
+    "sourceUrl": "https://doi.org/10.1007/s12053-025-10334-0",
+    "keywords": [
+      "에너지·환경",
+      "건물규제",
+      "에너지효율",
+      "공동주택",
+      "지역난방",
+      "전기난방",
+      "에너지성능인증",
+      "학술논문"
+    ],
+    "summary": "2025년 Energy Efficiency 저널에 게재된 Xiaoying Li의 본 논문은, 스웨덴의 에너지 성능 인증(EPC) 데이터를 활용해 성능 기반 건물 규제가 다가구 주택의 에너지 절감에 미친 영향을 실증적으로 분석하고, 규제 강화의 실효성 및 에너지 성능 격차를 진단한 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2025-impact-of-building-regulations-on-energy-efficiency.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-training-a-single-machine-learning-agent-using",
     "verified": true,
     "category": "인공지능",
