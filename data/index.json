@@ -1,5 +1,121 @@
 [
   {
+    "id": "paper-2020-training-a-single-machine-learning-agent-using",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Emerging Technologies and Computing 저널에 게재된 Unity 환경에서의 강화학습 및 모방학습 기반 머신러닝 에이전트 훈련 모델을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "Unity 기반 강화·모방학습 에이전트",
+    "originalTitle": "TRAINING A SINGLE MACHINE LEARNING AGENT USING REINFORCEMENT LEARNING AND IMITATION LEARNING METHODS IN UNITY ENVIRONMENT",
+    "authors": [
+      "Marat Urmanov",
+      "Madina Alimanova"
+    ],
+    "year": 2020,
+    "journal": "Journal of Emerging Technologies and Computing",
+    "doi": "10.47344/xp0v6x77",
+    "sourceUrl": "https://doi.org/10.47344/xp0v6x77",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "모방학습",
+      "Unity",
+      "머신러닝",
+      "에이전트",
+      "학술논문"
+    ],
+    "summary": "2020년 Journal of Emerging Technologies and Computing 저널에 게재된 Marat Urmanov와 Madina Alimanova의 본 논문은, Unity 엔진 환경에서 머신러닝 에이전트를 개발하기 위한 플러그인을 연구하고 강화학습과 모방학습을모두 사용하여 단일 에이전트를 훈련한 뒤 그 결과와 효과성을 비교 분석한 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2020-training-a-single-machine-learning-agent-using.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1987-power-electronics-and-ac-drives",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electronics and Power 저널에 게재된 전력전자와 교류 전동기 구동 시스템의 기초 및 응용을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력전자와 교류 전동기 구동",
+    "originalTitle": "Power Electronics and AC Drives",
+    "authors": [
+      "B.L. Jones"
+    ],
+    "year": 1987,
+    "journal": "Electronics and Power",
+    "doi": "10.1049/ep.1987.0212",
+    "sourceUrl": "https://doi.org/10.1049/ep.1987.0212",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "교류전동기",
+      "전동기구동",
+      "전력시스템",
+      "학술논문"
+    ],
+    "summary": "1987년 Electronics and Power 저널에 게재된 B.L. Jones의 본 논문은, 전기에너지를 효율적으로 변환하는 전력전자 기술과 이를 활용해 교류 전동기를 정밀하게 제어하는 구동 시스템의 원리 및 발전 방향을 다룬 전기 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1987-power-electronics-and-ac-drives.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-new-arcs-robot-brain-jump-starts-automation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal에 게재된 ARCS 로봇 두뇌 시스템 기반 자동화 혁신을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "ARCS 로봇 두뇌와 자동화",
+    "originalTitle": "New ARCS robot “brain” jump-starts automation",
+    "authors": [],
+    "year": 2004,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2004.04931dab.002",
+    "sourceUrl": "https://doi.org/10.1108/ir.2004.04931dab.002",
+    "keywords": [
+      "로봇·자동화",
+      "ARCS",
+      "로봇두뇌",
+      "공장자동화",
+      "제어시스템",
+      "학술논문"
+    ],
+    "summary": "2004년 Industrial Robot 저널에 게재된 본 논문은, 새로운 ARCS 로봇 제어 시스템(로봇 두뇌)을 도입하여 산업 현장의 공장 자동화를 가속화하고 로봇의 활용 효율을 극대화한 혁신적 접근을 다룬 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2004-new-arcs-robot-brain-jump-starts-automation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1993-renewable-energy-development-in-romania",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 루마니아의 신재생에너지 개발 현황과 전망을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "루마니아의 신재생에너지 개발",
+    "originalTitle": "Renewable energy development in Romania",
+    "authors": [
+      "Doru Pencea"
+    ],
+    "year": 1993,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(93)90010-e",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(93)90010-e",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "루마니아",
+      "에너지개발",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "1993년 Renewable Energy 저널에 게재된 Doru Pencea의 본 논문은, 체제 전환기 루마니아의 에너지 자원 현황을 분석하고 태양광, 풍력, 바이오매스 등 신재생에너지 개발의 잠재력과 향후 과제를 고찰한 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1993-renewable-energy-development-in-romania.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2019-reinforcement-learning-in-learning-automata-and-cellular",
     "verified": true,
     "category": "인공지능",
