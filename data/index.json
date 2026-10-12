@@ -1,5 +1,118 @@
 [
   {
+    "id": "paper-2019-reinforcement-learning-for-real-world-applications-a",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Science and Research (IJSR) 저널에 게재된 현실 세계 응용을 위한 강화학습의 종합적 동향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "현실 세계 응용을 위한 강화학습",
+    "originalTitle": "Reinforcement Learning for Real - World Applications - A Comprehensive Review",
+    "authors": [
+      "Ankur Mahida"
+    ],
+    "year": 2019,
+    "journal": "International Journal of Science and Research (IJSR)",
+    "doi": "10.21275/sr24314130644",
+    "sourceUrl": "https://doi.org/10.21275/sr24314130644",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "현실세계응용",
+      "종합리뷰",
+      "머신러닝",
+      "학술논문"
+    ],
+    "summary": "2019년 International Journal of Science and Research (IJSR) 저널에 게재된 Ankur Mahida의 본 논문은, 이론 중심의 연구에서 벗어나 로봇 제어, 자율주행, 금융 등 복잡하고 동적인 현실 세계의 다양한 문제에 강화학습이 어떻게 적용되어 왔는지 그 종합적인 동향과 활용 방안을 분석한 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2019-reinforcement-learning-for-real-world-applications-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-ieee-power-electronics-letters-blank-page",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Letters 저널의 공백 페이지를 수록한 전기 분야 학술 자료",
+    "shortTitle": "IEEE Power Electronics Letters 공백 페이지",
+    "originalTitle": "IEEE Power Electronics Letters blank page",
+    "authors": [],
+    "year": 2005,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2005.853246",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2005.853246",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "학술저널",
+      "간행물",
+      "학술논문"
+    ],
+    "summary": "2005년 IEEE Power Electronics Letters 저널에 게재된 본 자료는, 인쇄 및 편집 과정에서 레이아웃 조정 등을 위해 삽입된 공식 공백 페이지로, 학술 간행물의 물리적 구성 요소를 보여주는 전기 분야의 기록물이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2005-ieee-power-electronics-letters-blank-page.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1991-robot-motion-planning",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "CVGIP: Image Understanding 저널에 게재된 로봇 모션 플래닝의 핵심 개념과 접근법을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 모션 플래닝",
+    "originalTitle": "Robot motion planning",
+    "authors": [],
+    "year": 1991,
+    "journal": "CVGIP: Image Understanding",
+    "doi": "10.1016/1049-9660(91)90042-n",
+    "sourceUrl": "https://doi.org/10.1016/1049-9660(91)90042-n",
+    "keywords": [
+      "로봇·자동화",
+      "로봇모션플래닝",
+      "경로계획",
+      "자율이동",
+      "충돌회피",
+      "학술논문"
+    ],
+    "summary": "1991년 CVGIP: Image Understanding 저널에 게재된 본 논문은, 로봇이 장애물을 피해 출발지에서 목적지까지 안전하고 효율적으로 이동하기 위한 모션 플래닝의 기본 원리와 접근법을 다룬 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1991-robot-motion-planning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-marine-energy-systems-a-wind-energy-perspective",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 발전의 관점에서 해양 에너지 시스템의 발전 가능성과 기술적 연계성을 분석한 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 관점에서 본 해양 에너지 시스템",
+    "originalTitle": "Marine energy systems: a wind energy perspective",
+    "authors": [
+      "Matthew Barone",
+      "Nick Jenkins"
+    ],
+    "year": 2010,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.389",
+    "sourceUrl": "https://doi.org/10.1002/we.389",
+    "keywords": [
+      "에너지·환경",
+      "해양에너지",
+      "풍력에너지",
+      "신재생에너지",
+      "전력계통",
+      "학술논문"
+    ],
+    "summary": "2010년 Wind Energy 저널에 게재된 Matthew Barone과 Nick Jenkins의 본 논문은, 이미 성숙 단계에 접어든 풍력 에너지 기술의 설계 및 운영 관점을 해양 에너지 시스템에 적용하여 두 신재생에너지 간의 기술적 연계성과 발전 잠재력을 분석한 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2010-marine-energy-systems-a-wind-energy-perspective.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2019-multi-objective-safe-reinforcement-learning-the-relationship",
     "verified": true,
     "category": "인공지능",
