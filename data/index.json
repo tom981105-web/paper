@@ -1,5 +1,128 @@
 [
   {
+    "id": "paper-2025-automated-firewall-policy-generation-with-reinforcement-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International journal of IoT 저널에 게재된 강화학습 기반 자동 방화벽 정책 생성을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "강화학습 기반 자동 방화벽 정책 생성",
+    "originalTitle": "Automated Firewall Policy Generation with Reinforcement Learning",
+    "authors": [
+      "Ashutosh Chandra Jha"
+    ],
+    "year": 2025,
+    "journal": "International journal of IoT",
+    "doi": "10.55640/ijiot-05-01-10",
+    "sourceUrl": "https://doi.org/10.55640/ijiot-05-01-10",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "방화벽정책",
+      "네트워크보안",
+      "자동화",
+      "실시간트래픽",
+      "보안정책",
+      "학술논문"
+    ],
+    "summary": "Ashutosh Chandra Jha가 2025년 International journal of IoT에 발표한 본 논문은, 수동 설정의 한계와 진화하는 사이버 위협에 대응하기 위해 실시간 네트워크 트래픽을 학습하는 강화학습 에이전트를 활용하여 방화벽 정책을 동적으로 자동 생성하는 인공지능 분야의 연구이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2025-automated-firewall-policy-generation-with-reinforcement-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1992-synchronous-machine-parameter-identification",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Machines & Power Systems 저널에 게재된 동기기 파라미터 식별을 다룬 전기 분야 학술 논문",
+    "shortTitle": "동기기 파라미터 식별",
+    "originalTitle": "Synchronous Machine Parameter Identification",
+    "authors": [
+      "A. Keyhani"
+    ],
+    "year": 1992,
+    "journal": "Electric Machines & Power Systems",
+    "doi": "10.1080/07313569208909568",
+    "sourceUrl": "https://doi.org/10.1080/07313569208909568",
+    "keywords": [
+      "전기",
+      "전기공학",
+      "동기기",
+      "파라미터식별",
+      "전력계통",
+      "회전기기",
+      "시스템식별",
+      "학술논문"
+    ],
+    "summary": "A. Keyhani가 1992년 Electric Machines & Power Systems 저널에 발표한 본 논문은, 전력 시스템의 핵심 발전 기기인 동기기의 운전 특성을 정확히 파악하기 위한 파라미터 식별 방법론을 다룬 전기 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1992-synchronous-machine-parameter-identification.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-planning-space-shift-motion-generation-variable-space",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Journal of Intelligent & Robotic Systems 저널에 게재된 가변 공간 모션 계획을 통한 신체 도식의 유연한 확장을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "계획 공간 이동 모션 생성 및 신체 도식 확장",
+    "originalTitle": "Planning-Space Shift Motion Generation: Variable-space Motion Planning Toward Flexible Extension of Body Schema",
+    "authors": [
+      "Yuichi Kobayashi",
+      "Shigeyuki Hosoe"
+    ],
+    "year": 2010,
+    "journal": "Journal of Intelligent & Robotic Systems",
+    "doi": "10.1007/s10846-010-9465-0",
+    "sourceUrl": "https://doi.org/10.1007/s10846-010-9465-0",
+    "keywords": [
+      "로봇·자동화",
+      "계획공간이동",
+      "모션생성",
+      "신체도식",
+      "가변공간모션계획",
+      "로봇기구학",
+      "자유도제어",
+      "학술논문"
+    ],
+    "summary": "Yuichi Kobayashi와 Shigeyuki Hosoe가 2010년 Journal of Intelligent & Robotic Systems에 발표한 본 논문은, 로봇이 도구를 사용하거나 신체 구조가 확장될 때 유연하게 대응할 수 있도록 가변 공간 모션 계획(Variable-space Motion Planning)을 활용한 신체 도식 확장 기법을 제안한 로봇·자동화 분야의 연구이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2010-planning-space-shift-motion-generation-variable-space.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-south-south-networking-in-renewable-energy-ssnre",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 남남 협력 기반 신재생에너지 네트워킹(SSNRE)을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "남남 협력 기반 신재생에너지 네트워킹",
+    "originalTitle": "SOUTH/SOUTH NETWORKING IN RENEWABLE ENERGY(SSNRE)",
+    "authors": [],
+    "year": 2003,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(02)00277-x",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(02)00277-x",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "남남협력",
+      "국제네트워킹",
+      "기술이전",
+      "개발도상국",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "2003년 Renewable Energy 저널에 발표된 본 논문은, 개발도상국 간의 상호 협력과 기술 공유를 뜻하는 '남남 협력(South-South Cooperation)'을 바탕으로 신재생에너지 보급과 네트워킹을 강화하기 위한 전략과 정책 방향을 다룬 에너지·환경 분야의 연구이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2003-south-south-networking-in-renewable-energy-ssnre.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-research-on-optimization-of-cryptocurrency-trading-strategies",
     "verified": true,
     "category": "인공지능",
