@@ -1,5 +1,122 @@
 [
   {
+    "id": "paper-2022-role-of-reinforcement-learning-in-financial-management",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Science and Research (IJSR) 저널에 게재된 재무 관리 전략에서 강화학습의 역할을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "재무 관리 전략과 강화학습",
+    "originalTitle": "Role of Reinforcement Learning in Financial Management Strategy",
+    "authors": [
+      "Soumya Shrivastava"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Science and Research (IJSR)",
+    "doi": "10.21275/sr22128210442",
+    "sourceUrl": "https://doi.org/10.21275/sr22128210442",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "재무관리",
+      "금융전략",
+      "포트폴리오",
+      "의사결정",
+      "자동매매",
+      "학술논문"
+    ],
+    "summary": "2022년 International Journal of Science and Research (IJSR) 저널에 게재된 Soumya Shrivastava의 본 논문은, 복잡하고 변화무쌍한 금융 및 재무 관리 전략 수립에 인공지능의 핵심 기법인 강화학습이 어떠한 역할을 수행하며 어떻게 적용될 수 있는지 고찰한 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2022-role-of-reinforcement-learning-in-financial-management.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-ieee-power-electronics-society-information-4",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Letters 저널에 게재된 전력전자 학회 정보 및 관련 동향을 다룬 전기 분야 학술 논문",
+    "shortTitle": "IEEE 전력전자 학회 정보",
+    "originalTitle": "IEEE Power Electronics Society Information",
+    "authors": [],
+    "year": 2004,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2004.835844",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2004.835844",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "학회정보",
+      "전력변환",
+      "학술논문"
+    ],
+    "summary": "2004년 IEEE Power Electronics Letters 저널에 게재된 본 논문은, 전력전자 분야의 세계적인 학술 단체인 IEEE 전력전자 학회(PELS)의 활동 정보와 전력전자 기술 분야의 발전 방향 및 학술적 동향을 소개하는 전기 분야의 학술 자료이다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2004-ieee-power-electronics-society-information-4.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2001-autonomous-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal에 게재된 자율 로봇의 기술적 특징과 응용을 조명한 로봇·자동화 분야 학술 논문",
+    "shortTitle": "자율 로봇의 기술과 응용",
+    "originalTitle": "Autonomous robot",
+    "authors": [
+      "Jack Hollingum"
+    ],
+    "year": 2001,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2001.04928dad.012",
+    "sourceUrl": "https://doi.org/10.1108/ir.2001.04928dad.012",
+    "keywords": [
+      "로봇·자동화",
+      "자율로봇",
+      "산업용로봇",
+      "자동화시스템",
+      "로보틱스",
+      "학술논문"
+    ],
+    "summary": "2001년 Industrial Robot: An International Journal에 게재된 Jack Hollingum의 본 논문은, 스스로 판단하고 움직이는 자율 로봇의 핵심 기술적 발전 과정과 산업 현장에서의 응용 가능성을 조명한 로봇·자동화 분야의 학술 자료이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2001-autonomous-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-renewable-energy-project-monitor-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Renewable Energy Focus 저널에 게재된 신재생에너지 프로젝트 모니터링 시스템의 특징을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "신재생에너지 프로젝트 모니터링",
+    "originalTitle": "Renewable energy project monitor",
+    "authors": [
+      "Ian Stokes"
+    ],
+    "year": 2012,
+    "journal": "Renewable Energy Focus",
+    "doi": "10.1016/s1755-0084(12)70054-6",
+    "sourceUrl": "https://doi.org/10.1016/s1755-0084(12)70054-6",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "에너지모니터링",
+      "프로젝트관리",
+      "친환경에너지",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "2012년 Renewable Energy Focus 저널에 게재된 Ian Stokes의 본 논문은, 신재생에너지 사업의 성공적인 추진과 효율적인 운영을 위해 필수적인 프로젝트 모니터링 및 관리 체계의 중요성과 실제 적용 방안을 조명한 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-renewable-energy-project-monitor-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2021-comparison-of-multiple-reinforcement-learning-and-deep",
     "verified": true,
     "category": "인공지능",
