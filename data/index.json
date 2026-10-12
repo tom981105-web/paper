@@ -1,5 +1,123 @@
 [
   {
+    "id": "paper-2020-monte-carlo-based-reinforcement-learning-mcrl",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Machine Learning and Computing 저널에 게재된 몬테카를로 기반 강화학습(MCRL) 모델을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "몬테카를로 기반 강화학습(MCRL)",
+    "originalTitle": "Monte-Carlo Based Reinforcement Learning (MCRL)",
+    "authors": [
+      "Muath Alrammal",
+      "Munir Naveed"
+    ],
+    "year": 2020,
+    "journal": "International Journal of Machine Learning and Computing",
+    "doi": "10.18178/ijmlc.2020.10.2.924",
+    "sourceUrl": "https://doi.org/10.18178/ijmlc.2020.10.2.924",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "몬테카를로방법",
+      "MCRL",
+      "의사결정",
+      "머신러닝",
+      "학술논문"
+    ],
+    "summary": "2020년 International Journal of Machine Learning and Computing 저널에 게재된 Muath Alrammal과 Munir Naveed의 본 논문은, 복잡하고 불확실한 환경에서 에이전트의 효율적인 학습과 최적의 의사결정을 위해 몬테카를로 기법을 접목한 강화학습(MCRL) 모델의 이론적 구조와 응용 가능성을 고찰한 인공지능 분야의 학술 논문이다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2020-monte-carlo-based-reinforcement-learning-mcrl.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1975-electronics-and-power-in-no-man-s",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electronics and Power 저널에 게재된 전자공학과 전력 시스템의 융합적 과제를 다룬 전기 분야 학술 논문",
+    "shortTitle": "전자공학과 전력 시스템의 과제",
+    "originalTitle": "Electronics and power in no man's land",
+    "authors": [],
+    "year": 1975,
+    "journal": "Electronics and Power",
+    "doi": "10.1049/ep.1975.1189",
+    "sourceUrl": "https://doi.org/10.1049/ep.1975.1189",
+    "keywords": [
+      "전기",
+      "전자공학",
+      "전력시스템",
+      "융합기술",
+      "전력전자",
+      "학술논문"
+    ],
+    "summary": "1975년 Electronics and Power 저널에 게재된 본 논문은, 전통적인 전력 공학과 현대 전자공학 사이의 경계 영역에서 발생하는 기술적 과제와 융합적 발전 가능성을 고찰한 전기 분야의 학술 자료이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1975-electronics-and-power-in-no-man-s.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-autonomous-robot-system",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 자율 로봇 시스템의 구조와 응용을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "자율 로봇 시스템",
+    "originalTitle": "Autonomous robot system",
+    "authors": [
+      "Jon Rigelsford"
+    ],
+    "year": 2003,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2003.04930bad.008",
+    "sourceUrl": "https://doi.org/10.1108/ir.2003.04930bad.008",
+    "keywords": [
+      "로봇·자동화",
+      "자율로봇",
+      "로봇시스템",
+      "자동화",
+      "산업용로봇",
+      "학술논문"
+    ],
+    "summary": "2003년 Industrial Robot: An International Journal 저널에 게재된 Jon Rigelsford의 본 논문은, 산업 현장과 다양한 환경에서 스스로 판단하고 움직이는 자율 로봇 시스템의 기본 구조와 활용 가능성을 조명한 로봇·자동화 분야의 학술 논문이다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2003-autonomous-robot-system.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-industrial-energy-use-efficiency-and-savings-methods",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Efficiency 저널에 게재된 제조 부문의 에너지 효율 평가 방법과 정량적 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "제조업 에너지 효율 평가 방법",
+    "originalTitle": "Industrial energy use, efficiency, and savings: methods for quantitative analysis",
+    "authors": [
+      "Janita Andrijevskaja",
+      "Anna Volkova"
+    ],
+    "year": 2025,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-025-10367-5",
+    "sourceUrl": "https://doi.org/10.1007/s12053-025-10367-5",
+    "keywords": [
+      "에너지환경",
+      "에너지효율",
+      "제조업",
+      "탈탄소화",
+      "정량분석",
+      "방법론",
+      "학술논문"
+    ],
+    "summary": "2025년 Energy Efficiency 저널에 게재된 Janita Andrijevskaja와 Anna Volkova의 본 논문은, 제조업 부문의 에너지 효율(EE) 평가를 위해 2005년부터 2024년까지 발표된 110편의 문헌을 체계적으로 검토하고, 다양한 정량적 분석 방법의 장단점과 정책적 시사점을 도출한 에너지·환경 분야의 학술 논문이다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2025-industrial-energy-use-efficiency-and-savings-methods.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-role-of-reinforcement-learning-in-financial-management",
     "verified": true,
     "category": "인공지능",
