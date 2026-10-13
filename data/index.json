@@ -1,5 +1,130 @@
 [
   {
+    "id": "paper-1996-image-analysis-and-computer-vision-1995",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision and Image Understanding 저널에 게재된 1995년도 이미지 분석 및 컴퓨터 비전 분야의 연구 동향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "1995년 이미지 분석 및 컴퓨터 비전 연구 동향",
+    "originalTitle": "Image Analysis and Computer Vision: 1995",
+    "authors": [
+      "Azriel Rosenfeld"
+    ],
+    "year": 1996,
+    "journal": "Computer Vision and Image Understanding",
+    "doi": "10.1006/cviu.1996.0041",
+    "sourceUrl": "https://doi.org/10.1006/cviu.1996.0041",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이미지분석",
+      "영상처리학",
+      "학술동향",
+      "학술논문"
+    ],
+    "summary": "1996년 Computer Vision and Image Understanding 저널에 발표된 본 논문은, 1년 동안 진행된 이미지 분석과 컴퓨터 비전 분야의 주요 연구 성과와 발전 동향을 종합적으로 정리한 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1996-image-analysis-and-computer-vision-1995.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1996-power-systems-cyclic-security-analysis",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Power Systems Research 저널에 게재된 전력 시스템 순환 보안 분석을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 순환 보안 분석",
+    "originalTitle": "Power systems cyclic security analysis",
+    "authors": [
+      "H. Harsan",
+      "N. Hadjsaid",
+      "P. Pruvot"
+    ],
+    "year": 1996,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/s0378-7796(96)01090-5",
+    "sourceUrl": "https://doi.org/10.1016/s0378-7796(96)01090-5",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "보안분석",
+      "순환분석",
+      "전력계통",
+      "전력신뢰도",
+      "학술논문"
+    ],
+    "summary": "1996년 Electric Power Systems Research 저널에 발표된 본 논문은, 전력 시스템이 예기치 못한 사고나 부하 변화 속에서도 안정적으로 운영될 수 있도록 주기적이고 반복적인 관점에서 보안성을 평가하고 분석하는 방법론을 다룬 전기 분야의 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1996-power-systems-cyclic-security-analysis.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-master-slave-control-technology-research-based-on",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 복부 미세침습 수술 로봇을 위한 마스터-슬레이브 제어 기술 연구를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "복부 미세침습 수술 로봇의 마스터-슬레이브 제어 기술",
+    "originalTitle": "Master-slave Control Technology Research Based on Abdominal Minimally Invasive Surgery Robot",
+    "authors": [
+      "Qi XIE",
+      "Bo PAN",
+      "Yili FU",
+      "Shuguo WANG"
+    ],
+    "year": 2011,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2011.00053",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2011.00053",
+    "keywords": [
+      "로봇·자동화",
+      "마스터슬레이브",
+      "미세침습수술",
+      "의료로봇",
+      "원격제어",
+      "수술로봇",
+      "학술논문"
+    ],
+    "summary": "2011년 ROBOT 저널에 발표된 본 논문은, 의사가 조작하는 장치(마스터)와 환자 몸 안에서 수술을 집도하는 로봇 팔(슬레이브) 사이의 정밀한 연동과 안정적인 제어를 구현하기 위한 복부 미세침습 수술 로봇의 마스터-슬레이브 제어 기술을 다룬 로봇·자동화 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-master-slave-control-technology-research-based-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-corrigendum-to-cost-effective-electro-thermal-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Journal of Energy Storage 저널에 게재된 소규모 재생에너지 시스템 균형을 위한 비용 효율적 전기열 에너지 저장 장치의 정오표를 다룬 에너지·환경 분야 학술 자료",
+    "shortTitle": "전기열 에너지 저장 장치 정오표",
+    "originalTitle": "Corrigendum to “Cost-effective electro-thermal energy storage to balance small scale renewable energy systems” [J. Energy Storage 41 (2021) 102829]",
+    "authors": [
+      "Sampson Tetteh",
+      "Maryam Roza Yazdani",
+      "Annukka Santasalo-Aarnio"
+    ],
+    "year": 2022,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2022.104785",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2022.104785",
+    "keywords": [
+      "에너지·환경",
+      "전기열에너지저장",
+      "재생에너지",
+      "에너지저장",
+      "정오표",
+      "학술논문"
+    ],
+    "summary": "2022년 Journal of Energy Storage 저널에 게재된 본 자료는 소규모 재생에너지 시스템의 전력 수급 균형을 맞추기 위한 비용 효율적 전기열 에너지 저장 장치 관련 선행 논문의 수식 및 내용 오류를 바로잡는 정오표입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 2분",
+    "file": "papers/paper-2022-corrigendum-to-cost-effective-electro-thermal-energy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2008-extrasynaptic-gaba-mediated-neuromodulation-in-a-sensory",
     "verified": true,
     "category": "인공지능",
