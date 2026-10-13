@@ -1,5 +1,126 @@
 [
   {
+    "id": "paper-2019-workshop-on-distributed-reinforcement-learning-and-reinforcement",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "IEEE Control Systems 저널에 게재된 분산 강화학습 및 강화학습 게임 워크숍을 다룬 인공지능 분야 학술 자료",
+    "shortTitle": "분산 강화학습 및 강화학습 게임 워크숍",
+    "originalTitle": "Workshop on Distributed Reinforcement Learning and Reinforcement-Learning Games [Conference Reports]",
+    "authors": [
+      "Kyriakos G. Vamvoudakis",
+      "Yan Wan",
+      "Frank L. Lewis"
+    ],
+    "year": 2019,
+    "journal": "IEEE Control Systems",
+    "doi": "10.1109/mcs.2019.2938053",
+    "sourceUrl": "https://doi.org/10.1109/mcs.2019.2938053",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "분산강화학습",
+      "강화학습게임",
+      "제어시스템",
+      "학술논문"
+    ],
+    "summary": "2019년 IEEE Control Systems 저널에 발표된 본 자료는, 다수의 에이전트가 협력하거나 경쟁하는 환경에서의 분산 강화학습과 강화학습 게임 이론을 다룬 학술 워크숍의 주요 논의와 성과를 정리한 인공지능 분야의 학술 보고서입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2019-workshop-on-distributed-reinforcement-learning-and-reinforcement.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-ieee-power-electronics-letters-blank-page-2",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Letters 저널에 게재된 전력전자 분야 공백 페이지 및 편집 구성 정보를 다룬 전기 분야 학술 자료",
+    "shortTitle": "IEEE Power Electronics Letters 공백 페이지",
+    "originalTitle": "IEEE Power Electronics Letters blank page",
+    "authors": [],
+    "year": 2005,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2005.860648",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2005.860648",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "편집구성",
+      "학술저널",
+      "학술논문"
+    ],
+    "summary": "2005년 IEEE Power Electronics Letters 저널에 게재된 본 자료는, 전력전자 공학 분야의 학술 간행물 발행 과정에서 물리적 편집과 레이아웃 조정을 위해 포함된 구성 페이지를 다룬 전기 분야의 학술 자료입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 2분",
+    "file": "papers/paper-2005-ieee-power-electronics-letters-blank-page-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-a-humanoid-robot-control-system-with-ssvep",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 정상상태시각유발전위(SSVEP) 기반 비동기 뇌-컴퓨터 인터페이스를 활용한 휴머노이드 로봇 제어 시스템을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "SSVEP 기반 BCI 휴머노이드 로봇 제어",
+    "originalTitle": "A Humanoid Robot Control System with SSVEP-based Asynchronous Brain-Computer Interface",
+    "authors": [
+      "Zhidong DENG",
+      "Xiuquan LI",
+      "Kuanhao ZHENG",
+      "Wentao YAO"
+    ],
+    "year": 2011,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2011.00129",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2011.00129",
+    "keywords": [
+      "로봇·자동화",
+      "휴머노이드로봇",
+      "뇌컴퓨터인터페이스",
+      "SSVEP",
+      "비동기BCI",
+      "로봇제어",
+      "학술논문"
+    ],
+    "summary": "2011년 ROBOT 저널에 발표된 본 논문은, 인간의 뇌파 중 정상상태시각유발전위(SSVEP) 신호를 활용하여 별도의 신체 움직임 없이 생각만으로 휴머노이드 로봇을 비동기식으로 제어하는 뇌-컴퓨터 인터페이스(BCI) 시스템을 다룬 로봇·자동화 분야의 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-a-humanoid-robot-control-system-with-ssvep.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-real-time-peer-to-peer-energy-trading",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B998B",
+    "title": "Journal of Energy Storage 저널에 게재된 하이브리드 에너지 저장 시스템을 활용한 네트워크형 다중 에너지 시스템의 실시간 P2P 에너지 거래를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "하이브리드 에너지 저장 기반 실시간 P2P 에너지 거래",
+    "originalTitle": "Real-time peer-to-peer energy trading for networked multi-energy systems with hybrid energy storage",
+    "authors": [
+      "Boshen Zheng",
+      "Wei Wei"
+    ],
+    "year": 2025,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2024.114530",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2024.114530",
+    "keywords": [
+      "에너지·환경",
+      "P2P에너지거래",
+      "에너지저장",
+      "다중에너지시스템",
+      "실시간거래",
+      "학술논문"
+    ],
+    "summary": "2025년 Journal of Energy Storage 저널에 발표된 본 논문은, 다양한 에너지원이 얽힌 네트워크 환경에서 하이브리드 에너지 저장 시스템을 활용하여 효율적이고 실시간으로 전력을 개인간(P2P) 거래할 수 있는 최적화 모델을 다룬 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2025-real-time-peer-to-peer-energy-trading.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2015-hierarchical-reinforcement-learning-with-context-detection-hrl",
     "verified": true,
     "category": "인공지능",
