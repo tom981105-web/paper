@@ -1,5 +1,123 @@
 [
   {
+    "id": "paper-2016-image-super-resolution-using-deep-convolutional-networks",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "IEEE Transactions on Pattern Analysis and Machine Intelligence 저널에 게재된 심층 합성곱 신경망을 활용한 이미지 초해상도 기법을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝 기반 이미지 초해상도",
+    "originalTitle": "Image Super-Resolution Using Deep Convolutional Networks",
+    "authors": [
+      "Chao Dong",
+      "Chen Change Loy",
+      "Kaiming He",
+      "Xiaoou Tang"
+    ],
+    "year": 2016,
+    "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "doi": "10.1109/tpami.2015.2439281",
+    "sourceUrl": "https://doi.org/10.1109/tpami.2015.2439281",
+    "keywords": [
+      "인공지능",
+      "이미지초해상도",
+      "합성곱신경망",
+      "딥러닝",
+      "컴퓨터비전",
+      "학술논문"
+    ],
+    "summary": "2016년 IEEE Transactions on Pattern Analysis and Machine Intelligence 저널에 게재된 본 논문은, 저해상도 이미지를 입력받아 고해상도 이미지로 직접 매핑하는 심층 합성곱 신경망(CNN) 기반의 초해상도(SR) 기법을 제안하고, 기존 방식들을 통합하여 뛰어난 성능과 처리 속도를 입증한 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2016-image-super-resolution-using-deep-convolutional-networks.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-ieee-power-electronics-letters-blank-page",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Letters 저널에 게재된 전력전자 분야의 학술 논문",
+    "shortTitle": "IEEE 전력전자 레터스 빈 페이지",
+    "originalTitle": "IEEE Power Electronics Letters blank page",
+    "authors": [],
+    "year": 2004,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2004.840319",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2004.840319",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "학술저널",
+      "전력전자레터스",
+      "학술논문"
+    ],
+    "summary": "2004년 IEEE Power Electronics Letters 저널에 게재된 본 논문은, 전력전자 기술 분야의 최신 연구 소식과 단신 논문을 발행하는 학술 저널의 구성 형식을 보여주는 전기 분야의 학술 논문입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2004-ieee-power-electronics-letters-blank-page.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-visual-slam-using-local-bundle-optimization-in",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "The Journal of Korea Robotics Society 저널에 게재된 해저 환경에서의 국소 번들 최적화를 이용한 시각적 SLAM 기법을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "해저 환경에서의 시각적 SLAM",
+    "originalTitle": "Visual SLAM using Local Bundle Optimization in Unstructured Seafloor Environment",
+    "authors": [
+      "Seonghun Hong",
+      "Jinwhan Kim"
+    ],
+    "year": 2014,
+    "journal": "The Journal of Korea Robotics Society",
+    "doi": "10.7746/jkros.2014.9.4.197",
+    "sourceUrl": "https://doi.org/10.7746/jkros.2014.9.4.197",
+    "keywords": [
+      "로봇·자동화",
+      "시각적SLAM",
+      "해저환경",
+      "국소번들최적화",
+      "로봇위치인식",
+      "학술논문"
+    ],
+    "summary": "2014년 The Journal of Korea Robotics Society 저널에 게재된 본 논문은, 구조물이 불규칙하고 시각적 특징이 부족한 해저 환경에서 카메라 영상만을 활용해 로봇의 위치를 추정하고 지도를 작성하는 시각적 SLAM과 국소 번들 최적화 기법을 다룬 로봇·자동화 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2014-visual-slam-using-local-bundle-optimization-in.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-understanding-transaction-costs-of-energy-efficiency-renovations",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Efficiency 저널에 게재된 스웨덴 주거 부문의 에너지 효율 리노베이션 거래 비용 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "주거용 에너지 효율 리노베이션 거래 비용 분석",
+    "originalTitle": "Understanding transaction costs of energy efficiency renovations in the Swedish residential sector",
+    "authors": [
+      "Robert Lundmark"
+    ],
+    "year": 2024,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-024-10198-w",
+    "sourceUrl": "https://doi.org/10.1007/s12053-024-10198-w",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "리노베이션",
+      "거래비용",
+      "주거부문",
+      "학술논문"
+    ],
+    "summary": "2024년 Energy Efficiency 저널에 게재된 본 논문은, 스웨덴 단독주택의 단열 시공 및 에너지 절약 창호 설치 과정에서 발생하는 거래 비용의 규모와 결정 요인을 설문조사 기반 데이터로 실증 분석한 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2024-understanding-transaction-costs-of-energy-efficiency-renovations.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2021-a-comprehensive-survey-on-transfer-learning",
     "verified": true,
     "category": "인공지능",
