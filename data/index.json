@@ -1,5 +1,149 @@
 [
   {
+    "id": "paper-2015-control-policy-with-autocorrelated-noise-in-reinforcement",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Machine Learning and Computing 저널에 게재된 로봇공학을 위한 강화학습 내 자기상관 잡음 제어 정책을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "강화학습의 자기상관 잡음 제어 정책",
+    "originalTitle": "Control Policy with Autocorrelated Noise in Reinforcement Learning for Robotics",
+    "authors": [
+      "Paweł Wawrzyński"
+    ],
+    "year": 2015,
+    "journal": "International Journal of Machine Learning and Computing",
+    "doi": "10.7763/ijmlc.2015.v5.489",
+    "sourceUrl": "https://doi.org/10.7763/ijmlc.2015.v5.489",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "로봇공학",
+      "제어정책",
+      "자기상관잡음",
+      "학술논문"
+    ],
+    "summary": "2015년 International Journal of Machine Learning and Computing 저널에 발표된 본 논문은, 로봇공학 분야의 강화학습에서 제어 정책을 학습할 때 자기상관 잡음을 활용하여 탐색 효율성과 안정성을 높이는 기법을 다룬 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2015-control-policy-with-autocorrelated-noise-in-reinforcement.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-ieee-power-electronics-society-information-6",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Transactions on Power Electronics 저널에 게재된 전력전자 학회 정보 및 안내 분야의 학술 자료",
+    "shortTitle": "IEEE 전력전자 학회 정보",
+    "originalTitle": "IEEE Power Electronics Society Information",
+    "authors": [],
+    "year": 2004,
+    "journal": "IEEE Transactions on Power Electronics",
+    "doi": "10.1109/tpel.2004.829887",
+    "sourceUrl": "https://doi.org/10.1109/tpel.2004.829887",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "학술학회",
+      "전력전자소사이어티",
+      "학술논문"
+    ],
+    "summary": "2004년 IEEE Transactions on Power Electronics 저널에 게재된 본 자료는, 전 세계 전력전자 공학 분야의 연구자들과 엔지니어들이 소속된 IEEE 전력전자 학회(PELS)의 운영 체계, 학술 활동, 그리고 간행물 발행에 관한 정보를 안내하는 전기 분야의 학술 자료입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2004-ieee-power-electronics-society-information-6.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-joanne-pransky-interviews-dr-william-townsend-mit",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 MIT 창업가 윌리엄 타운센드 박사의 전신 조작(WAM) 및 로봇 상용화 인터뷰를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "윌리엄 타운센드 박사 인터뷰",
+    "originalTitle": "Joanne Pransky interviews Dr William Townsend: MIT entrepreneur develops whole-arm manipulation for robot/human interaction",
+    "authors": [
+      "William Townsend"
+    ],
+    "year": 2013,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir-07-2013-384",
+    "sourceUrl": "https://doi.org/10.1108/ir-07-2013-384",
+    "keywords": [
+      "로봇·자동화",
+      "전신조작",
+      "휴먼로봇상호작용",
+      "로봇창업",
+      "배럿테크놀로지",
+      "학술논문"
+    ],
+    "summary": "2013년 Industrial Robot: An International Journal 저널에 게재된 본 논문은, MIT에서 세계 최초의 백드라이브 가능 케이블 기반 전신 조작 로봇(WAM)을 개발하고 배럿 테크놀로지를 창업한 윌리엄 타운센드 박사의 25년간 기술 진화, 상용화 및 도전 과정을 다룬 로봇·자동화 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-joanne-pransky-interviews-dr-william-townsend-mit.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-energy-efficiency-gap-and-the-limits-to",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Efficiency 저널에 게재된 주거용 에너지 효율 향상과 비가격적 개입의 한계를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "주거용 에너지 효율과 비가격적 개입",
+    "originalTitle": "Energy efficiency gap and the limits to the effectiveness of non-price interventions: making the case for residential energy efficiency",
+    "authors": [
+      "Sunderasan Srinivasan"
+    ],
+    "year": 2025,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-025-10316-2",
+    "sourceUrl": "https://doi.org/10.1007/s12053-025-10316-2",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율격차",
+      "비가격적개입",
+      "주거용에너지",
+      "환경경제학",
+      "학술논문"
+    ],
+    "summary": "2025년 Energy Efficiency 저널에 게재된 본 논문은, 주거 부문에서 발생하는 에너지 효율 격차의 원인을 분석하고, 단순히 정보 제공이나 캠페인 같은 비가격적 개입이 지니는 한계를 지적하며 주거용 에너지 효율 향상을 위한 실효성 있는 정책적 대안을 주장한 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2025-energy-efficiency-gap-and-the-limits-to.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-the-development-of-the-outsourced-facility-service",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#D05B7C",
+    "title": "Journal of Facility Management Education and Research 저널에 게재된 유럽의 아웃소싱 시설 서비스 산업 발전을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "유럽의 아웃소싱 시설 서비스 산업 발전",
+    "originalTitle": "The Development of the Outsourced Facility Service Industry in Europe",
+    "authors": [
+      "Eva Stopajnik",
+      "Alexander Redlein"
+    ],
+    "year": 2017,
+    "journal": "Journal of Facility Management Education and Research",
+    "doi": "10.22361/jfmer/73879",
+    "sourceUrl": "https://doi.org/10.22361/jfmer/73879",
+    "keywords": [
+      "건축·시설관리",
+      "시설서비스",
+      "아웃소싱",
+      "유럽산업",
+      "FM산업",
+      "학술논문"
+    ],
+    "summary": "2017년 Journal of Facility Management Education and Research 저널에 게재된 본 논문은, 유럽 지역을 중심으로 급성장하고 있는 시설 관리(Facility Management) 서비스의 아웃소싱 산업 발전 과정과 시장 동향을 분석한 건축·시설관리 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2017-the-development-of-the-outsourced-facility-service.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2016-image-super-resolution-using-deep-convolutional-networks",
     "verified": true,
     "category": "인공지능",
