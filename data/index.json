@@ -1,5 +1,125 @@
 [
   {
+    "id": "paper-2017-temporal-related-convolutional-restricted-boltzmann-machine-capable",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Machine Learning and Computing 저널에 게재된 강화학습 절차를 통해 관계적 순서를 학습할 수 있는 시간 연관 합성곱 제한 볼츠만 머신을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "강화학습 기반 시간 연관 합성곱 제한 볼츠만 머신",
+    "originalTitle": "Temporal-Related Convolutional-Restricted-Boltzmann-Machine Capable of Learning Relational Order via Reinforcement Learning Procedure",
+    "authors": [
+      "Zizhuang Wang"
+    ],
+    "year": 2017,
+    "journal": "International Journal of Machine Learning and Computing",
+    "doi": "10.18178/ijmlc.2017.7.1.610",
+    "sourceUrl": "https://doi.org/10.18178/ijmlc.2017.7.1.610",
+    "keywords": [
+      "인공지능",
+      "제한볼츠만머신",
+      "합성곱신경망",
+      "강화학습",
+      "시간연관",
+      "관계적순서",
+      "학술논문"
+    ],
+    "summary": "2017년 International Journal of Machine Learning and Computing 저널에 발표된 본 논문은, 시간적 흐름과 데이터 간의 관계적 순서를 효과적으로 학습하기 위해 강화학습 절차와 결합된 새로운 시간 연관 합성곱 제한 볼츠만 머신(TR-CRBM) 구조를 제안한 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★★★★",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2017-temporal-related-convolutional-restricted-boltzmann-machine-capable.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-ieee-power-electronics-society",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Transactions on Power Electronics 저널에 게재된 전력전자 분야 학술 소식 및 학회 활동을 다룬 전기 분야 학술 자료",
+    "shortTitle": "IEEE Power Electronics Society 학술 소식",
+    "originalTitle": "IEEE Power Electronics Society",
+    "authors": [],
+    "year": 2004,
+    "journal": "IEEE Transactions on Power Electronics",
+    "doi": "10.1109/tpel.2004.823336",
+    "sourceUrl": "https://doi.org/10.1109/tpel.2004.823336",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "학회활동",
+      "학술저널",
+      "학술논문"
+    ],
+    "summary": "2004년 IEEE Transactions on Power Electronics 저널에 게재된 본 자료는, 전력전자 공학 분야의 최신 동향과 학회 회원들을 위한 공식 소식, 편집 관련 안내 등을 담고 있는 전기 분야의 학술 및 행정 자료입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 2분",
+    "file": "papers/paper-2004-ieee-power-electronics-society.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-trajectory-adaptation-for-impedance-control-based-walking",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robot 저널에 게재된 임피던스 제어 기반 보행 재활 훈련 로봇을 위한 궤적 적응 기법을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "임피던스 제어 기반 보행 재활 로봇 궤적 적응",
+    "originalTitle": "Trajectory Adaptation for Impedance Control Based Walking Rehabilitation Training Robot",
+    "authors": [
+      "Zhong WEN",
+      "Jinwu QIAN",
+      "Linyong SHEN",
+      "Ya’nan ZHANG"
+    ],
+    "year": 2011,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2011.00142",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2011.00142",
+    "keywords": [
+      "로봇·자동화",
+      "보행재활로봇",
+      "임피던스제어",
+      "궤적적응",
+      "재활훈련",
+      "인간로봇상호작용",
+      "학술논문"
+    ],
+    "summary": "2011년 ROBOT 저널에 발표된 본 논문은, 보행 장애 환자의 재활 훈련을 돕는 로봇이 환자의 상태와 움직임에 맞춰 자연스럽고 안전하게 보행 궤적을 스스로 조절할 수 있도록 돕는 임피던스 제어 기반의 궤적 적응 기법을 다룬 로봇·자동화 분야의 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-trajectory-adaptation-for-impedance-control-based-walking.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1996-renewable-energy-and-the-oda",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 재생 에너지와 공적개발원조(ODA)의 연계 방안 및 개발도상국 지원을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "재생 에너지와 공적개발원조(ODA)",
+    "originalTitle": "Renewable energy and the ODA",
+    "authors": [
+      "Gareth Martin"
+    ],
+    "year": 1996,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(96)88470-9",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(96)88470-9",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "ODA",
+      "공적개발원조",
+      "개발도상국",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "1996년 Renewable Energy 저널에 발표된 본 논문은, 개발도상국의 지속 가능한 발전과 에너지 자립을 위해 공적개발원조(ODA) 자금이 재생 에너지 프로젝트에 어떻게 효과적으로 연계되고 투입되어야 하는지 분석한 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1996-renewable-energy-and-the-oda.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2012-reinforcement-learning-with-limited-reinforcement-using-bayes",
     "verified": true,
     "category": "인공지능",
