@@ -1,5 +1,125 @@
 [
   {
+    "id": "paper-2008-extrasynaptic-gaba-mediated-neuromodulation-in-a-sensory",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 감각 피질 신경망에서의 시냅스 외 GABA 매개 신경조절을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "감각 피질 신경망의 시냅스 외 GABA 매개 신경조절",
+    "originalTitle": "Extrasynaptic-GABA-mediated neuromodulation in a sensory cortical neural network",
+    "authors": [
+      "Osamu Hoshino"
+    ],
+    "year": 2008,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1080/09548980701840343",
+    "sourceUrl": "https://doi.org/10.1080/09548980701840343",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "감각피질",
+      "시냅스외GABA",
+      "신경조절",
+      "계산신경과학",
+      "학술논문"
+    ],
+    "summary": "2008년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 감각 피질 신경망 내에서 시냅스 외 GABA 분자를 통한 억제성 신경조절 기제가 정보 처리와 네트워크 동역학에 미치는 영향을 계산 모델링을 통해 분석한 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2008-extrasynaptic-gaba-mediated-neuromodulation-in-a-sensory.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2004-ieee-power-electronics-letters-publication-information-3",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Letters 저널에 게재된 전력전자 분야 출판 정보 및 학회 소식을 다룬 전기 분야 학술 자료",
+    "shortTitle": "IEEE Power Electronics Letters 출판 정보",
+    "originalTitle": "IEEE Power Electronics Letters publication information",
+    "authors": [],
+    "year": 2004,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2004.841940",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2004.841940",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "출판정보",
+      "학술저널",
+      "학술논문"
+    ],
+    "summary": "2004년 IEEE Power Electronics Letters 저널에 게재된 본 자료는, 전력전자 공학 분야의 연구 성과를 신속하게 전달하는 저널의 출판 정보와 관련 학술 안내를 담고 있는 전기 분야의 공식 기록 자료입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 2분",
+    "file": "papers/paper-2004-ieee-power-electronics-letters-publication-information-3.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-a-magneto-rheological-fluid-based-damper-for",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 유연 로봇의 진동 제어를 위한 자기유변유체 기반 댐퍼 설계를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "유연 로봇 진동 제어를 위한 자기유변유체 댐퍼",
+    "originalTitle": "A Magneto-rheological Fluid Based Damper for Vibration Control of Flexible Robot",
+    "authors": [
+      "Jinqiao DAI",
+      "Aimin WANG",
+      "Aiguo SONG"
+    ],
+    "year": 2010,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2010.00358",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2010.00358",
+    "keywords": [
+      "로봇·자동화",
+      "자기유변유체",
+      "댐퍼",
+      "진동제어",
+      "유연로봇",
+      "스마트유체",
+      "학술논문"
+    ],
+    "summary": "2010년 ROBOT 저널에 발표된 본 논문은, 가볍고 유연한 로봇 팔이 움직일 때 발생하는 불필요한 진동을 효과적으로 억제하기 위해 자기장 변화에 따라 성질이 변하는 스마트 유체인 자기유변유체를 활용한 댐퍼 시스템의 설계와 제어 방안을 다룬 로봇·자동화 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2010-a-magneto-rheological-fluid-based-damper-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-energy-efficiency-at-building-sites-barriers-and",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 건축 현장의 에너지 효율성 향상을 위한 장벽과 동인 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "건축 현장의 에너지 효율성 장벽과 동인",
+    "originalTitle": "Energy efficiency at building sites: barriers and drivers",
+    "authors": [
+      "Jenny Palm",
+      "Emma Bryngelson"
+    ],
+    "year": 2023,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-023-10088-7",
+    "sourceUrl": "https://doi.org/10.1007/s12053-023-10088-7",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "건축현장",
+      "건설산업",
+      "장벽과동인",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "2023년 Energy Efficiency 저널에 발표된 본 논문은, 건설 산업에서 상대적으로 연구가 부족했던 건축 현장의 에너지 효율성에 주목하여 전문 종사자들을 대상으로 현장 에너지 절약을 가로막는 장벽과 촉진하는 동인을 심층 분석한 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2023-energy-efficiency-at-building-sites-barriers-and.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2012-neural-network-world-a-neural-network-based",
     "verified": true,
     "category": "인공지능",
