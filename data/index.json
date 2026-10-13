@@ -1,5 +1,127 @@
 [
   {
+    "id": "paper-1989-toward-a-unified-science-of-machine-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 기계학습의 통합된 과학을 향한 연구를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "기계학습의 통합된 과학을 향하여",
+    "originalTitle": "Toward a Unified Science of Machine Learning",
+    "authors": [
+      "Pat Langley"
+    ],
+    "year": 1989,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022689616458",
+    "sourceUrl": "https://doi.org/10.1023/a:1022689616458",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "학습이론",
+      "통합과학",
+      "연구방법론",
+      "학술논문"
+    ],
+    "summary": "1989년 Machine Learning 저널에 발표된 본 논문은, 다양한 접근 방식으로 흩어져 있던 기계학습 연구들을 하나의 체계적인 과학적 틀 안에서 통합하기 위한 방법론과 비전을 제시한 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1989-toward-a-unified-science-of-machine-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-power-system-harmonics-the-effect-on-power",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Recent Trends in Engineering and Research 저널에 게재된 전력 시스템 고조파가 전력 품질에 미치는 영향을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 고조파와 전력 품질",
+    "originalTitle": "Power System Harmonics: The Effect on Power Quality",
+    "authors": [],
+    "year": 2017,
+    "journal": "International Journal of Recent Trends in Engineering and Research",
+    "doi": "10.23883/ijrter.2017.3247.xgn2c",
+    "sourceUrl": "https://doi.org/10.23883/ijrter.2017.3247.xgn2c",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "고조파",
+      "전력품질",
+      "송배전",
+      "전력계통",
+      "학술논문"
+    ],
+    "summary": "2017년 International Journal of Recent Trends in Engineering and Research 저널에 발표된 본 논문은, 전력 시스템 내에서 발생하는 고조파가 전력 품질에 미치는 악영향과 그 메커니즘을 분석하고 전력망 안정화의 중요성을 다룬 전기 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2017-power-system-harmonics-the-effect-on-power.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-active-disturbance-rejection-force-control-for-astronaut",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robot 저널에 게재된 우주인 재활 훈련 로봇을 위한 능동 외란 제거 힘 제어 기술을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "우주인 재활 훈련 로봇의 능동 외란 제거 힘 제어",
+    "originalTitle": "Active Disturbance Rejection Force Control for Astronaut Rehabilitative Training Robot",
+    "authors": [
+      "Lixun ZHANG",
+      "Yupeng ZOU",
+      "Liming SUI",
+      "Keyi WANG"
+    ],
+    "year": 2012,
+    "journal": "Robot",
+    "doi": "10.3724/sp.j.1218.2012.00217",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2012.00217",
+    "keywords": [
+      "로봇·자동화",
+      "힘제어",
+      "능동외란제거",
+      "재활로봇",
+      "우주인재활",
+      "제어공학",
+      "학술논문"
+    ],
+    "summary": "2012년 Robot 저널에 발표된 본 논문은, 우주에서 장기간 임무를 수행하는 우주인의 근골격계 약화를 방지하기 위한 재활 훈련 로봇에서, 외부의 예기치 않은 방해 요소를 효과적으로 극복하고 정밀한 힘 제어를 수행할 수 있는 능동 외란 제거 제어 기법을 다룬 로봇·자동화 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-active-disturbance-rejection-force-control-for-astronaut.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-how-first-comes-energy-efficiency-assessing-the",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#3B82F6",
+    "title": "Energy Efficiency 저널에 게재된 유럽연합의 에너지 효율 우선 원칙 평가를 위한 지표 기반 접근법을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "EU의 에너지 효율 우선 원칙(EE1) 평가 연구",
+    "originalTitle": "How first comes energy efficiency? Assessing the energy efficiency first principle in the EU using a comprehensive indicator-based approach",
+    "authors": [
+      "Mara Chlechowitz",
+      "Matthias Reuter",
+      "Wolfgang Eichhammer"
+    ],
+    "year": 2022,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-022-10063-8",
+    "sourceUrl": "https://doi.org/10.1007/s12053-022-10063-8",
+    "keywords": [
+      "에너지환경",
+      "에너지효율우선원칙",
+      "유럽연합",
+      "기후변화",
+      "정책평가",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "2022년 Energy Efficiency 저널에 발표된 본 논문은, 유럽연합(EU)의 주요 에너지 정책 기조인 '에너지 효율 우선 원칙(EE1)'이 회원국들의 국가 에너지 및 기후 계획에서 실제로 어떻게 이행되고 있는지 13개의 복합 지표를 활용해 평가한 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2022-how-first-comes-energy-efficiency-assessing-the.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1996-image-analysis-and-computer-vision-1995",
     "verified": true,
     "category": "인공지능",
