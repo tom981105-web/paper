@@ -1,5 +1,116 @@
 [
   {
+    "id": "paper-1987-learning-decision-lists",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 결정 리스트의 학습 알고리즘과 기계학습적 의미를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "결정 리스트의 학습",
+    "originalTitle": "Learning Decision Lists",
+    "authors": [
+      "Ronald L. Rivest"
+    ],
+    "year": 1987,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022607331053",
+    "sourceUrl": "https://doi.org/10.1023/a:1022607331053",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "결정리스트",
+      "학습알고리즘",
+      "규칙기반학습",
+      "학술논문"
+    ],
+    "summary": "1987년 Machine Learning 저널에 발표된 본 논문은, 효율적인 규칙 기반 분류를 수행하기 위한 '결정 리스트(Decision Lists)' 개념을 도입하고 이를 자동으로 학습하는 알고리즘을 제안한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1987-learning-decision-lists.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-calendar",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Electrical Power & Energy Systems 저널에 게재된 캘린더 시스템의 전력 및 에너지 분야 적용을 다룬 전기 분야 학술 논문",
+    "shortTitle": "캘린더 시스템의 전력 에너지 적용",
+    "originalTitle": "Calendar",
+    "authors": [],
+    "year": 1995,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(95)90001-2",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(95)90001-2",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "에너지시스템",
+      "캘린더",
+      "전력관리",
+      "학술논문"
+    ],
+    "summary": "1995년 International Journal of Electrical Power & Energy Systems 저널에 발표된 본 논문은, 전력 및 에너지 시스템 운영에서 시간 관리와 일정 체계를 다루는 캘린더 시스템의 구조와 역할을 고찰한 전기 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1995-calendar.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1978-automation-of-arc-welding",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal에 게재된 아크 용접 자동화의 발전과 적용을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "아크 용접 자동화",
+    "originalTitle": "Automation of arc welding",
+    "authors": [
+      "J.J. Hunter"
+    ],
+    "year": 1978,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/eb004492",
+    "sourceUrl": "https://doi.org/10.1108/eb004492",
+    "keywords": [
+      "로봇·자동화",
+      "아크용접",
+      "자동화",
+      "제조공정",
+      "산업용로봇",
+      "학술논문"
+    ],
+    "summary": "1978년 Industrial Robot: An International Journal에 발표된 본 논문은, 제조업 현장에서 필수적인 아크 용접 공정을 자동화하기 위한 초기 기술적 접근과 적용 방안을 고찰한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1978-automation-of-arc-welding.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-i-wind-energy-i-literature-survey-no-3",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 분야의 최신 연구 동향과 문헌 조사를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 분야 최신 문헌 조사",
+    "originalTitle": "<i>Wind Energy</i> literature survey no. 20",
+    "authors": [],
+    "year": 2011,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.471",
+    "sourceUrl": "https://doi.org/10.1002/we.471",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "2011년 Wind Energy 저널에 발표된 본 논문은, 풍력 에너지 분야의 발전 과정과 학술적 성과를 종합적으로 정리하기 위해 진행된 정기 문헌 조사의 결과를 다룬 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2011-i-wind-energy-i-literature-survey-no-3.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1976-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
