@@ -1,5 +1,157 @@
 [
   {
+    "id": "paper-1986-artificial-intelligence-the-very-idea",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능의 철학적 개념과 본질을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능: 그 본질적인 아이디어",
+    "originalTitle": "Artificial intelligence: The very idea",
+    "authors": [
+      "André Vellino"
+    ],
+    "year": 1986,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(86)90075-5",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(86)90075-5",
+    "keywords": [
+      "인공지능",
+      "철학적기반",
+      "인지과학",
+      "기호주의",
+      "마음의이론",
+      "학술논문"
+    ],
+    "summary": "1986년 Artificial Intelligence 저널에 발표된 본 논문은, 인공지능 연구가 지향하는 근본적인 철학적 가정과 '기계가 정말로 생각을 할 수 있는가'에 대한 본질적인 개념을 탐구한 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1986-artificial-intelligence-the-very-idea.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-calendar",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Electrical Power & Energy Systems 저널에 게재된 캘린더 관련 전력 시스템 연구를 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 속 캘린더 효과 분석",
+    "originalTitle": "Calendar",
+    "authors": [],
+    "year": 2003,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/s0142-0615(03)00041-3",
+    "sourceUrl": "https://doi.org/10.1016/s0142-0615(03)00041-3",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "캘린더",
+      "부하예측",
+      "전력수요",
+      "시간변수",
+      "학술논문"
+    ],
+    "summary": "2003년 International Journal of Electrical Power & Energy Systems 저널에 발표된 본 논문은, 전력 시스템 운영 및 부하 예측에서 날짜와 시간 등 달력(Calendar)적 요소가 미치는 영향과 중요성을 다룬 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2003-calendar.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-humanoid-robot-motion-planning-a-multiple-constrains",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Control and Intelligent Systems 저널에 게재된 휴머노이드 로봇의 다중 제약 조건 기반 모션 계획을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "휴머노이드 로봇 다중 제약 모션 계획",
+    "originalTitle": "HUMANOID ROBOT MOTION PLANNING – A MULTIPLE CONSTRAINS APPROACH",
+    "authors": [
+      "G. Capi",
+      "K. Mitobe"
+    ],
+    "year": 2010,
+    "journal": "Control and Intelligent Systems",
+    "doi": "10.2316/journal.201.2010.2.201-2168",
+    "sourceUrl": "https://doi.org/10.2316/journal.201.2010.2.201-2168",
+    "keywords": [
+      "로봇·자동화",
+      "휴머노이드로봇",
+      "모션계획",
+      "제약조건",
+      "제어시스템",
+      "로봇공학",
+      "학술논문"
+    ],
+    "summary": "2010년 Control and Intelligent Systems 저널에 발표된 본 논문은, 인간형 로봇인 휴머노이드 로봇이 복잡하고 다양한 제약 조건 속에서 안전하고 효율적으로 움직일 수 있도록 경로를 계획하고 제어하는 다중 제약 접근법을 다룬 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2010-humanoid-robot-motion-planning-a-multiple-constrains.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-gis-based-urban-energy-modelling-and-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#30825B",
+    "title": "Energy Efficiency 저널에 게재된 에너지 성능 인증 데이터베이스를 활용한 GIS 기반 도시 에너지 모델링 및 에너지 효율 시나리오를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "GIS 기반 도시 에너지 모델링",
+    "originalTitle": "GIS-based urban energy modelling and energy efficiency scenarios using the energy performance certificate database",
+    "authors": [
+      "Guglielmina Mutani",
+      "Valeria Todeschi"
+    ],
+    "year": 2021,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-021-09962-z",
+    "sourceUrl": "https://doi.org/10.1007/s12053-021-09962-z",
+    "keywords": [
+      "에너지·환경",
+      "GIS",
+      "도시이에너지모델링",
+      "건물에너지효율",
+      "에너지성능인증",
+      "온실가스감축",
+      "지속가능도시",
+      "학술논문"
+    ],
+    "summary": "2021년 Energy Efficiency 저널에 발표된 본 논문은, 유럽연합의 건물 에너지 성능 인증(EPC) 데이터베이스를 활용하여 기존 주거용 건물의 에너지 성능을 평가하고, GIS 기반의 도시 스케일 에너지 모델을 통해 효과적인 건물 리모델링 및 온실가스 감축 시나리오를 분석한 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2021-gis-based-urban-energy-modelling-and-energy.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-the-impact-of-information-seeking-self-efficacy",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#8A4FFF",
+    "title": "The Journal of Academic Librarianship 저널에 게재된 정보탐색 자기효능감과 온라인 학습 자기효능감이 학생들의 수행 능력에 미치는 영향을 다룬 도서관·문헌정보 분야 학술 논문",
+    "shortTitle": "정보탐색 및 온라인 학습 자기효능감의 영향",
+    "originalTitle": "The impact of information-seeking self-efficacy and online learning self-efficacy on students' performance proficiency",
+    "authors": [
+      "Yingqi Tang",
+      "Hungwei Tseng",
+      "Xinyi Tang"
+    ],
+    "year": 2022,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2022.102584",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2022.102584",
+    "keywords": [
+      "도서관문헌정보",
+      "정보탐색자기효능감",
+      "온라인학습자기효능감",
+      "수행능력",
+      "학습성과",
+      "디지털리터러시",
+      "학술논문"
+    ],
+    "summary": "2022년 The Journal of Academic Librarianship 저널에 발표된 본 논문은, 대학생들이 온라인 환경에서 필요한 정보를 주도적으로 찾아내는 '정보탐색 자기효능감'과 비대면 학습 과정을 스스로 관리하는 '온라인 학습 자기효능감'이 실제 학업 수행 능력에 어떠한 영향을 미치는지 분석한 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2022-the-impact-of-information-seeking-self-efficacy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-machine-learning-and-concept-formation",
     "verified": true,
     "category": "인공지능",
