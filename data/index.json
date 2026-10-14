@@ -1,5 +1,125 @@
 [
   {
+    "id": "paper-1990-an-attractor-neural-network-model-of-semantic",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 의미적 사실 검색을 위한 어트랙터 신경망 모델을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "의미적 사실 검색을 위한 어트랙터 신경망 모델",
+    "originalTitle": "An attractor neural network model of semantic fact retrieval",
+    "authors": [
+      "E Ruppin",
+      "M Usher"
+    ],
+    "year": 1990,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x_1_3_003",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x_1_3_003",
+    "keywords": [
+      "인공지능",
+      "어트랙터신경망",
+      "의미기억",
+      "사실검색",
+      "연상기억",
+      "신경망모델",
+      "학술논문"
+    ],
+    "summary": "1990년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 어트랙터 신경망 모델을 활용하여 인간의 뇌가 가진 의미적 사실 검색(semantic fact retrieval) 과정을 시뮬레이션하고 분석한 인공지능 및 신경망 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1990-an-attractor-neural-network-model-of-semantic.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-simulation-design-of-transformer-differential-protection-based",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Advanced Materials Research 저널에 게재된 MATLAB 기반 변압기 차동 보호 시뮬레이션 설계를 다룬 전기 분야 학술 논문",
+    "shortTitle": "MATLAB 기반 변압기 차동 보호 시뮬레이션",
+    "originalTitle": "Simulation Design of Transformer Differential Protection Based on Mat Lab",
+    "authors": [
+      "Hong Hua He"
+    ],
+    "year": 2013,
+    "journal": "Advanced Materials Research",
+    "doi": "10.4028/www.scientific.net/amr.722.282",
+    "sourceUrl": "https://doi.org/10.4028/www.scientific.net/amr.722.282",
+    "keywords": [
+      "전기",
+      "변압기차동보호",
+      "MATLAB시뮬레이션",
+      "마이크로프로세서계전기",
+      "비율제동",
+      "전력계통",
+      "학술논문"
+    ],
+    "summary": "2013년 Advanced Materials Research 저널에 발표된 본 논문은, MATLAB 툴박스를 활용하여 전력 변압기의 차동 보호 시뮬레이션 모델을 구축하고 두선 비율 제동 방식을 통해 내부 고장을 정확히 판별하는 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-simulation-design-of-transformer-differential-protection-based.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1994-010-an-inertial-navigation-system-for-a",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Control Engineering Practice 저널에 게재된 모바일 로봇을 위한 관성 항법 시스템을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모바일 로봇을 위한 관성 항법 시스템",
+    "originalTitle": "An inertial navigation system for a mobile robot",
+    "authors": [],
+    "year": 1994,
+    "journal": "Control Engineering Practice",
+    "doi": "10.1016/0967-0661(94)90592-4",
+    "sourceUrl": "https://doi.org/10.1016/0967-0661(94)90592-4",
+    "keywords": [
+      "로봇·자동화",
+      "관성항법시스템",
+      "모바일로봇",
+      "위치추정",
+      "자율주행",
+      "센서융합",
+      "학술논문"
+    ],
+    "summary": "1994년 Control Engineering Practice 저널에 발표된 본 논문은, 모바일 로봇의 자율 주행과 위치 추정을 위해 관성 항법 시스템(INS)을 적용하고 분석한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1994-010-an-inertial-navigation-system-for-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-local-organization-for-promoting-energy-efficiency-reform",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 스웨덴의 지방 에너지 자문 서비스 개혁과 중간 행위자 역할을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "스웨덴 에너지 자문 서비스 개혁과 중간 행위자 역할",
+    "originalTitle": "Local organization for promoting energy efficiency—reform of local energy advice service in Sweden",
+    "authors": [
+      "Linnea Eriksson",
+      "Are Kjeang"
+    ],
+    "year": 2020,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-020-09923-y",
+    "sourceUrl": "https://doi.org/10.1007/s12053-020-09923-y",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율성",
+      "지자에너지자문",
+      "중간행위자",
+      "신공공관리론",
+      "스웨덴에너지개혁",
+      "학술논문"
+    ],
+    "summary": "2020년 Energy Efficiency 저널에 발표된 본 논문은, 스웨덴의 지방 에너지 자문 서비스 개혁 과정과 이것이 주택 소유자들의 에너지 효율성 증대에 미치는 영향을 중간 행위자(middle actors) 관점과 제도적 논리(institutional logics) 이론을 통해 분석한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2020-local-organization-for-promoting-energy-efficiency-reform.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1995-modelling-transpositional-invariancy-of-melody-recognition-with",
     "verified": true,
     "category": "인공지능",
