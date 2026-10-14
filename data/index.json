@@ -1,5 +1,133 @@
 [
   {
+    "id": "paper-2022-machine-learning-based-medical-image-deepfake-detection",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning with Applications 저널에 게재된 머신러닝 기반 의료 영상 딥페이크 탐지 기법의 비교 연구를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "의료 영상 딥페이크 탐지 비교 연구",
+    "originalTitle": "Machine learning based medical image deepfake detection: A comparative study",
+    "authors": [
+      "Siddharth Solaiyappan",
+      "Yuxin Wen"
+    ],
+    "year": 2022,
+    "journal": "Machine Learning with Applications",
+    "doi": "10.1016/j.mlwa.2022.100298",
+    "sourceUrl": "https://doi.org/10.1016/j.mlwa.2022.100298",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "딥페이크",
+      "의료영상",
+      "영상탐지",
+      "비교연구",
+      "학술논문"
+    ],
+    "summary": "2022년 Machine Learning with Applications 저널에 발표된 본 논문은, 인공지능으로 조작된 가짜 의료 영상(딥페이크)을 식별하고 다양한 머신러닝 알고리즘의 성능을 비교 분석한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2022-machine-learning-based-medical-image-deepfake-detection.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1983-experimental-determination-of-machine-characteristics-for-a",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Machines & Power Systems 저널에 게재된 이중 고정자 전기자 동기기의 기계 특성 실험적 결정을 다룬 전기 분야 학술 논문",
+    "shortTitle": "이중 고정자 동기기 기계 특성 실험",
+    "originalTitle": "EXPERIMENTAL DETERMINATION OF MACHINE CHARACTERISTICS FOR A DOUBLE STAR ARMATURE SYNCHRONOUS MACHINE",
+    "authors": [
+      "EHAB MOUSTAFA",
+      "MICHEL POLOUJADOFF"
+    ],
+    "year": 1983,
+    "journal": "Electric Machines & Power Systems",
+    "doi": "10.1080/07313568308955479",
+    "sourceUrl": "https://doi.org/10.1080/07313568308955479",
+    "keywords": [
+      "전기",
+      "동기기",
+      "전기자",
+      "이중고정자",
+      "기계특성",
+      "실험적결정",
+      "전력시스템"
+    ],
+    "summary": "1983년 Electric Machines & Power Systems 저널에 발표된 본 논문은, 이중 스타 전기자 권선을 가진 동기 발전기의 기계적 및 전기적 특성을 실험적으로 측정하고 분석한 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1983-experimental-determination-of-machine-characteristics-for-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-trajectory-tracking-control-of-omni-directional-wheeled",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 전방향 휠 로봇을 이용한 하지 재활 훈련 궤적 추종 제어 방안을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "전방향 휠 로봇의 하지 재활 궤적 제어",
+    "originalTitle": "Trajectory Tracking Control of Omni-directional Wheeled Robot for Lower Limbs Rehabilitative Training",
+    "authors": [
+      "Junyou YANG",
+      "Dianchun BAI",
+      "Shuoyu WANG",
+      "Wenzeng ZHAO"
+    ],
+    "year": 2011,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2011.00314",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2011.00314",
+    "keywords": [
+      "로봇·자동화",
+      "전방향로봇",
+      "궤적추종",
+      "하지재활",
+      "재활로봇",
+      "운동제어",
+      "학술논문"
+    ],
+    "summary": "2011년 ROBOT 저널에 발표된 본 논문은, 다리(하지) 재활 훈련을 돕기 위해 전방향 이동이 가능한 휠 로봇의 정밀한 궤적 추종 제어 알고리즘을 연구하고 제안한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2011-trajectory-tracking-control-of-omni-directional-wheeled.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-marketing-energy-efficiency-perceived-benefits-and-barriers",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Efficiency 저널에 게재된 가정용 에너지 효율성에 대한 지각된 혜택과 장벽을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "가정용 에너지 효율성의 혜택과 장벽",
+    "originalTitle": "Marketing energy efficiency: perceived benefits and barriers to home energy efficiency",
+    "authors": [
+      "Jennifer C. Cole",
+      "Jessica B. McDonald",
+      "Xinyuan Wen",
+      "Randall A. Kramer"
+    ],
+    "year": 2018,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-018-9614-z",
+    "sourceUrl": "https://doi.org/10.1007/s12053-018-9614-z",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "주거에너지",
+      "소비자인식",
+      "지속가능성",
+      "마케팅전략",
+      "학술논문"
+    ],
+    "summary": "2018년 Energy Efficiency 저널에 발표된 본 논문은, 가정용 에너지 효율성 개선을 가로막는 장애물과 소비자가 체감하는 혜택을 분석하여 효과적인 마케팅 및 정책적 접근 방안을 모색한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2018-marketing-energy-efficiency-perceived-benefits-and-barriers.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-research-papers-in-machine-learning",
     "verified": true,
     "category": "인공지능",
