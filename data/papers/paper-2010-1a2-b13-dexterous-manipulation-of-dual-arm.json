@@ -1,0 +1,108 @@
+{
+  "id": "paper-2010-1a2-b13-dexterous-manipulation-of-dual-arm",
+  "verified": true,
+  "category": "로봇·자동화",
+  "color": "#2F8F83",
+  "title": "The Proceedings of JSME annual Conference on Robotics and Mechatronics 저널에 게재된 비전 기반 양팔 로봇의 너트 및 볼트 조립 조작을 다룬 로봇·자동화 분야 학술 논문",
+  "shortTitle": "비전 기반 양팔 로봇의 너트 및 볼트 조립 조작",
+  "originalTitle": "1A2-B13 Dexterous Manipulation of Dual Arm Robot for Assembly Work based on Vision : Nut and Bolt Manipulation",
+  "authors": [
+    "A. S. RUHIZAN LIZA",
+    "Shunsuke TORITANI",
+    "Kotaro SAIKI",
+    "Daisuke NAKAGAWA",
+    "Kenzo NONAMI"
+  ],
+  "year": 2010,
+  "journal": "The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec)",
+  "journalUrl": "",
+  "doi": "10.1299/jsmermd.2010._1a2-b13_1",
+  "sourceUrl": "https://doi.org/10.1299/jsmermd.2010._1a2-b13_1",
+  "keywords": [
+    "로봇·자동화",
+    "양팔로봇",
+    "비전시스템",
+    "너트및볼트조립",
+    "정밀조작",
+    "로봇공학",
+    "학술논문"
+  ],
+  "difficulty": "★★★☆☆",
+  "prerequisites": "로봇 기구학 기초, 컴퓨터 비전 및 이미지 처리 개념, 로봇 팔 제어의 기본 원리",
+  "readingTime": "약 7분 소요",
+  "sections": [
+    {
+      "kicker": "PAPER INFO",
+      "title": "논문 기본정보",
+      "html": "<p>원문: 1A2-B13 Dexterous Manipulation of Dual Arm Robot for Assembly Work based on Vision : Nut and Bolt Manipulation</p><p>저자: A. S. RUHIZAN LIZA, Shunsuke TORITANI, Kotaro SAIKI, Daisuke NAKAGAWA, Kenzo NONAMI</p><p>연도: 2010</p><p>저널: The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec)</p><p>DOI: https://doi.org/10.1299/jsmermd.2010._1a2-b13_1</p><p>공식 링크: https://doi.org/10.1299/jsmermd.2010._1a2-b13_1</p><p>난이도: ★★★☆☆</p><p>선행지식: 로봇 기구학 기초, 컴퓨터 비전 및 이미지 처리 개념, 로봇 팔 제어의 기본 원리</p><p>예상 읽기시간: 약 7분 소요</p>"
+    },
+    {
+      "kicker": "ONE SENTENCE",
+      "title": "한 문장으로 먼저 설명",
+      "html": "<p>본 논문은 시각(비전) 시스템을 활용하여 양팔 로봇이 사람처럼 협동하며 너트와 볼트를 정밀하게 집고 조립하는 숙련된 조작 제어 방법을 다룬 연구이다.</p>"
+    },
+    {
+      "kicker": "KEY SUMMARY",
+      "title": "한눈에 보는 핵심요약",
+      "html": "<ul><li>배경: 산업 현장에서는 부품을 집고 끼우는 복잡하고 정교한 조립 작업을 자동으로 수행할 수 있는 양팔 로봇의 필요성이 커지고 있다.</li><li>문제의식: 단일 로봇 팔로는 물체를 지지하는 동시에 나사를 조이는 등의 복잡한 협동 작업을 수행하기가 구조적으로 매우 까다롭다.</li><li>핵심 제안: 비전 센서로 대상 부품의 위치를 파악하고, 두 개의 로봇 팔이 유기적으로 협력하여 너트와 볼트를 체결하는 조작 시스템을 제안했다.</li><li>성과: 양팔의 협동 제어와 비전 피드백을 결합하여 난도가 높은 나사 조립 작업을 로봇이 수행할 수 있음을 실험적으로 보였다.</li><li>한계: 공개된 메타데이터 및 요약 범위를 벗어나는 아주 세부적인 하드웨어 제어 알고리즘의 수치적 한계는 원문 전문을 직접 대조하지 않는 한 상세히 특정하기 어렵다.</li></ul>"
+    },
+    {
+      "kicker": "GLOSSARY",
+      "title": "처음 보는 사람을 위한 용어사전",
+      "html": "<ol><li>양팔 로봇 / Dual Arm Robot — 전문: 사람처럼 두 개의 팔을 가지고 있어 양손을 협동하여 복잡한 물체를 다룰 수 있는 로봇 시스템. 쉬운 말: 사람처럼 두 손을 동시에 써서 물건을 잡고 조립할 수 있는 로봇.</li><li>정밀 조작 / Dexterous Manipulation — 전문: 로봇 손이나 팔을 이용해 물체를 유연하고 섬세하게 다루며 형태나 위치를 바꾸는 기술. 쉬운 말: 로봇이 손가락이나 팔을 아주 섬세하게 움직여서 물건을 다루는 기술.</li><li>비전 시스템 / Vision System — 전문: 카메라와 이미지 처리 기술을 통해 로봇이 주변 환경과 물체의 위치를 눈으로 보듯 인식하게 하는 장치. 쉬운 말: 로봇에게 카메라 눈을 달아주어 물건이 어디에 있는지 스스로 찾게 하는 시스템.</li><li>너트 및 볼트 조립 / Nut and Bolt Manipulation — 전문: 두 개 이상의 부품을 결합하기 위해 볼트에 너트를 맞물려 회전시키며 체결하는 정밀 기계 작업. 쉬운 말: 나사와 너트를 서로 맞추고 돌려서 단단하게 조이는 작업.</li><li>로봇 기구학 / Robot Kinematics — 전문: 로봇 팔의 관절 각도와 끝단 위치 사이의 기하학적 관계를 수학적으로 계산하는 학문. 쉬운 말: 로봇 팔이 원하는 위치로 가려면 관절을 얼마나 꺾어야 하는지 계산하는 수학적 원리.</li><li>피드백 제어 / Feedback Control — 전문: 센서로 측정한 결과를 바탕으로 목표치와 비교하여 오차를 실시간으로 수정하며 제어하는 방식. 쉬운 말: 로봇이 일하다가 눈으로 보며 틀린 부분을 바로바로 고쳐가며 움직이는 방식.</li></ol>"
+    },
+    {
+      "kicker": "BACKGROUND",
+      "title": "연구 배경과 문제의식",
+      "html": "<p>현대 제조 및 조립 공정에서는 단순한 반복 운반을 넘어 부품을 맞추고 고정하는 고도의 정밀 작업이 요구된다.</p>\n<p>한쪽 팔만 가진 로봇은 한 손으로 물체를 잡고 다른 손으로 도구를 쓰는 등의 협동 작업이 불가능해 복잡한 조립에 한계가 있었다.</p>\n<p>따라서 사람의 두 손 동작을 모방할 수 있는 양팔 로봇을 활용하되, 카메라 시각 정보를 결합하여 정확한 위치에 너트와 볼트를 결합하는 자동화 기술 개발이 시급했다.</p>"
+    },
+    {
+      "kicker": "THEORY",
+      "title": "핵심 이론·원리",
+      "html": "<p>본 논문은 비전 센서로부터 얻은 시각 정보를 로봇의 좌표계와 일치시키는 캘리브레이션과 시각 되먹임(Visual Feedback) 원리를 바탕으로 한다.</p>\n<p>두 개의 로봇 팔이 각각 볼트와 너트를 쥐고 있을 때, 한쪽 팔은 고정하거나 지지하고 다른 팔은 회전시키며 맞물리는 협동 제어 알고리즘을 통해 미세한 오차를 극복하고 안정적인 체결을 유도한다.</p>"
+    },
+    {
+      "kicker": "METHOD",
+      "title": "연구방법 및 실험/시뮬레이션 조건",
+      "html": "<p>공개된 메타데이터 및 초록 정보에 따르면, 비전 시스템이 장착된 양팔 로봇 실험 환경을 구축하고, 실제 너트와 볼트 부품을 대상으로 한 조립 작업을 수행하는 방식으로 연구를 진행했다.</p><p>시각 인식을 통해 부품의 위치와 자세를 실시간으로 감지하고, 양팔의 궤적을 제어하여 체결 성공 여부를 검증하였다.</p>"
+    },
+    {
+      "kicker": "RESULT",
+      "title": "주요 결과와 핵심 수치 의미",
+      "html": "<p>공개 메타데이터 범위 상 구체적인 성공률 백분율이나 정밀도 수치를 일일이 특정하기는 어렵다.</p><p>다만 제안된 비전 기반 양팔 제어 기법을 통해 로봇이 시각적 오차를 보정하며 너트와 볼트 조립이라는 까다로운 공정을 안정적으로 완수할 수 있음을 실증하였다.</p>"
+    },
+    {
+      "kicker": "CONCLUSION",
+      "title": "저자의 결론",
+      "html": "<p>비전 시스템을 결합한 양팔 로봇의 협동 조작은 사람의 수작업에 의존하던 복잡한 조립 공정을 성공적으로 대체할 수 있는 실현 가능한 기술이며 향후 다양한 산업 현장 응용에 기여할 것이다.</p>"
+    },
+    {
+      "kicker": "PRACTICE",
+      "title": "실제 활용 가능성",
+      "html": "<p>자동차 부품 조립 라인, 가전제품 생산 공정, 정밀 기계 장치 자동화, 극한 환경에서의 부품 유지보수 로봇 시스템 등에 활용된다.</p>"
+    },
+    {
+      "kicker": "LIMITATIONS",
+      "title": "논문의 한계와 비판적 해석",
+      "html": "<p>초록 및 메타데이터 중심의 분석인 만큼, 조명 변화나 부품의 미세한 크기 오차, 다양한 외란이 존재하는 실제 난기류 환경에서의 강인성에 대한 추가적인 검증 데이터는 원문 대조가 필요하다.</p>"
+    },
+    {
+      "kicker": "LESSONS",
+      "title": "이 논문에서 배울 것",
+      "html": "<ol><li>양팔 로봇을 활용한 협동 작업 제어의 기본 접근법.</li><li>비전 센서를 로봇 조작에 연동하는 시각 피드백의 중요성.</li><li>정밀한 기계 부품 조립 자동화를 위한 로봇공학적 설계 방향.</li></ol>"
+    },
+    {
+      "kicker": "EASY",
+      "title": "완전 쉽게 말하면",
+      "html": "<p>공장에서 나사와 볼트를 서로 맞물려 조이는 일은 사람에게도 손이 많이 가고 정교함이 필요한 작업입니다. 로봇에게 이 일을 시키려면 눈으로 위치를 정확히 보고 두 손을 서로 협동해서 움직여야 합니다. 이 연구는 카메라라는 '눈'을 달고 있는 양팔 로봇이 어떻게 두 손을 동시에 써서 너트와 볼트를 척척 조립할 수 있는지 그 방법을 보여줍니다. 로봇이 사람처럼 섬세한 손재주를 가질 수 있도록 한 걸음 더 나아가게 만든 흥미로운 로봇 기술 연구입니다.</p>"
+    },
+    {
+      "kicker": "5-LINE SUMMARY",
+      "title": "핵심 5줄 요약",
+      "html": "<ol><li>2010년 일본정밀공학회(JSME) 로보멕 학술대회에 발표된 논문이다.</li><li>비전 시스템을 활용한 양팔 로봇의 정밀 조립 조작을 다루었다.</li><li>너트와 볼트 체결이라는 까다로운 공정을 자동화하는 데 초점을 맞췄다.</li><li>두 개의 팔이 협동하여 부품을 잡고 조립하는 제어 방식을 제시했다.</li><li>향후 산업 현장의 복잡한 조립 자동화에 기여하는 기초를 다졌다.</li></ol>"
+    }
+  ],
+  "summary": "2010년 The Proceedings of JSME annual Conference on Robotics and Mechatronics (Robomec)에 발표된 본 논문은, 비전 센서를 활용하여 양팔 로봇이 너트와 볼트 결합 같은 정교한 조립 작업을 능숙하게 수행할 수 있도록 제어하는 방법을 다룬 로봇·자동화 분야 학술 논문입니다.",
+  "file": "papers/paper-2010-1a2-b13-dexterous-manipulation-of-dual-arm.json",
+  "sectionCount": 14
+}
