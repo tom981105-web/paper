@@ -1,5 +1,126 @@
 [
   {
+    "id": "paper-1987-research-papers-in-machine-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 머신러닝 분야의 연구 동향과 학술적 가치를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "머신러닝 연구 동향과 가치",
+    "originalTitle": "Research Papers in Machine Learning",
+    "authors": [
+      "Pat Langley"
+    ],
+    "year": 1987,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022603230145",
+    "sourceUrl": "https://doi.org/10.1023/a:1022603230145",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "기계학습",
+      "연구동향",
+      "학술논문",
+      "인공지능역사",
+      "알고리즘"
+    ],
+    "summary": "1987년 Machine Learning 저널에 발표된 본 논문은, 초기 인공지능 및 머신러닝 분야의 학술적 연구 성과들을 되돌아보고 향후 기계학습 연구가 나아갈 방향과 가치를 조망한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1987-research-papers-in-machine-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-ieee-power-electronics-letters-publication-information-2",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IEEE Power Electronics Letters 저널의 발행 정보 및 전력전자 분야 학술 동향을 다룬 전기 분야 학술 논문",
+    "shortTitle": "IEEE Power Electronics Letters 발행 정보",
+    "originalTitle": "IEEE Power Electronics Letters publication information",
+    "authors": [],
+    "year": 2005,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2005.860646",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2005.860646",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "학술발행",
+      "전력시스템",
+      "전자공학",
+      "학술논문"
+    ],
+    "summary": "2005년 IEEE Power Electronics Letters 저널에 발표된 본 논문은, 전력전자 분야의 최신 연구 성과와 신속한 정보 전달을 목적으로 하는 저널의 발행 정보 및 학술적 의의를 다룬 전기 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2005-ieee-power-electronics-letters-publication-information-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-multi-robot-formation-control-with-kernel-based",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 커널 기반 강화학습을 활용한 다중 로봇 편대 제어 방안을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "커널 기반 강화학습 다중 로봇 편대 제어",
+    "originalTitle": "Multi-robot Formation Control with Kernel-based Reinforcement Learning",
+    "authors": [
+      "Jun WU",
+      "Xin XU",
+      "Chuanqiang LIAN",
+      "Yan HUANG"
+    ],
+    "year": 2011,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2011.00379",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2011.00379",
+    "keywords": [
+      "로봇·자동화",
+      "다중로봇",
+      "편대제어",
+      "강화학습",
+      "커널기법",
+      "지능형제어",
+      "학술논문"
+    ],
+    "summary": "2011년 ROBOT 저널에 발표된 본 논문은, 여러 대의 로봇이 서로 협력하며 일정한 대형(편대)을 유지하고 이동할 수 있도록 커널 기반 강화학습 기법을 적용한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2011-multi-robot-formation-control-with-kernel-based.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-household-energy-use-a-study-investigating-viewpoints",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Efficiency 저널에 게재된 가정용 에너지 효율 기술 및 소비자 행동에 대한 인식을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "가정용 에너지 효율 기술과 소비자 인식",
+    "originalTitle": "Household energy use: a study investigating viewpoints towards energy efficiency technologies and behaviour",
+    "authors": [
+      "Marcos Pelenur"
+    ],
+    "year": 2018,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-018-9624-x",
+    "sourceUrl": "https://doi.org/10.1007/s12053-018-9624-x",
+    "keywords": [
+      "에너지·환경",
+      "가정용에너지",
+      "에너지효율",
+      "소비자인식",
+      "에너지행동",
+      "친환경기술",
+      "학술논문"
+    ],
+    "summary": "2018년 Energy Efficiency 저널에 발표된 본 논문은, 가정 내에서 에너지를 효율적으로 사용하기 위해 도입되는 기술들과 실제 소비자들의 행동 및 인식 사이에 어떤 관계가 있는지 탐구한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2018-household-energy-use-a-study-investigating-viewpoints.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1992-machine-learning-a-maturing-field",
     "verified": true,
     "category": "인공지능",
