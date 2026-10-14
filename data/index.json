@@ -1,5 +1,127 @@
 [
   {
+    "id": "paper-1993-propagation-of-excitation-in-neural-network-models",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 신경망 모델에서의 흥분 전파를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "신경망 모델의 흥분 전파",
+    "originalTitle": "Propagation of excitation in neural network models",
+    "authors": [
+      "M A P Idiart",
+      "L F Abbott"
+    ],
+    "year": 1993,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x_4_3_003",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x_4_3_003",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "흥분전파",
+      "인공신경망",
+      "컴퓨테이셔널신경과학",
+      "학술논문"
+    ],
+    "summary": "1993년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 인공 신경망 모델 내부에서 신호와 자극이 어떻게 전달되고 확산되는지 그 전파 과정을 수학적 및 이론적으로 분석한 인공지능 및 신경과학 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-1993-propagation-of-excitation-in-neural-network-models.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2009-sensitivity-analysis-of-the-output-signal-of",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IETE Technical Review 저널에 게재된 VLSI 인버터-상호연결-인버터 시스템의 출력 신호 민감도 분석을 다룬 전기 분야 학술 논문",
+    "shortTitle": "VLSI 인버터 시스템의 민감도 분석",
+    "originalTitle": "Sensitivity Analysis of the Output Signal of VLSI Inverter-Interconnect-Inverter System to Selected Parameters",
+    "authors": [
+      "Agnieszka Ligocka-Wardzinska",
+      "Wojciech Bandurski"
+    ],
+    "year": 2009,
+    "journal": "IETE Technical Review",
+    "doi": "10.4103/0256-4602.57829",
+    "sourceUrl": "https://doi.org/10.4103/0256-4602.57829",
+    "keywords": [
+      "전기",
+      "VLSI",
+      "인버터",
+      "상호연결",
+      "민감도분석",
+      "출력신호",
+      "회로설계",
+      "학술논문"
+    ],
+    "summary": "2009년 IETE Technical Review 저널에 발표된 본 논문은, VLSI 인버터-상호연결-인버터 시스템에서 선택된 파라미터 변화가 출력 신호에 미치는 영향을 분석한 전기공학 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2009-sensitivity-analysis-of-the-output-signal-of.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1979-social-implications-of-automation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal에 게재된 자동화가 사회에 미치는 영향과 구조적 변화를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "자동화의 사회적 영향",
+    "originalTitle": "Social implications of automation",
+    "authors": [
+      "P. Senker"
+    ],
+    "year": 1979,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/eb004750",
+    "sourceUrl": "https://doi.org/10.1108/eb004750",
+    "keywords": [
+      "로봇·자동화",
+      "산업자동화",
+      "사회적영향",
+      "노동구조",
+      "기술변화",
+      "학술논문"
+    ],
+    "summary": "1979년 Industrial Robot: An International Journal에 발표된 본 논문은, 산업 자동화와 로봇 기술이 확산됨에 따라 노동 구조와 사회 전반에 미치는 파급 효과를 고찰한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1979-social-implications-of-automation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-energy-exergy-and-environmental-impacts-analyses-of",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Journal of Energy Storage 저널에 게재된 양수발전과 수소 에너지 저장 프로세스의 에너지, 엑서지 및 환경 영향 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "양수발전과 수소 에너지 저장 분석",
+    "originalTitle": "Energy, exergy and environmental impacts analyses of Pumped Hydro Storage (PHS) and Hydrogen (H2) energy storage processes",
+    "authors": [
+      "Claudinei de Moura Altea",
+      "Jurandir Itizo Yanagihara"
+    ],
+    "year": 2024,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2023.109713",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2023.109713",
+    "keywords": [
+      "에너지·환경",
+      "양수발전",
+      "수소에너지",
+      "에너지저장",
+      "엑서지분석",
+      "환경영향평가",
+      "학술논문"
+    ],
+    "summary": "2024년 Journal of Energy Storage 저널에 발표된 본 논문은, 대규모 에너지 저장 기술인 양수발전(PHS)과 수소(H2) 에너지 저장 프로세스의 열역학적 효율 및 환경적 영향을 에너지, 엑서지 관점에서 종합적으로 분석한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2024-energy-exergy-and-environmental-impacts-analyses-of.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-learning-decision-lists",
     "verified": true,
     "category": "인공지능",
