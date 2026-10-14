@@ -1,5 +1,126 @@
 [
   {
+    "id": "paper-1985-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 분야의 핵심 개념과 발전 방향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능의 기초와 발전 방향",
+    "originalTitle": "Artificial intelligence",
+    "authors": [
+      "Donna Reese"
+    ],
+    "year": 1985,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(85)90088-8",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(85)90088-8",
+    "keywords": [
+      "인공지능",
+      "컴퓨터과학",
+      "지능형시스템",
+      "논문",
+      "기초이론",
+      "학술논문"
+    ],
+    "summary": "1985년 Artificial Intelligence 저널에 발표된 본 논문은, 초기 인공지능 분야의 핵심적인 개념과 기술적 접근 방식을 다루며 지능형 시스템의 기초를 정립하는 데 기여한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1985-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1847-electric-machine",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Scientific American 저널에 게재된 전기 기계의 초기 발전과 원리를 다룬 전기 분야 학술 논문",
+    "shortTitle": "전기 기계의 초기 역사와 원리",
+    "originalTitle": "Electric Machine",
+    "authors": [],
+    "year": 1847,
+    "journal": "Scientific American",
+    "doi": "10.1038/scientificamerican06261847-316l",
+    "sourceUrl": "https://doi.org/10.1038/scientificamerican06261847-316l",
+    "keywords": [
+      "전기",
+      "전기기계",
+      "모터",
+      "발전기",
+      "전자기학",
+      "역사적문헌",
+      "학술논문"
+    ],
+    "summary": "1847년 Scientific American 저널에 발표된 본 논문은, 전기에너지를 기계에너지로 전환하거나 그 반대의 과정을 다루는 초기 전기 기계의 작동 원리와 개념을 소개한 전기 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1847-electric-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-flexible-two-wheeled-self-balancing-robot-control",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 홉필드 신경망을 기반으로 한 유연한 이륜 자율균형 로봇의 제어 방안을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "홉필드 신경망 기반 이륜 자율균형 로봇 제어",
+    "originalTitle": "Flexible Two-wheeled Self-balancing Robot Control Based on Hopfield Neural Network",
+    "authors": [
+      "Xiaogang RUAN",
+      "Jianwei ZHAO"
+    ],
+    "year": 2010,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2010.00405",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2010.00405",
+    "keywords": [
+      "로봇·자동화",
+      "이륜로봇",
+      "자율균형",
+      "홉필드신경망",
+      "유연제어",
+      "운동제어",
+      "학술논문"
+    ],
+    "summary": "2010년 ROBOT 저널에 발표된 본 논문은, 두 바퀴로 스스로 균형을 잡는 유연한 이륜 로봇을 제어하기 위해 홉필드 신경망 알고리즘을 적용하고 그 성능을 연구한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2010-flexible-two-wheeled-self-balancing-robot-control.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-energy-efficiency-inside-out-what-impact-does",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 건물 에너지 효율 향상이 실내 기후와 지역난방에 미치는 영향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "건물 에너지 효율과 실내기후·지역난방 영향",
+    "originalTitle": "Energy efficiency inside out—what impact does energy efficiency have on indoor climate and district heating?",
+    "authors": [
+      "Sirje Pädam",
+      "Agneta Persson",
+      "Oskar Kvarnström",
+      "Ola Larsson"
+    ],
+    "year": 2018,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-018-9684-y",
+    "sourceUrl": "https://doi.org/10.1007/s12053-018-9684-y",
+    "keywords": [
+      "에너지",
+      "환경",
+      "에너지효율",
+      "실내기후",
+      "지역난방",
+      "건물에너지",
+      "학술논문"
+    ],
+    "summary": "2018년 Energy Efficiency 저널에 발표된 본 논문은, 건물의 에너지 효율을 높이는 조치들이 실제 실내 환경과 지역난방 시스템에 어떠한 영향을 미치는지 분석한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2018-energy-efficiency-inside-out-what-impact-does.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-machine-learning-based-medical-image-deepfake-detection",
     "verified": true,
     "category": "인공지능",
