@@ -1,5 +1,124 @@
 [
   {
+    "id": "paper-1987-third-international-conference-on-artificial-intelligence-and",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 제3회 국제 인공지능 및 교육 학술대회 정보를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "제3회 AI 및 교육 국제 학술대회",
+    "originalTitle": "Third international conference on artificial intelligence and education",
+    "authors": [],
+    "year": 1987,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(87)90086-5",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(87)90086-5",
+    "keywords": [
+      "인공지능",
+      "교육공학",
+      "인공지능과교육",
+      "학술대회",
+      "컴퓨터보조학습",
+      "인지과학",
+      "학술논문"
+    ],
+    "summary": "1987년 Artificial Intelligence 저널에 발표된 본 논문은, 초기 인공지능과 교육(AIED) 분야의 핵심 연구와 학술적 논의를 다룬 제3회 국제 학술대회의 개요 및 주요 성과를 다룬 인공지능 분야 학술 정보 문서입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1987-third-international-conference-on-artificial-intelligence-and.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-low-speed-electric-machine-used-for-electric-2",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Advanced Materials Research 저널에 게재된 사보니우스 풍차 발전용 저속 전기 기계를 다룬 전기 분야 학술 논문",
+    "shortTitle": "사보니우스 풍차용 저속 전기 기계",
+    "originalTitle": "Low Speed Electric Machine Used for Electric Generating from Savonius Windmill",
+    "authors": [
+      "Y.B. Lukiyanto"
+    ],
+    "year": 2013,
+    "journal": "Advanced Materials Research",
+    "doi": "10.4028/www.scientific.net/amr.0.443",
+    "sourceUrl": "https://doi.org/10.4028/www.scientific.net/amr.0.443",
+    "keywords": [
+      "전기",
+      "전기기계",
+      "풍력발전",
+      "사보니우스풍차",
+      "저속발전기",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "2013년 Advanced Materials Research 저널에 발표된 본 논문은, 회전 속도가 느린 사보니우스 풍차를 활용해 전기를 효율적으로 생산하기 적합한 저속 전기 기계(발전기)의 설계 및 적용을 다룬 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-low-speed-electric-machine-used-for-electric-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-cop-slam-closed-form-online-pose-chain",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "IEEE Transactions on Robotics 저널에 게재된 시각적 동시 위치 추정 및 지도 작성(SLAM)을 위한 폐쇄형 온라인 포즈 체인 최적화를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "COP-SLAM: 비주얼 SLAM 폐쇄형 최적화",
+    "originalTitle": "COP-SLAM: Closed-Form Online Pose-Chain Optimization for Visual SLAM",
+    "authors": [
+      "Gijs Dubbelman",
+      "Brett Browning"
+    ],
+    "year": 2015,
+    "journal": "IEEE Transactions on Robotics",
+    "doi": "10.1109/tro.2015.2473455",
+    "sourceUrl": "https://doi.org/10.1109/tro.2015.2473455",
+    "keywords": [
+      "로봇·자동화",
+      "시각적SLAM",
+      "포즈체인최적화",
+      "폐쇄형해법",
+      "온라인최적화",
+      "로봇내비게이션",
+      "학술논문"
+    ],
+    "summary": "2015년 IEEE Transactions on Robotics 저널에 발표된 본 논문은, 로봇이나 카메라가 이동하면서 실시간으로 주변을 파악하고 자신의 위치를 추정하는 시각적 SLAM에서 누적 오차를 효율적으로 줄이기 위한 폐쇄형 온라인 포즈 체인 최적화 기법을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★★★",
+    "readingTime": "약 9분",
+    "file": "papers/paper-2015-cop-slam-closed-form-online-pose-chain.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1994-renewable-energy-strategies-for-europe",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Renewable Energy 저널에 게재된 유럽의 재생 에너지 전략을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "유럽의 재생 에너지 전략",
+    "originalTitle": "Renewable energy strategies for Europe",
+    "authors": [
+      "Michael Grubb"
+    ],
+    "year": 1994,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(94)90358-1",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(94)90358-1",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "유럽에너지전략",
+      "에너지정책",
+      "지속가능발전",
+      "마이클그러브",
+      "학술논문"
+    ],
+    "summary": "1994년 Renewable Energy 저널에 발표된 본 논문은, 유럽 지역을 대상으로 지속 가능한 미래를 위한 재생 에너지 전환 전략과 정책적 방향성을 다룬 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1994-renewable-energy-strategies-for-europe.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-s-swin-transformer-simplified-swin-transformer-model",
     "verified": true,
     "category": "인공지능",
