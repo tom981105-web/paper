@@ -1,5 +1,123 @@
 [
   {
+    "id": "paper-1976-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 분야의 발전과 기초적 개념을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능의 기초적 개념과 발전",
+    "originalTitle": "Artificial intelligence",
+    "authors": [
+      "Stuart C. Shapiro"
+    ],
+    "year": 1976,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(76)90004-7",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(76)90004-7",
+    "keywords": [
+      "인공지능",
+      "컴퓨터과학",
+      "지능형시스템",
+      "인지과학",
+      "학술논문"
+    ],
+    "summary": "1976년 Artificial Intelligence 저널에 발표된 본 논문은, 인공지능 분야의 초기 발전 과정과 컴퓨터를 통해 지능적 행동을 구현하기 위한 핵심 개념들을 고찰한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1976-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1997-modified-asynchronous-cascade-machine-system",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Machines & Power Systems 저널에 게재된 수정된 비동기 캐스케이드 머신 시스템의 구조와 특성을 다룬 전기 분야 학술 논문",
+    "shortTitle": "수정된 비동기 캐스케이드 머신 시스템",
+    "originalTitle": "MODIFIED ASYNCHRONOUS CASCADE MACHINE SYSTEM",
+    "authors": [
+      "S. SATHIAKUMAR",
+      "W. KOCZARA"
+    ],
+    "year": 1997,
+    "journal": "Electric Machines & Power Systems",
+    "doi": "10.1080/07313569708955754",
+    "sourceUrl": "https://doi.org/10.1080/07313569708955754",
+    "keywords": [
+      "전기",
+      "비동기머신",
+      "캐스케이드시스템",
+      "전기기기",
+      "전력제어",
+      "학술논문"
+    ],
+    "summary": "1997년 Electric Machines & Power Systems 저널에 발표된 본 논문은, 전력 제어와 효율 향상을 위해 수정된 비동기 캐스케이드 머신 시스템의 구조와 작동 특성을 고찰한 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1997-modified-asynchronous-cascade-machine-system.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-wireless-measurement-and-control-system-for-a",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 새로운 생체 모방 마이크로 로봇을 위한 무선 측정 및 제어 시스템을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "생체 모방 마이크로 로봇 무선 측정 및 제어 시스템",
+    "originalTitle": "Wireless Measurement and Control System for a Novel Bionic Micro-Robot",
+    "authors": [
+      "Jinguang WANG",
+      "Cenyu YANG",
+      "Zhe WANG",
+      "Qingmeng WANG",
+      "Tao SONG"
+    ],
+    "year": 2010,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2010.00034",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2010.00034",
+    "keywords": [
+      "로봇·자동화",
+      "마이크로로봇",
+      "생체모방",
+      "무선제어",
+      "측정시스템",
+      "학술논문"
+    ],
+    "summary": "2010년 ROBOT 저널에 발표된 본 논문은, 새로운 생체 모방 마이크로 로봇의 원활한 동작과 상태 모니터링을 위해 설계된 무선 측정 및 제어 시스템의 구조와 구현 방안을 고찰한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2010-wireless-measurement-and-control-system-for-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-i-wind-energy-i-literature-survey-no-5",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 풍력 에너지 분야의 최신 문헌 동향과 연구 성과를 조망한 에너지·환경 분야 학술 논문",
+    "shortTitle": "풍력 에너지 문헌 동향 조사",
+    "originalTitle": "<i>Wind Energy</i> literature survey no. 21",
+    "authors": [],
+    "year": 2012,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.494",
+    "sourceUrl": "https://doi.org/10.1002/we.494",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "문헌조사",
+      "신재생에너지",
+      "풍력터빈",
+      "학술논문"
+    ],
+    "summary": "2012년 Wind Energy 저널에 발표된 본 논문은, 풍력 에너지 분야에서 축적된 최신 학술 연구와 기술 문헌들을 체계적으로 분류하고 그 핵심 동향을 조망한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2012-i-wind-energy-i-literature-survey-no-5.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1999-applications-of-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
