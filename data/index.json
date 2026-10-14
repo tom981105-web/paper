@@ -1,5 +1,126 @@
 [
   {
+    "id": "paper-2020-invoice-recognition-system-based-on-neural-network",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Neural Network 저널에 게재된 신경망 기반 송장 인식 시스템을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "신경망 기반 송장 인식 시스템",
+    "originalTitle": "Invoice Recognition System based on Neural Network",
+    "authors": [],
+    "year": 2020,
+    "journal": "International Journal de Neural Network",
+    "doi": "10.38007/nn.2020.010101",
+    "sourceUrl": "https://doi.org/10.38007/nn.2020.010101",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "송장인식",
+      "문자인식",
+      "딥러닝",
+      "자동화",
+      "학술논문"
+    ],
+    "summary": "2020년 International Journal of Neural Network 저널에 발표된 본 논문은, 인공신경망 기술을 활용하여 다양한 형태의 송장(인보이스)에 기재된 텍스트와 정보를 자동으로 인식하고 처리하는 시스템의 설계를 다룬 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2020-invoice-recognition-system-based-on-neural-network.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1978-analysis-of-the-interference-synchronous-machine",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Machines & Power Systems 저널에 게재된 간섭 동기기를 다룬 전기 분야 학술 논문",
+    "shortTitle": "간섭 동기기 분석",
+    "originalTitle": "ANALYSIS OF THE INTERFERENCE SYNCHRONOUS MACHINE",
+    "authors": [
+      "E. ANDRESEN"
+    ],
+    "year": 1978,
+    "journal": "Electric Machines & Power Systems",
+    "doi": "10.1080/03616967808955306",
+    "sourceUrl": "https://doi.org/10.1080/03616967808955306",
+    "keywords": [
+      "전기",
+      "동기기",
+      "전기기계",
+      "간섭동기기",
+      "전자기학",
+      "회전기기",
+      "학술논문"
+    ],
+    "summary": "1978년 Electric Machines & Power Systems 저널에 발표된 본 논문은, 특수한 전자기적 간섭 현상을 활용하거나 제어하는 동기기의 특성을 분석한 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1978-analysis-of-the-interference-synchronous-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-trajectory-control-of-announcer-robot-based-on",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robot 저널에 게재된 섀넌 웨이블릿 기반 아나운서 로봇의 궤적 제어를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "섀넌 웨이블릿 기반 아나운서 로봇 궤적 제어",
+    "originalTitle": "Trajectory Control of Announcer Robot Based on Shannon Wavelets",
+    "authors": [
+      "Pengyu LIU",
+      "Yongyi HE",
+      "Minglun FANG",
+      "Jun LI"
+    ],
+    "year": 2012,
+    "journal": "Robot",
+    "doi": "10.3724/sp.j.1218.2012.00380",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2012.00380",
+    "keywords": [
+      "로봇·자동화",
+      "궤적제어",
+      "아나운서로봇",
+      "섀넌웨이블릿",
+      "모션컨트롤",
+      "로봇공학",
+      "학술논문"
+    ],
+    "summary": "2012년 Robot 저널에 발표된 본 논문은, 사람처럼 안내하고 발표하는 아나운서 로봇의 정밀한 움직임을 위해 수학적 함수인 섀넌 웨이블릿을 활용한 궤적 제어 기법을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2012-trajectory-control-of-announcer-robot-based-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-electricity-generation-from-renewable-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 재생에너지를 이용한 전력 생산을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "재생에너지 전력 생산",
+    "originalTitle": "Electricity generation from renewable energy",
+    "authors": [
+      "Michel Benard"
+    ],
+    "year": 1998,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(98)00171-2",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(98)00171-2",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "전력생산",
+      "친환경에너지",
+      "에너지정책",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "1998년 Renewable Energy 저널에 발표된 본 논문은, 태양광·풍력·수력 등 다양한 재생에너지원을 활용하여 전력을 생산하는 방식과 그 잠재적 가치를 다룬 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1998-electricity-generation-from-renewable-energy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-third-international-conference-on-artificial-intelligence-and",
     "verified": true,
     "category": "인공지능",
