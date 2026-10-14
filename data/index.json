@@ -1,5 +1,121 @@
 [
   {
+    "id": "paper-1999-applications-of-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 기술의 다양한 실제 응용 사례와 발전 방향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능의 다양한 실제 응용 사례",
+    "originalTitle": "Applications of Artificial Intelligence",
+    "authors": [],
+    "year": 1999,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/s0004-3702(99)00086-7",
+    "sourceUrl": "https://doi.org/10.1016/s0004-3702(99)00086-7",
+    "keywords": [
+      "인공지능",
+      "응용기술",
+      "컴퓨터과학",
+      "지능형시스템",
+      "학술논문"
+    ],
+    "summary": "1999년 Artificial Intelligence 저널에 발표된 본 논문은, 인공지능 기술이 다양한 산업과 학문 분야에 어떻게 적용될 수 있는지 그 실제 응용 사례와 발전 가능성을 고찰한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1999-applications-of-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1977-correspondence-the-flux-bridge-machine",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Electric Machines & Power Systems 저널에 게재된 플럭스 브리지 머신의 작동 원리와 특성을 다룬 전기 분야 학술 논문",
+    "shortTitle": "플럭스 브리지 머신의 원리와 특성",
+    "originalTitle": "CORRESPONDENCE: THE FLUX-BRIDGE MACHINE",
+    "authors": [
+      "L. A. AGU"
+    ],
+    "year": 1977,
+    "journal": "Electric Machines & Power Systems",
+    "doi": "10.1080/03616967708960028",
+    "sourceUrl": "https://doi.org/10.1080/03616967708960028",
+    "keywords": [
+      "전기",
+      "플럭스브리지머신",
+      "전자기학",
+      "자기회로",
+      "전기기기",
+      "학술논문"
+    ],
+    "summary": "1977년 Electric Machines & Power Systems 저널에 발표된 본 논문은, 전자기 자속의 흐름을 제어하고 연결하는 독특한 구조의 플럭스 브리지 머신(Flux-Bridge Machine)의 작동 원리와 전기적 특성을 고찰한 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1977-correspondence-the-flux-bridge-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-a-bionic-learning-algorithm-based-on-skinner",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 스키너의 조작적 조건형성을 기반으로 한 생체 모방 학습 알고리즘과 로봇 제어를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "스키너 조건형성 기반 생체 모방 학습 알고리즘",
+    "originalTitle": "A Bionic Learning Algorithm Based on Skinner's Operant Conditioning and Control of Robot",
+    "authors": [
+      "Hongge REN",
+      "Xiaogang RUAN"
+    ],
+    "year": 2010,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2010.00132",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2010.00132",
+    "keywords": [
+      "로봇·자동화",
+      "생체모방",
+      "학습알고리즘",
+      "조작적조건형성",
+      "스키너",
+      "로봇제어",
+      "학술논문"
+    ],
+    "summary": "2010년 ROBOT 저널에 발표된 본 논문은, 심리학자 스키너의 조작적 조건형성 이론을 로봇 제어에 접목하여 새로운 생체 모방 학습 알고리즘을 제안하고 그 적용 가능성을 연구한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2010-a-bionic-learning-algorithm-based-on-skinner.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2012-investment-in-energy-efficiency-do-the-characteristics",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2A7B4C",
+    "title": "Energy Efficiency 저널에 게재된 에너지 효율 투자에서 투자 특성과 기업 특성의 관계를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "에너지 효율 투자와 투자 특성의 영향",
+    "originalTitle": "Investment in energy efficiency: do the characteristics of investments matter?",
+    "authors": [
+      "Catherine Cooremans"
+    ],
+    "year": 2012,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-012-9154-x",
+    "sourceUrl": "https://doi.org/10.1007/s12053-012-9154-x",
+    "keywords": [
+      "에너지효율",
+      "투자결정",
+      "기업특성",
+      "수익성평가",
+      "에너지격차",
+      "재무관리",
+      "학술논문"
+    ],
+    "summary": "2012년 Energy Efficiency 저널에 발표된 본 논문은, 에너지 효율 투자 시 단순한 수익성을 넘어 다양한 투자 특성이 기업의 의사결정에 미치는 영향을 분석하고 새로운 접근 방식을 제시한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2012-investment-in-energy-efficiency-do-the-characteristics.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1985-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
