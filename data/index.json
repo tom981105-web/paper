@@ -1,5 +1,126 @@
 [
   {
+    "id": "paper-1992-machine-learning-a-maturing-field",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 머신러닝 분야의 성숙과 발전 과정을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "머신러닝의 성숙과 발전",
+    "originalTitle": "Machine Learning: A Maturing Field",
+    "authors": [
+      "Jaime Carbonell"
+    ],
+    "year": 1992,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022665512030",
+    "sourceUrl": "https://doi.org/10.1023/a:1022665512030",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "기계학습",
+      "학술동향",
+      "역사적발전",
+      "알고리즘",
+      "학술논문"
+    ],
+    "summary": "1992년 Machine Learning 저널에 발표된 본 논문은, 머신러닝(기계학습) 분야가 초기 이론적 탐색 단계를 넘어 어떻게 하나의 독립된 학문적·산업적 성숙기로 진입했는지 그 발전 과정과 핵심 패러다임을 조망한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1992-machine-learning-a-maturing-field.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1989-calendar",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Electrical Power & Energy Systems 저널에 게재된 캘린더 관련 전력 시스템 운영 및 관리 방안을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 운영의 캘린더 관리",
+    "originalTitle": "Calendar",
+    "authors": [],
+    "year": 1989,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(89)90022-7",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(89)90022-7",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "전력계통",
+      "일정관리",
+      "운영계획",
+      "전력수요예측",
+      "학술논문"
+    ],
+    "summary": "1989년 International Journal of Electrical Power & Energy Systems 저널에 발표된 본 논문은, 전력 시스템의 효율적인 운영과 유지보수, 그리고 전력 수요 패턴 분석에 있어 시간 및 일정(Calendar) 기반의 관리 방법론을 다룬 전기 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1989-calendar.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-a-biped-robot-with-3t-manipulation-ability",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal에 게재된 3T 조작 능력을 갖춘 2족 보행 로봇의 설계를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "3T 조작 능력을 갖춘 2족 보행 로봇",
+    "originalTitle": "A biped robot with 3T manipulation ability",
+    "authors": [
+      "Chao Liu",
+      "Yan‐An Yao"
+    ],
+    "year": 2013,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/01439911311320886",
+    "sourceUrl": "https://doi.org/10.1108/01439911311320886",
+    "keywords": [
+      "로봇·자동화",
+      "2족보행로봇",
+      "3T조작",
+      "로봇매니퓰레이터",
+      "보행제어",
+      "로봇기구학",
+      "학술논문"
+    ],
+    "summary": "2013년 Industrial Robot: An International Journal에 발표된 본 논문은, 걷는 기능뿐만 아니라 3차원 공간에서 물체를 다루는 3T 조작 능력을 동시에 수행할 수 있는 2족 보행 로봇의 설계와 제어 방식을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-a-biped-robot-with-3t-manipulation-ability.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2017-energy-efficiency-and-carbon-efficiency-of-tourism",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 관광 산업의 에너지 효율성과 탄소 효율성 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "관광 산업의 에너지 및 탄소 효율성",
+    "originalTitle": "Energy efficiency and carbon efficiency of tourism industry in destination",
+    "authors": [
+      "Chengcai Tang",
+      "Linsheng Zhong",
+      "Qun’ou Jiang"
+    ],
+    "year": 2017,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-017-9598-0",
+    "sourceUrl": "https://doi.org/10.1007/s12053-017-9598-0",
+    "keywords": [
+      "에너지·환경",
+      "관광산업",
+      "에너지효율",
+      "탄소효율",
+      "지속가능발전",
+      "탄소배출",
+      "학술논문"
+    ],
+    "summary": "2017년 Energy Efficiency 저널에 발표된 본 논문은, 관광지 내 관광 산업이 소모하는 에너지와 배출하는 탄소의 효율성을 분석하여 지속 가능한 관광 성장을 도모하기 위한 방안을 다룬 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2017-energy-efficiency-and-carbon-efficiency-of-tourism.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2009-computer-vision-based-analysis-in-sport-environments",
     "verified": true,
     "category": "인공지능",
