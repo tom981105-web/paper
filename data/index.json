@@ -1,5 +1,125 @@
 [
   {
+    "id": "paper-1995-modelling-transpositional-invariancy-of-melody-recognition-with",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 어트랙터 신경망을 이용한 멜로디 인식의 전조 불변성 모델링을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "어트랙터 신경망과 멜로디 전조 불변성 모델링",
+    "originalTitle": "Modelling transpositional invariancy of melody recognition with an attractor neural network",
+    "authors": [
+      "Lubica Beňušková"
+    ],
+    "year": 1995,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x_6_3_001",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x_6_3_001",
+    "keywords": [
+      "인공지능",
+      "어트랙터신경망",
+      "멜로디인식",
+      "전조불변성",
+      "음악인지",
+      "신경망모델",
+      "학술논문"
+    ],
+    "summary": "1995년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 어트랙터 신경망을 활용하여 음악에서 키가 바뀌어도 멜로디를 동일하게 인식하는 전조 불변성(transpositional invariancy) 현상을 모델링하고 분석한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1995-modelling-transpositional-invariancy-of-melody-recognition-with.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2011-an-instantaneous-measurement-based-transformer-protection-scheme",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "Advanced Materials Research 저널에 게재된 순시 측정 기반 변압기 보호 방식을 다룬 전기 분야 학술 논문",
+    "shortTitle": "순시 측정 기반 변압기 보호 방식",
+    "originalTitle": "An Instantaneous Measurement Based Transformer Protection Scheme",
+    "authors": [
+      "B. Gu",
+      "J.C. Tan"
+    ],
+    "year": 2011,
+    "journal": "Advanced Materials Research",
+    "doi": "10.4028/www.scientific.net/amr.383-390.5188",
+    "sourceUrl": "https://doi.org/10.4028/www.scientific.net/amr.383-390.5188",
+    "keywords": [
+      "전기",
+      "변압기보호",
+      "순시측정",
+      "IEC61850",
+      "반응전력방향요소",
+      "전력계통",
+      "학술논문"
+    ],
+    "summary": "2011년 Advanced Materials Research 저널에 발표된 본 논문은, IEC 61850-9-2 표준에 기반한 순시 측정값과 무효 전력 방향 요소를 활용하여 전력 변압기의 내부 고장을 정확하게 감지하고 돌입 전류를 구별하는 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 8분",
+    "file": "papers/paper-2011-an-instantaneous-measurement-based-transformer-protection-scheme.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-the-application-of-ultrasonic-positioning-system-for",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Sensors and Materials 저널에 게재된 초음파 위치 추적 시스템 기반 전방향 이동 로봇 실내 내비게이션을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "초음파 위치 추적 시스템과 전방향 이동 로봇 내비게이션",
+    "originalTitle": "The Application of Ultrasonic Positioning System for Indoor Navigation of Omni-directional Mobile Robot",
+    "authors": [],
+    "year": 2016,
+    "journal": "Sensors and Materials",
+    "doi": "10.18494/sam.2016.1212",
+    "sourceUrl": "https://doi.org/10.18494/sam.2016.1212",
+    "keywords": [
+      "로봇·자동화",
+      "초음파위치추적",
+      "실내내비게이션",
+      "전방향이동로봇",
+      "센서시스템",
+      "자율주행",
+      "학술논문"
+    ],
+    "summary": "2016년 Sensors and Materials 저널에 발표된 본 논문은, 초음파 위치 추적 시스템을 활용하여 전방향 이동 로봇의 실내 내비게이션 성능을 높이는 방식을 탐구한 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2016-the-application-of-ultrasonic-positioning-system-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-energy-efficiency-in-smes-overcoming-the-communication",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Efficiency 저널에 게재된 중소기업의 에너지 효율 향상을 위한 커뮤니케이션 장벽 극복을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "중소기업 에너지 효율과 커뮤니케이션 장벽",
+    "originalTitle": "Energy efficiency in SMEs: overcoming the communication barrier",
+    "authors": [
+      "Jenny Palm",
+      "Fredrik Backman"
+    ],
+    "year": 2020,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-020-09839-7",
+    "sourceUrl": "https://doi.org/10.1007/s12053-020-09839-7",
+    "keywords": [
+      "에너지·환경",
+      "중소기업",
+      "에너지효율",
+      "커뮤니케이션",
+      "에너지진단",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "2020년 Energy Efficiency 저널에 발표된 본 논문은, 중소기업(SME)의 에너지 효율 개선을 가로막는 주요 원인으로 효과적이지 않은 지식 및 정보 소통 문제를 지적하고, 참여형 커뮤니케이션과 지식 창출을 통한 해결 방안을 탐구한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2020-energy-efficiency-in-smes-overcoming-the-communication.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1991-the-role-of-dimensionality-in-a-threshold",
     "verified": true,
     "category": "인공지능",
