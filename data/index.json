@@ -1,5 +1,121 @@
 [
   {
+    "id": "paper-1980-techniques-of-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 기법을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능의 기법",
+    "originalTitle": "Techniques of artificial intelligence",
+    "authors": [
+      "Mike Brady"
+    ],
+    "year": 1980,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(80)90035-1",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(80)90035-1",
+    "keywords": [
+      "인공지능",
+      "인공지능기법",
+      "마이크브래디",
+      "지식표현",
+      "추론",
+      "학술논문"
+    ],
+    "summary": "1980년 Artificial Intelligence 저널에 발표된 본 논문은, 초기 인공지능 분야에서 사용되던 다양한 핵심 기법과 접근 방식을 고찰한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1980-techniques-of-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1997-calendar",
+    "verified": true,
+    "category": "전기",
+    "color": "#E65100",
+    "title": "International Journal of Electrical Power &amp; Energy Systems 저널에 게재된 캘린더 시스템 및 전력 계통 운영을 다룬 전기 분야 학술 논문",
+    "shortTitle": "캘린더 기반 전력 시스템",
+    "originalTitle": "Calendar",
+    "authors": [],
+    "year": 1997,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/s0142-0615(97)90058-2",
+    "sourceUrl": "https://doi.org/10.1016/s0142-0615(97)90058-2",
+    "keywords": [
+      "전기",
+      "전력계통",
+      "캘린더시스템",
+      "전력수요예측",
+      "일정관리",
+      "학술논문"
+    ],
+    "summary": "1997년 International Journal of Electrical Power & Energy Systems 저널에 발표된 본 논문은, 전력 계통 운영 및 스케줄링 과정에서 캘린더 시스템이 가지는 역할과 적용 방안을 다룬 전기 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1997-calendar.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-decoupled-and-coordinated-intelligent-force-position-control",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robot 저널에 게재된 최소침습 수술 로봇을 위한 디커플링 및 협조형 지능형 힘-위치 제어를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "수술 로봇의 지능형 힘-위치 제어",
+    "originalTitle": "Decoupled and Coordinated Intelligent Force-position Control forMinimally Invasive Surgical Robot",
+    "authors": [
+      "Chongbin GUO",
+      "Kuangrong HAO",
+      "Yongsheng DIND"
+    ],
+    "year": 2013,
+    "journal": "Robot",
+    "doi": "10.3724/sp.j.1218.2013.00073",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2013.00073",
+    "keywords": [
+      "로봇·자동화",
+      "수술로봇",
+      "힘위치제어",
+      "디커플링",
+      "지능형제어",
+      "학술논문"
+    ],
+    "summary": "2013년 Robot 저널에 발표된 본 논문은, 최소침습 수술 로봇이 환자의 조직에 가하는 힘과 로봇의 위치를 정밀하게 조율하기 위한 디커플링 및 협조형 지능형 제어 기법을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-decoupled-and-coordinated-intelligent-force-position-control.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1993-the-uk-renewable-energy-programme",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 영국 재생에너지 프로그램을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "영국 재생에너지 프로그램",
+    "originalTitle": "The UK Renewable Energy programme",
+    "authors": [
+      "A. Brown"
+    ],
+    "year": 1993,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(93)90036-g",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(93)90036-g",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "영국에너지정책",
+      "신재생에너지",
+      "에너지전환",
+      "학술논문"
+    ],
+    "summary": "1993년 Renewable Energy 저널에 발표된 본 논문은, 영국의 국가적 차원에서 추진된 재생에너지 개발 프로그램의 비전과 정책적 방향성을 다룬 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1993-the-uk-renewable-energy-programme.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-image-features-fused-with-bp-neural-network",
     "verified": true,
     "category": "인공지능",
