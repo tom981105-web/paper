@@ -1,5 +1,126 @@
 [
   {
+    "id": "paper-1987-machine-learning-and-grammar-induction",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 기계학습과 문법 유도를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "기계학습을 활용한 문법 유도 연구",
+    "originalTitle": "Machine Learning and Grammar Induction",
+    "authors": [
+      "Pat Langely"
+    ],
+    "year": 1987,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022808826027",
+    "sourceUrl": "https://doi.org/10.1023/a:1022808826027",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "문법유도",
+      "언어학습",
+      "자연어처리",
+      "패턴인식",
+      "학술논문"
+    ],
+    "summary": "1987년 Machine Learning 저널에 발표된 본 논문은, 컴퓨터가 예시 데이터로부터 언어의 규칙이나 문법 구조를 스스로 학습하고 유도해내는 기계학습 기법과 그 가능성을 조망한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1987-machine-learning-and-grammar-induction.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1983-a-pwm-inverter-control-considering-the-modes",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "IFAC Proceedings Volumes 저널에 게재된 인버터의 동작 모드를 고려한 PWM 인버터 제어를 다룬 전기 분야 학술 논문",
+    "shortTitle": "인버터 동작 모드를 고려한 PWM 인버터 제어",
+    "originalTitle": "A PWM Inverter Control Considering the Modes of Operation of the Inverter",
+    "authors": [
+      "R.K. Jardan",
+      "E. Hajdu"
+    ],
+    "year": 1983,
+    "journal": "IFAC Proceedings Volumes",
+    "doi": "10.1016/s1474-6670(17)61876-7",
+    "sourceUrl": "https://doi.org/10.1016/s1474-6670(17)61876-7",
+    "keywords": [
+      "전기",
+      "PWM인버터",
+      "인버터제어",
+      "동작모드",
+      "전력전자",
+      "학술논문"
+    ],
+    "summary": "1983년 IFAC Proceedings Volumes 저널에 발표된 본 논문은, 전력 변환 장치인 PWM 인버터가 실제로 작동하는 다양한 운전 모드와 상태를 고려하여 제어 성능을 높이는 방안을 다룬 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1983-a-pwm-inverter-control-considering-the-modes.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2010-turning-control-for-a-modular-biomimetic-amphibious",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "ROBOT 저널에 게재된 가변 관절 수를 기반으로 한 모듈형 생체모방 수중륙상 양용 로봇의 선회 제어를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "가변 관절 기반 수중륙상 양용 로봇 선회 제어",
+    "originalTitle": "Turning Control for a Modular Biomimetic Amphibious Robot Based on Variable Joint Number",
+    "authors": [
+      "Rui DING",
+      "Junzhi YU",
+      "Qinghai YANG",
+      "Min TAN"
+    ],
+    "year": 2010,
+    "journal": "ROBOT",
+    "doi": "10.3724/sp.j.1218.2010.00491",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2010.00491",
+    "keywords": [
+      "로봇·자동화",
+      "양용로봇",
+      "생체모방",
+      "모듈형로봇",
+      "선회제어",
+      "가변관절",
+      "로봇기구학",
+      "학술논문"
+    ],
+    "summary": "2010년 ROBOT 저널에 발표된 본 논문은, 물과 육지를 모두 오갈 수 있는 모듈형 생체모방 양용 로봇이 상황에 따라 관절 개수를 달리하며 효과적으로 방향을 바꿀 수 있도록 하는 선회 제어 기법을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2010-turning-control-for-a-modular-biomimetic-amphibious.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1980-hydrogen-energy-and-energy-related-publications-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 출판물을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 및 관련 출판물 동향 연구",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1980,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(80)90080-4",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(80)90080-4",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "문헌동향",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1980년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 분야의 연구 개발 동향과 관련 에너지 출판물의 흐름을 조망한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1980-hydrogen-energy-and-energy-related-publications-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1995-artificial-intelligence-in-medicine",
     "verified": true,
     "category": "인공지능",
