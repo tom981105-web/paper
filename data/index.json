@@ -1,5 +1,119 @@
 [
   {
+    "id": "paper-1988-new-theoretical-directions-in-machine-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 기계학습의 새로운 이론적 방향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "기계학습의 새로운 이론적 방향",
+    "originalTitle": "New Theoretical Directions In Machine Learning",
+    "authors": [
+      "David Haussler"
+    ],
+    "year": 1988,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022817027844",
+    "sourceUrl": "https://doi.org/10.1023/a:1022817027844",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "이론연구",
+      "학습이론",
+      "컴퓨팅학습이론",
+      "학술논문"
+    ],
+    "summary": "1988년 Machine Learning 저널에 발표된 본 논문은, 초창기 기계학습 분야가 직면한 이론적 한계를 극복하고 향후 학문이 나아갈 새로운 방향성을 제시한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1988-new-theoretical-directions-in-machine-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-cascaded-multicell-trans-z-source-inverter",
+    "verified": true,
+    "category": "전기",
+    "color": "#3F6C91",
+    "title": "International Journal of Scientific Engineering and Research 저널에 게재된 트랜스-Z-소스 인버터를 다룬 전기 분야 학술 논문",
+    "shortTitle": "캐스케이드 멀티셀 트랜스-Z-소스 인버터",
+    "originalTitle": "Cascaded Multicell Trans-Z-Source Inverter",
+    "authors": [
+      "Ravi Kumar Jaffarali"
+    ],
+    "year": 2014,
+    "journal": "International Journal of Scientific Engineering and Research",
+    "doi": "10.70729/j2013218",
+    "sourceUrl": "https://doi.org/10.70729/j2013218",
+    "keywords": [
+      "전기",
+      "인버터",
+      "트랜스-Z-소스",
+      "전력전자",
+      "멀티셀",
+      "학술논문"
+    ],
+    "summary": "2014년 International Journal of Scientific Engineering and Research 저널에 발표된 본 논문은, 태양광이나 풍력 등 신재생에너지 시스템 및 전력 변환 장치에서 고전압과 고효율을 달성하기 위한 캐스케이드 멀티셀 트랜스-Z-소스 인버터의 구조와 원리를 다룬 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2014-cascaded-multicell-trans-z-source-inverter.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-robot-remote-control-system",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 로봇 원격 제어 시스템을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 원격 제어 시스템 연구",
+    "originalTitle": "Robot remote control system",
+    "authors": [
+      "Jon Rigelsford"
+    ],
+    "year": 2003,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2003.04930bad.010",
+    "sourceUrl": "https://doi.org/10.1108/ir.2003.04930bad.010",
+    "keywords": [
+      "로봇·자동화",
+      "원격제어",
+      "산업용로봇",
+      "원격조종",
+      "자동화시스템",
+      "학술논문"
+    ],
+    "summary": "2003년 Industrial Robot: An International Journal 저널에 발표된 본 논문은, 인간이 직접 접근하기 어려운 위험하거나 고립된 작업 환경에서 산업용 로봇을 안전하고 정밀하게 조종하기 위한 원격 제어 시스템 기술을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2003-robot-remote-control-system.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1989-hydrogen-energy-and-energy-related-publications",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 문헌을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 및 관련 문헌 동향 연구",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1989,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(89)90100-6",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(89)90100-6",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지문헌",
+      "청정에너지",
+      "연구동향",
+      "학술논문"
+    ],
+    "summary": "1989년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 연구 분야와 관련된 에너지 문헌들의 동향을 조망하고 미래 친환경 에너지원으로서 수소의 가능성을 학술적으로 고찰한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1989-hydrogen-energy-and-energy-related-publications.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-editorial-the-terminology-of-machine-learning",
     "verified": true,
     "category": "인공지능",
