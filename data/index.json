@@ -1,5 +1,87 @@
 [
   {
+    "id": "paper-1980-artificial-intelligence-programming",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 프로그래밍을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능 프로그래밍",
+    "originalTitle": "Artificial intelligence programming",
+    "authors": [
+      "Philip London"
+    ],
+    "year": 1980,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(80)90024-7",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(80)90024-7",
+    "keywords": [
+      "인공지능",
+      "프로그래밍",
+      "AI역사",
+      "소프트웨어",
+      "학술논문"
+    ],
+    "summary": "1980년 Artificial Intelligence 저널에 발표된 본 논문은, 초기 인공지능 연구 단계에서의 프로그래밍 방식과 소프트웨어적 접근법을 다룬 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1980-artificial-intelligence-programming.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2002-motion-control-company-becomes-robot-systems-integrator",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 모션 제어 기업의 로봇 시스템 통합업체 전환 과정을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모션 제어 기업의 로봇 시스템 통합업체 전환",
+    "originalTitle": "Motion control company becomes robot systems integrator",
+    "authors": [],
+    "year": 2002,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2002.04929dab.011",
+    "sourceUrl": "https://doi.org/10.1108/ir.2002.04929dab.011",
+    "keywords": [
+      "로봇·자동화",
+      "모션제어",
+      "시스템통합",
+      "산업용로봇",
+      "자동화기업",
+      "학술논문"
+    ],
+    "summary": "2002년 Industrial Robot: An International Journal 저널에 발표된 본 논문은, 전통적인 모션 제어 기술을 가진 기업이 산업 현장의 요구에 발맞추어 로봇 시스템 통합업체(Systems Integrator)로 비즈니스 영역을 확장하고 전환해 나간 과정을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2002-motion-control-company-becomes-robot-systems-integrator.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1997-world-renewable-energy-congress-iv-final-report",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Renewable Energy 저널에 게재된 제4차 세계 신재생에너지 총회 최종 보고서를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "제4차 세계 신재생에너지 총회 최종 보고서",
+    "originalTitle": "World renewable energy congress IV final report",
+    "authors": [],
+    "year": 1997,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(97)90170-1",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(97)90170-1",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "세계총회",
+      "에너지정책",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "1997년 Renewable Energy 저널에 발표된 본 논문은, 제4차 세계 신재생에너지 총회의 주요 논의 사항과 세계적인 대체에너지 연구·정책 동향을 종합한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1997-world-renewable-energy-congress-iv-final-report.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-second-international-conference-on-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
