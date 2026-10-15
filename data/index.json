@@ -1,5 +1,93 @@
 [
   {
+    "id": "paper-1986-computer-vision-theory-the-lack-thereof-2",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 컴퓨터 비전 분야의 이론적 부재와 학문적 기반을 고찰한 인공지능 분야 학술 논문",
+    "shortTitle": "컴퓨터 비전 이론의 부재",
+    "originalTitle": "Computer vision theory: The lack thereof",
+    "authors": [
+      "Robert M. Haralick"
+    ],
+    "year": 1986,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/0734-189x(86)90014-9",
+    "sourceUrl": "https://doi.org/10.1016/0734-189x(86)90014-9",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이론적기반",
+      "영상처리",
+      "패턴인식",
+      "학술논문"
+    ],
+    "summary": "1986년 Computer Vision, Graphics, and Image Processing 저널에 발표된 본 논문은, 초기 컴퓨터 비전 분야가 겪고 있던 탄탄한 수학적·이론적 기반의 부족 현상을 비판적으로 성찰하고 체계적인 이론 정립의 필요성을 역설한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1986-computer-vision-theory-the-lack-thereof-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-kusuda-international-consulting-office-in-industrial-automation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Assembly Automation 저널에 게재된 산업 자동화 및 메카트로닉스 분야의 컨설팅 오피스 역할과 사례를 고찰한 로봇·자동화 분야 학술 논문",
+    "shortTitle": "산업 자동화 및 메카트로닉스 컨설팅",
+    "originalTitle": "Kusuda International: consulting office in industrial automation and mechatronics",
+    "authors": [],
+    "year": 1998,
+    "journal": "Assembly Automation",
+    "doi": "10.1108/aa.1998.03318bab.004",
+    "sourceUrl": "https://doi.org/10.1108/aa.1998.03318bab.004",
+    "keywords": [
+      "로봇·자동화",
+      "산업자동화",
+      "메카트로닉스",
+      "컨설팅",
+      "제조공정",
+      "학술논문"
+    ],
+    "summary": "1998년 Assembly Automation 저널에 발표된 본 논문은, 급변하는 제조 환경 속에서 산업 자동화와 메카트로닉스 기술 도입을 지원하는 전문 컨설팅 오피스의 역할과 기여 방안을 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1998-kusuda-international-consulting-office-in-industrial-automation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-the-impact-of-carbon-emissions-trading-on",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B5E20",
+    "title": "Energy Economics 저널에 게재된 중국의 탄소 배출권 거래 시범 제도가 에너지 효율에 미친 영향을 분석한 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국의 탄소 배출권 거래제가 에너지 효율에 미친 영향",
+    "originalTitle": "The impact of carbon emissions trading on energy efficiency: Evidence from quasi-experiment in China's carbon emissions trading pilot",
+    "authors": [
+      "Qianqian Hong",
+      "Linhao Cui",
+      "Penghui Hong"
+    ],
+    "year": 2022,
+    "journal": "Energy Economics",
+    "doi": "10.1016/j.eneco.2022.106025",
+    "sourceUrl": "https://doi.org/10.1016/j.eneco.2022.106025",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출권거래제",
+      "에너지효율",
+      "준실험",
+      "중국",
+      "경제성장",
+      "학술논문"
+    ],
+    "summary": "2022년 Energy Economics 저널에 발표된 본 논문은, 중국의 탄소 배출권 거래 시범 제도가 준실험(Quasi-experiment) 방식으로 기업과 지역의 에너지 효율에 미친 인과적 영향을 분석하고 환경 규제의 경제적 실효성을 검증한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2022-the-impact-of-carbon-emissions-trading-on.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2008-discrete-optimization-in-computer-vision",
     "verified": true,
     "category": "인공지능",
