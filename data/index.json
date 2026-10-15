@@ -1,5 +1,87 @@
 [
   {
+    "id": "paper-2022-image-features-fused-with-bp-neural-network",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Neural Network 저널에 게재된 이미지 특징과 역전파 신경망의 융합을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "이미지 특징과 역전파 신경망의 융합",
+    "originalTitle": "Image Features Fused with BP Neural Network",
+    "authors": [],
+    "year": 2022,
+    "journal": "International Journal of Neural Network",
+    "doi": "10.38007/nn.2022.030407",
+    "sourceUrl": "https://doi.org/10.38007/nn.2022.030407",
+    "keywords": [
+      "인공지능",
+      "이미지특징",
+      "역전파신경망",
+      "BP신경망",
+      "특징융합",
+      "학술논문"
+    ],
+    "summary": "2022년 International Journal of Neural Network 저널에 발표된 본 논문은, 시각적 이미지 데이터에서 추출한 특징들과 역전파 신경망(BP Neural Network)을 결합하여 성능을 높이는 방식을 다룬 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2022-image-features-fused-with-bp-neural-network.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-system-for-synchronous-robot-control",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 동기식 로봇 제어 시스템을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "동기식 로봇 제어 시스템",
+    "originalTitle": "System for synchronous robot control",
+    "authors": [
+      "Jon Rigelsford"
+    ],
+    "year": 2003,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2003.04930cad.011",
+    "sourceUrl": "https://doi.org/10.1108/ir.2003.04930cad.011",
+    "keywords": [
+      "로봇·자동화",
+      "동기식제어",
+      "로봇제어시스템",
+      "산업용로봇",
+      "모션동기화",
+      "학술논문"
+    ],
+    "summary": "2003년 Industrial Robot: An International Journal 저널에 발표된 본 논문은, 여러 대의 로봇이나 구동 장치가 오차 없이 정확하게 동시에 움직이도록 만드는 동기식 로봇 제어 시스템의 기술적 특징을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2003-system-for-synchronous-robot-control.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-issue-information",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Wind Energy 저널에 게재된 학술지 이슈 정보를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "Wind Energy 이슈 정보",
+    "originalTitle": "Issue Information",
+    "authors": [],
+    "year": 2025,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.2926",
+    "sourceUrl": "https://doi.org/10.1002/we.2926",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "학술지정보",
+      "연구동향",
+      "학술논문"
+    ],
+    "summary": "2025년 Wind Energy 저널에 발표된 본 논문은, 해당 학술지의 발행 호(Issue)와 관련된 공식 정보 및 메타데이터를 다룬 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2025-issue-information.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1980-artificial-intelligence-programming",
     "verified": true,
     "category": "인공지능",
