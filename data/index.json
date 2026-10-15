@@ -1,5 +1,120 @@
 [
   {
+    "id": "paper-1998-creativity-and-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능과 창의성의 본질을 고찰한 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능과 창의성",
+    "originalTitle": "Creativity and artificial intelligence",
+    "authors": [
+      "Margaret A. Boden"
+    ],
+    "year": 1998,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/s0004-3702(98)00055-1",
+    "sourceUrl": "https://doi.org/10.1016/s0004-3702(98)00055-1",
+    "keywords": [
+      "인공지능",
+      "창의성",
+      "인지과학",
+      "생성적AI",
+      "마가렛보든",
+      "학술논문"
+    ],
+    "summary": "1998년 Artificial Intelligence 저널에 발표된 본 논문은, 인간의 전유물로 여겨지던 '창의성'이 인공지능을 통해 어떻게 정의되고 구현될 수 있는지를 탐구한 인공지능 및 인지과학 분야의 고전적 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1998-creativity-and-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-enhancing-small-signal-power-system-stability-by",
+    "verified": true,
+    "category": "전기",
+    "color": "#E65100",
+    "title": "Electric Power Systems Research 저널에 게재된 UPFC와 PSS의 협조 제어를 통한 소신호 전력계통 안정도 향상을 다룬 전기 분야 학술 논문",
+    "shortTitle": "UPFC와 PSS 연계를 통한 전력계통 소신호 안정도 향상",
+    "originalTitle": "Enhancing small signal power system stability by coordinating unified power flow controller with power system stabilizer",
+    "authors": [
+      "W Fang"
+    ],
+    "year": 2003,
+    "journal": "Electric Power Systems Research",
+    "doi": "10.1016/s0378779602002183",
+    "sourceUrl": "https://doi.org/10.1016/s0378779602002183",
+    "keywords": [
+      "전기",
+      "전력계통",
+      "소신호안정도",
+      "UPFC",
+      "PSS",
+      "전력제어",
+      "학술논문"
+    ],
+    "summary": "2003년 Electric Power Systems Research 저널에 발표된 본 논문은, 통합 전력 흐름 제어기(UPFC)와 전력계통 안정화 장치(PSS)의 체계적인 협조 제어를 통해 대규모 전력망의 소신호 안정도를 효과적으로 향상시키는 방안을 다룬 전기 분야 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2003-enhancing-small-signal-power-system-stability-by.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2002-remote-control-of-a-mobile-robot",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 모바일 로봇의 원격 제어 기술을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "모바일 로봇의 원격 제어",
+    "originalTitle": "Remote control of a mobile robot",
+    "authors": [
+      "Jon Rigelsford"
+    ],
+    "year": 2002,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2002.04929cad.010",
+    "sourceUrl": "https://doi.org/10.1108/ir.2002.04929cad.010",
+    "keywords": [
+      "로봇·자동화",
+      "모바일로봇",
+      "원격제어",
+      "무선통신",
+      "산업용로봇",
+      "학술논문"
+    ],
+    "summary": "2002년 Industrial Robot: An International Journal 저널에 발표된 본 논문은, 이동형 로봇(모바일 로봇)을 원거리에서 안전하고 효과적으로 조종하기 위한 원격 제어 기술과 시스템 구성을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2002-remote-control-of-a-mobile-robot.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1995-hydrogen-energy-and-energy-related-publications",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B5E20",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 출판물을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 및 관련 출판물 동향",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1995,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(95)90022-5",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(95)90022-5",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "문헌동향",
+      "학술연구",
+      "학술논문"
+    ],
+    "summary": "1995년 International Journal of Hydrogen Energy 저널에 발표된 본 문서는, 당시 전 세계적으로 발표된 수소 에너지 및 관련 에너지 분야의 학술 출판물과 연구 동향을 조망한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1995-hydrogen-energy-and-energy-related-publications.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2021-seafloor-pipeline-detection-with-deep-learning",
     "verified": true,
     "category": "인공지능",
