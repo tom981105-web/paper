@@ -1,5 +1,93 @@
 [
   {
+    "id": "paper-1985-model-based-computer-vision",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 모델 기반 컴퓨터 비전의 원리와 접근 방식을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "모델 기반 컴퓨터 비전",
+    "originalTitle": "Model-based computer vision",
+    "authors": [],
+    "year": 1985,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/0734-189x(85)90038-6",
+    "sourceUrl": "https://doi.org/10.1016/0734-189x(85)90038-6",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "모델기반",
+      "영상처리",
+      "패턴인식",
+      "학술논문"
+    ],
+    "summary": "1985년 Computer Vision, Graphics, and Image Processing 저널에 발표된 본 논문은, 사전 지식과 기하학적 모델을 활용하여 이미지 속 객체를 인식하고 해석하는 모델 기반 컴퓨터 비전의 핵심 접근 방식을 고찰한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1985-model-based-computer-vision.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1994-financial-incentives-for-industrial-automation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Assembly Automation 저널에 게재된 산업자동화를 위한 재정적 인센티브 제도를 고찰한 로봇·자동화 분야 학술 논문",
+    "shortTitle": "산업자동화를 위한 재정적 인센티브",
+    "originalTitle": "Financial incentives for industrial automation",
+    "authors": [
+      "Tony Reid"
+    ],
+    "year": 1994,
+    "journal": "Assembly Automation",
+    "doi": "10.1108/01445159410060811",
+    "sourceUrl": "https://doi.org/10.1108/01445159410060811",
+    "keywords": [
+      "로봇·자동화",
+      "산업자동화",
+      "재정인센티브",
+      "자본조달",
+      "연구개발",
+      "학술논문"
+    ],
+    "summary": "1994년 Assembly Automation 저널에 발표된 본 논문은, 기업들이 조립 기술 및 산업자동화를 도입할 때 활용할 수 있는 다양한 지역적·국가적 자본 프로젝트 자금 조달 제도와 연구개발 및 교육 훈련을 위한 재정적 지원 체계를 분석한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1994-financial-incentives-for-industrial-automation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-the-role-of-environmental-taxes-on-carbon",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B5E20",
+    "title": "Renewable Energy 저널에 게재된 탄소중립 목표 국가에서 환경세와 탄소 배출량의 관계 및 재생에너지 소비의 역할을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소중립 국가의 환경세와 탄소 배출: 재생에너지의 역할",
+    "originalTitle": "The role of environmental taxes on carbon emissions in countries aiming for net-zero carbon emissions: Does renewable energy consumption matter?",
+    "authors": [
+      "Yongfeng Zhu",
+      "David Taylor",
+      "Zilong Wang"
+    ],
+    "year": 2023,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/j.renene.2023.119239",
+    "sourceUrl": "https://doi.org/10.1016/j.renene.2023.119239",
+    "keywords": [
+      "에너지·환경",
+      "환경세",
+      "탄소배출",
+      "탄소중립",
+      "재생에너지",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "2023년 Renewable Energy 저널에 발표된 본 논문은, 탄소중립을 지향하는 국가들을 대상으로 환경세 부과가 탄소 배출량 저감에 미치는 영향과 재생에너지 소비가 이 과정에서 어떠한 조절적·핵심적 역할을 수행하는지 분석한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2023-the-role-of-environmental-taxes-on-carbon.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1999-sparsification-from-dilute-connectivity-in-a-neural-2",
     "verified": true,
     "category": "인공지능",
