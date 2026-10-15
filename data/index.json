@@ -1,5 +1,122 @@
 [
   {
+    "id": "paper-2021-seafloor-pipeline-detection-with-deep-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Proceedings of the Northern Lights Deep Learning Workshop 저널에 게재된 심해 파이프라인 탐지를 위한 딥러닝 기법을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝 기반 해저 파이프라인 탐지",
+    "originalTitle": "Seafloor Pipeline Detection With Deep Learning",
+    "authors": [
+      "Vemund Sigmundson Schøyen",
+      "Narada Dilp Warakagoda",
+      "Øivind Midtgaard"
+    ],
+    "year": 2021,
+    "journal": "Proceedings of the Northern Lights Deep Learning Workshop",
+    "doi": "10.7557/18.5699",
+    "sourceUrl": "https://doi.org/10.7557/18.5699",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "해저파이프라인",
+      "객체탐지",
+      "ResNet",
+      "YOLO",
+      "학술논문"
+    ],
+    "summary": "2021년 Proceedings of the Northern Lights Deep Learning Workshop 저널에 발표된 본 논문은, 다중빔 음향 측심기 데이터를 활용하여 해저 파이프라인을 빠르고 정확하게 탐지하기 위해 ResNet과 YOLO 모델을 맞춤형으로 적용한 인공지능 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2021-seafloor-pipeline-detection-with-deep-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-editorial-board-3",
+    "verified": true,
+    "category": "전기",
+    "color": "#E65100",
+    "title": "International Journal of Electrical Power &amp; Energy Systems 저널의 편집위원회를 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 저널 편집위원회",
+    "originalTitle": "Editorial Board",
+    "authors": [],
+    "year": 2023,
+    "journal": "International Journal of Electrical Power &amp; Energy Systems",
+    "doi": "10.1016/s0142-0615(23)00547-1",
+    "sourceUrl": "https://doi.org/10.1016/s0142-0615(23)00547-1",
+    "keywords": [
+      "전기",
+      "전력계통",
+      "에너지시스템",
+      "편집위원회",
+      "학술저널",
+      "학술논문"
+    ],
+    "summary": "2023년 International Journal of Electrical Power & Energy Systems 저널에 게재된 본 문서는, 해당 전기 및 에너지 시스템 분야 학술지를 이끌어가는 편집위원회(Editorial Board)의 구성과 역할을 소개하는 공식 안내 문서입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2023-editorial-board-3.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1981-updating-the-control-systems-of-a-trallfa",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 트랄파(Trallfa) 산업용 로봇의 제어 시스템 업데이트를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "트랄파 산업용 로봇 제어 시스템 갱신",
+    "originalTitle": "Updating the control systems of a Trallfa industrial robot",
+    "authors": [
+      "A. Ray"
+    ],
+    "year": 1981,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/eb004798",
+    "sourceUrl": "https://doi.org/10.1108/eb004798",
+    "keywords": [
+      "로봇·자동화",
+      "산업용로봇",
+      "제어시스템",
+      "트랄파",
+      "로봇제어",
+      "학술논문"
+    ],
+    "summary": "1981년 Industrial Robot: An International Journal 저널에 발표된 본 논문은, 초기 산업용 로봇인 트랄파(Trallfa) 로봇의 성능 향상을 위해 제어 시스템을 현대적으로 업데이트하고 개선한 방안을 다룬 로봇·자동화 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1981-updating-the-control-systems-of-a-trallfa.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-injection-rate-shaping-in-diesel-engines-key",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#2E7D32",
+    "title": "Energy Storage 저널에 게재된 디젤 엔진의 분사율 형상화와 에너지 저장 효율 향상을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "디젤 엔진의 분사율 형상화",
+    "originalTitle": "Injection rate shaping in diesel engines key of improved volumetric energy storage",
+    "authors": [
+      "Alberto Boretti"
+    ],
+    "year": 2021,
+    "journal": "Energy Storage",
+    "doi": "10.1002/est2.236",
+    "sourceUrl": "https://doi.org/10.1002/est2.236",
+    "keywords": [
+      "에너지·환경",
+      "디젤엔진",
+      "분사율형상화",
+      "에너지저장",
+      "연료효율",
+      "학술논문"
+    ],
+    "summary": "2021년 Energy Storage 저널에 발표된 본 논문은, 고압 분사 기술을 활용한 디젤 엔진의 분사율 형상화가 화학적 에너지를 기계적 에너지로 변환하는 효율과 온보드 에너지 저장 능력을 어떻게 극대화할 수 있는지 분석한 에너지·환경 분야 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2021-injection-rate-shaping-in-diesel-engines-key.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1980-techniques-of-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
