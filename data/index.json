@@ -1,5 +1,98 @@
 [
   {
+    "id": "paper-2008-discrete-optimization-in-computer-vision",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision and Image Understanding 저널에 게재된 컴퓨터 비전 분야의 이산 최적화 기법을 고찰한 인공지능 분야 학술 논문",
+    "shortTitle": "컴퓨터 비전에서의 이산 최적화",
+    "originalTitle": "Discrete optimization in computer vision",
+    "authors": [
+      "Nikos Paragios",
+      "Ramin Zabih"
+    ],
+    "year": 2008,
+    "journal": "Computer Vision and Image Understanding",
+    "doi": "10.1016/j.cviu.2008.09.001",
+    "sourceUrl": "https://doi.org/10.1016/j.cviu.2008.09.001",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이산최적화",
+      "그래프컷",
+      "영상분할",
+      "학술논문"
+    ],
+    "summary": "2008년 Computer Vision and Image Understanding 저널에 발표된 본 논문은, 컴퓨터 비전에서 발생하는 다양한 시각적 추론 문제를 해결하기 위한 이산 최적화 기법과 그 응용 양상을 고찰한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2008-discrete-optimization-in-computer-vision.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-walking-control-for-humanoid-robot-based-on",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Robot 저널에 게재된 ZMP 오차 보정을 기반으로 한 휴머노이드 로봇의 보행 제어 방식을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "ZMP 오차 보정 기반 휴머노이드 보행 제어",
+    "originalTitle": "Walking Control for Humanoid Robot Based on ZMP Error Correction",
+    "authors": [
+      "Genping FU",
+      "Yimin YANG",
+      "Jianping CHEN",
+      "Jing LI"
+    ],
+    "year": 2013,
+    "journal": "Robot",
+    "doi": "10.3724/sp.j.1218.2013.00039",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1218.2013.00039",
+    "keywords": [
+      "로봇·자동화",
+      "휴머노이드",
+      "보행제어",
+      "ZMP오차보정",
+      "로봇공학",
+      "학술논문"
+    ],
+    "summary": "2013년 Robot 저널에 발표된 본 논문은, 인간형 로봇(휴머노이드)이 안정적으로 걷기 위해 필수적인 ZMP(영모멘트점)의 오차를 실시간으로 보정하여 보행 안정성을 향상시키는 제어 기법을 다룬 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2013-walking-control-for-humanoid-robot-based-on.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-the-interrelationship-amid-carbon-emissions-tourism-economy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B5E20",
+    "title": "Carbon Research 저널에 게재된 브라질의 탄소 배출, 관광, 경제 성장, 에너지 사용 간의 동태적 관계를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "브라질의 탄소 배출, 관광, 경제, 에너지 사용의 상호 연관성",
+    "originalTitle": "The interrelationship amid carbon emissions, tourism, economy, and energy use in Brazil",
+    "authors": [
+      "Asif Raihan"
+    ],
+    "year": 2024,
+    "journal": "Carbon Research",
+    "doi": "10.1007/s44246-023-00084-y",
+    "sourceUrl": "https://doi.org/10.1007/s44246-023-00084-y",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "관광산업",
+      "경제성장",
+      "에너지소비",
+      "ARDL",
+      "브라질",
+      "학술논문"
+    ],
+    "summary": "2024년 Carbon Research 저널에 발표된 본 논문은, 1990년부터 2019년까지 브라질을 대상으로 경제 성장, 에너지 소비, 관광 산업이 탄소 배출에 미치는 단·장기적 동태적 영향을 ARDL 모형을 통해 분석하고 탄소중립을 위한 정책적 제언을 도출한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2024-the-interrelationship-amid-carbon-emissions-tourism-economy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1985-model-based-computer-vision",
     "verified": true,
     "category": "인공지능",
