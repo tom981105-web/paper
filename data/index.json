@@ -1,5 +1,118 @@
 [
   {
+    "id": "paper-1999-computer-vision-research-in-utrecht",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Computer Vision 저널에 게재된 네덜란드 위트레흐트 대학의 컴퓨터 비전 연구 현황과 발전 과정을 조명한 인공지능 분야 학술 논문",
+    "shortTitle": "위트레흐트 대학의 컴퓨터 비전 연구",
+    "originalTitle": "Computer Vision Research in Utrecht",
+    "authors": [
+      "Max A. Viergever"
+    ],
+    "year": 1999,
+    "journal": "International Journal of Computer Vision",
+    "doi": "10.1023/a:1008068530060",
+    "sourceUrl": "https://doi.org/10.1023/a:1008068530060",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "위트레흐트대학",
+      "영상처리",
+      "의료영상",
+      "학술논문"
+    ],
+    "summary": "1999년 International Journal of Computer Vision 저널에 발표된 본 논문은, 네덜란드 위트레흐트 대학에서 수행되어 온 컴퓨터 비전 및 영상 처리 연구의 역사적 발전 과정과 주요 연구 성과를 종합적으로 고찰한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1999-computer-vision-research-in-utrecht.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1994-erratum",
+    "verified": true,
+    "category": "전기",
+    "color": "#D35400",
+    "title": "International Journal of Electrical Power & Energy Systems 저널에 게재된 전력 및 에너지 시스템 분야의 정오표(Erratum) 학술 논문",
+    "shortTitle": "정오표 (Erratum)",
+    "originalTitle": "Erratum",
+    "authors": [],
+    "year": 1994,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(94)90050-7",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(94)90050-7",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "에너지시스템",
+      "정오표",
+      "학술논문"
+    ],
+    "summary": "1994년 International Journal of Electrical Power & Energy Systems 저널에 발표된 본 논문은, 앞서 출판된 전력 및 에너지 시스템 관련 논문의 오류를 수정하고 정확한 정보를 바로잡기 위해 발행된 정오표(Erratum) 학술 문헌입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-1994-erratum.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-serving-global-industrial-automation-iec-publishes-new",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Assembly Automation 저널에 게재된 국제전기기술위원회(IEC)의 새로운 산업용 필드버스 표준 발행을 고찰한 로봇·자동화 분야 학술 논문",
+    "shortTitle": "IEC의 산업용 필드버스 표준 발행",
+    "originalTitle": "Serving global industrial automation: IEC publishes new fieldbus standards",
+    "authors": [],
+    "year": 2008,
+    "journal": "Assembly Automation",
+    "doi": "10.1108/aa.2008.03328cab.002",
+    "sourceUrl": "https://doi.org/10.1108/aa.2008.03328cab.002",
+    "keywords": [
+      "로봇·자동화",
+      "산업자동화",
+      "필드버스",
+      "IEC",
+      "통신표준",
+      "스마트제조",
+      "학술논문"
+    ],
+    "summary": "2008년 Assembly Automation 저널에 발표된 본 논문은, 글로벌 산업 자동화 환경에서 기기 간 원활한 통신과 상호 호환성을 보장하기 위해 국제전기기술위원회(IEC)가 새롭게 발행한 필드버스 표준의 의의와 영향을 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2008-serving-global-industrial-automation-iec-publishes-new.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-energy-consumption-and-carbon-emissions-in-three",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#1B5E20",
+    "title": "Engineering and Technology Journal 저널에 게재된 그리스 크레타 섬 소규모 호텔들의 에너지 소비 및 탄소 배출 분석과 넷제로 달성 가능성을 고찰한 에너지·환경 분야 학술 논문",
+    "shortTitle": "그리스 크레타 섬 소규모 호텔의 넷제로 탄소 배출 달성",
+    "originalTitle": "Energy Consumption and Carbon Emissions in Three Small-Size Hotels in The Island of Crete, Greece. Achieving Net-Zero Carbon Emissions",
+    "authors": [
+      "Vourdoubas John"
+    ],
+    "year": 2025,
+    "journal": "Engineering and Technology Journal",
+    "doi": "10.47191/etj/v10i06.20",
+    "sourceUrl": "https://doi.org/10.47191/etj/v10i06.20",
+    "keywords": [
+      "에너지·환경",
+      "넷제로",
+      "탄소배출",
+      "호텔산업",
+      "신재생에너지",
+      "크레타섬",
+      "학술논문"
+    ],
+    "summary": "2025년 Engineering and Technology Journal 저널에 발표된 본 논문은, 그리스 크레타 섬에 위치한 세 곳의 소규모 호텔을 대상으로 에너지 소비와 탄소 배출량을 분석하고 친환경 에너지 기술 도입을 통한 넷제로 달성의 타당성을 검증한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2025-energy-consumption-and-carbon-emissions-in-three.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-computer-vision-theory-the-lack-thereof-2",
     "verified": true,
     "category": "인공지능",
