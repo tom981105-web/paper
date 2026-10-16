@@ -1,5 +1,89 @@
 [
   {
+    "id": "paper-1999-introduction-computer-vision-research-at-neci",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "International Journal of Computer Vision 저널에 게재된 NECI의 컴퓨터 비전 연구 소개와 방향성을 조명한 인공지능 분야 학술 논문",
+    "shortTitle": "NECI의 컴퓨터 비전 연구",
+    "originalTitle": "Introduction: Computer Vision Research at NECI",
+    "authors": [
+      "Ingemar J. Cox"
+    ],
+    "year": 1999,
+    "journal": "International Journal of Computer Vision",
+    "doi": "10.1023/a:1008176402209",
+    "sourceUrl": "https://doi.org/10.1023/a:1008176402209",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "NECI",
+      "영상처리",
+      "산업연구",
+      "학술논문"
+    ],
+    "summary": "1999년 International Journal of Computer Vision 저널에 발표된 본 논문은, NEC 연구소(NECI)에서 진행되어 온 컴퓨터 비전 연구의 주요 방향성과 산업계 응용 가치를 종합적으로 소개한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1999-introduction-computer-vision-research-at-neci.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2001-handbook-of-industrial-automation-2",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal 저널에 게재된 산업 자동화 핸드북 및 관련 기술 동향을 조명한 로봇·자동화 분야 학술 논문",
+    "shortTitle": "산업 자동화 핸드북",
+    "originalTitle": "Handbook of Industrial Automation",
+    "authors": [
+      "Jon Rigelsford"
+    ],
+    "year": 2001,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2001.04928fae.003",
+    "sourceUrl": "https://doi.org/10.1108/ir.2001.04928fae.003",
+    "keywords": [
+      "로봇·자동화",
+      "산업자동화",
+      "핸드북",
+      "제조공정",
+      "생산성향상",
+      "학술논문"
+    ],
+    "summary": "2001년 Industrial Robot: An International Journal 저널에 발표된 본 논문은, 급변하는 제조 환경 속에서 산업 자동화 전반의 기술과 시스템을 총망라하여 다룬 핸드북 및 관련 동향을 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2001-handbook-of-industrial-automation-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1977-hydrogen-energy-and-energy-related-publications",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 관련 출판물 현황을 고찰한 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 및 관련 출판물 현황",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1977,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(77)90053-2",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(77)90053-2",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1977년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 연구와 관련된 학술 출판물의 흐름과 동향을 조망하여 청정에너지 전환의 학문적 기반을 다진 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1977-hydrogen-energy-and-energy-related-publications.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1999-computer-vision-research-in-utrecht",
     "verified": true,
     "category": "인공지능",
