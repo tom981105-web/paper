@@ -1,5 +1,63 @@
 [
   {
+    "id": "paper-1991-applied-artificial-intelligence-calendar",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Applied Artificial Intelligence 저널에 게재된 응용 인공지능 관련 학술 행사 및 캘린더 정보를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "응용 인공지능 캘린더 및 학술 행사",
+    "originalTitle": "APPLIED ARTIFICIAL INTELLIGENCE CALENDAR",
+    "authors": [],
+    "year": 1991,
+    "journal": "Applied Artificial Intelligence",
+    "doi": "10.1080/08839519108927937",
+    "sourceUrl": "https://doi.org/10.1080/08839519108927937",
+    "keywords": [
+      "인공지능",
+      "응용인공지능",
+      "학술행사",
+      "캘린더",
+      "연구동향",
+      "학술논문"
+    ],
+    "summary": "1991년 Applied Artificial Intelligence 저널에 발표된 본 논문은, 당시 인공지능 분야에서 개최된 주요 학술 행사, 컨퍼런스, 워크숍 등의 일정과 관련 정보를 정리하여 제공한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1991-applied-artificial-intelligence-calendar.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-environmental-kuznets-curve-of-carbon-emissions-from",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "BioResources 저널에 게재된 중국 산림제품 산업의 탄소 배출 환경 쿠즈네츠 곡선 및 영향 요인 분해를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국 산림제품 산업 탄소 배출 쿠즈네츠 곡선",
+    "originalTitle": "Environmental Kuznets curve of carbon emissions from China’s forest products industry and decomposition of factors influencing carbon emissions",
+    "authors": [
+      "Bing Han",
+      "Jinzhuo Wu"
+    ],
+    "year": 2024,
+    "journal": "BioResources",
+    "doi": "10.15376/biores.19.2.3390-3408",
+    "sourceUrl": "https://doi.org/10.15376/biores.19.2.3390-3408",
+    "keywords": [
+      "에너지·환경",
+      "산림제품산업",
+      "탄소배출",
+      "환경쿠즈네츠곡선",
+      "LMDI분해",
+      "중국",
+      "학술논문"
+    ],
+    "summary": "2024년 BioResources 저널에 발표된 본 논문은, 2001년부터 2020년까지 중국 산림제품 산업의 탄소 배출 추이를 분석하고 환경 쿠즈네츠 곡선을 통해 경제 성장과 탄소 배출 간의 관계를 규명한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2024-environmental-kuznets-curve-of-carbon-emissions-from.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1977-natural-and-artificial-intelligence-conceptual-approach-materials",
     "verified": true,
     "category": "인공지능",
