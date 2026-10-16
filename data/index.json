@@ -1,5 +1,64 @@
 [
   {
+    "id": "paper-1992-applied-artificial-intelligence-calendar",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Applied Artificial Intelligence 저널에 게재된 응용 인공지능 관련 학술 행사 및 캘린더 정보를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "1992년 응용 인공지능 캘린더 및 학술 행사",
+    "originalTitle": "APPLIED ARTIFICIAL INTELLIGENCE CALENDAR",
+    "authors": [],
+    "year": 1992,
+    "journal": "Applied Artificial Intelligence",
+    "doi": "10.1080/08839519208949951",
+    "sourceUrl": "https://doi.org/10.1080/08839519208949951",
+    "keywords": [
+      "인공지능",
+      "응용인공지능",
+      "학술행사",
+      "캘린더",
+      "연구동향",
+      "학술논문"
+    ],
+    "summary": "1992년 Applied Artificial Intelligence 저널에 발표된 본 논문은, 당시 인공지능 분야에서 개최된 주요 학술 행사, 컨퍼런스, 워크숍 등의 일정과 관련 정보를 체계적으로 정리하여 제공한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1992-applied-artificial-intelligence-calendar.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-emissions-reduction-effects-and-carbon-leakage-risks",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Sustainability 저널에 게재된 탄소 배출권 거래 제도의 감축 효과 및 탄소 유출 위험에 대한 공간 Durbin 모델 기반 실증 연구를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소 배출 거래 제도의 감축 효과와 공간적 영향",
+    "originalTitle": "Emissions Reduction Effects and Carbon Leakage Risks of Carbon Emissions Trading Policy: An Empirical Study Based on the Spatial Durbin Model",
+    "authors": [
+      "Hannuo Qiu",
+      "Bian Yang",
+      "Ying Liu",
+      "Linping Wang"
+    ],
+    "year": 2024,
+    "journal": "Sustainability",
+    "doi": "10.3390/su16219544",
+    "sourceUrl": "https://doi.org/10.3390/su16219544",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출거래제",
+      "공간Durbin모델",
+      "탄소유출",
+      "녹색기술혁신",
+      "학술논문"
+    ],
+    "summary": "2024년 Sustainability 저널에 발표된 본 논문은, 중국의 성(province)별 패널 데이터를 활용하여 탄소 배출 거래 제도가 시범 지역 내의 탄소 배출을 억제하는 효과와 인접 지역에 미치는 공간적 파급 효과를 분석한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2024-emissions-reduction-effects-and-carbon-leakage-risks.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1993-applied-artificial-intelligence-calendar",
     "verified": true,
     "category": "인공지능",
