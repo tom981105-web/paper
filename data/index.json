@@ -1,5 +1,94 @@
 [
   {
+    "id": "paper-1987-the-catalogue-of-artificial-intelligence-techniques",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 기술의 다양한 기법과 분류를 체계적으로 정리한 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능 기술 카탈로그",
+    "originalTitle": "The catalogue of artificial intelligence techniques",
+    "authors": [],
+    "year": 1987,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(87)90015-4",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(87)90015-4",
+    "keywords": [
+      "인공지능",
+      "AI기법",
+      "기술분류",
+      "지식표현",
+      "탐색알고리즘",
+      "학술논문"
+    ],
+    "summary": "1987년 Artificial Intelligence 저널에 발표된 본 논문은, 당시 급격히 발전하던 다양한 인공지능 기법과 접근 방식들을 체계적으로 분류하고 목록화하여 연구자들에게 종합적인 지침을 제공한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1987-the-catalogue-of-artificial-intelligence-techniques.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-gravity-compensation-in-robotics",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#E67E22",
+    "title": "Advanced Robotics 저널에 게재된 로봇 공학에서의 중력 보상 기술과 연구 동향을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 공학의 중력 보상",
+    "originalTitle": "Gravity compensation in robotics",
+    "authors": [
+      "Vigen Arakelian"
+    ],
+    "year": 2015,
+    "journal": "Advanced Robotics",
+    "doi": "10.1080/01691864.2015.1090334",
+    "sourceUrl": "https://doi.org/10.1080/01691864.2015.1090334",
+    "keywords": [
+      "로봇자동화",
+      "중력보상",
+      "로봇기구학",
+      "구동기",
+      "에너지효율",
+      "학술논문"
+    ],
+    "summary": "2015년 Advanced Robotics 저널에 발표된 본 논문은, 로봇의 팔과 관절이 지구 중력에 의해 받는 하중을 상쇄하고 에너지 효율과 제어 성능을 높이기 위한 다양한 중력 보상 기법들을 총망라하여 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2015-gravity-compensation-in-robotics.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-multi-scenario-land-cover-changes-and-carbon",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Ecological Indicators 저널에 게재된 중국 황허 유역의 탄소 정점 달성을 위한 다중 시나리오 토지 피복 변화 및 탄소 배출 예측을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "황허 유역의 토지 피복 변화와 탄소 배출 예측",
+    "originalTitle": "Multi-Scenario land cover changes and carbon emissions prediction for peak carbon emissions in the Yellow River Basin, China",
+    "authors": [
+      "Haipeng Niu",
+      "Si Chen",
+      "Dongyang Xiao"
+    ],
+    "year": 2024,
+    "journal": "Ecological Indicators",
+    "doi": "10.1016/j.ecolind.2024.112794",
+    "sourceUrl": "https://doi.org/10.1016/j.ecolind.2024.112794",
+    "keywords": [
+      "에너지·환경",
+      "토지피복변화",
+      "탄소배출",
+      "탄소정점",
+      "황허유역",
+      "시나리오분석",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "2024년 Ecological Indicators 저널에 발표된 본 논문은, 중국 황허 유역을 대상으로 다양한 토지 피복 변화 시나리오에 따른 탄소 배출량의 미래 변화를 예측하고 탄소 정점 달성 방안을 모색한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2024-multi-scenario-land-cover-changes-and-carbon.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1985-artificial-intelligence-applications-in-chemistry",
     "verified": true,
     "category": "인공지능",
