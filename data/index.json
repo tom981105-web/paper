@@ -1,5 +1,61 @@
 [
   {
+    "id": "paper-1978-artificial-intelligence-and-natural-man",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능과 자연인의 관계 및 인지적 모델링을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능과 자연인",
+    "originalTitle": "Artificial intelligence and natural man",
+    "authors": [
+      "J.M. Brady"
+    ],
+    "year": 1978,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(78)90003-6",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(78)90003-6",
+    "keywords": [
+      "인공지능",
+      "자연인",
+      "인지모델링",
+      "상징적추론",
+      "인간지능",
+      "학술논문"
+    ],
+    "summary": "1978년 Artificial Intelligence 저널에 발표된 본 논문은, 인공지능 기술과 인간의 자연스러운 지능 사이의 관계를 고찰하고 인지적 모델링의 가능성과 철학적·과학적 의미를 탐구한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1978-artificial-intelligence-and-natural-man.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1992-hydrogen-energy-and-energy-related-publications",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 관련 에너지 출판물의 동향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 및 관련 출판물 동향",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1992,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(92)90161-o",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(92)90161-o",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "연구동향",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1992년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 분야의 학술적 연구 성과와 관련 출판물들의 흐름을 정리하여 청정에너지 연구의 기초적 지형도를 제공한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1992-hydrogen-energy-and-energy-related-publications.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-the-catalogue-of-artificial-intelligence-techniques",
     "verified": true,
     "category": "인공지능",
