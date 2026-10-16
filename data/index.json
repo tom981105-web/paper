@@ -1,5 +1,68 @@
 [
   {
+    "id": "paper-1989-logical-foundations-of-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능의 논리적 기초를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능의 논리적 기초",
+    "originalTitle": "Logical foundations of artificial intelligence",
+    "authors": [
+      "Stephen W. Smoliar"
+    ],
+    "year": 1989,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(89)90071-4",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(89)90071-4",
+    "keywords": [
+      "인공지능",
+      "논리적기초",
+      "지식표현",
+      "추론",
+      "형식논리",
+      "학술논문"
+    ],
+    "summary": "1989년 Artificial Intelligence 저널에 발표된 본 논문은, 인공지능 시스템이 지식을 표현하고 추론을 수행하는 데 필요한 논리적 토대와 철학적·수학적 기반을 검토하고 분석한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1989-logical-foundations-of-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-financing-mode-of-energy-performance-contracting-projects",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Policy 저널에 게재된 탄소 배출 감축 잠재력과 탄소 배출 등급을 고려한 에너지성과계약 프로젝트의 자금 조달 방식을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "에너지성과계약 프로젝트의 자금 조달 방식",
+    "originalTitle": "Financing mode of energy performance contracting projects with carbon emissions reduction potential and carbon emissions ratings",
+    "authors": [
+      "Tiancheng Shang",
+      "Lan Yang",
+      "Peihong Liu",
+      "Kaiti Shang",
+      "Yan Zhang"
+    ],
+    "year": 2020,
+    "journal": "Energy Policy",
+    "doi": "10.1016/j.enpol.2020.111632",
+    "sourceUrl": "https://doi.org/10.1016/j.enpol.2020.111632",
+    "keywords": [
+      "에너지·환경",
+      "에너지성과계약",
+      "자금조달",
+      "탄소배출감축",
+      "탄소배출등급",
+      "녹색금융",
+      "학술논문"
+    ],
+    "summary": "2020년 Energy Policy 저널에 발표된 본 논문은, 탄소 배출 감축 잠재력과 탄소 배출 등급을 반영하여 에너지성과계약(EPC) 프로젝트의 최적 자금 조달 방식을 분석한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2020-financing-mode-of-energy-performance-contracting-projects.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1991-applied-artificial-intelligence-calendar",
     "verified": true,
     "category": "인공지능",
