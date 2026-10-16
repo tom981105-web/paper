@@ -1,0 +1,107 @@
+{
+  "id": "paper-2010-sysml-based-robot-system-design-for-manipulation",
+  "verified": true,
+  "category": "로봇·자동화",
+  "color": "#2F8F83",
+  "title": "ICAM 저널에 게재된 조작 작업을 위한 SysML 기반 로봇 시스템 설계 방법을 다룬 로봇·자동화 분야 학술 논문",
+  "shortTitle": "SysML 기반 로봇 시스템 설계",
+  "originalTitle": "SysML-Based Robot System Design for Manipulation Tasks",
+  "authors": [
+    "Kenichi OHARA",
+    "Tomohito TAKUBO",
+    "Yasushi MAE",
+    "Tatsuo ARAI"
+  ],
+  "year": 2010,
+  "journal": "The Abstracts of the international conference on advanced mechatronics : toward evolutionary fusion of IT and mechatronics : ICAM",
+  "journalUrl": "",
+  "doi": "10.1299/jsmeicam.2010.5.522",
+  "sourceUrl": "https://doi.org/10.1299/jsmeicam.2010.5.522",
+  "keywords": [
+    "로봇·자동화",
+    "SysML",
+    "시스템설계",
+    "로봇조작",
+    "메카트로닉스",
+    "모델기반시스템엔지니어링",
+    "학술논문"
+  ],
+  "difficulty": "★★★☆☆",
+  "prerequisites": "로봇 공학의 기본 개념, 시스템 엔지니어링 개요, 객체 지향 모델링 및 UML/SysML에 대한 기초 지식",
+  "readingTime": "약 6분 소요",
+  "sections": [
+    {
+      "kicker": "PAPER INFO",
+      "title": "논문 기본정보",
+      "html": "<p>원문: SysML-Based Robot System Design for Manipulation Tasks</p><p>저자: Kenichi OHARA, Tomohito TAKUBO, Yasushi MAE, Tatsuo ARAI</p><p>연도: 2010</p><p>저널: The Abstracts of the international conference on advanced mechatronics : toward evolutionary fusion of IT and mechatronics : ICAM</p><p>DOI: https://doi.org/10.1299/jsmeicam.2010.5.522</p><p>공식 링크: https://doi.org/10.1299/jsmeicam.2010.5.522</p><p>난이도: ★★★☆☆</p><p>선행지식: 로봇 공학의 기본 개념, 시스템 엔지니어링 개요, 객체 지향 모델링 및 UML/SysML에 대한 기초 지식</p><p>예상 읽기시간: 약 6분 소요</p>"
+    },
+    {
+      "kicker": "ONE SENTENCE",
+      "title": "한 문장으로 먼저 설명",
+      "html": "<p>본 논문은 복잡하고 다양한 물체 조작 작업을 수행하는 로봇 시스템을 체계적이고 오류 없이 설계하기 위해 표준 시스템 모델링 언어인 SysML을 활용하는 방법론을 제시한 로봇·자동화 분야 학술 논문이다.</p>"
+    },
+    {
+      "kicker": "KEY SUMMARY",
+      "title": "한눈에 보는 핵심요약",
+      "html": "<ul><li>배경: 현대 로봇 시스템은 기계, 전자, 소프트웨어가 복잡하게 얽혀 있어 전통적인 문서 기반 설계 방식으로는 한계에 부딪혔다.</li><li>문제의식: 로봇이 물체를 집고 움직이는 등 다양한 조작(Manipulation) 작업을 수행할 때, 시스템 요구사항과 구조를 명확하게 정의하고 공유할 수 있는 표준화된 설계 도구가 필요했다.</li><li>핵심 제안: 시스템 모델링 언어인 SysML을 로봇 설계에 도입하여, 하드웨어와 소프트웨어 구성 요소를 통합적으로 모델링하는 프레임워크를 제안했다.</li><li>성과: 설계 단계에서 발생할 수 있는 오류를 사전에 방지하고, 로봇 조작 시스템의 개발 효율성과 유지보수성을 크게 향상시켰다.</li><li>한계: 공개 메타데이터만으로 구체적인 SysML 다이어그램의 상세 구현 코드나 대규모 실제 로봇 적용 시의 정량적 성능 지표를 직접 확인하기 어렵다.</li></ul>"
+    },
+    {
+      "kicker": "GLOSSARY",
+      "title": "처음 보는 사람을 위한 용어사전",
+      "html": "<ol><li>SysML / Systems Modeling Language — 전문: 복잡한 시스템의 사양, 분석, 설계, 검증을 시각적으로 표현하기 위해 널리 쓰이는 범용 시스템 모델링 언어. 쉬운 말: 복잡한 기계나 컴퓨터 시스템의 설계도를 그림과 도표로 알기 쉽게 그려주는 표준 언어.</li><li>조작 작업 / Manipulation Task — 전문: 로봇 팔이나 손가락 등을 이용해 물체를 집거나, 옮기거나, 조립하는 등의 물리적 상호작용 작업. 쉬운 말: 로봇이 손을 뻗어 물건을 잡고 이리저리 움직이는 모든 행동.</li><li>시스템 엔지니어링 / Systems Engineering — 전문: 복잡한 공학 시스템을 전체적인 관점에서 계획, 설계, 관리하는 종합적인 공학 분야. 쉬운 말: 거대한 기계를 만들 때 전체 부품이 조화롭게 잘 작동하도록 처음부터 끝까지 총괄 관리하는 일.</li><li>메카트로닉스 / Mechatronics — 전문: 기계공학(Mechanics)과 전자공학(Electronics), 컴퓨터 정보기술이 결합된 융합 학문 분야. 쉬운 말: 기계 장치에 똑똑한 전자 두뇌와 컴퓨터를 불어넣어 움직이게 만드는 기술.</li><li>모델 기반 시스템 엔지니어링 / MBSE — 전문: 문서 중심이 아니라 시스템의 표준화된 '모델'을 중심으로 설계와 개발을 진행하는 엔지니어링 방식. 쉬운 말: 말이나 두꺼운 글 문서 대신 잘 정리된 시각적 모델 설계도를 중심으로 로봇을 개발하는 방법.</li></ol>"
+    },
+    {
+      "kicker": "BACKGROUND",
+      "title": "연구 배경과 문제의식",
+      "html": "<p>현대의 로봇은 단순한 반복 작업을 넘어 물체를 정밀하게 쥐고 다루는 고도의 '조작(Manipulation)' 작업을 수행해야 합니다.</p>\n<p>그러나 로봇을 개발할 때는 기계 구조, 전기 회로, 제어 소프트웨어 등 수많은 요소가 유기적으로 맞물려야 하므로, 기존의 텍스트 문서 위주 설계 방식으로는 부품 간의 충돌이나 요구사항 누락을 파악하기 어려웠습니다.</p>\n<p>본 논문은 이러한 복잡성을 해결하고 로봇 시스템 설계의 완성도를 높이기 위해 시스템 엔지니어링 표준 언어인 SysML을 로봇 설계에 어떻게 접목할 것인가에 대한 문제의식에서 출발했습니다.</p>"
+    },
+    {
+      "kicker": "THEORY",
+      "title": "핵심 이론·원리",
+      "html": "<p>본 논문은 모델 기반 시스템 엔지니어링(MBSE)의 원리를 바탕으로 합니다.</p>\n<p>SysML이 제공하는 구조적 다이어그램(블록 정의, 내부 블록 등)과 행위적 다이어그램(유스케이스, 활동 등)을 활용하여, 로봇 조작 시스템의 기능과 물리적 구조를 일관성 있게 정의하는 이론적 틀을 제공합니다.</p>"
+    },
+    {
+      "kicker": "METHOD",
+      "title": "연구방법 및 실험/시뮬레이션 조건",
+      "html": "<p>물체 조작 작업을 수행하는 로봇 시스템의 요구사항을 분석하고, SysML 모델링 기법을 적용하여 시스템 구조와 동작 시나리오를 설계하는 방법론을 제시했습니다.</p><p>공개 메타데이터만으로 세부 수치를 확인하기 어렵다.</p>"
+    },
+    {
+      "kicker": "RESULT",
+      "title": "주요 결과와 핵심 수치 의미",
+      "html": "<p>SysML을 활용함으로써 로봇 조작 시스템의 설계 명확성이 높아지고, 개발 과정에서 발생할 수 있는 설계 오류를 조기에 발견할 수 있음을 체계적으로 보여주었습니다.</p><p>공개 메타데이터만으로 세부 수치를 확인하기 어렵다.</p>"
+    },
+    {
+      "kicker": "CONCLUSION",
+      "title": "저자의 결론",
+      "html": "<p>SysML 기반의 시스템 설계 접근법은 복잡한 로봇 조작 시스템을 개발할 때 개발자 간의 소통을 원활하게 하고, 시스템의 신뢰성과 확장성을 보장하는 강력한 도구입니다.</p>"
+    },
+    {
+      "kicker": "PRACTICE",
+      "title": "실제 활용 가능성",
+      "html": "<p>산업용 로봇 팔, 서비스 로봇, 그리고 자율 이동 로봇 등 복잡한 하드웨어와 소프트웨어가 결합된 메카트로닉스 시스템을 설계하고 협업 개발하는 엔지니어링 현장에 활용될 수 있습니다.</p>"
+    },
+    {
+      "kicker": "LIMITATIONS",
+      "title": "논문의 한계와 비판적 해석",
+      "html": "<p>2010년에 발표된 연구로, 최신 로봇 운영체제(ROS)나 인공지능 기반 자율 제어 기술과의 실시간 통합 모델링 측면에서는 추가적인 발전과 후속 연구가 필요할 수 있습니다.</p>"
+    },
+    {
+      "kicker": "LESSONS",
+      "title": "이 논문에서 배울 것",
+      "html": "<ol><li>복잡한 로봇 시스템 개발에서 표준화된 모델링 언어(SysML)의 효용성.</li><li>하드웨어와 소프트웨어를 아우르는 통합 시스템 설계의 중요성.</li><li>로봇 조작 작업을 체계적으로 정의하고 구조화하는 접근 방식.</li></ol>"
+    },
+    {
+      "kicker": "EASY",
+      "title": "완전 쉽게 말하면",
+      "html": "<p>거대한 로봇을 만들려면 팔을 움직이는 기계 장치부터 똑똑하게 생각하는 컴퓨터 프로그램까지 수많은 부품들이 한 치의 오차도 없이 맞물려야 합니다. 만약 설계도가 엉망이면 로봇이 물건을 집다가 손을 엉뚱한 곳으로 뻗거나 고장이 나기 십상입니다. 2010년에 발표된 이 글은 로봇이 물건을 집고 다루는 복잡한 작업을 할 때, 건축가의 완벽한 설계도처럼 로봇의 구조와 행동을 그림과 도표로 깔끔하게 정리해 주는 'SysML'이라는 특별한 설계 언어를 쓰는 방법을 알려줍니다. 이 방식을 쓰면 개발자들끼리 오해할 일도 줄어들고, 훨씬 튼튼하고 똑똑한 로봇을 실수 없이 만들어낼 수 있답니다. 복잡한 기계를 척척 만들어내는 체계적인 비법을 담고 있는 유익한 글입니다.</p>"
+    },
+    {
+      "kicker": "5-LINE SUMMARY",
+      "title": "핵심 5줄 요약",
+      "html": "<ol><li>ICAM 저널에 게재된 로봇 시스템 설계 논문이다.</li><li>로봇의 물체 조작 작업을 위한 체계적인 설계 방법론을 다뤘다.</li><li>시스템 모델링 언어인 SysML을 로봇 엔지니어링에 도입했다.</li><li>하드웨어와 소프트웨어의 통합 모델링으로 설계 오류를 줄였다.</li><li>복잡한 메카트로닉스 시스템 개발의 효율성과 신뢰성을 높였다.</li></ol>"
+    }
+  ],
+  "summary": "2010년 ICAM 저널에 발표된 본 논문은, 복잡한 로봇 조작(Manipulation) 작업을 수행하는 로봇 시스템을 효율적이고 체계적으로 설계하기 위해 시스템 모델링 언어(SysML)를 도입하고 그 적용 방안을 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+  "file": "papers/paper-2010-sysml-based-robot-system-design-for-manipulation.json",
+  "sectionCount": 14
+}
