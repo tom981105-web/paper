@@ -1,5 +1,92 @@
 [
   {
+    "id": "paper-1986-editorial-human-and-machine-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 인간과 기계 학습의 상호 관계와 연구 방향을 고찰한 인공지능 분야 학술 논문",
+    "shortTitle": "인간과 기계 학습",
+    "originalTitle": "Editorial: Human and Machine Learning",
+    "authors": [
+      "Pat Langley"
+    ],
+    "year": 1986,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022854429410",
+    "sourceUrl": "https://doi.org/10.1023/a:1022854429410",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "인간학습",
+      "학습이론",
+      "인지과학",
+      "학술논문"
+    ],
+    "summary": "1986년 Machine Learning 저널에 발표된 본 논문은, 인간의 학습 과정과 컴퓨터의 기계 학습 모델 사이의 접점을 모색하고 향후 인공지능 연구가 나아갈 방향을 다룬 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1986-editorial-human-and-machine-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1982-investment-in-automation-pays",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal에 게재된 자동화 투자의 경제적 가치와 타당성을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "자동화 투자는 성과를 낸다",
+    "originalTitle": "Investment in automation pays",
+    "authors": [],
+    "year": 1982,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/eb004528",
+    "sourceUrl": "https://doi.org/10.1108/eb004528",
+    "keywords": [
+      "로봇·자동화",
+      "자동화투자",
+      "산업용로봇",
+      "생산성향상",
+      "제조공정",
+      "투자수익률",
+      "학술논문"
+    ],
+    "summary": "1982년 Industrial Robot: An International Journal에 발표된 본 논문은, 제조 현장에서 로봇과 자동화 시스템에 대한 투자가 기업의 생산성과 장기적 경쟁력 확보에 어떠한 경제적 성과를 가져다주는지 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1982-investment-in-automation-pays.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-the-effectiveness-of-pigouvian-taxes-in-reducing",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Scientific bulletin 저널에 게재된 피고비안 환경세가 G7 국가의 탄소 배출량 감소에 미치는 영향을 분석한 에너지·환경 분야 학술 논문",
+    "shortTitle": "피고비안 환경세의 탄소 감축 효과",
+    "originalTitle": "THE EFFECTIVENESS OF PIGOUVIAN TAXES IN REDUCING CARBON EMISSIONS",
+    "authors": [
+      "Rashad Tariyel ALIYEV"
+    ],
+    "year": 2026,
+    "journal": "Scientific bulletin",
+    "doi": "10.54414/jozx5320",
+    "sourceUrl": "https://doi.org/10.54414/jozx5320",
+    "keywords": [
+      "에너지·환경",
+      "피고비안세",
+      "환경세",
+      "탄소배출",
+      "G7국가",
+      "패널데이터분석",
+      "학술논문"
+    ],
+    "summary": "2026년 Scientific bulletin 저널에 발표된 본 논문은, 1994년부터 2014년까지의 G7 국가 데이터를 바탕으로 세컨드 제너레이션 패널 분석 방법(CCE 접근법)을 활용하여 피고비안 환경세와 재생에너지 등이 1인당 CO₂ 배출량에 미치는 장기적 인과 관계와 감축 효과를 실증적으로 고찰한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2026-the-effectiveness-of-pigouvian-taxes-in-reducing.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1988-discrimination-vision",
     "verified": true,
     "category": "인공지능",
