@@ -1,5 +1,67 @@
 [
   {
+    "id": "paper-1977-natural-and-artificial-intelligence-conceptual-approach-materials",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 자연적 지능과 인공지능의 개념적 접근을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "자연적 지능과 인공지능의 개념적 접근",
+    "originalTitle": "Natural and artificial intelligence (conceptual approach) — materials of the Fourth International Joint Conference on Artificial Intelligence",
+    "authors": [
+      "Yefim Schukin"
+    ],
+    "year": 1977,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(77)90021-2",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(77)90021-2",
+    "keywords": [
+      "인공지능",
+      "자연적지능",
+      "개념적접근",
+      "제4차IJCAI",
+      "인지모형",
+      "학술논문"
+    ],
+    "summary": "1977년 Artificial Intelligence 저널에 발표된 본 논문은, 제4차 국제인공지능합동학술회의(IJCAI)의 자료를 바탕으로 자연적 지능과 인공지능의 관계를 개념적으로 분석하고 인지적 접근 방식의 이론적 기초를 다룬 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1977-natural-and-artificial-intelligence-conceptual-approach-materials.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-the-relationship-between-agricultural-and-animal-husbandry",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Marine Pollution Bulletin 저널에 게재된 허난성의 농업 및 축산업 경제 발전과 탄소 배출 간의 관계, 영향 요인 분석 및 탄소 배출 예측을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "허난성 농축산업 경제와 탄소 배출",
+    "originalTitle": "The relationship between agricultural and animal husbandry economic development and carbon emissions in Henan Province, the analysis of factors affecting carbon emissions, and carbon emissions prediction",
+    "authors": [
+      "Zhengqi Wei",
+      "Keke Wei",
+      "Jincheng Liu",
+      "Yizhuang Zhou"
+    ],
+    "year": 2023,
+    "journal": "Marine Pollution Bulletin",
+    "doi": "10.1016/j.marpolbul.2023.115134",
+    "sourceUrl": "https://doi.org/10.1016/j.marpolbul.2023.115134",
+    "keywords": [
+      "에너지·환경",
+      "농업경제",
+      "축산업",
+      "탄소배출",
+      "허난성",
+      "탄소배출예측",
+      "학술논문"
+    ],
+    "summary": "2023년 Marine Pollution Bulletin 저널에 발표된 본 논문은, 중국 허난성을 대상으로 농업 및 축산업의 경제 발전과 탄소 배출 사이의 상관관계를 분석하고, 탄소 배출에 영향을 미치는 주요 요인을 규명하여 향후 배출량을 예측한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2023-the-relationship-between-agricultural-and-animal-husbandry.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1985-first-spanish-meeting-on-artificial-intelligence-for",
     "verified": true,
     "category": "인공지능",

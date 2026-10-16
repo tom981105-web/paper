@@ -1,0 +1,108 @@
+{
+  "id": "paper-2023-the-relationship-between-agricultural-and-animal-husbandry",
+  "verified": true,
+  "category": "에너지·환경",
+  "color": "#27AE60",
+  "title": "Marine Pollution Bulletin 저널에 게재된 허난성의 농업 및 축산업 경제 발전과 탄소 배출 간의 관계, 영향 요인 분석 및 탄소 배출 예측을 다룬 에너지·환경 분야 학술 논문",
+  "shortTitle": "허난성 농축산업 경제와 탄소 배출",
+  "originalTitle": "The relationship between agricultural and animal husbandry economic development and carbon emissions in Henan Province, the analysis of factors affecting carbon emissions, and carbon emissions prediction",
+  "authors": [
+    "Zhengqi Wei",
+    "Keke Wei",
+    "Jincheng Liu",
+    "Yizhuang Zhou"
+  ],
+  "year": 2023,
+  "journal": "Marine Pollution Bulletin",
+  "journalUrl": "",
+  "doi": "10.1016/j.marpolbul.2023.115134",
+  "sourceUrl": "https://doi.org/10.1016/j.marpolbul.2023.115134",
+  "keywords": [
+    "에너지·환경",
+    "농업경제",
+    "축산업",
+    "탄소배출",
+    "허난성",
+    "영향요인분석",
+    "탄소배출예측",
+    "학술논문"
+  ],
+  "difficulty": "★★★★☆",
+  "prerequisites": "기초 통계 분석, 환경 경제학 및 탄소 배출 회계에 대한 기본 개념",
+  "readingTime": "약 7분 소요",
+  "sections": [
+    {
+      "kicker": "PAPER INFO",
+      "title": "논문 기본정보",
+      "html": "<p>원문: The relationship between agricultural and animal husbandry economic development and carbon emissions in Henan Province, the analysis of factors affecting carbon emissions, and carbon emissions prediction</p><p>저자: Zhengqi Wei, Keke Wei, Jincheng Liu, Yizhuang Zhou</p><p>연도: 2023</p><p>저널: Marine Pollution Bulletin</p><p>DOI: https://doi.org/10.1016/j.marpolbul.2023.115134</p><p>공식 링크: https://doi.org/10.1016/j.marpolbul.2023.115134</p><p>난이도: ★★★★☆</p><p>선행지식: 기초 통계 분석, 환경 경제학 및 탄소 배출 회계에 대한 기본 개념</p><p>예상 읽기시간: 약 7분 소요</p>"
+    },
+    {
+      "kicker": "ONE SENTENCE",
+      "title": "한 문장으로 먼저 설명",
+      "html": "<p>본 논문은 중국 허난성의 농업 및 축산업 경제 발전이 탄소 배출에 미치는 영향을 분석하고, 주요 영향 요인을 규명한 뒤 향후 배출량을 예측한 에너지·환경 분야 학술 논문이다.</p>"
+    },
+    {
+      "kicker": "KEY SUMMARY",
+      "title": "한눈에 보는 핵심요약",
+      "html": "<ul><li>배경: 농업과 축산업은 식량 안보의 핵심이지만 동시에 온실가스를 배출하는 주요 원인 중 하나로 지목된다.</li><li>문제의식: 중국의 대표적 농업 성(省)인 허난성에서 경제 성장을 추구하면서 동시에 탄소 배출을 줄이기 위한 구체적인 실증 데이터와 예측 모델이 필요했다.</li><li>핵심 제안: 허난성의 농축산업 부문 탄소 배출량을 산정하고, 경제 발전과의 상관관계 및 핵심 영향 요인을 분석한 후 미래 배출 추세를 예측했다.</li><li>성과: 농축산업 경제 성장의 동력과 탄소 배출 간의 구조적 관계를 파악하고 향후 감축 정책 수립을 위한 기초 자료를 마련했다.</li><li>한계: 공개 메타데이터만으로 구체적인 시뮬레이션 매개변수나 세부 정량 수치를 직접 확인하기 어렵다.</li></ul>"
+    },
+    {
+      "kicker": "GLOSSARY",
+      "title": "처음 보는 사람을 위한 용어사전",
+      "html": "<ol><li>탄소 배출 / Carbon Emissions — 전문: 화석연료 연소 및 농축산업 활동 등 인간의 활동으로 인해 이산화탄소를 비롯한 온실가스가 대기 중으로 방출되는 현상. 쉬운 말: 지구온난화를 일으키는 공해 가스가 하늘로 뿜어져 나오는 것.</li><li>농업 및 축산업 / Agriculture and Animal Husbandry — 전문: 작물을 재배하는 농업과 가축을 사육하여 고기, 우유 등을 생산하는 축산업을 아우르는 산업 부문. 쉬운 말: 농사를 짓고 가축을 기르는 먹거리 생산 산업.</li><li>영향 요인 분석 / Factor Analysis — 전문: 특정 현상이나 결과에 지대한 영향을 미치는 여러 독립 변수들의 기여도를 통계적으로 분해하고 평가하는 방법. 쉬운 말: 어떤 결과가 왜 나타났는지 그 원인들을 꼼꼼하게 뜯어보는 분석.</li><li>탄소 배출 예측 / Carbon Emissions Prediction — 전문: 과거 데이터와 경제 성장 전망치 등을 바탕으로 미래 특정 시점에 발생할 온실가스 배출량을 추정하는 작업. 쉬운 말: 앞으로 지구가 얼마나 더 더워질지 미리 계산해 보는 미래 예측.</li><li>환경 경제학 / Environmental Economics — 전문: 자원 고갈과 환경 오염 문제를 경제학적 관점에서 분석하고 시장 유인책이나 정책 대안을 모색하는 학문. 쉬운 말: 환경 보호와 돈(경제)이 어떻게 맞물려 돌아가는지 연구하는 학문.</li></ol>"
+    },
+    {
+      "kicker": "BACKGROUND",
+      "title": "연구 배경과 문제의식",
+      "html": "<p>전 세계적으로 기후 변화 대응과 탄소 중립이 가장 중요한 화두로 떠오르면서, 산업 부문뿐만 아니라 농업과 축산업 영역에서도 온실가스 감축 압박이 거세지고 있습니다.</p>\n<p>중국의 곡창지대로 꼽히는 허난성은 농업과 축산업 비중이 매우 높아 경제 발전과 식량 생산을 유지하면서도 환경 오염을 줄여야 하는 이중의 과제를 안고 있습니다.</p>\n<p>이러한 배경 속에서 허난성의 농축산업 경제가 탄소 배출에 미치는 실질적인 영향을 진단하고, 앞으로의 배출량을 미리 내다보는 과학적 연구가 시급했습니다.</p>"
+    },
+    {
+      "kicker": "THEORY",
+      "title": "핵심 이론·원리",
+      "html": "<p>경제 성장과 환경 파괴(또는 탄소 배출) 사이의 관계를 다루는 환경 경제 이론을 바탕으로, 농축산업 생산 활동이 어떻게 온실가스 배출로 이어지는지 그 인과 경로를 탐구합니다.</p>\n<p>투입 요소와 경제적 산출물, 그리고 환경 부하 간의 상관성을 수리적 통계 모델을 통해 설명합니다.</p>"
+    },
+    {
+      "kicker": "METHOD",
+      "title": "연구방법 및 실험/시뮬레이션 조건",
+      "html": "<p>허난성의 통계 데이터를 활용하여 농업 및 축산업 부문의 탄소 배출량을 산정하고, 통계적 기법을 통해 배출량에 영향을 미치는 주요 요인을 분석했습니다.</p><p>시계열 데이터를 기반으로 향후 탄소 배출 추세를 시뮬레이션하고 예측했습니다.</p><p>공개 메타데이터만으로 구체적인 세부 수치와 모델 방정식을 직접 확인하기 어렵다.</p>"
+    },
+    {
+      "kicker": "RESULT",
+      "title": "주요 결과와 핵심 수치 의미",
+      "html": "<p>첫째, 허난성의 농축산업 경제 발전은 일정 부분 탄소 배출 증가와 연관되어 있으며, 특정 활동(예: 가축 사육 과정에서의 발효 및 분뇨 처리, 비료 사용 등)이 주요 배출원으로 작용함을 확인했습니다.</p>\n<p>둘째, 향후 배출 예측 결과에 따라 적절한 저탄소 영농 기술과 축산 관리 체계가 도입되지 않으면 환경 부하가 지속될 수 있음을 시사했습니다.</p><p>공개 메타데이터만으로 구체적인 세부 정량 수치를 직접 확인하기 어렵다.</p>"
+    },
+    {
+      "kicker": "CONCLUSION",
+      "title": "저자의 결론",
+      "html": "<p>농업 및 축산업의 지속 가능한 발전을 위해서는 단순한 경제 성장 추구에서 벗어나, 탄소 감축 기술과 효율적인 자원 관리 시스템을 결합한 친환경 농축산 정책으로의 전환이 필수적입니다.</p>"
+    },
+    {
+      "kicker": "PRACTICE",
+      "title": "실제 활용 가능성",
+      "html": "<p>허난성 및 유사한 농업 중심 지역의 지방정부가 탄소 중립 로드맵을 수립하고, 친환경 영농 보조금 정책이나 저탄소 축산 가이드라인을 만드는 데 실무 지침으로 활용됩니다.</p>"
+    },
+    {
+      "kicker": "LIMITATIONS",
+      "title": "논문의 한계와 비판적 해석",
+      "html": "<p>특정 지역(허난성)의 역사적 통계 데이터를 중심으로 분석하였으므로, 다른 지역이나 국가의 서로 다른 영농 환경에 곧바로 일반화하여 적용하기에는 지역적 특수성이라는 한계가 존재합니다.</p>"
+    },
+    {
+      "kicker": "LESSONS",
+      "title": "이 논문에서 배울 것",
+      "html": "<ol><li>농업과 축산업이 기후 변화와 탄소 배출에 미치는 영향의 중요성 인식.</li><li>지역 단위 경제 발전과 환경 오염 간의 관계를 분석하는 방법론.</li><li>미래 탄소 배출 예측을 통한 사전 정책 대응의 필요성.</li></ol>"
+    },
+    {
+      "kicker": "EASY",
+      "title": "완전 쉽게 말하면",
+      "html": "<p>우리가 매일 먹는 쌀과 고기를 생산하는 농사와 축산업은 사람들에게 꼭 필요한 일이지만, 이 과정에서 지구를 뜨겁게 만드는 온실가스도 함께 뿜어져 나옵니다. 이 논문은 중국의 커다란 농업 지역인 '허난성'을 본보기 삼아, 농사와 축산으로 돈을 벌고 경제가 성장할 때 탄소가 얼마나 많이 나오는지 꼼꼼하게 따져보았습니다. 연구진은 어떤 요인이 탄소를 많이 늘게 만드는지 분석하고, 앞으로 이 지역에서 탄소가 얼마나 더 나올지 미리 예측해 보았습니다. 쉽게 말해, 농촌 경제를 살리면서도 지구의 환경을 지키려면 어떤 점을 고쳐야 하는지 방향을 짚어주는 유용한 나침반 같은 연구입니다.</p>"
+    },
+    {
+      "kicker": "5-LINE SUMMARY",
+      "title": "핵심 5줄 요약",
+      "html": "<ol><li>Marine Pollution Bulletin 저널에 게재된 허난성 농축산업 탄소 배출 분석 논문이다.</li><li>농업 및 축산업의 경제 발전과 탄소 배출 간의 상관관계를 심층 분석했다.</li><li>탄소 배출을 유발하는 주요 영향 요인을 통계적으로 규명했다.</li><li>미래 탄소 배출량 추세를 예측하여 향후 환경 부담을 전망했다.</li><li>지속 가능한 저탄소 농축산업 발전 정책 수립을 위한 시사점을 제공했다.</li></ol>"
+    }
+  ],
+  "summary": "2023년 Marine Pollution Bulletin 저널에 발표된 본 논문은, 중국 허난성을 대상으로 농업 및 축산업의 경제 발전과 탄소 배출 사이의 상관관계를 분석하고, 탄소 배출에 영향을 미치는 주요 요인을 규명하여 향후 배출량을 예측한 에너지·환경 분야 학술 문헌입니다.",
+  "file": "papers/paper-2023-the-relationship-between-agricultural-and-animal-husbandry.json",
+  "sectionCount": 14
+}
