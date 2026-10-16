@@ -1,5 +1,92 @@
 [
   {
+    "id": "paper-1993-a-reply-to-hellerstein-s-book-review",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 머신러닝 이론적 접근 서평에 대한 반론과 학문적 견해를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "머신러닝 이론적 접근 서평에 대한 반론",
+    "originalTitle": "A Reply to Hellerstein's Book Review of Machine Learning: A Theoretical Approach",
+    "authors": [
+      "B.K. Natarajan"
+    ],
+    "year": 1993,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022643815046",
+    "sourceUrl": "https://doi.org/10.1023/a:1022643815046",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "이론적머신러닝",
+      "서평반론",
+      "학습이론",
+      "학술논문"
+    ],
+    "summary": "1993년 Machine Learning 저널에 발표된 본 논문은, 저자의 저서 'Machine Learning: A Theoretical Approach'에 대한 헬러스타인(Hellerstein)의 서평에 대해 학문적인 견해를 밝히고 이론적 기계 학습의 방향성을 재확인한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1993-a-reply-to-hellerstein-s-book-review.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2001-six-axis-force-torque-sensor-system-industrial",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal에 게재된 6축 힘/토크 센서 시스템의 산업용 자동화, 테스팅 및 폴리싱 적용을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "6축 힘/토크 센서 시스템과 산업 자동화",
+    "originalTitle": "Six-axis force/torque sensor system industrial automation/testing/polishing",
+    "authors": [],
+    "year": 2001,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2001.04928fad.009",
+    "sourceUrl": "https://doi.org/10.1108/ir.2001.04928fad.009",
+    "keywords": [
+      "로봇·자동화",
+      "6축센서",
+      "힘토크센서",
+      "산업용자동화",
+      "폴리싱",
+      "품질테스팅",
+      "학술논문"
+    ],
+    "summary": "2001년 Industrial Robot: An International Journal에 발표된 본 논문은, 산업 현장의 자동화, 제품 테스팅, 그리고 표면 폴리싱 공정에서 6축 힘/토크 센서 시스템이 어떻게 활용되며 어떠한 가치를 제공하는지 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2001-six-axis-force-torque-sensor-system-industrial.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-carbon-emissions-due-to-wine-making-in",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Engineering and Technology Journal에 게재된 그리스 크레타 섬의 와인 양조 과정에서 발생하는 탄소 배출과 재생에너지 활용 방안을 고찰한 에너지·환경 분야 학술 논문",
+    "shortTitle": "크레타 섬 와인 양조의 탄소 배출",
+    "originalTitle": "Carbon Emissions Due to Wine Making in the Island of Crete, Greece",
+    "authors": [
+      "Vourdoubas John"
+    ],
+    "year": 2026,
+    "journal": "Engineering and Technology Journal",
+    "doi": "10.47191/etj/v11i04.28",
+    "sourceUrl": "https://doi.org/10.47191/etj/v11i04.28",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "와인양조",
+      "재생에너지",
+      "영농형태양광",
+      "크레타",
+      "학술논문"
+    ],
+    "summary": "2026년 Engineering and Technology Journal에 발표된 본 논문은, 그리스 크레타 섬의 전통적인 와인 양조 산업에서 발생하는 생애 주기별 탄소 배출량을 기존 문헌 데이터를 통해 추정하고, 영농형 태양광 및 바이오매스 등의 재생에너지 기술 도입을 통한 탄소 중립 및 탈탄소화 가능성을 고찰한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2026-carbon-emissions-due-to-wine-making-in.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-editorial-human-and-machine-learning",
     "verified": true,
     "category": "인공지능",
