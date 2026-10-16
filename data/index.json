@@ -1,5 +1,97 @@
 [
   {
+    "id": "paper-1987-oria-87-artificial-intelligence-and-sea",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능과 해양 분야의 융합을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인공지능과 해양 (ORIA 87)",
+    "originalTitle": "ORIA 87—Artificial intelligence and sea",
+    "authors": [],
+    "year": 1987,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(87)90027-0",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(87)90027-0",
+    "keywords": [
+      "인공지능",
+      "해양공학",
+      "ORIAS87",
+      "지식기반시스템",
+      "응용인공지능",
+      "학술논문"
+    ],
+    "summary": "1987년 Artificial Intelligence 저널에 발표된 본 논문은, 해양 분야와 인공지능 기술의 접목 가능성을 다루며 당시 초기 지능형 시스템이 해양 환경 및 관련 산업에 어떻게 적용될 수 있는지 고찰한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1987-oria-87-artificial-intelligence-and-sea.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-rapid-automation-application-deployment-framework-for-real",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "International Journal of Computer Theory and Engineering 저널에 게재된 실시간 공정 및 산업 자동화 시스템을 위한 신속한 자동화 응용 프로그램 배포 프레임워크를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "실시간 산업 자동화 응용 배포 프레임워크",
+    "originalTitle": "Rapid Automation Application Deployment Framework for Real Time Process and Industrial Automation Systems",
+    "authors": [
+      "S. Veera Ragavan",
+      "Velappa Ganapathy",
+      "Ibrahim Kusumah Kusnanto"
+    ],
+    "year": 2014,
+    "journal": "International Journal of Computer Theory and Engineering",
+    "doi": "10.7763/ijcte.2014.v6.920",
+    "sourceUrl": "https://doi.org/10.7763/ijcte.2014.v6.920",
+    "keywords": [
+      "로봇·자동화",
+      "산업자동화",
+      "배포프레임워크",
+      "실시간공정",
+      "자동화응용",
+      "시스템통합",
+      "학술논문"
+    ],
+    "summary": "2014년 International Journal of Computer Theory and Engineering 저널에 발표된 본 논문은, 실시간 공정 및 산업 자동화 시스템에서 소프트웨어와 응용 프로그램을 보다 빠르고 효율적으로 배치할 수 있는 신속한 자동화 응용 배포 프레임워크를 제안한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2014-rapid-automation-application-deployment-framework-for-real.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-carbon-emissions-and-population-migration-preferences-the",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Climatic Change 저널에 게재된 탄소 배출과 저탄소 정책이 지역 인구 이동 선호도에 미치는 영향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소 배출과 지역 인구 이동 선호도",
+    "originalTitle": "Carbon emissions and population migration preferences: the impact of China’s carbon emissions and low-carbon policies on regional population migration",
+    "authors": [
+      "Pan Jiang",
+      "Ziwang Yu",
+      "Shuaiyi Lu",
+      "Lianghan Cong"
+    ],
+    "year": 2026,
+    "journal": "Climatic Change",
+    "doi": "10.1007/s10584-026-04126-3",
+    "sourceUrl": "https://doi.org/10.1007/s10584-026-04126-3",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "인구이동",
+      "저탄소정책",
+      "지역경제",
+      "기후변화",
+      "학술논문"
+    ],
+    "summary": "2026년 Climatic Change 저널에 발표된 본 논문은, 중국의 탄소 배출 수준과 저탄소 정책이 지역 주민들의 인구 이동 선호도와 실제 이동 결정에 미치는 영향을 분석하여 환경 요인이 인재 유치와 지역 균형 발전에 미치는 시사점을 제공하는 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2026-carbon-emissions-and-population-migration-preferences-the.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-austrian-meeting-on-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
