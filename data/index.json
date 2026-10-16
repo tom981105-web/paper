@@ -1,5 +1,65 @@
 [
   {
+    "id": "paper-1986-artificial-intelligence-applications-for-business-management",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 비즈니스 경영을 위한 인공지능 응용 사례를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "비즈니스 경영을 위한 인공지능 응용",
+    "originalTitle": "Artificial intelligence applications for business management",
+    "authors": [
+      "Mark Stefik"
+    ],
+    "year": 1986,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(86)90055-x",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(86)90055-x",
+    "keywords": [
+      "인공지능",
+      "비즈니스경영",
+      "응용인공지능",
+      "전문가시스템",
+      "의사결정지원",
+      "학술논문"
+    ],
+    "summary": "1986년 Artificial Intelligence 저널에 발표된 본 논문은, 초기 인공지능 기술이 기업 경영과 의사결정 과정에 어떻게 응용될 수 있는지 그 잠재력과 가능성을 조명한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1986-artificial-intelligence-applications-for-business-management.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-land-use-carbon-emissions-estimation-and-carbon",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Heliyon 저널에 게재된 저장성 지역의 토지 이용 탄소 배출량 추정 및 탄소 배출 감축 전략 시나리오 시뮬레이션을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "저장성 토지 이용 탄소 배출 추정 및 시나리오",
+    "originalTitle": "Land use carbon emissions estimation and carbon emissions control strategy effect scenario simulation in Zhejiang province",
+    "authors": [
+      "Chenyu Ye",
+      "Tao Ming"
+    ],
+    "year": 2023,
+    "journal": "Heliyon",
+    "doi": "10.1016/j.heliyon.2023.e20783",
+    "sourceUrl": "https://doi.org/10.1016/j.heliyon.2023.e20783",
+    "keywords": [
+      "에너지·환경",
+      "토지이용",
+      "탄소배출",
+      "시나리오시뮬레이션",
+      "저장성",
+      "탄소감축전략",
+      "학술논문"
+    ],
+    "summary": "2023년 Heliyon 저널에 발표된 본 논문은, 중국 저장성(Zhejiang province)을 대상으로 토지 이용 변화에 따른 탄소 배출량을 추정하고, 다양한 탄소 배출 감축 전략에 따른 시나리오 시뮬레이션을 수행하여 향후 대응 방안을 제시한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2023-land-use-carbon-emissions-estimation-and-carbon.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1992-applied-artificial-intelligence-calendar",
     "verified": true,
     "category": "인공지능",
