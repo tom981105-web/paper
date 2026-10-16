@@ -1,5 +1,91 @@
 [
   {
+    "id": "paper-1987-austrian-meeting-on-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 오스트리아 인공지능 학술 회의의 주요 논점과 연구 동향을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "오스트리아 인공지능 학술 회의 동향",
+    "originalTitle": "Austrian meeting on artificial intelligence",
+    "authors": [],
+    "year": 1987,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(87)90095-6",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(87)90095-6",
+    "keywords": [
+      "인공지능",
+      "오스트리아회의",
+      "AI연구동향",
+      "지식공학",
+      "전문가시스템",
+      "학술논문"
+    ],
+    "summary": "1987년 Artificial Intelligence 저널에 발표된 본 논문은, 오스트리아에서 개최된 인공지능 학술 회의의 주요 논점과 당시 유럽 지역의 인공지능 연구 동향을 조명한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1987-austrian-meeting-on-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1985-compliance-in-robot-manipulation",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Artificial Intelligence 저널에 게재된 로봇 조작의 컴플라이언스를 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "로봇 조작의 컴플라이언스",
+    "originalTitle": "Compliance in robot manipulation",
+    "authors": [
+      "Tomás Lozano-Pérez"
+    ],
+    "year": 1985,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(85)90039-6",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(85)90039-6",
+    "keywords": [
+      "로봇·자동화",
+      "컴플라이언스",
+      "로봇조작",
+      "임피던스제어",
+      "로봇공학",
+      "학술논문"
+    ],
+    "summary": "1985년 Artificial Intelligence 저널에 발표된 본 논문은, 로봇이 물체를 다룰 때 부드럽게 힘을 조절하고 유연하게 대처하는 컴플라이언스(Compliance) 개념을 다루며 로봇 조작의 정밀성과 안정성을 높이는 이론적 기초를 제공한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1985-compliance-in-robot-manipulation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-how-china-s-carbon-emissions-trading-reduces",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Applied Ecology and Environmental Research 저널에 게재된 산업용 로봇 관점에서 탄소 배출권 거래제가 오염과 탄소 감축에 미치는 영향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소 배출권 거래제와 산업용 로봇의 감축 효과",
+    "originalTitle": "HOW CHINA’S CARBON EMISSIONS TRADING REDUCES POLLUTION AND CARBON EMISSIONS: THE PERSPECTIVE OF INDUSTRIAL ROBOTS",
+    "authors": [
+      "M. QIANG"
+    ],
+    "year": 2026,
+    "journal": "Applied Ecology and Environmental Research",
+    "doi": "10.15666/aeer/2402_25352551",
+    "sourceUrl": "https://doi.org/10.15666/aeer/2402_25352551",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출권거래제",
+      "산업용로봇",
+      "탄소감축",
+      "에너지효율",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "2026년 Applied Ecology and Environmental Research 저널에 발표된 본 논문은, 중국의 탄소 배출권 거래제가 산업용 로봇의 도입을 촉진하여 에너지 효율을 높이고 오염 및 탄소 배출을 줄이는 새로운 전파 경로를 실증적으로 분석한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2026-how-china-s-carbon-emissions-trading-reduces.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-second-advanced-course-in-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
