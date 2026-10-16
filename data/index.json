@@ -1,5 +1,92 @@
 [
   {
+    "id": "paper-1994-machine-learning-and-qualitative-reasoning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Machine Learning 저널에 게재된 기계학습과 정성적 추론의 융합을 고찰한 인공지능 분야 학술 논문",
+    "shortTitle": "기계학습과 정성적 추론",
+    "originalTitle": "Machine Learning and Qualitative Reasoning",
+    "authors": [
+      "Ivan Bratko"
+    ],
+    "year": 1994,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022661713654",
+    "sourceUrl": "https://doi.org/10.1023/a:1022661713654",
+    "keywords": [
+      "인공지능",
+      "기계학습",
+      "정성적추론",
+      "지식베이스",
+      "자동추론",
+      "학술논문"
+    ],
+    "summary": "1994년 Machine Learning 저널에 발표된 본 논문은, 복잡한 물리적 시스템의 동작을 수치적 계산 없이 인과관계와 경향성 중심으로 이해하는 '정성적 추론'과 컴퓨터가 스스로 학습하는 '기계학습'의 상호 보완적 융합 가능성을 고찰한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1994-machine-learning-and-qualitative-reasoning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2003-wind-river-and-ixxat-partner-to-deliver",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Assembly Automation 저널에 게재된 윈드리버(Wind River)와 익사트(IXXAT)의 산업 자동화 개발 솔루션 파트너십을 조명한 로봇·자동화 분야 학술 논문",
+    "shortTitle": "윈드리버와 익사트의 자동화 파트너십",
+    "originalTitle": "Wind river and IXXAT partner to deliver integrated industrial automation development solution",
+    "authors": [],
+    "year": 2003,
+    "journal": "Assembly Automation",
+    "doi": "10.1108/aa.2003.03323aab.007",
+    "sourceUrl": "https://doi.org/10.1108/aa.2003.03323aab.007",
+    "keywords": [
+      "로봇·자동화",
+      "산업자동화",
+      "윈드리버",
+      "익사트",
+      "임베디드시스템",
+      "통신프로토콜",
+      "학술논문"
+    ],
+    "summary": "2003년 Assembly Automation 저널에 발표된 본 논문은, 실시간 운영체제(RTOS) 선두 기업인 윈드리버와 산업용 통신 기술 전문 기업 익사트 간의 파트너십을 통해 통합 산업 자동화 개발 솔루션을 제공하는 협력 모델을 다룬 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2003-wind-river-and-ixxat-partner-to-deliver.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2024-towards-carbon-neutrality-asymmetric-impact-of-financial",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Carbon Research 저널에 게재된 지중해 연안 6개국의 금융 발전과 디지털화가 탄소 배출에 미치는 비대칭적 영향을 분석한 에너지·환경 분야 학술 논문",
+    "shortTitle": "금융·디지털화와 탄소 중립",
+    "originalTitle": "Towards carbon neutrality: asymmetric impact of financial development and digitalization on carbon dioxide emissions in Mediterranean countries",
+    "authors": [
+      "Dhyani Mehta"
+    ],
+    "year": 2024,
+    "journal": "Carbon Research",
+    "doi": "10.1007/s44246-024-00161-w",
+    "sourceUrl": "https://doi.org/10.1007/s44246-024-00161-w",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "금융발전",
+      "디지털화",
+      "지중해국가",
+      "환경쿠즈네츠곡선",
+      "학술논문"
+    ],
+    "summary": "2024년 Carbon Research 저널에 발표된 본 논문은, 1994년부터 2022년까지 지중해 연안 6개국(MEDIT-6)의 패널 데이터를 활용하여 금융 발전과 디지털화가 이산화탄소 배출에 미치는 비대칭적 영향을 비선형 패널 분위수 회귀 모델로 분석한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2024-towards-carbon-neutrality-asymmetric-impact-of-financial.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2003-deep-learning-what-deep-learning",
     "verified": true,
     "category": "인공지능",
