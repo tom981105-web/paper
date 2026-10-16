@@ -1,5 +1,65 @@
 [
   {
+    "id": "paper-2018-the-mythos-of-model-interpretability",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Communications of the ACM 저널에 게재된 머신러닝 모델의 해석 가능성에 대한 개념적 신화와 오해를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "모델 해석 가능성의 신화",
+    "originalTitle": "The mythos of model interpretability",
+    "authors": [
+      "Zachary C. Lipton"
+    ],
+    "year": 2018,
+    "journal": "Communications of the ACM",
+    "doi": "10.1145/3233231",
+    "sourceUrl": "https://doi.org/10.1145/3233231",
+    "keywords": [
+      "인공지능",
+      "모델해석가능성",
+      "설명가능한AI",
+      "머신러닝",
+      "블랙박스",
+      "학술논문"
+    ],
+    "summary": "2018년 Communications of the ACM 저널에 발표된 본 논문은, 머신러닝 분야에서 혼용되고 모호하게 사용되는 '해석 가능성(Interpretability)' 개념의 실체를 비판적으로 고찰하며 명확한 정의와 한계를 제시한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2018-the-mythos-of-model-interpretability.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-how-can-carbon-fees-help-taiwan-reduce",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Sustainability 저널에 게재된 대만의 탄소세 도입과 탄소 감축 효과를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "대만의 탄소세 도입과 탄소 감축",
+    "originalTitle": "How Can Carbon Fees Help Taiwan Reduce Carbon Emissions?",
+    "authors": [
+      "Jyh-Woei Lin"
+    ],
+    "year": 2025,
+    "journal": "Sustainability",
+    "doi": "10.3390/su17051885",
+    "sourceUrl": "https://doi.org/10.3390/su17051885",
+    "keywords": [
+      "에너지·환경",
+      "탄소세",
+      "탄소배출권",
+      "대만",
+      "온실가스감축",
+      "탄소가격제",
+      "넷제로",
+      "학술논문"
+    ],
+    "summary": "2025년 Sustainability 저널에 발표된 본 논문은, 2025년부터 공식 시행된 대만의 탄소세(Carbon Fee) 제도의 배경과 구조를 분석하며 산업계의 탄소 감축과 넷제로 전환에 미치는 영향을 고찰한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2025-how-can-carbon-fees-help-taiwan-reduce.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-canadian-artificial-intelligence-conference-ai86",
     "verified": true,
     "category": "인공지능",
