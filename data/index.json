@@ -1,5 +1,91 @@
 [
   {
+    "id": "paper-2003-deep-learning-what-deep-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "South African Journal of Higher Education 저널에 게재된 딥러닝 개념과 교육적 함의를 고찰한 인공지능 분야 학술 논문",
+    "shortTitle": "딥러닝과 고등교육",
+    "originalTitle": "Deep learning? What deep learning?",
+    "authors": [
+      "C. M. Fourie"
+    ],
+    "year": 2003,
+    "journal": "South African Journal of Higher Education",
+    "doi": "10.4314/sajhe.v17i1.25201",
+    "sourceUrl": "https://doi.org/10.4314/sajhe.v17i1.25201",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "고등교육",
+      "학습이론",
+      "인지과학",
+      "학술논문"
+    ],
+    "summary": "2003년 South African Journal of Higher Education 저널에 발표된 본 논문은, 고등교육 환경에서의 '심층 학습(Deep Learning)' 개념을 교육학적 및 인지과학적 관점에서 고찰하여 단순 암기가 아닌 깊이 있는 지식 습득의 중요성을 다룬 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2003-deep-learning-what-deep-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2005-omron-and-delmia-corp-form-strategic-partnership",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Assembly Automation 저널에 게재된 오론(OMRON)과 델미아(Delmia)의 산업 자동화 시장 전략적 제휴를 조명한 로봇·자동화 분야 학술 논문",
+    "shortTitle": "오므론과 델미아의 전략적 제휴",
+    "originalTitle": "OMRON and Delmia Corp. form strategic partnership for industrial automation market",
+    "authors": [],
+    "year": 2005,
+    "journal": "Assembly Automation",
+    "doi": "10.1108/aa.2005.03325bab.001",
+    "sourceUrl": "https://doi.org/10.1108/aa.2005.03325bab.001",
+    "keywords": [
+      "로봇·자동화",
+      "산업자동화",
+      "전략적제휴",
+      "오므론",
+      "델미아",
+      "학술논문"
+    ],
+    "summary": "2005년 Assembly Automation 저널에 발표된 본 논문은, 글로벌 산업 자동화 기업인 오므론과 제조 소프트웨어 전문 기업 델미아 간의 전략적 파트너십 체결을 통해 제조 현장과 디지털 시뮬레이션 기술이 융합되는 과정을 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2005-omron-and-delmia-corp-form-strategic-partnership.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-optimizing-carbon-emissions-and-sdg-12-performance",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Carbon Research 저널에 게재된 EU 식품 시스템의 탄소 배출 최적화 및 지속가능발전목표(SDG-12) 성과를 분석한 에너지·환경 분야 학술 논문",
+    "shortTitle": "EU 식품 시스템 탄소 배출 최적화",
+    "originalTitle": "Optimizing carbon emissions and SDG-12 performance in the EU food system",
+    "authors": [
+      "Mohammad Fazle Rabbi"
+    ],
+    "year": 2025,
+    "journal": "Carbon Research",
+    "doi": "10.1007/s44246-025-00220-w",
+    "sourceUrl": "https://doi.org/10.1007/s44246-025-00220-w",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "SDG-12",
+      "식품시스템",
+      "유럽연합",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "2025년 Carbon Research 저널에 발표된 본 논문은, 유럽연합(EU) 8개국의 2010년부터 2022년까지 식품 시스템 전 과정에서의 탄소 발자국과 지속가능발전목표(SDG-12) 성과를 종합적으로 평가한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2025-optimizing-carbon-emissions-and-sdg-12-performance.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1999-introduction-computer-vision-research-at-neci",
     "verified": true,
     "category": "인공지능",
