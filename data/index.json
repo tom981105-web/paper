@@ -1,5 +1,62 @@
 [
   {
+    "id": "paper-1985-first-spanish-meeting-on-artificial-intelligence-for",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 데이터베이스를 위한 인공지능 스페인 첫 학술 회의 소식을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "데이터베이스를 위한 인공지능 스페인 회의",
+    "originalTitle": "First Spanish meeting on artificial intelligence for databases",
+    "authors": [],
+    "year": 1985,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(85)90068-2",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(85)90068-2",
+    "keywords": [
+      "인공지능",
+      "데이터베이스",
+      "스페인회의",
+      "지식베이스",
+      "학술회의",
+      "학술논문"
+    ],
+    "summary": "1985년 Artificial Intelligence 저널에 발표된 본 논문은, 데이터베이스 분야와 인공지능 기술의 접목을 모색하기 위해 스페인에서 개최된 최초의 학술 회의 내용을 소개하고 관련 연구 방향을 조망한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1985-first-spanish-meeting-on-artificial-intelligence-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2025-managing-impacts-of-the-carbon-emissions-trading",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Journal of Global Information Management 저널에 게재된 탄소 배출권 거래제가 전력 간접 탄소 배출에 미치는 영향을 CGE 모델로 분석한 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소 배출권 거래제 영향 관리",
+    "originalTitle": "Managing Impacts of the Carbon Emissions Trading",
+    "authors": [
+      "Boqiang Lin",
+      "Haowei Chen"
+    ],
+    "year": 2025,
+    "journal": "Journal of Global Information Management",
+    "doi": "10.4018/jgim.389202",
+    "sourceUrl": "https://doi.org/10.4018/jgim.389202",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출권거래제",
+      "전력간접탄소배출",
+      "CGE모델",
+      "탄소비용",
+      "학술논문"
+    ],
+    "summary": "2025년 Journal of Global Information Management 저널에 발표된 본 논문은, 중국의 전력 가격 규제 속에서 국가 탄소 배출권 거래제가 전력 간접 탄소 배출을 어떻게 다뤄야 하는지 연산가능 일반균형(CGE) 모델을 통해 분석하고 정책적 시사점을 도출한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2025-managing-impacts-of-the-carbon-emissions-trading.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1978-artificial-intelligence-and-natural-man",
     "verified": true,
     "category": "인공지능",
