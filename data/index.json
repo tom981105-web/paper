@@ -1,5 +1,96 @@
 [
   {
+    "id": "paper-1988-discrimination-vision",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 차별 비전의 개념과 영상 처리 모델을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "차별 비전",
+    "originalTitle": "Discrimination vision",
+    "authors": [
+      "Jan A Mulder"
+    ],
+    "year": 1988,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/0734-189x(88)90052-7",
+    "sourceUrl": "https://doi.org/10.1016/0734-189x(88)90052-7",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "영상처리",
+      "차별비전",
+      "패턴인식",
+      "학술논문"
+    ],
+    "summary": "1988년 Computer Vision, Graphics, and Image Processing 저널에 발표된 본 논문은, 컴퓨터가 시각적 데이터를 바탕으로 서로 다른 객체나 특징을 구별하고 분석하는 '차별 비전'의 초기 이론과 영상 처리 모델을 고찰한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-1988-discrimination-vision.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2002-pharmaceutical-automation-expensive-lego",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#2F8F83",
+    "title": "Industrial Robot: An International Journal에 게재된 제약 산업 자동화의 비용 효율성과 장비 도입의 실상을 고찰한 로봇·자동화 분야 학술 논문",
+    "shortTitle": "제약 자동화– 비싼 레고인가?",
+    "originalTitle": "Pharmaceutical automation– expensive lego?",
+    "authors": [
+      "Richard Piggin"
+    ],
+    "year": 2002,
+    "journal": "Industrial Robot: An International Journal",
+    "doi": "10.1108/ir.2002.04929aaa.002",
+    "sourceUrl": "https://doi.org/10.1108/ir.2002.04929aaa.002",
+    "keywords": [
+      "로봇·자동화",
+      "제약자동화",
+      "산업용로봇",
+      "생산성향상",
+      "비용효율성",
+      "공정자동화",
+      "학술논문"
+    ],
+    "summary": "2002년 Industrial Robot: An International Journal에 발표된 본 논문은, 제약 산업에서 자동화 장비를 도입할 때 발생하는 높은 비용과 실제 생산 현장에서의 효용성을 '비싼 레고'라는 비유를 통해 냉정하게 고찰한 로봇·자동화 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2002-pharmaceutical-automation-expensive-lego.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2026-does-china-s-low-carbon-city-pilot",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Systems 저널에 게재된 중국의 저탄소 도시 시범 정책이 탄소 배출과 효율성에 미치는 이중적 효과를 분석한 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국 저탄소 도시 시범 정책의 효과",
+    "originalTitle": "Does China’s Low-Carbon City Pilot Policy Effectively Reduce Carbon Emissions? A Dual Perspective on Carbon Emissions and Efficiency",
+    "authors": [
+      "Lingqi Xu",
+      "Shuo Wang",
+      "Han Yu"
+    ],
+    "year": 2026,
+    "journal": "Systems",
+    "doi": "10.3390/systems14020170",
+    "sourceUrl": "https://doi.org/10.3390/systems14020170",
+    "keywords": [
+      "에너지·환경",
+      "저탄소도시",
+      "탄소배출",
+      "이중차분법",
+      "자료포락분석",
+      "정책효과",
+      "학술논문"
+    ],
+    "summary": "2026년 Systems 저널에 발표된 본 논문은, 이중차분법(DID)과 자료포락분석(DEA)의 통합적 방법론을 활용하여 중국의 저탄소 도시 시범 정책(LCCP)이 도시 탄소 배출량 감소와 탄소 배출 효율성에 미친 이중적 효과를 다각도로 분석한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2026-does-china-s-low-carbon-city-pilot.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1994-machine-learning-and-qualitative-reasoning",
     "verified": true,
     "category": "인공지능",
