@@ -1,5 +1,67 @@
 [
   {
+    "id": "paper-2012-special-issue-on-neural-network-simulation",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 신경망 시뮬레이션을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "신경망 시뮬레이션 특별호",
+    "originalTitle": "Special issue on “Neural Network Simulation”",
+    "authors": [
+      "Romain Brette",
+      "Christian Leibold"
+    ],
+    "year": 2012,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.3109/0954898x.2012.739722",
+    "sourceUrl": "https://doi.org/10.3109/0954898x.2012.739722",
+    "keywords": [
+      "인공지능",
+      "신경망시뮬레이션",
+      "신경망",
+      "계산신경과학",
+      "시뮬레이션도구",
+      "학술논문"
+    ],
+    "summary": "2012년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 생물학적 신경망의 구조와 작동 방식을 컴퓨터 상에서 모사하고 분석하기 위한 신경망 시뮬레이션의 발전 방향을 조명한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2012-special-issue-on-neural-network-simulation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-determinants-of-carbon-emissions-nexus-among-carbon",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Environment, Development and Sustainability 저널에 게재된 탄소 배출, 석탄, 농업, 무역 및 혁신의 상호 연관성을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소 배출 결정 요인과 상호 연관성 분석",
+    "originalTitle": "Determinants of carbon emissions: nexus among carbon emissions, coal, agriculture, trade and innovations",
+    "authors": [
+      "Firat Emir",
+      "Edmund Ntom Udemba",
+      "Lucy Davou Philip"
+    ],
+    "year": 2023,
+    "journal": "Environment, Development and Sustainability",
+    "doi": "10.1007/s10668-023-03336-4",
+    "sourceUrl": "https://doi.org/10.1007/s10668-023-03336-4",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "석탄소비",
+      "농업경제",
+      "국제무역",
+      "기술혁신",
+      "학술논문"
+    ],
+    "summary": "2023년 Environment, Development and Sustainability 저널에 발표된 본 논문은, 탄소 배출과 석탄, 농업, 무역, 기술 혁신 간의 복잡한 상호 연관성(nexus)과 그 결정 요인을 심층적으로 분석한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2023-determinants-of-carbon-emissions-nexus-among-carbon.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1993-norvig-s-paradigms-of-artificial-intelligence-programming",
     "verified": true,
     "category": "인공지능",
