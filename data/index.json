@@ -1,5 +1,63 @@
 [
   {
+    "id": "paper-2008-algorithm-of-stable-state-spaces-in-reinforcement",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Computer Applications 저널에 게재된 강화학습의 안정적 상태 공간 알고리즘을 다룬 인공지능 학술 논문",
+    "shortTitle": "강화학습의 안정적 상태 공간 알고리즘",
+    "originalTitle": "Algorithm of stable state spaces in reinforcement learning",
+    "authors": [
+      "Yu ZHENG"
+    ],
+    "year": 2008,
+    "journal": "Journal of Computer Applications",
+    "doi": "10.3724/sp.j.1087.2008.01328",
+    "sourceUrl": "https://doi.org/10.3724/sp.j.1087.2008.01328",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "상태공간",
+      "알고리즘",
+      "안정성",
+      "기계학습",
+      "학술논문"
+    ],
+    "summary": "2008년 Journal of Computer Applications 저널에 발표된 본 논문은, 강화학습 과정에서 시스템의 성능을 유지하고 학습 과정을 안정화하기 위한 안정적 상태 공간 알고리즘의 설계를 다룬 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2008-algorithm-of-stable-state-spaces-in-reinforcement.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1981-hydrogen-energy-and-energy-related-publications-4",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 출판물을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 및 에너지 관련 출판물",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1981,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(81)90103-8",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(81)90103-8",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "청정에너지",
+      "대체에너지",
+      "에너지연구",
+      "학술논문"
+    ],
+    "summary": "1981년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 수소 에너지 및 에너지 관련 주요 출판물과 연구 문헌들을 체계적으로 정리하여 소개하는 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1981-hydrogen-energy-and-energy-related-publications-4.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2010-preface-to-the-special-issue-on-empirical",
     "verified": true,
     "category": "인공지능",
