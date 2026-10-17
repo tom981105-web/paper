@@ -1,5 +1,66 @@
 [
   {
+    "id": "paper-1998-hypothetical-neural-mechanism-that-may-play-a-2",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 정신 회전을 위한 가설적 신경 메커니즘을 다룬 어트랙터 신경망 모델 인공지능 학술 논문",
+    "shortTitle": "정신 회전 어트랙터 신경망 모델 (확장)",
+    "originalTitle": "Hypothetical neural mechanism that may play a role in mental rotation: an attractor neural network model",
+    "authors": [
+      "Ľubica Beňušková",
+      "Slavomír Eštok"
+    ],
+    "year": 1998,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x/9/4/007",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x/9/4/007",
+    "keywords": [
+      "인공지능",
+      "어트랙터신경망",
+      "정신회전",
+      "신경메커니즘",
+      "인지모델",
+      "신경망이론",
+      "학술논문"
+    ],
+    "summary": "1998년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 인간의 공간 인지 능력 중 하나인 정신 회전 현상을 설명하기 위해 어트랙터 신경망 모델을 활용한 가설적 신경 메커니즘을 분석한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1998-hypothetical-neural-mechanism-that-may-play-a-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-ecosystem-carbon-emissions-from-2015-forest-fires",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Carbon Balance and Management 저널에 게재된 알래스카 삼림 화재의 생태계 탄소 배출량을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "2015 알래스카 삼림 화재 생태계 탄소 배출량",
+    "originalTitle": "Ecosystem carbon emissions from 2015 forest fires in interior Alaska",
+    "authors": [
+      "Christopher Potter"
+    ],
+    "year": 2018,
+    "journal": "Carbon Balance and Management",
+    "doi": "10.1186/s13021-017-0090-0",
+    "sourceUrl": "https://doi.org/10.1186/s13021-017-0090-0",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "산불",
+      "알래스카",
+      "생태계",
+      "기후변화",
+      "학술논문"
+    ],
+    "summary": "2018년 Carbon Balance and Management 저널에 발표된 본 논문은, 2015년 미국 알래스카 내륙 지역에서 발생한 대규모 삼림 화재로 인해 생태계에서 대기 중으로 방출된 탄소 배출량을 추정하고 분석한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2018-ecosystem-carbon-emissions-from-2015-forest-fires.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1998-hypothetical-neural-mechanism-that-may-play-a",
     "verified": true,
     "category": "인공지능",
