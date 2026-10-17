@@ -1,5 +1,63 @@
 [
   {
+    "id": "paper-1985-second-annual-conference-on-applications-of-artificial",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 제2회 인공지능 응용 컨퍼런스를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "제2회 인공지능 응용 컨퍼런스",
+    "originalTitle": "Second annual conference on applications of artificial intelligence",
+    "authors": [],
+    "year": 1985,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(85)90046-3",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(85)90046-3",
+    "keywords": [
+      "인공지능",
+      "인공지능응용",
+      "컨퍼런스",
+      "응용AI",
+      "학술논문"
+    ],
+    "summary": "1985년 Artificial Intelligence 저널에 발표된 본 논문은, 초기 인공지능 기술이 다양한 산업 분야에 실제로 적용되기 시작한 시기의 응용 연구 성과와 컨퍼런스 논의를 정리한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1985-second-annual-conference-on-applications-of-artificial.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-carbon-emissions-trading-policy-carbon-finance-and",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Economic Change and Restructuring 저널에 게재된 탄소 배출권 거래 정책과 탄소 금융의 온실가스 감축 효과를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소 배출권 거래 정책과 탄소 금융",
+    "originalTitle": "Carbon emissions trading policy, carbon finance, and carbon emissions reduction: evidence from a quasi-natural experiment in China",
+    "authors": [
+      "Qianqian Guo",
+      "Zhifang Su",
+      "Chaoshin Chiao"
+    ],
+    "year": 2021,
+    "journal": "Economic Change and Restructuring",
+    "doi": "10.1007/s10644-021-09353-5",
+    "sourceUrl": "https://doi.org/10.1007/s10644-021-09353-5",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출권거래",
+      "탄소금융",
+      "탄소감축",
+      "준자연실험",
+      "중국",
+      "학술논문"
+    ],
+    "summary": "2021년 Economic Change and Restructuring 저널에 발표된 본 논문은, 중국의 준자연실험 사례를 바탕으로 탄소 배출권 거래 정책과 탄소 금융이 실제 탄소 배출 저감에 미친 인과적 효과를 분석한 에너지·환경 경제학 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2021-carbon-emissions-trading-policy-carbon-finance-and.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1987-fifth-annual-conference-on-applications-of-artificial",
     "verified": true,
     "category": "인공지능",
