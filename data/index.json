@@ -1,5 +1,66 @@
 [
   {
+    "id": "paper-1993-generalization-error-for-a-bar-counting-multilayer",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 다층 신경망의 일반화 오차 분석을 다룬 인공지능 학술 논문",
+    "shortTitle": "다층 신경망의 일반화 오차 분석",
+    "originalTitle": "Generalization error for a bar-counting multilayer neural network",
+    "authors": [
+      "August Romeo"
+    ],
+    "year": 1993,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x_4_1_006",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x_4_1_006",
+    "keywords": [
+      "인공지능",
+      "신경망",
+      "일반화오차",
+      "다층신경망",
+      "기계학습",
+      "학술논문"
+    ],
+    "summary": "1993년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 다층 신경망 모델에서 나타나는 일반화 오차의 특성을 분석하여 인공지능 학습 이론의 이론적 기반을 다진 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1993-generalization-error-for-a-bar-counting-multilayer.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-research-on-agricultural-carbon-emissions-and-regional",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Sustainability 저널에 게재된 중국의 농업 탄소 배출량 측정과 지역별 감축 전략을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국 농업 탄소 배출과 지역별 감축 전략",
+    "originalTitle": "Research on Agricultural Carbon Emissions and Regional Carbon Emissions Reduction Strategies in China",
+    "authors": [
+      "Guofeng Wang",
+      "Maolin Liao",
+      "Jie Jiang"
+    ],
+    "year": 2020,
+    "journal": "Sustainability",
+    "doi": "10.3390/su12072627",
+    "sourceUrl": "https://doi.org/10.3390/su12072627",
+    "keywords": [
+      "에너지·환경",
+      "농업탄소배출",
+      "탄소감축전략",
+      "변동계수",
+      "테일지수",
+      "중국",
+      "학술논문"
+    ],
+    "summary": "2020년 Sustainability 저널에 발표된 본 논문은, 중국의 농업 탄소 배출 총량과 강도를 측정하고 변동계수 및 테일지수를 활용해 지역 간 격차를 분석한 뒤 실효성 있는 탄소 감축 전략 매트릭스를 제안한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2020-research-on-agricultural-carbon-emissions-and-regional.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1991-artificial-intelligence-engineering",
     "verified": true,
     "category": "인공지능",
