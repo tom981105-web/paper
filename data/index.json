@@ -1,5 +1,65 @@
 [
   {
+    "id": "paper-1993-generalization-error-for-a-bar-counting-multilayer-2",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 바 카운팅 다층 신경망의 일반화 오차 분석을 다룬 인공지능 학술 논문",
+    "shortTitle": "바 카운팅 다층 신경망 일반화 오차 분석",
+    "originalTitle": "Generalization error for a bar-counting multilayer neural network",
+    "authors": [
+      "August Romeo"
+    ],
+    "year": 1993,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x/4/1/006",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x/4/1/006",
+    "keywords": [
+      "인공지능",
+      "다층신경망",
+      "일반화오차",
+      "바카운팅",
+      "신경망이론",
+      "기계학습",
+      "학술논문"
+    ],
+    "summary": "1993년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 바 카운팅(bar-counting) 과제를 수행하는 다층 신경망 모델에서 새로운 데이터에 대한 예측 오류인 일반화 오차의 특성을 분석하여 인공지능 학습 이론의 지평을 넓힌 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1993-generalization-error-for-a-bar-counting-multilayer-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-carbon-tax-to-lower-emissions-the-likely",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "African Multidisciplinary Tax Journal 저널에 게재된 남아프리카공화국의 탄소세 도입이 가계에 미치는 영향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "남아프리카공화국 탄소세 도입과 가계 영향",
+    "originalTitle": "Carbon tax to lower emissions: the likely impact of carbon emissions tax on households in South Africa",
+    "authors": [
+      "Nkhensani Siweya"
+    ],
+    "year": 2021,
+    "journal": "African Multidisciplinary Tax Journal",
+    "doi": "10.47348/amtj/2021/i1a12",
+    "sourceUrl": "https://doi.org/10.47348/amtj/2021/i1a12",
+    "keywords": [
+      "에너지·환경",
+      "탄소세",
+      "탄소배출",
+      "남아프리카공화국",
+      "가계경제",
+      "연료세",
+      "학술논문"
+    ],
+    "summary": "2021년 African Multidisciplinary Tax Journal 저널에 발표된 본 논문은, 파리 협정 이행을 위한 남아프리카공화국의 탄소세 도입 배경과 휘발유 및 경유 연료세 부과가 이미 고물가 상태인 가계 경제에 미칠 잠재적 영향을 고찰한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2021-carbon-tax-to-lower-emissions-the-likely.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1993-generalization-error-for-a-bar-counting-multilayer",
     "verified": true,
     "category": "인공지능",
