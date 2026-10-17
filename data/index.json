@@ -1,5 +1,68 @@
 [
   {
+    "id": "paper-1998-hypothetical-neural-mechanism-that-may-play-a",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Network: Computation in Neural Systems 저널에 게재된 정신 회전을 위한 가설적 신경 메커니즘을 다룬 어트랙터 신경망 모델 인공지능 학술 논문",
+    "shortTitle": "정신 회전 어트랙터 신경망 모델",
+    "originalTitle": "Hypothetical neural mechanism that may play a role in mental rotation: an attractor neural network model",
+    "authors": [
+      "Ľubica Beňušková",
+      "Slavomír Eštok"
+    ],
+    "year": 1998,
+    "journal": "Network: Computation in Neural Systems",
+    "doi": "10.1088/0954-898x_9_4_007",
+    "sourceUrl": "https://doi.org/10.1088/0954-898x_9_4_007",
+    "keywords": [
+      "인공지능",
+      "어트랙터신경망",
+      "정신회전",
+      "신경메커니즘",
+      "인지모델",
+      "신경망이론",
+      "학술논문"
+    ],
+    "summary": "1998년 Network: Computation in Neural Systems 저널에 발표된 본 논문은, 인간의 공간 인지 능력 중 하나인 정신 회전(mental rotation) 현상을 설명하기 위해 어트랙터 신경망(attractor neural network) 모델을 활용한 가설적 신경 메커니즘을 분석한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-1998-hypothetical-neural-mechanism-that-may-play-a.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2018-economic-growth-effect-and-optimal-carbon-emissions",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Sustainability 저널에 게재된 중국의 탄소 배출 저감 정책과 경제 성장의 관계를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국 탄소 배출 저감 정책과 경제 성장 효과",
+    "originalTitle": "Economic Growth Effect and Optimal Carbon Emissions under China’s Carbon Emissions Reduction Policy: A Time Substitution DEA Approach",
+    "authors": [
+      "Shixiong Cheng",
+      "Wei Liu",
+      "Kai Lu"
+    ],
+    "year": 2018,
+    "journal": "Sustainability",
+    "doi": "10.3390/su10051543",
+    "sourceUrl": "https://doi.org/10.3390/su10051543",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "경제성장",
+      "DEA",
+      "중국",
+      "지속가능발전",
+      "학술논문"
+    ],
+    "summary": "2018년 Sustainability 저널에 발표된 본 논문은, 중국의 성별 패널 데이터를 활용하여 탄소 배출 저감 정책이 경제 성장에 미치는 영향을 분석하고 지역별 최적의 경제 성장과 탄소 배출량을 도출한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2018-economic-growth-effect-and-optimal-carbon-emissions.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1993-generalization-error-for-a-bar-counting-multilayer-2",
     "verified": true,
     "category": "인공지능",
