@@ -1,5 +1,69 @@
 [
   {
+    "id": "paper-1993-norvig-s-paradigms-of-artificial-intelligence-programming",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence 저널에 게재된 노빅의 인공지능 프로그래밍 패러다임을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "노빅의 인공지능 프로그래밍 패러다임",
+    "originalTitle": "Norvig's paradigms of artificial intelligence programming",
+    "authors": [
+      "Wong JooFung"
+    ],
+    "year": 1993,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(93)90064-i",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(93)90064-i",
+    "keywords": [
+      "인공지능",
+      "프로그래밍패러다임",
+      "노빅",
+      "인공지능프로그래밍",
+      "소프트웨어설계",
+      "학술논문"
+    ],
+    "summary": "1993년 Artificial Intelligence 저널에 발표된 본 논문은, 저명한 컴퓨터 과학자 피터 노빅(Peter Norvig)의 인공지능 프로그래밍 패러다임과 접근 방식을 고찰하고 분석한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1993-norvig-s-paradigms-of-artificial-intelligence-programming.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-impact-of-chinese-carbon-emissions-trading-policy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Sustainability 저널에 게재된 중국 탄소 배출권 거래 제도가 충칭시의 탄소 배출과 경제 발전에 미친 영향을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국 탄소 배출권 거래 제도의 영향 분석",
+    "originalTitle": "Impact of Chinese Carbon Emissions Trading Policy on Chongqing’s Carbon Emissions and Economic Development",
+    "authors": [
+      "Xiaoyu Ju",
+      "Jie Wan",
+      "Ziwei Zhang",
+      "Chunai Ma",
+      "Liangwei Zhang",
+      "Xiaodong Zhao"
+    ],
+    "year": 2023,
+    "journal": "Sustainability",
+    "doi": "10.3390/su15054253",
+    "sourceUrl": "https://doi.org/10.3390/su15054253",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출거래",
+      "경제발전",
+      "충칭시",
+      "차이분석",
+      "정책효과",
+      "학술논문"
+    ],
+    "summary": "2023년 Sustainability 저널에 발표된 본 논문은, 중국의 탄소 배출권 거래 제도 시범 도시인 충칭시를 대상으로 차이분석(DID)과 성향점수매칭(PSM-DID) 기법을 활용하여 탄소 배출 저감과 경제 발전의 균형 효과를 검증한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2023-impact-of-chinese-carbon-emissions-trading-policy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-artificial-intelligence-applications-for-business-management",
     "verified": true,
     "category": "인공지능",
