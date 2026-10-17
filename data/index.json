@@ -1,5 +1,64 @@
 [
   {
+    "id": "paper-2010-preface-to-the-special-issue-on-empirical",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Journal of Natural Language Processing 저널에 게재된 아시아 언어 처리를 위한 경험적 방법을 다룬 인공지능 학술 논문",
+    "shortTitle": "아시아 언어 처리를 위한 경험적 방법",
+    "originalTitle": "Preface to the Special Issue on “Empirical Methods for Asian Language Processing”",
+    "authors": [
+      "Akira Shimazu",
+      "Manabu Okumura"
+    ],
+    "year": 2010,
+    "journal": "Journal of Natural Language Processing",
+    "doi": "10.5715/jnlp.17.3_1",
+    "sourceUrl": "https://doi.org/10.5715/jnlp.17.3_1",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "아시아언어",
+      "경험적방법",
+      "언어공학",
+      "말뭉치",
+      "학술논문"
+    ],
+    "summary": "2010년 Journal of Natural Language Processing 저널에 발표된 본 논문은, 아시아 언어 처리를 위한 경험적 방법 특집호의 서문으로 다양한 언어 데이터와 통계적 접근법을 조명하는 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2010-preface-to-the-special-issue-on-empirical.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1980-hydrogen-energy-news",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 소식을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 소식",
+    "originalTitle": "Hydrogen energy news",
+    "authors": [],
+    "year": 1980,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(80)90043-9",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(80)90043-9",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지뉴스",
+      "청정에너지",
+      "대체에너지",
+      "에너지연구",
+      "학술논문"
+    ],
+    "summary": "1980년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 산업과 관련된 동향 및 소식을 전하는 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1980-hydrogen-energy-news.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1995-design-of-efficient-unification-for-natural-language",
     "verified": true,
     "category": "인공지능",
