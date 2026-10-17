@@ -1,5 +1,66 @@
 [
   {
+    "id": "paper-2023-sentimental-contrastive-learning-for-event-representation",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Natural Language Processing Journal 저널에 게재된 이벤트 표현을 위한 감성 대조 학습을 다룬 인공지능 학술 논문",
+    "shortTitle": "이벤트 표현을 위한 감성 대조 학습",
+    "originalTitle": "Sentimental Contrastive Learning for event representation",
+    "authors": [
+      "Yan Zhou",
+      "Xiaodong Li"
+    ],
+    "year": 2023,
+    "journal": "Natural Language Processing Journal",
+    "doi": "10.1016/j.nlp.2023.100031",
+    "sourceUrl": "https://doi.org/10.1016/j.nlp.2023.100031",
+    "keywords": [
+      "인공지능",
+      "자연어처리",
+      "대조학습",
+      "감성분석",
+      "이벤트표현",
+      "텍스트마이닝",
+      "학술논문"
+    ],
+    "summary": "2023년 Natural Language Processing Journal 저널에 발표된 본 논문은, 텍스트 속 이벤트 표현에 감성적 특성을 효과적으로 반영하기 위한 대조 학습 방법론을 제안한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2023-sentimental-contrastive-learning-for-event-representation.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2020-radioactive-bookkeeping-of-carbon-emissions",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Eos 저널에 게재된 방사성 탄소 동위원소를 활용한 화석연료 배출량 추적 방법을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "방사성 탄소를 이용한 탄소 배출량 추적",
+    "originalTitle": "Radioactive Bookkeeping of Carbon Emissions",
+    "authors": [
+      "Sarah Derouin"
+    ],
+    "year": 2020,
+    "journal": "Eos",
+    "doi": "10.1029/2020eo145841",
+    "sourceUrl": "https://doi.org/10.1029/2020eo145841",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "방사성탄소",
+      "탄소-14",
+      "기후변화",
+      "화석연료",
+      "학술논문"
+    ],
+    "summary": "2020년 Eos 저널에 발표된 본 논문은, 대기 중 이산화탄소 분자 중 화석연료 기인분을 정확히 식별하기 위해 탄소-14를 활용하는 새로운 시료 채취 방법을 소개하고 기후 완화 목표 달성을 지원할 수 있는 가능성을 조명한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2020-radioactive-bookkeeping-of-carbon-emissions.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1988-image-analysis-and-computer-vision-1987-2",
     "verified": true,
     "category": "인공지능",
