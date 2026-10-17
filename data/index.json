@@ -1,5 +1,63 @@
 [
   {
+    "id": "paper-1988-image-analysis-and-computer-vision-1987-2",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 1987년 이미지 분석 및 컴퓨터 비전 연구 동향을 다룬 인공지능 학술 논문",
+    "shortTitle": "1987년 이미지 분석과 컴퓨터 비전",
+    "originalTitle": "Image analysis and computer vision: 1987",
+    "authors": [
+      "Azriel Rosenfeld"
+    ],
+    "year": 1988,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/0734-189x(88)90160-0",
+    "sourceUrl": "https://doi.org/10.1016/0734-189x(88)90160-0",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "이미지분석",
+      "영상처리",
+      "패턴인식",
+      "학술동향",
+      "학술논문"
+    ],
+    "summary": "1988년 Computer Vision, Graphics, and Image Processing 저널에 발표된 본 논문은, 1년 동안 이루어진 이미지 분석 및 컴퓨터 비전 분야의 주요 연구 성과와 학술적 동향을 종합적으로 조명한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1988-image-analysis-and-computer-vision-1987-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1977-hydrogen-energy-and-energy-related-publications-3",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 출판물을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 및 에너지 관련 출판물",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1977,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(77)90031-3",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(77)90031-3",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "문헌동향",
+      "청정에너지",
+      "대체에너지",
+      "학술논문"
+    ],
+    "summary": "1977년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 연구와 관련 에너지 출판물의 동향을 체계적으로 정리하여 학계에 공유한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1977-hydrogen-energy-and-energy-related-publications-3.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1995-accv-95-second-asian-conference-on-computer",
     "verified": true,
     "category": "인공지능",
