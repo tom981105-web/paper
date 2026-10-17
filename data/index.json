@@ -1,5 +1,67 @@
 [
   {
+    "id": "paper-1991-artificial-intelligence-engineering",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#6D5BD0",
+    "title": "Artificial Intelligence in Engineering 저널에 게재된 공학 분야의 인공지능 적용을 다룬 인공지능 학술 논문",
+    "shortTitle": "공학 분야의 인공지능",
+    "originalTitle": "Artificial intelligence: Engineering",
+    "authors": [
+      "M.A. Rosenman"
+    ],
+    "year": 1991,
+    "journal": "Artificial Intelligence in Engineering",
+    "doi": "10.1016/0954-1810(91)90007-b",
+    "sourceUrl": "https://doi.org/10.1016/0954-1810(91)90007-b",
+    "keywords": [
+      "인공지능",
+      "공학",
+      "인공지능공학",
+      "설계자동화",
+      "학술논문"
+    ],
+    "summary": "1991년 Artificial Intelligence in Engineering 저널에 발표된 본 논문은, 초기 인공지능 기술이 전통적인 공학 설계와 문제 해결 과정에 어떻게 접목되는지 고찰한 인공지능 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1991-artificial-intelligence-engineering.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-quantitative-analysis-of-china-s-carbon-emissions",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energies 저널에 게재된 중국의 탄소 배출권 거래 정책 유효성과 감축 효과에 대한 정량적 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "중국 탄소 배출권 거래 정책의 정량적 분석",
+    "originalTitle": "Quantitative Analysis of China’s Carbon Emissions Trading Policies: Perspectives of Policy Content Validity and Carbon Emissions Reduction Effect",
+    "authors": [
+      "Juan Luo",
+      "Chong Xu",
+      "Boyu Yang",
+      "Xiaoyu Chen",
+      "Yinyin Wu"
+    ],
+    "year": 2022,
+    "journal": "Energies",
+    "doi": "10.3390/en15145123",
+    "sourceUrl": "https://doi.org/10.3390/en15145123",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출권거래",
+      "정책유효성",
+      "탄소감축",
+      "로그평균디비시아지수",
+      "중국",
+      "학술논문"
+    ],
+    "summary": "2022년 Energies 저널에 발표된 본 논문은, 중국 31개 성·자치시의 탄소 배출권 거래 정책 내용 타당성과 지역별 탄소 효율성 개선 요인을 정량적으로 분석하여 정책 실효성을 제고할 방향을 제시한 에너지·환경 분야 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2022-quantitative-analysis-of-china-s-carbon-emissions.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1985-second-annual-conference-on-applications-of-artificial",
     "verified": true,
     "category": "인공지능",
