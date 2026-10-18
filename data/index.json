@@ -1,5 +1,37 @@
 [
   {
+    "id": "paper-2020-analysis-of-energy-efficiency-obligation-scheme-implementation",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 튀르키예의 에너지 효율 의무화 제도 이행 분석을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "튀르키예 에너지 효율 의무화 제도",
+    "originalTitle": "Analysis of energy efficiency obligation scheme implementation in Turkey",
+    "authors": [
+      "Rabia Cin",
+      "Ebru Acuner",
+      "Sermin Onaygil"
+    ],
+    "year": 2020,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-020-09914-z",
+    "sourceUrl": "https://doi.org/10.1007/s12053-020-09914-z",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "의무화제도",
+      "튀르키예",
+      "에너지정책",
+      "지속가능성",
+      "학술논문"
+    ],
+    "summary": "2020년 Energy Efficiency 저널에 발표된 본 문서는, 튀르키예에서 도입된 에너지 효율 의무화 제도의 이행 과정과 성과를 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2020-analysis-of-energy-efficiency-obligation-scheme-implementation.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2007-i-wind-energy-i-special-issue",
     "verified": true,
     "category": "에너지·환경",
