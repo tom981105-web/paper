@@ -1,5 +1,33 @@
 [
   {
+    "id": "paper-1990-hydrogen-energy-and-energy-related-publications-3",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 관련 출판물 및 연구 동향을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "수소 에너지 관련 출판물 동향",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1990,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(90)90115-f",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(90)90115-f",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "연구동향",
+      "청정에너지",
+      "학술문헌",
+      "학술논문"
+    ],
+    "summary": "1990년 International Journal of Hydrogen Energy 저널에 발표된 본 문서는, 당시 수소 에너지와 관련된 학술 출판물 및 연구 동향을 조명하여 에너지 전환기 학문적 흐름을 전달하는 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1990-hydrogen-energy-and-energy-related-publications-3.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-analysis-of-energy-efficiency-obligation-scheme-implementation",
     "verified": true,
     "category": "에너지·환경",
