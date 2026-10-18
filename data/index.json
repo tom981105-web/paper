@@ -1,5 +1,36 @@
 [
   {
+    "id": "paper-2011-hallmarks-of-cancer-the-next-generation",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Cell 저널에 게재된 암의 특성과 차세대 생물학적 능력에 관한 에너지·환경 및 종양학 분야 학술 문헌",
+    "shortTitle": "암의 특성: 차세대",
+    "originalTitle": "Hallmarks of Cancer: The Next Generation",
+    "authors": [
+      "Douglas Hanahan",
+      "Robert A. Weinberg"
+    ],
+    "year": 2011,
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2011.02.013",
+    "sourceUrl": "https://doi.org/10.1016/j.cell.2011.02.013",
+    "keywords": [
+      "에너지·환경",
+      "암의특성",
+      "세포대사재프로그래밍",
+      "종양미세환경",
+      "게놈불안정성",
+      "염증반응",
+      "학술논문"
+    ],
+    "summary": "2011년 Cell 저널에 발표된 본 문서는, 암세포가 종양을 형성하고 발전시키는 과정에서 획득하는 생물학적 특성과 세포 에너지 대사 재프로그래밍 등 차세대 핵심 개념을 체계적으로 정리한 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2011-hallmarks-of-cancer-the-next-generation.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1994-hydrogen-energy-and-energy-related-publications",
     "verified": true,
     "category": "에너지·환경",
