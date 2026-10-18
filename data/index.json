@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2007-i-wind-energy-i-special-issue",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Wind Energy 저널 특유의 특별호(Special issue)를 통해 풍력 에너지 연구 동향을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "Wind Energy 특별호 동향",
+    "originalTitle": "Wind Energy special issue",
+    "authors": [
+      "Patrick J. Moriarty"
+    ],
+    "year": 2007,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.250",
+    "sourceUrl": "https://doi.org/10.1002/we.250",
+    "keywords": [
+      "에너지·환경",
+      "풍력에너지",
+      "신재생에너지",
+      "풍력발전",
+      "학술특집",
+      "에너지동향",
+      "학술논문"
+    ],
+    "summary": "2007년 Wind Energy 저널에 발표된 본 문서는, 당시 풍력 에너지 분야의 최신 연구 성과와 발전 방향을 모아 소개하는 특별호(Special issue) 관련 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2007-i-wind-energy-i-special-issue.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1979-hydrogen-energy-news",
     "verified": true,
     "category": "에너지·환경",
