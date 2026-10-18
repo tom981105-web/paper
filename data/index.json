@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2019-selected-papers-on-renewable-energy-afore-2017",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "재생에너지 분야의 우수 논문들을 모아 조명한 Renewable Energy 저널 게재 학술 문헌",
+    "shortTitle": "재생에너지 우수 논문 (AFORE 2017)",
+    "originalTitle": "Selected papers on renewable energy: AFORE 2017",
+    "authors": [
+      "Seung-Ho Song"
+    ],
+    "year": 2019,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/j.renene.2019.06.016",
+    "sourceUrl": "https://doi.org/10.1016/j.renene.2019.06.016",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "AFORE2017",
+      "청정에너지",
+      "학술논문",
+      "에너지연구"
+    ],
+    "summary": "2019년 Renewable Energy 저널에 발표된 본 문서는, AFORE 2017 학술대회에서 발표된 재생에너지 분야의 우수 연구 논문들을 엄선하여 체계적으로 소개하는 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2019-selected-papers-on-renewable-energy-afore-2017.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1989-hydrogen-energy-and-energy-related-publications-3",
     "verified": true,
     "category": "에너지·환경",
