@@ -1,5 +1,64 @@
 [
   {
+    "id": "paper-1988-analog-neural-network-integration",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#3498DB",
+    "title": "Neural Networks 저널에 게재된 아날로그 신경망 통합을 다룬 인공지능 분야 학술 문헌",
+    "shortTitle": "아날로그 신경망 통합",
+    "originalTitle": "Analog “neural” network integration",
+    "authors": [],
+    "year": 1988,
+    "journal": "Neural Networks",
+    "doi": "10.1016/0893-6080(88)90437-6",
+    "sourceUrl": "https://doi.org/10.1016/0893-6080(88)90437-6",
+    "keywords": [
+      "인공지능",
+      "아날로그신경망",
+      "신경망통합",
+      "하드웨어신경망",
+      "뉴럴네트워크",
+      "학술논문"
+    ],
+    "summary": "1988년 Neural Networks 저널에 발표된 본 문서는, 인공 신경망의 연산 구조를 아날로그 하드웨어로 구현하고 통합하는 방법론을 다룬 인공지능 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1988-analog-neural-network-integration.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2016-changes-in-agricultural-carbon-emissions-and-factors",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Scientific Reports 저널에 게재된 중국 신장 지역의 농업 탄소 배출 변화 단계 및 영향 요인 분석을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "신장 지역 농업 탄소 배출 변화 단계 및 영향 요인",
+    "originalTitle": "Changes in agricultural carbon emissions and factors that influence agricultural carbon emissions based on different stages in Xinjiang, China",
+    "authors": [
+      "Chuanhe Xiong",
+      "Degang Yang",
+      "Fuqiang Xia",
+      "Jinwei Huo"
+    ],
+    "year": 2016,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep36912",
+    "sourceUrl": "https://doi.org/10.1038/srep36912",
+    "keywords": [
+      "에너지·환경",
+      "농업탄소배출",
+      "신장",
+      "LMDI분해법",
+      "탄소배출요인",
+      "학술논문"
+    ],
+    "summary": "2016년 Scientific Reports 저널에 발표된 본 문서는, 중국 신장(Xinjiang) 지역의 1991년~2014년 농업 탄소 배출량 변화 단계를 분석하고, LMDI 분해법을 통해 효율·구조·경제·노동 요소가 탄소 배출에 미친 영향과 시사점을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2016-changes-in-agricultural-carbon-emissions-and-factors.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2014-modelling-the-potential-for-industrial-energy-efficiency",
     "verified": true,
     "category": "에너지·환경",
