@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2019-lithium-ion-battery-anode-including-preloaded-lithium",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Focus on Catalysts 저널에 게재된 사전 적재된 리튬을 포함하는 리튬 이온 배터리 음극을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "사전 적재된 리튬을 포함하는 리튬 이온 배터리 음극",
+    "originalTitle": "Lithium-ion battery anode including preloaded lithium",
+    "authors": [],
+    "year": 2019,
+    "journal": "Focus on Catalysts",
+    "doi": "10.1016/j.focat.2019.02.052",
+    "sourceUrl": "https://doi.org/10.1016/j.focat.2019.02.052",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "배터리음극",
+      "리튬사전적재",
+      "촉매",
+      "학술논문"
+    ],
+    "summary": "2019년 Focus on Catalysts 저널에 발표된 본 문서는, 배터리 초기 충전 효율과 용량을 극대화하기 위해 미리 리튬을 적재한 리튬 이온 배터리 음극 기술을 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2019-lithium-ion-battery-anode-including-preloaded-lithium.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1982-the-handbook-of-artificial-intelligence",
     "verified": true,
     "category": "인공지능",
