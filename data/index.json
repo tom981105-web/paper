@@ -1,5 +1,91 @@
 [
   {
+    "id": "paper-1982-the-handbook-of-artificial-intelligence",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#3498DB",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 핸드북을 다룬 인공지능 분야 학술 문헌",
+    "shortTitle": "인공지능 핸드북",
+    "originalTitle": "The handbook of artificial intelligence",
+    "authors": [
+      "Frederick Hayes-Roth"
+    ],
+    "year": 1982,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(82)90027-3",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(82)90027-3",
+    "keywords": [
+      "인공지능",
+      "인공지능핸드북",
+      "지식공학",
+      "전문가시스템",
+      "AI역사",
+      "학술논문"
+    ],
+    "summary": "1982년 Artificial Intelligence 저널에 발표된 본 문서는, 초기 인공지능 분야의 핵심 개념과 방법론, 응용 사례를 집대성한 핸드북을 소개하며 인공지능의 기초를 다진 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1982-the-handbook-of-artificial-intelligence.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2013-editorial-board-3",
+    "verified": true,
+    "category": "전기",
+    "color": "#E67E22",
+    "title": "International Journal of Electrical Power & Energy Systems 저널의 편집위원회를 다룬 전기 분야 학술 문헌",
+    "shortTitle": "국제 전기 전력 및 에너지 시스템 저널 편집위원회",
+    "originalTitle": "Editorial Board",
+    "authors": [],
+    "year": 2013,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/s0142-0615(13)00125-7",
+    "sourceUrl": "https://doi.org/10.1016/s0142-0615(13)00125-7",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "에너지시스템",
+      "편집위원회",
+      "학술저널",
+      "학술논문"
+    ],
+    "summary": "2013년 International Journal of Electrical Power & Energy Systems 저널에 발표된 본 문서는, 해당 학술지의 운영을 담당하는 편집위원회의 구성과 명단을 기록한 전기 및 에너지 분야의 학술 문헌입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2013-editorial-board-3.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2008-utility-energy-efficiency-schemes-savings-obligations-and",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 유틸리티 에너지 효율 제도, 절감 의무 및 거래를 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "유틸리티 에너지 효율 제도와 절감 의무 및 거래",
+    "originalTitle": "Utility energy efficiency schemes: savings obligations and trading",
+    "authors": [
+      "Paul Waide",
+      "Barbara Buchner"
+    ],
+    "year": 2008,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-008-9024-8",
+    "sourceUrl": "https://doi.org/10.1007/s12053-008-9024-8",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "절감의무",
+      "에너지거래",
+      "유틸리티",
+      "학술논문"
+    ],
+    "summary": "2008년 Energy Efficiency 저널에 발표된 본 문서는, 에너지 공급자인 유틸리티 기업에게 부과되는 에너지 절감 의무와 이를 유연하게 달성하기 위한 거래 제도의 구조와 효과를 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2008-utility-energy-efficiency-schemes-savings-obligations-and.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2025-hybrid-machine-learning-model-for-the-prediction",
     "verified": true,
     "category": "인공지능",
