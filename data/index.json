@@ -1,5 +1,64 @@
 [
   {
+    "id": "paper-2005-ieee-power-electronics-letters-blank-page-3",
+    "verified": true,
+    "category": "전기",
+    "color": "#E67E22",
+    "title": "IEEE Power Electronics Letters 저널에 게재된 빈 페이지 문헌을 다룬 전기 분야 학술 문헌",
+    "shortTitle": "IEEE 전력전자 레터스 빈 페이지",
+    "originalTitle": "IEEE Power Electronics Letters blank page",
+    "authors": [],
+    "year": 2005,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2005.846680",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2005.846680",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "학술저널",
+      "출판공학",
+      "학술논문"
+    ],
+    "summary": "2005년 IEEE Power Electronics Letters 저널에 발표된 본 문서는, 저널의 물리적 레이아웃과 인쇄 공정 상의 편집용 빈 페이지 구성을 기록한 전기 분야의 학술 문헌입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2005-ieee-power-electronics-letters-blank-page-3.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2022-non-droop-control-based-cascaded-superconducting-magnetic",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Journal of Energy Storage 저널에 게재된 드룹 제어 기반이 아닌 다단 초전도 자기 에너지 저장/배터리 하이브리드 에너지 저장 시스템을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "비드룹제어 기반 다단 초전도 자기/배터리 하이브리드 에너지 저장 시스템",
+    "originalTitle": "Non-droop-control-based cascaded superconducting magnetic energy storage/battery hybrid energy storage system",
+    "authors": [
+      "Ruo Huan Yang",
+      "Jian Xun Jin",
+      "Qian Zhou",
+      "Meng Xiao"
+    ],
+    "year": 2022,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2022.105309",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2022.105309",
+    "keywords": [
+      "에너지·환경",
+      "초전도자기저장장치",
+      "배터리저장",
+      "하이브리드에너지",
+      "드룹제어",
+      "전력계통",
+      "학술논문"
+    ],
+    "summary": "2022년 Journal of Energy Storage 저널에 발표된 본 문서는, 기존의 드룹 제어를 사용하지 않고 초전도 자기 에너지 저장 장치와 배터리를 결합한 다단 하이브리드 에너지 저장 시스템의 제어 및 운전 방안을 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2022-non-droop-control-based-cascaded-superconducting-magnetic.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2019-lithium-ion-battery-anode-including-preloaded-lithium",
     "verified": true,
     "category": "에너지·환경",
