@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2014-energy-efficiency-technologies-for-sustainable-food-processing",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 지속 가능한 식품 가공을 위한 에너지 효율 기술을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "지속 가능한 식품 가공 에너지 효율 기술",
+    "originalTitle": "Energy efficiency technologies for sustainable food processing",
+    "authors": [
+      "Lijun Wang"
+    ],
+    "year": 2014,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-014-9256-8",
+    "sourceUrl": "https://doi.org/10.1007/s12053-014-9256-8",
+    "keywords": [
+      "에너지·환경",
+      "식품가공",
+      "에너지효율",
+      "지속가능성",
+      "친환경기술",
+      "학술논문"
+    ],
+    "summary": "2014년 Energy Efficiency 저널에 발표된 본 문서는, 지속 가능한 식품 가공 산업에서 적용될 수 있는 다양한 에너지 효율 향상 기술과 접근법을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2014-energy-efficiency-technologies-for-sustainable-food-processing.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2016-estimation-of-the-energy-efficiency-in-chinese",
     "verified": true,
     "category": "에너지·환경",
