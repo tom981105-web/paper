@@ -1,5 +1,39 @@
 [
   {
+    "id": "paper-2018-lithium-ion-batteries-new-insights-into-the",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Global Challenges 저널에 게재된 리튬이온 배터리 소재를 활용한 리튬 선택적 추출 기법을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "리튬이온 배터리 소재를 이용한 리튬 선택적 추출",
+    "originalTitle": "Lithium‐Ion Batteries: New Insights into the Application of Lithium‐Ion Battery Materials: Selective Extraction of Lithium from Brines via a Rocking‐Chair Lithium‐Ion Battery System (Global Challenges 2/2018)",
+    "authors": [
+      "Lihua He",
+      "Wenhua Xu",
+      "Yunfeng Song",
+      "Yunze Luo",
+      "Xuheng Liu",
+      "Zhongwei Zhao"
+    ],
+    "year": 2018,
+    "journal": "Global Challenges",
+    "doi": "10.1002/gch2.201870020",
+    "sourceUrl": "https://doi.org/10.1002/gch2.201870020",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "리튬추출",
+      "염호",
+      "배터리소재",
+      "학술논문"
+    ],
+    "summary": "2018년 Global Challenges 저널에 발표된 본 문서는, 리튬이온 배터리 소재와 흔들의자형(Rocking-chair) 배터리 시스템을 응용하여 염수에서 리튬을 친환경적이고 효율적으로 선택 추출하는 신기술을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2018-lithium-ion-batteries-new-insights-into-the.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2014-wind-turbine-condition-monitoring",
     "verified": true,
     "category": "에너지·환경",
