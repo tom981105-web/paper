@@ -1,5 +1,36 @@
 [
   {
+    "id": "paper-2016-estimation-of-the-energy-efficiency-in-chinese",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 중국 각 성(provinces)의 에너지 효율 추정을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "중국 각 성의 에너지 효율 추정",
+    "originalTitle": "Estimation of the energy efficiency in Chinese provinces",
+    "authors": [
+      "Massimo Filippini",
+      "Lin Zhang"
+    ],
+    "year": 2016,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-016-9425-z",
+    "sourceUrl": "https://doi.org/10.1007/s12053-016-9425-z",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "중국지역",
+      "경제성장",
+      "에너지정책",
+      "계량경제학",
+      "학술논문"
+    ],
+    "summary": "2016년 Energy Efficiency 저널에 발표된 본 문서는, 중국의 여러 성(provinces)을 대상으로 에너지 효율성을 추정하고 지역별 차이와 결정 요인을 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2016-estimation-of-the-energy-efficiency-in-chinese.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1990-hydrogen-energy-and-energy-related-publications-3",
     "verified": true,
     "category": "에너지·환경",
