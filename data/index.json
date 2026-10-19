@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2008-tradable-energy-efficiency-certificates-the-italian-experience",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 이탈리아의 에너지 효율 인증서 거래 제도를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "이탈리아의 에너지 효율 인증서 거래 제도",
+    "originalTitle": "Tradable energy efficiency certificates: the Italian experience",
+    "authors": [
+      "Marcella Pavan"
+    ],
+    "year": 2008,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-008-9022-x",
+    "sourceUrl": "https://doi.org/10.1007/s12053-008-9022-x",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "인증서거래",
+      "이탈리아정책",
+      "백서제도",
+      "학술논문"
+    ],
+    "summary": "2008년 Energy Efficiency 저널에 발표된 본 논문은, 이탈리아가 도입한 에너지 효율 인증서 거래 제도(백서 제도)의 운영 경험과 성과를 분석하여 시장 기반 에너지 절감 정책의 시사점을 제공하는 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2008-tradable-energy-efficiency-certificates-the-italian-experience.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1981-hydrogen-energy-and-energy-related-publications-6",
     "verified": true,
     "category": "에너지·환경",
