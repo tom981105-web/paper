@@ -1,5 +1,38 @@
 [
   {
+    "id": "paper-2023-conceptual-review-and-optimization-of-liquid-air",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Journal of Energy Storage 저널에 게재된 대규모 에너지 저장을 위한 액체 공기 에너지 저장 시스템 구성의 개념적 검토 및 최적화를 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "액체 공기 에너지 저장 시스템 구성의 개념적 검토 및 최적화",
+    "originalTitle": "Conceptual review and optimization of liquid air energy storage system configurations for large scale energy storage",
+    "authors": [
+      "Gianluca Carraro",
+      "Piero Danieli",
+      "Tazio Boatto",
+      "Andrea Lazzaretto"
+    ],
+    "year": 2023,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2023.108225",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2023.108225",
+    "keywords": [
+      "에너지·환경",
+      "액체공기에너지저장",
+      "LAES",
+      "대규모에너지저장",
+      "시스템최적화",
+      "열역학",
+      "학술논문"
+    ],
+    "summary": "2023년 Journal of Energy Storage 저널에 발표된 본 문서는, 대규모 전력 저장을 위해 공기를 액화시켜 에너지를 보관하는 액체 공기 에너지 저장(LAES) 시스템의 다양한 구성 방식을 개념적으로 검토하고 최적화 방안을 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2023-conceptual-review-and-optimization-of-liquid-air.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2005-ieee-power-electronics-letters-blank-page-3",
     "verified": true,
     "category": "전기",
