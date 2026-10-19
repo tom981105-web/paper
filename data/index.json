@@ -1,5 +1,93 @@
 [
   {
+    "id": "paper-2026-multi-source-data-fusion-and-multi-task",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#9B59B6",
+    "title": "Energies 저널에 게재된 다중 소스 데이터 융합과 멀티태스킹 물리 기반 트랜스포머를 이용한 전력 변압기 고장 진단을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "물리 기반 트랜스포머를 이용한 변압기 고장 진단",
+    "originalTitle": "Multi-Source Data Fusion and Multi-Task Physics-Informed Transformer for Power Transformer Fault Diagnosis",
+    "authors": [
+      "Yuanfang Huang",
+      "Zhanhong Huang",
+      "Junbin Chen"
+    ],
+    "year": 2026,
+    "journal": "Energies",
+    "doi": "10.3390/en19030599",
+    "sourceUrl": "https://doi.org/10.3390/en19030599",
+    "keywords": [
+      "인공지능",
+      "전력변압기",
+      "고장진단",
+      "트랜스포머",
+      "물리기반인공지능",
+      "데이터융합",
+      "학술논문"
+    ],
+    "summary": "2026년 Energies 저널에 발표된 본 논문은, 이기종 모니터링 데이터를 통합하고 열역학 및 가스 확산 원리 등의 물리적 사전 지식을 트랜스포머 어텐션 메커니즘에 결합하여 전력 변압기의 고장 분류, 심각도 평가, 위치 지정을 동시에 수행하는 다중 작업 진단 프레임워크를 제안한 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2026-multi-source-data-fusion-and-multi-task.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1998-financing-mechanisms-for-renewable-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Renewable Energy 저널에 게재된 재생에너지 자금 조달 메커니즘을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "재생에너지 자금 조달 메커니즘",
+    "originalTitle": "Financing mechanisms for renewable energy",
+    "authors": [
+      "A. Derrick"
+    ],
+    "year": 1998,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/s0960-1481(98)00159-1",
+    "sourceUrl": "https://doi.org/10.1016/s0960-1481(98)00159-1",
+    "keywords": [
+      "에너지·환경",
+      "재생에너지",
+      "자금조달",
+      "금융메커니즘",
+      "에너지정책",
+      "학술논문"
+    ],
+    "summary": "1998년 Renewable Energy 저널에 발표된 본 논문은, 재생에너지 프로젝트 보급과 확산을 위해 필수적인 다양한 자금 조달 및 금융 메커니즘의 구조와 적용 방안을 분석한 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1998-financing-mechanisms-for-renewable-energy.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2015-editorial-board-2",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#E67E22",
+    "title": "Advances in Building Energy Research 저널의 편집위원회를 다룬 건축·시설관리 분야 학술 문헌",
+    "shortTitle": "편집위원회 소개 및 구성",
+    "originalTitle": "Editorial Board",
+    "authors": [],
+    "year": 2015,
+    "journal": "Advances in Building Energy Research",
+    "doi": "10.1080/17512549.2015.1080922",
+    "sourceUrl": "https://doi.org/10.1080/17512549.2015.1080922",
+    "keywords": [
+      "건축·시설관리",
+      "건물에너지",
+      "편집위원회",
+      "학술저널",
+      "연구진행",
+      "학술문헌"
+    ],
+    "summary": "2015년 Advances in Building Energy Research 저널에 발표된 본 문서는, 건물 에너지 연구 분야의 우수한 학술 논문을 심사하고 저널의 방향성을 결정하는 편집위원회의 구성과 명단을 수록한 건축·시설관리 분야의 학술 문헌입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2015-editorial-board-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-loop-detection-for-3d-lidar-slam-using",
     "verified": true,
     "category": "로봇·자동화",
