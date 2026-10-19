@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1991-hydrogen-energy-and-energy-related-publications-4",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 문헌을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "수소 에너지 및 에너지 관련 출판물",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1991,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(91)90197-q",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(91)90197-q",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "학술저널",
+      "서지정보",
+      "학술논문"
+    ],
+    "summary": "1991년 International Journal of Hydrogen Energy 저널에 발표된 본 문서는, 초기 수소 에너지 분야의 연구 성과와 에너지 관련 출판물 정보를 수록하여 학계의 연구 동향을 안내하는 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-1991-hydrogen-energy-and-energy-related-publications-4.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1983-calendar-2",
     "verified": true,
     "category": "전기",
