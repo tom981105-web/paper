@@ -1,5 +1,64 @@
 [
   {
+    "id": "paper-2025-hybrid-machine-learning-model-for-the-prediction",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#3498DB",
+    "title": "Machine Learning with Applications 저널에 게재된 빈혈 예측을 위한 하이브리드 머신러닝 모델을 다룬 인공지능 분야 학술 문헌",
+    "shortTitle": "빈혈 예측을 위한 하이브리드 머신러닝 모델",
+    "originalTitle": "Hybrid machine learning model for the prediction of anaemia",
+    "authors": [
+      "Rabia Omar Said",
+      "Mahadia Tunga"
+    ],
+    "year": 2025,
+    "journal": "Machine Learning with Applications",
+    "doi": "10.1016/j.mlwa.2025.100741",
+    "sourceUrl": "https://doi.org/10.1016/j.mlwa.2025.100741",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "하이브리드모델",
+      "빈혈예측",
+      "의료인공지능",
+      "학술논문"
+    ],
+    "summary": "2025년 Machine Learning with Applications 저널에 발표된 본 문서는, 인공지능과 머신러닝 기법을 결합한 하이브리드 모델을 활용하여 빈혈을 효과적으로 예측하는 방법론을 다룬 인공지능 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2025-hybrid-machine-learning-model-for-the-prediction.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2014-energy-efficiency-through-industrial-excess-heat-recovery",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 산업 폐열 회수를 통한 에너지 효율 향상과 정책적 영향을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "산업 폐열 회수를 통한 에너지 효율 향상 및 정책 영향",
+    "originalTitle": "Energy efficiency through industrial excess heat recovery—policy impacts",
+    "authors": [
+      "Sarah Broberg Viklund"
+    ],
+    "year": 2014,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-014-9277-3",
+    "sourceUrl": "https://doi.org/10.1007/s12053-014-9277-3",
+    "keywords": [
+      "에너지·환경",
+      "폐열회수",
+      "에너지효율",
+      "산업공정",
+      "정책영향",
+      "학술논문"
+    ],
+    "summary": "2014년 Energy Efficiency 저널에 발표된 본 문서는, 산업 공정에서 발생하는 폐열을 회수하여 에너지 효율을 높이는 과정과 이에 미치는 정책적 영향을 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2014-energy-efficiency-through-industrial-excess-heat-recovery.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1988-analog-neural-network-integration",
     "verified": true,
     "category": "인공지능",
