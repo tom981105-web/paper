@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1991-hydrogen-energy-and-energy-related-publications-3",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 문헌 고찰을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "수소 에너지 및 에너지 관련 문헌 고찰",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1991,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(91)90108-u",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(91)90108-u",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지문헌",
+      "청정에너지",
+      "대체에너지",
+      "학술문헌"
+    ],
+    "summary": "1991년 International Journal of Hydrogen Energy 저널에 발표된 본 문서는, 수소 에너지와 관련된 학술 출판물 및 연구 동향을 조망하여 미래 청정에너지의 발전 방향을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1991-hydrogen-energy-and-energy-related-publications-3.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-mapping-cities-carbon-emissions-through-advanced-data",
     "verified": true,
     "category": "에너지·환경",
