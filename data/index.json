@@ -1,5 +1,62 @@
 [
   {
+    "id": "paper-2020-loop-detection-for-3d-lidar-slam-using",
+    "verified": true,
+    "category": "로봇·자동화",
+    "color": "#3498DB",
+    "title": "Advanced Robotics 저널에 게재된 세그먼트 그룹 매칭을 이용한 3차원 라이다 슬램 루프 검출을 다룬 로봇·자동화 분야 학술 논문",
+    "shortTitle": "3D 라이다 슬램을 위한 루프 검출",
+    "originalTitle": "Loop detection for 3D LiDAR SLAM using segment-group matching",
+    "authors": [
+      "M. Tomono"
+    ],
+    "year": 2020,
+    "journal": "Advanced Robotics",
+    "doi": "10.1080/01691864.2020.1824809",
+    "sourceUrl": "https://doi.org/10.1080/01691864.2020.1824809",
+    "keywords": [
+      "로봇·자동화",
+      "3D라이다",
+      "SLAM",
+      "루프검출",
+      "세그먼트매칭",
+      "자율주행",
+      "학술논문"
+    ],
+    "summary": "2020년 Advanced Robotics 저널에 발표된 본 논문은, 3차원 라이다 센서를 활용한 SLAM에서 세그먼트 그룹 매칭 방식을 통해 로봇의 주행 경로 오차를 줄이고 정확한 위치를 추정하는 루프 검출 기법을 제안한 로봇·자동화 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2020-loop-detection-for-3d-lidar-slam-using.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1979-hydrogen-energy-and-energy-related-publications-5",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 문헌을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "수소 에너지 및 에너지 관련 출판물",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1979,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(79)90051-x",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(79)90051-x",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지출판물",
+      "학술저널",
+      "서지정보",
+      "학술논문"
+    ],
+    "summary": "1979년 International Journal of Hydrogen Energy 저널에 발표된 본 문서는, 초기 수소 에너지 분야의 연구 성과와 에너지 관련 출판물 정보를 수록하여 학계의 연구 동향을 안내하는 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-1979-hydrogen-energy-and-energy-related-publications-5.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2008-tradable-energy-efficiency-certificates-the-italian-experience",
     "verified": true,
     "category": "에너지·환경",
