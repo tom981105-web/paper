@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2014-modelling-the-potential-for-industrial-energy-efficiency",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 국제에너지기구(IEA) 세계 에너지 전망의 산업 에너지 효율 잠재력 모델링을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "IEA 세계 에너지 전망의 산업 에너지 효율 모델링",
+    "originalTitle": "Modelling the potential for industrial energy efficiency in IEA’s World Energy Outlook",
+    "authors": [
+      "Fabian Kesicki",
+      "Akira Yanagisawa"
+    ],
+    "year": 2014,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-014-9273-7",
+    "sourceUrl": "https://doi.org/10.1007/s12053-014-9273-7",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "산업에너지",
+      "IEA",
+      "세계에너지전망",
+      "학술논문"
+    ],
+    "summary": "2014년 Energy Efficiency 저널에 발표된 본 문서는, 국제에너지기구(IEA)의 세계 에너지 전망(WEO) 모델에서 산업 부문의 에너지 효율 개선 잠재력을 평가하고 모델링하는 방법론을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2014-modelling-the-potential-for-industrial-energy-efficiency.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2018-lithium-ion-batteries-new-insights-into-the",
     "verified": true,
     "category": "에너지·환경",
