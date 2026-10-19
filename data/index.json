@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2014-wind-turbine-condition-monitoring",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Wind Energy 저널에 게재된 풍력 터빈 상태 모니터링을 다룬 에너지·환경 분야 학술 문헌",
+    "shortTitle": "풍력 터빈 상태 모니터링",
+    "originalTitle": "Wind turbine condition monitoring",
+    "authors": [],
+    "year": 2014,
+    "journal": "Wind Energy",
+    "doi": "10.1002/we.1725",
+    "sourceUrl": "https://doi.org/10.1002/we.1725",
+    "keywords": [
+      "에너지·환경",
+      "풍력터빈",
+      "상태모니터링",
+      "신재생에너지",
+      "설비관리",
+      "학술논문"
+    ],
+    "summary": "2014년 Wind Energy 저널에 발표된 본 문서는, 풍력 터빈의 안정적인 운영과 고장 예방을 위한 상태 모니터링 기술 및 방법론을 종합적으로 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2014-wind-turbine-condition-monitoring.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2017-household-energy-use-energy-efficiency-emissions-and",
     "verified": true,
     "category": "에너지·환경",
