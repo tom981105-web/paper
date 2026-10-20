@@ -1,5 +1,36 @@
 [
   {
+    "id": "paper-2016-a-hybrid-lithium-ion-battery-model-for",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Energy Research 저널에 게재된 시스템 수준 분석을 위한 하이브리드 리튬이온 배터리 모델을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "하이브리드 리튬이온 배터리 모델",
+    "originalTitle": "A hybrid lithium-ion battery model for system-level analyses",
+    "authors": [
+      "Juuso Lindgren",
+      "Imran Asghar",
+      "Peter D. Lund"
+    ],
+    "year": 2016,
+    "journal": "International Journal of Energy Research",
+    "doi": "10.1002/er.3617",
+    "sourceUrl": "https://doi.org/10.1002/er.3617",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "배터리모델",
+      "시스템분석",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "2016년 International Journal of Energy Research 저널에 발표된 본 논문은, 전력망이나 대규모 에너지 시스템에서 리튬이온 배터리의 거동을 효율적으로 시뮬레이션하고 분석하기 위한 하이브리드 배터리 모델을 제안한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2016-a-hybrid-lithium-ion-battery-model-for.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2009-resource-of-energy-efficiency-in-russia-scale",
     "verified": true,
     "category": "에너지·환경",
