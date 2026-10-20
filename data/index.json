@@ -1,5 +1,37 @@
 [
   {
+    "id": "paper-2015-secondary-lithium-ion-battery-anodes-from-first",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Johnson Matthey Technology Review 저널에 게재된 이차 리튬이온 배터리 음극재의 발전 과정을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "이차 리튬이온 배터리 음극재 발전",
+    "originalTitle": "Secondary Lithium-Ion Battery Anodes: From First Commercial Batteries to Recent Research Activities",
+    "authors": [
+      "By Nicholas Loeffler",
+      "Dominic Bresser",
+      "Stefano Passerini",
+      "Mark Copley"
+    ],
+    "year": 2015,
+    "journal": "Johnson Matthey Technology Review",
+    "doi": "10.1595/205651314x685824",
+    "sourceUrl": "https://doi.org/10.1595/205651314x685824",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "음극재",
+      "배터리기술",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "2015년 Johnson Matthey Technology Review 저널에 발표된 본 논문은, 최초의 상용 리튬이온 배터리부터 최신 연구 동향에 이르기까지 이차 리튬이온 배터리 음극재의 진화 과정과 기술적 발전 단계를 종합적으로 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2015-secondary-lithium-ion-battery-anodes-from-first.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2008-tradeable-energy-efficiency-certificates-in-australia",
     "verified": true,
     "category": "에너지·환경",
