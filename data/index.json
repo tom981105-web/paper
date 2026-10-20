@@ -1,5 +1,38 @@
 [
   {
+    "id": "paper-2022-lithium-and-cobalt-recovery-from-lithium-ion",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "ChemElectroChem 저널에 게재된 기능성 이온성 액체를 활용한 리튬이온 배터리 폐기물 속 리튬 및 코발트 회수 기술을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "이온성 액체 기반 리튬·코발트 회수",
+    "originalTitle": "Lithium and Cobalt Recovery from Lithium‐Ion Battery Waste via Functional Ionic Liquid Extraction for Effective Battery Recycling",
+    "authors": [
+      "Riccardo Morina",
+      "Daniele Merli",
+      "Piercarlo Mustarelli",
+      "Chiara Ferrara"
+    ],
+    "year": 2022,
+    "journal": "ChemElectroChem",
+    "doi": "10.1002/celc.202201059",
+    "sourceUrl": "https://doi.org/10.1002/celc.202201059",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "배터리재활용",
+      "이온성액체",
+      "리튬회수",
+      "코발트분리",
+      "학술논문"
+    ],
+    "summary": "2022년 ChemElectroChem 저널에 발표된 본 논문은, 기능성 이온성 액체인 Omim-TTA를 활용하여 폐리튬이온 배터리에서 리튬과 코발트를 효과적으로 분리 및 회수하는 친환경적 재활용 공정을 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 6분",
+    "file": "papers/paper-2022-lithium-and-cobalt-recovery-from-lithium-ion.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2011-addressing-data-center-efficiency-lessons-learned-from",
     "verified": true,
     "category": "에너지·환경",
