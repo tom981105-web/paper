@@ -1,5 +1,58 @@
 [
   {
+    "id": "paper-1985-vision-in-man-and-machine",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#9B59B6",
+    "title": "Computer Vision, Graphics, and Image Processing 저널에 게재된 인간과 기계의 시각 체계를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "인간과 기계의 시각",
+    "originalTitle": "Vision in man and machine",
+    "authors": [],
+    "year": 1985,
+    "journal": "Computer Vision, Graphics, and Image Processing",
+    "doi": "10.1016/s0734-189x(85)80079-7",
+    "sourceUrl": "https://doi.org/10.1016/s0734-189x(85)80079-7",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "인간시각",
+      "기계시각",
+      "이미지처리",
+      "학술논문"
+    ],
+    "summary": "1985년 Computer Vision, Graphics, and Image Processing 저널에 발표된 본 논문은, 인간의 시각 인지 과정과 기계의 컴퓨터 비전 시스템을 상호 비교하고 분석하여 시각 정보 처리의 원리를 고찰한 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1985-vision-in-man-and-machine.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1991-world-renewable-energy-congress-reading-23-28",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Renewable Energy 저널에 게재된 세계 신재생에너지 학회 논의를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "세계 신재생에너지 학회",
+    "originalTitle": "World Renewable Energy Congress Reading 23–28 September 1990",
+    "authors": [],
+    "year": 1991,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(91)90118-9",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(91)90118-9",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "세계대회",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1991년 Renewable Energy 저널에 발표된 본 논문은, 1990년 9월 영국 레딩에서 개최된 세계 신재생에너지 학회(World Renewable Energy Congress)의 주요 발표 및 논의 내용을 종합하여 소개한 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1991-world-renewable-energy-congress-reading-23-28.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2002-kernel-based-reinforcement-learning",
     "verified": true,
     "category": "인공지능",
