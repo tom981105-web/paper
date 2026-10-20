@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2017-lithium-recovery-of-spent-lithium-ion-battery",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Rasayan Journal of Chemistry 저널에 게재된 미생물을 활용한 폐리튬이온 배터리 리튬 회수 연구를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "미생물을 이용한 폐배터리 리튬 회수",
+    "originalTitle": "LITHIUM RECOVERY OF SPENT LITHIUM-ION BATTERY USING BIOLEACHING FROM LOCAL SOURCES MICROORGANISM",
+    "authors": [],
+    "year": 2017,
+    "journal": "Rasayan Journal of Chemistry",
+    "doi": "10.7324/rjc.2017.1031767",
+    "sourceUrl": "https://doi.org/10.7324/rjc.2017.1031767",
+    "keywords": [
+      "에너지·환경",
+      "리튬회수",
+      "폐배터리",
+      "바이오침출",
+      "미생물",
+      "학술논문"
+    ],
+    "summary": "2017년 Rasayan Journal of Chemistry 저널에 발표된 본 논문은, 지역 환경에서 확보한 미생물을 활용하여 바이오침출(Bioleaching) 방식으로 폐리튬이온 배터리로부터 리튬을 친환경적으로 회수하는 기술을 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2017-lithium-recovery-of-spent-lithium-ion-battery.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2015-secondary-lithium-ion-battery-anodes-from-first",
     "verified": true,
     "category": "에너지·환경",
