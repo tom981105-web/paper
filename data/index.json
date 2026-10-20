@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2012-measuring-improvement-in-energy-efficiency-of-the",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 미국 시멘트 산업의 에너지 효율 개선 측정 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "미국 시멘트 산업 에너지 효율 측정",
+    "originalTitle": "Measuring improvement in energy efficiency of the US cement industry with the ENERGY STAR Energy Performance Indicator",
+    "authors": [
+      "Gale Boyd",
+      "Gang Zhang"
+    ],
+    "year": 2012,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-012-9160-z",
+    "sourceUrl": "https://doi.org/10.1007/s12053-012-9160-z",
+    "keywords": [
+      "에너지·환경",
+      "시멘트산업",
+      "에너지효율",
+      "에너스타",
+      "성능지표",
+      "학술논문"
+    ],
+    "summary": "2012년 Energy Efficiency 저널에 발표된 본 논문은, 에너지스타(ENERGY STAR) 에너지 성능 지표를 활용하여 미국 시멘트 산업의 에너지 효율성 향상 과정을 측정하고 평가한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2012-measuring-improvement-in-energy-efficiency-of-the.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2014-the-economic-efficiency-of-energy-consuming-equipment",
     "verified": true,
     "category": "에너지·환경",
