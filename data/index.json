@@ -1,5 +1,92 @@
 [
   {
+    "id": "paper-2002-kernel-based-reinforcement-learning",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#9B59B6",
+    "title": "Machine Learning 저널에 게재된 커널 기반 강화학습을 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "커널 기반 강화학습",
+    "originalTitle": "Kernel-Based Reinforcement Learning",
+    "authors": [
+      "Dirk Ormoneit",
+      "Śaunak Sen"
+    ],
+    "year": 2002,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1017928328829",
+    "sourceUrl": "https://doi.org/10.1023/a:1017928328829",
+    "keywords": [
+      "인공지능",
+      "강화학습",
+      "커널방법론",
+      "상태공간",
+      "머신러닝",
+      "학술논문"
+    ],
+    "summary": "2002년 Machine Learning 저널에 발표된 본 논문은, 복잡하고 연속적인 상태 공간을 가진 환경에서 강화학습의 효율성을 높이기 위해 커널 기반 추정 기법을 도입하여 가치 함수와 정책을 효과적으로 근사하는 방법을 제안한 인공지능 분야의 학술 논문입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 7분",
+    "file": "papers/paper-2002-kernel-based-reinforcement-learning.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1979-hydrogen-energy-bibliography",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 관련 문헌 목록을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 문헌 목록",
+    "originalTitle": "Hydrogen energy bibliography",
+    "authors": [],
+    "year": 1979,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(79)90085-5",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(79)90085-5",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "문헌목록",
+      "에너지연구",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1979년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 연구와 관련된 주요 과학적 문헌 및 기술 자료들을 체계적으로 정리하여 연구자들에게 제공하는 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-1979-hydrogen-energy-bibliography.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-inter-building-effect-on-building-energy-consumption",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#E67E22",
+    "title": "Energy and Buildings 저널에 게재된 고밀도 도시 맥락에서의 건물 간 상호작용이 에너지 소비에 미치는 영향을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "고밀도 도시의 건물 간 에너지 상호작용",
+    "originalTitle": "Inter-building effect on building energy consumption in high-density city contexts",
+    "authors": [
+      "Cong Yu",
+      "Wei Pan"
+    ],
+    "year": 2023,
+    "journal": "Energy and Buildings",
+    "doi": "10.1016/j.enbuild.2022.112632",
+    "sourceUrl": "https://doi.org/10.1016/j.enbuild.2022.112632",
+    "keywords": [
+      "건축·시설관리",
+      "건물에너지",
+      "도시밀도",
+      "건물간상호작용",
+      "에너지소비",
+      "학술논문"
+    ],
+    "summary": "2023년 Energy and Buildings 저널에 발표된 본 논문은, 고밀도 도시 환경에서 인접한 건물들이 서로의 에너지 소비에 미치는 상호작용 효과를 분석하고 도시 건축 및 시설 관리 관점에서 에너지 효율 향상 방안을 고찰한 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2023-inter-building-effect-on-building-energy-consumption.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-multi-source-data-fusion-and-multi-task",
     "verified": true,
     "category": "인공지능",
