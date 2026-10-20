@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2011-addressing-data-center-efficiency-lessons-learned-from",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 데이터 센터 에너지 효율 향상 프로그램의 과정 평가 교훈을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "데이터 센터 에너지 효율 향상 과정 평가",
+    "originalTitle": "Addressing data center efficiency: lessons learned from process evaluations of utility energy efficiency programs",
+    "authors": [
+      "A. J. Howard",
+      "Jennifer Holmes"
+    ],
+    "year": 2011,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-011-9128-4",
+    "sourceUrl": "https://doi.org/10.1007/s12053-011-9128-4",
+    "keywords": [
+      "에너지·환경",
+      "데이터센터",
+      "에너지효율",
+      "유틸리티프로그램",
+      "과정평가",
+      "학술논문"
+    ],
+    "summary": "2011년 Energy Efficiency 저널에 발표된 본 논문은, 유틸리티 에너지 효율 프로그램의 과정 평가를 통해 데이터 센터의 에너지 효율을 높이는 과정에서 얻은 교훈과 시사점을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2011-addressing-data-center-efficiency-lessons-learned-from.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2015-seasonal-relationship-of-peak-demand-and-energy",
     "verified": true,
     "category": "에너지·환경",
