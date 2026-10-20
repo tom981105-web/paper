@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2014-the-economic-efficiency-of-energy-consuming-equipment",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 에너지 소비 장비의 경제적 효율성 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "에너지 소비 장비 경제적 효율성",
+    "originalTitle": "The economic efficiency of energy-consuming equipment: a DEA approach",
+    "authors": [
+      "Helcio Blum"
+    ],
+    "year": 2014,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-014-9283-5",
+    "sourceUrl": "https://doi.org/10.1007/s12053-014-9283-5",
+    "keywords": [
+      "에너지·환경",
+      "자료포락분석",
+      "DEA",
+      "에너지효율",
+      "경제성분석",
+      "학술논문"
+    ],
+    "summary": "2014년 Energy Efficiency 저널에 발표된 본 논문은, 자료포락분석(DEA) 기법을 활용하여 다양한 에너지 소비 장비의 경제적 효율성을 측정하고 평가함으로써 비용 대비 효율적인 에너지 사용 방안을 모색한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2014-the-economic-efficiency-of-energy-consuming-equipment.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1979-hydrogen-energy-bibliography-2",
     "verified": true,
     "category": "에너지·환경",
