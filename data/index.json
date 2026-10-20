@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2020-sorption-thermal-energy-storage-concept-process-applications",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Storage Materials 저널에 게재된 흡착식 열에너지 저장의 개념과 응용을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "흡착식 열에너지 저장",
+    "originalTitle": "Sorption thermal energy storage: Concept, process, applications and perspectives",
+    "authors": [
+      "Yannan Zhang",
+      "Ruzhu Wang"
+    ],
+    "year": 2020,
+    "journal": "Energy Storage Materials",
+    "doi": "10.1016/j.ensm.2020.02.024",
+    "sourceUrl": "https://doi.org/10.1016/j.ensm.2020.02.024",
+    "keywords": [
+      "에너지·환경",
+      "열에너지저장",
+      "흡착식저장",
+      "청정에너지",
+      "에너지효율",
+      "학술논문"
+    ],
+    "summary": "2020년 Energy Storage Materials 저널에 발표된 본 논문은, 열에너지를 효율적으로 저장하고 활용하기 위한 흡착식 열에너지 저장(STES) 기술의 개념, 공정, 다양한 응용 분야 및 향후 발전 전망을 종합적으로 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2020-sorption-thermal-energy-storage-concept-process-applications.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2006-ieee-power-electronics-society-information-3",
     "verified": true,
     "category": "전기",
