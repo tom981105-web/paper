@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1960-photovoltaic-conversion-17-18-19",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 태양광 변환 기술을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 변환 기술",
+    "originalTitle": "Photovoltaic conversion 17-18-19",
+    "authors": [],
+    "year": 1960,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(60)90013-x",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(60)90013-x",
+    "keywords": [
+      "에너지·환경",
+      "태양광",
+      "광전변환",
+      "신재생에너지",
+      "태양전지",
+      "학술논문"
+    ],
+    "summary": "1960년 Solar Energy 저널에 발표된 본 논문은, 태양광을 전기에너지로 변환하는 초기 광전변환(Photovoltaic conversion) 원리와 기술적 발전 양상을 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1960-photovoltaic-conversion-17-18-19.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2017-lithium-recovery-of-spent-lithium-ion-battery",
     "verified": true,
     "category": "에너지·환경",
