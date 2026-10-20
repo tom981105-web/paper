@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2015-seasonal-relationship-of-peak-demand-and-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 전기 에너지 효율 프로그램의 계절별 피크 전력 수요와 에너지 절감 효과의 관계를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "피크 수요와 에너지 절감의 계절적 관계",
+    "originalTitle": "Seasonal relationship of peak demand and energy impacts of energy efficiency measures—a review of evidence in the electric energy efficiency programmes",
+    "authors": [
+      "Yingqi Liu"
+    ],
+    "year": 2015,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-015-9407-6",
+    "sourceUrl": "https://doi.org/10.1007/s12053-015-9407-6",
+    "keywords": [
+      "에너지·환경",
+      "피크전력수요",
+      "에너지효율",
+      "전력프로그램",
+      "계절적관계",
+      "학술논문"
+    ],
+    "summary": "2015년 Energy Efficiency 저널에 발표된 본 논문은, 전기 에너지 효율 프로그램에서 나타나는 계절별 피크 전력 수요와 에너지 절감 효과 간의 관계를 검토하고 증거를 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2015-seasonal-relationship-of-peak-demand-and-energy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1960-photovoltaic-conversion-17-18-19",
     "verified": true,
     "category": "에너지·환경",
