@@ -1,5 +1,61 @@
 [
   {
+    "id": "paper-2006-ieee-power-electronics-society-information-3",
+    "verified": true,
+    "category": "전기",
+    "color": "#E67E22",
+    "title": "IEEE Transactions on Power Electronics 저널에 게재된 전력전자 학회 정보를 다룬 전기 분야 학술 논문",
+    "shortTitle": "IEEE 전력전자 학회 정보",
+    "originalTitle": "IEEE Power Electronics Society Information",
+    "authors": [],
+    "year": 2006,
+    "journal": "IEEE Transactions on Power Electronics",
+    "doi": "10.1109/tpel.2006.883487",
+    "sourceUrl": "https://doi.org/10.1109/tpel.2006.883487",
+    "keywords": [
+      "전기",
+      "전력전자",
+      "IEEE",
+      "학회정보",
+      "전력변환",
+      "학술논문"
+    ],
+    "summary": "2006년 IEEE Transactions on Power Electronics 저널에 발표된 본 논문은, 전력전자 분야의 세계적인 학술 단체인 IEEE 전력전자 학회의 활동 내용과 학회지 운영 정보를 종합하여 소개한 전기 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2006-ieee-power-electronics-society-information-3.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1993-god-s-green-gifts-renewable-energy-sources",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Renewable Energy 저널에 게재된 신재생에너지의 가치와 활용을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "신의 푸른 선물, 신재생에너지",
+    "originalTitle": "God's green gifts, renewable energy sources",
+    "authors": [
+      "A.A.M. Sayigh"
+    ],
+    "year": 1993,
+    "journal": "Renewable Energy",
+    "doi": "10.1016/0960-1481(93)90092-u",
+    "sourceUrl": "https://doi.org/10.1016/0960-1481(93)90092-u",
+    "keywords": [
+      "에너지·환경",
+      "신재생에너지",
+      "청정에너지",
+      "지속가능성",
+      "태양에너지",
+      "학술논문"
+    ],
+    "summary": "1993년 Renewable Energy 저널에 발표된 본 논문은, 자연이 우리에게 선사한 풍부한 청정에너지원인 신재생에너지의 중요성을 조명하고 화석연료를 대체할 지속 가능한 에너지 전환의 필요성을 고찰한 에너지·환경 분야의 학술 논문입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1993-god-s-green-gifts-renewable-energy-sources.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1985-vision-in-man-and-machine",
     "verified": true,
     "category": "인공지능",
