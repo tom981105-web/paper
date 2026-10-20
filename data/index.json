@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1976-hydrogen-energy-news",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 소식을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 소식",
+    "originalTitle": "Hydrogen energy news",
+    "authors": [],
+    "year": 1976,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(76)90075-6",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(76)90075-6",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "수소뉴스",
+      "청정에너지",
+      "에너지전환",
+      "학술논문"
+    ],
+    "summary": "1976년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 수소 에너지 연구가 본격화되던 초창기의 관련 소식과 동향을 전달하여 연구자들에게 최신 정보와 학술적 교류의 장을 제공한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1976-hydrogen-energy-news.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1977-hydrogen-energy-bibliography-2",
     "verified": true,
     "category": "에너지·환경",
