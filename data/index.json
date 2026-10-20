@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2014-russian-energy-efficiency-accounting-system",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 러시아의 에너지 효율 회계 시스템 분석을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "러시아 에너지 효율 회계 시스템",
+    "originalTitle": "Russian energy efficiency accounting system",
+    "authors": [
+      "Igor Bashmakov",
+      "Anna Myshak"
+    ],
+    "year": 2014,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-014-9252-z",
+    "sourceUrl": "https://doi.org/10.1007/s12053-014-9252-z",
+    "keywords": [
+      "에너지·환경",
+      "러시아",
+      "에너지효율",
+      "회계시스템",
+      "에너지회계",
+      "학술논문"
+    ],
+    "summary": "2014년 Energy Efficiency 저널에 발표된 본 논문은, 러시아의 국가적 에너지 효율 회계 및 통계 체계를 분석하고 평가함으로써 대규모 에너지 소비 국가에서의 투명하고 체계적인 에너지 관리 방안을 모색한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2014-russian-energy-efficiency-accounting-system.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2012-measuring-improvement-in-energy-efficiency-of-the",
     "verified": true,
     "category": "에너지·환경",
