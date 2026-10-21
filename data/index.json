@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1998-5688337-temperature-compensated-photovoltaic-array",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 온도 보상형 태양광 어레이를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "온도 보상형 태양광 어레이",
+    "originalTitle": "Temperature compensated photovoltaic array",
+    "authors": [],
+    "year": 1998,
+    "journal": "Solar Energy",
+    "doi": "10.1016/s0038-092x(98)90022-6",
+    "sourceUrl": "https://doi.org/10.1016/s0038-092x(98)90022-6",
+    "keywords": [
+      "에너지·환경",
+      "온도보상",
+      "태양광어레이",
+      "태양전지",
+      "광전효과",
+      "학술논문"
+    ],
+    "summary": "1998년 Solar Energy 저널에 발표된 본 논문은, 태양광 발전 시 온도 변화에 따른 성능 저하를 방어하고 효율을 안정적으로 유지하기 위한 온도 보상형 태양광 어레이(Temperature compensated photovoltaic array)의 기술적 특성을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1998-5688337-temperature-compensated-photovoltaic-array.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1996-5479043-multispectral-photovoltaic-component",
     "verified": true,
     "category": "에너지·환경",
