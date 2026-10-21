@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1998-5693151-photovoltaic-device",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 태양광 발전 소자를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 발전 소자",
+    "originalTitle": "5693151 Photovoltaic device",
+    "authors": [],
+    "year": 1998,
+    "journal": "Solar Energy",
+    "doi": "10.1016/s0038-092x(98)90024-x",
+    "sourceUrl": "https://doi.org/10.1016/s0038-092x(98)90024-x",
+    "keywords": [
+      "에너지·환경",
+      "태양광",
+      "광전소자",
+      "태양전지",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "1998년 Solar Energy 저널에 발표된 본 논문은, 태양광을 전기에너지로 변환하는 핵심 부품인 태양광 발전 소자의 구조와 동작 원리를 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1998-5693151-photovoltaic-device.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2017-ultra-high-temperature-thermal-energy-storage-part",
     "verified": true,
     "category": "에너지·환경",
