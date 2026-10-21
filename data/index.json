@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2017-ultra-high-temperature-thermal-energy-storage-part",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Journal of Energy Storage 저널에 게재된 초고온 열에너지 저장 개념을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "초고온 열에너지 저장 개념",
+    "originalTitle": "Ultra-high temperature thermal energy storage. part 1: concepts",
+    "authors": [
+      "Adam Robinson"
+    ],
+    "year": 2017,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2017.07.020",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2017.07.020",
+    "keywords": [
+      "에너지·환경",
+      "열에너지저장",
+      "초고온저장",
+      "재생에너지",
+      "에너지저장시스템",
+      "학술논문"
+    ],
+    "summary": "2017년 Journal of Energy Storage 저널에 발표된 본 논문은, 차세대 에너지 시스템을 위한 초고온 열에너지 저장(UTES)의 기본 개념과 이론적 배경을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2017-ultra-high-temperature-thermal-energy-storage-part.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1985-machine-learning-an-artificial-intelligence-approach",
     "verified": true,
     "category": "인공지능",
