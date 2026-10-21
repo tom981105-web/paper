@@ -1,5 +1,33 @@
 [
   {
+    "id": "paper-1995-25th-ieee-photovoltaic-specialists-conference-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy Materials and Solar Cells 저널에 게재된 제25회 IEEE 태양광 전문가 회의를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "제25회 IEEE 태양광 전문가 회의",
+    "originalTitle": "25th IEEE Photovoltaic Specialists Conference",
+    "authors": [],
+    "year": 1995,
+    "journal": "Solar Energy Materials and Solar Cells",
+    "doi": "10.1016/0927-0248(95)80010-7",
+    "sourceUrl": "https://doi.org/10.1016/0927-0248(95)80010-7",
+    "keywords": [
+      "에너지·환경",
+      "태양광",
+      "태양전지",
+      "IEEE",
+      "전문가회의",
+      "재생에너지",
+      "학술논문"
+    ],
+    "summary": "1995년 Solar Energy Materials and Solar Cells 저널에 발표된 본 논문은, 전 세계 태양광 및 광전기 분야의 최신 연구 성과와 발전 방향을 논의한 제25회 IEEE 태양광 전문가 회의(25th IEEE Photovoltaic Specialists Conference)의 주요 내용을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1995-25th-ieee-photovoltaic-specialists-conference-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1959-photovoltaic-effect-in-organic-crystals",
     "verified": true,
     "category": "에너지·환경",
