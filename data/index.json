@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1996-5486238-photovoltaic-device",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 태양광 발전 소자를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 소자",
+    "originalTitle": "5486238 Photovoltaic device",
+    "authors": [],
+    "year": 1996,
+    "journal": "Solar Energy",
+    "doi": "10.1016/s0038-092x(97)81378-3",
+    "sourceUrl": "https://doi.org/10.1016/s0038-092x(97)81378-3",
+    "keywords": [
+      "에너지·환경",
+      "태양광",
+      "태양광소자",
+      "광전효과",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "1996년 Solar Energy 저널에 발표된 본 논문은, 태양빛을 효율적으로 전기에너지로 변환하기 위한 태양광 발전 소자(Photovoltaic device) 기술의 구조와 원리를 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1996-5486238-photovoltaic-device.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1988-photovoltaic-power-generation",
     "verified": true,
     "category": "에너지·환경",
