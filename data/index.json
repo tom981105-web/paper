@@ -1,5 +1,62 @@
 [
   {
+    "id": "paper-2001-comvis-a-communication-framework-for-computer-vision",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#2980B9",
+    "title": "International Journal of Computer Vision 저널에 게재된 컴퓨터 비전 통신 프레임워크를 다룬 인공지능 분야 학술 논문",
+    "shortTitle": "COMVIS 컴퓨터 비전 프레임워크",
+    "originalTitle": "COMVIS: A Communication Framework for Computer Vision",
+    "authors": [
+      "Alex Cozzi",
+      "Florentin Wörgötter"
+    ],
+    "year": 2001,
+    "journal": "International Journal of Computer Vision",
+    "doi": "10.1023/a:1011156004656",
+    "sourceUrl": "https://doi.org/10.1023/a:1011156004656",
+    "keywords": [
+      "인공지능",
+      "컴퓨터비전",
+      "통신프레임워크",
+      "COMVIS",
+      "영상처리",
+      "학술논문"
+    ],
+    "summary": "2001년 International Journal of Computer Vision 저널에 발표된 본 논문은, 다양한 컴퓨터 비전 알고리즘과 시스템 간의 원활한 정보 교환 및 협력을 위해 설계된 통신 프레임워크 'COMVIS'를 제안한 인공지능 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2001-comvis-a-communication-framework-for-computer-vision.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1996-5482570-photovoltaic-cell",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 태양광 셀을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 셀",
+    "originalTitle": "5482570 Photovoltaic cell",
+    "authors": [],
+    "year": 1996,
+    "journal": "Solar Energy",
+    "doi": "10.1016/s0038-092x(97)81374-6",
+    "sourceUrl": "https://doi.org/10.1016/s0038-092x(97)81374-6",
+    "keywords": [
+      "에너지·환경",
+      "태양광",
+      "태양전지",
+      "광전셀",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "1996년 Solar Energy 저널에 발표된 본 논문은, 태양광을 전기에너지로 직접 변환하는 광전셀(Photovoltaic cell) 기술의 구조와 활용 방안을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1996-5482570-photovoltaic-cell.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1985-call-for-papers-cscsi-86-canadian-artificial",
     "verified": true,
     "category": "인공지능",
