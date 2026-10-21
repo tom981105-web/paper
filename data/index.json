@@ -1,5 +1,33 @@
 [
   {
+    "id": "paper-1996-5479043-multispectral-photovoltaic-component",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 다중 스펙트럼 광전기 소자를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "다중 스펙트럼 태양전지 소자",
+    "originalTitle": "Multispectral photovoltaic component",
+    "authors": [],
+    "year": 1996,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(96)87720-6",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(96)87720-6",
+    "keywords": [
+      "에너지·환경",
+      "다중스펙트럼",
+      "광전기소자",
+      "태양광",
+      "광전효과",
+      "반도체",
+      "학술논문"
+    ],
+    "summary": "1996년 Solar Energy 저널에 발표된 본 논문은, 태양빛의 다양한 파장 영역(스펙트럼)을 나누어 흡수함으로써 효율을 극대화하는 다중 스펙트럼 광전기 소자(Multispectral photovoltaic component)의 기술적 특성과 응용 방안을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1996-5479043-multispectral-photovoltaic-component.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1960-research-on-photovoltaic-converters",
     "verified": true,
     "category": "에너지·환경",
