@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1988-photovoltaic-power-generation",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 태양광 발전 기술을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 발전",
+    "originalTitle": "Photovoltaic power generation",
+    "authors": [],
+    "year": 1988,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(88)90090-4",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(88)90090-4",
+    "keywords": [
+      "에너지·환경",
+      "태양광",
+      "태양광발전",
+      "광전효과",
+      "신재생에너지",
+      "학술논문"
+    ],
+    "summary": "1988년 Solar Energy 저널에 발표된 본 논문은, 태양 에너지를 전기로 직접 변환하는 태양광 발전(Photovoltaic power generation) 기술의 기초 원리와 응용 가능성을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1988-photovoltaic-power-generation.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1980-hydrogen-energy-bibliography",
     "verified": true,
     "category": "에너지·환경",
