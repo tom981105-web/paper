@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1959-photovoltaic-effect-in-organic-crystals",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 유기 결정의 광전효과를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "유기 결정의 광전효과",
+    "originalTitle": "Photovoltaic effect in organic crystals",
+    "authors": [],
+    "year": 1959,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(59)90107-0",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(59)90107-0",
+    "keywords": [
+      "에너지·환경",
+      "유기결정",
+      "광전효과",
+      "태양전지",
+      "광기전력",
+      "학술논문"
+    ],
+    "summary": "1959년 Solar Energy 저널에 발표된 본 논문은, 유기 물질로 이루어진 결정에서 빛에 의해 전기가 발생하는 현상을 규명하여 차세대 태양전지 및 광전자 소자 개발의 기초를 마련한 유기 결정의 광전효과(Photovoltaic effect in organic crystals)를 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1959-photovoltaic-effect-in-organic-crystals.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2006-ieee-power-electronics-society-information-4",
     "verified": true,
     "category": "전기",
