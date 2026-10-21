@@ -1,5 +1,60 @@
 [
   {
+    "id": "paper-1985-machine-learning-an-artificial-intelligence-approach",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#2980B9",
+    "title": "Artificial Intelligence 저널에 게재된 인공지능 분야의 머신러닝 접근법을 다룬 학술 논문",
+    "shortTitle": "머신러닝 AI 접근법",
+    "originalTitle": "Machine learning: An artificial intelligence approach",
+    "authors": [
+      "Kurt VanLehn"
+    ],
+    "year": 1985,
+    "journal": "Artificial Intelligence",
+    "doi": "10.1016/0004-3702(85)90004-9",
+    "sourceUrl": "https://doi.org/10.1016/0004-3702(85)90004-9",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "기계학습",
+      "인공지능접근법",
+      "학술논문"
+    ],
+    "summary": "1985년 Artificial Intelligence 저널에 발표된 본 논문은, 인공지능 분야에서의 머신러닝 접근법과 기계 학습의 기초 개념을 고찰한 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1985-machine-learning-an-artificial-intelligence-approach.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1962-photovoltaic-readout-circuitry",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 태양광 발전 판독 회로를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 판독 회로",
+    "originalTitle": "Photovoltaic readout circuitry",
+    "authors": [],
+    "year": 1962,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(62)90050-6",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(62)90050-6",
+    "keywords": [
+      "에너지·환경",
+      "태양광발전",
+      "판독회로",
+      "광전기",
+      "측정회로",
+      "학술논문"
+    ],
+    "summary": "1962년 Solar Energy 저널에 발표된 본 논문은, 태양광 발전 소자에서 생성된 전기 신호를 정확하게 측정하고 판독하기 위한 회로 설계 기술을 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1962-photovoltaic-readout-circuitry.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1998-5681402-photovoltaic-element",
     "verified": true,
     "category": "에너지·환경",
