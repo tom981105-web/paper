@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1960-research-on-photovoltaic-converters",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 광전기 변환기를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "광전기 변환기 연구",
+    "originalTitle": "Research on photovoltaic converters",
+    "authors": [],
+    "year": 1960,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(60)90016-5",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(60)90016-5",
+    "keywords": [
+      "에너지·환경",
+      "광전기변환기",
+      "태양광",
+      "광전효과",
+      "반도체",
+      "학술논문"
+    ],
+    "summary": "1960년 Solar Energy 저널에 발표된 본 논문은, 빛에너지를 전기에너지로 변환하는 광전기 변환기(Photovoltaic converters)의 기술적 특성과 응용 방안을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1960-research-on-photovoltaic-converters.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1959-high-voltage-photovoltaic-effect-2",
     "verified": true,
     "category": "에너지·환경",
