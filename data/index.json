@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2013-recent-estimates-of-energy-efficiency-potential-in",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 미국 내 에너지 효율 잠재력에 대한 최근 추정치를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "미국 에너지 효율 잠재력 추정",
+    "originalTitle": "Recent estimates of energy efficiency potential in the USA",
+    "authors": [
+      "Priya Sreedharan"
+    ],
+    "year": 2013,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-012-9183-5",
+    "sourceUrl": "https://doi.org/10.1007/s12053-012-9183-5",
+    "keywords": [
+      "에너지·환경",
+      "에너지효율",
+      "에너지잠재력",
+      "미국에너지",
+      "전력수요관리",
+      "학술논문"
+    ],
+    "summary": "2013년 Energy Efficiency 저널에 발표된 본 논문은, 미국 내에서 기대되는 에너지 효율 잠재력의 최근 추정치들을 검토하고 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2013-recent-estimates-of-energy-efficiency-potential-in.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-lithium-and-cobalt-recovery-from-lithium-ion",
     "verified": true,
     "category": "에너지·환경",
