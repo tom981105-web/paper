@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1959-high-voltage-photovoltaic-effect-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 고전압 광전기 효과를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "고전압 광전기 효과 II",
+    "originalTitle": "High-voltage photovoltaic effect",
+    "authors": [],
+    "year": 1959,
+    "journal": "Solar Energy",
+    "doi": "10.1016/0038-092x(59)90103-3",
+    "sourceUrl": "https://doi.org/10.1016/0038-092x(59)90103-3",
+    "keywords": [
+      "에너지·환경",
+      "고전압광전기효과",
+      "태양광",
+      "광전효과",
+      "반도체",
+      "학술논문"
+    ],
+    "summary": "1959년 Solar Energy 저널에 발표된 본 논문은, 빛을 비추었을 때 일반적인 태양전지 구조보다 훨씬 높은 전압을 발생시키는 고전압 광전기 효과의 물리적 원리와 특성을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1959-high-voltage-photovoltaic-effect-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1959-high-voltage-photovoltaic-effect",
     "verified": true,
     "category": "에너지·환경",
