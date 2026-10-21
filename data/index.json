@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1998-5681402-photovoltaic-element",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 태양광 발전 소자의 특성과 응용을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "태양광 발전 소자",
+    "originalTitle": "5681402 Photovoltaic element",
+    "authors": [],
+    "year": 1998,
+    "journal": "Solar Energy",
+    "doi": "10.1016/s0038-092x(98)90013-5",
+    "sourceUrl": "https://doi.org/10.1016/s0038-092x(98)90013-5",
+    "keywords": [
+      "에너지·환경",
+      "태양광발전",
+      "태양광소자",
+      "재생에너지",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1998년 Solar Energy 저널에 발표된 본 논문은, 태양광 발전 소자의 구조와 작동 원리를 바탕으로 재생에너지 생산의 효율성을 검토한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-1998-5681402-photovoltaic-element.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2013-recent-estimates-of-energy-efficiency-potential-in",
     "verified": true,
     "category": "에너지·환경",
