@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1996-5482568-micro-mirror-photovoltaic-cells",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Solar Energy 저널에 게재된 마이크로 거울 태양전지를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "마이크로 거울 태양전지",
+    "originalTitle": "Micro mirror photovoltaic cells",
+    "authors": [],
+    "year": 1996,
+    "journal": "Solar Energy",
+    "doi": "10.1016/s0038-092x(97)81369-2",
+    "sourceUrl": "https://doi.org/10.1016/s0038-092x(97)81369-2",
+    "keywords": [
+      "에너지·환경",
+      "마이크로거울",
+      "태양전지",
+      "광기전력",
+      "태양광",
+      "학술논문"
+    ],
+    "summary": "1996년 Solar Energy 저널에 발표된 본 논문은, 미세한 거울 구조를 활용하여 태양광의 집광 효율을 높이고 전지 성능을 개선하는 마이크로 거울 태양전지(Micro mirror photovoltaic cells)를 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1996-5482568-micro-mirror-photovoltaic-cells.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1979-hydrogen-energy-news-2",
     "verified": true,
     "category": "에너지·환경",
