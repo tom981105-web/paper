@@ -1,5 +1,36 @@
 [
   {
+    "id": "paper-2015-beneficial-effects-of-active-charge-balancing-in",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Journal of Clean Energy Technologies 저널에 게재된 리튬 이온 배터리 시스템의 능동 충전 밸런싱 유익한 효과를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "리튬 이온 배터리 능동 충전 밸런싱",
+    "originalTitle": "Beneficial Effects of Active Charge Balancing in Lithium-Ion Battery Systems",
+    "authors": [
+      "M. Raeber",
+      "A. Heinzelmann",
+      "A. Taeschler"
+    ],
+    "year": 2015,
+    "journal": "Journal of Clean Energy Technologies",
+    "doi": "10.7763/jocet.2016.v4.285",
+    "sourceUrl": "https://doi.org/10.7763/jocet.2016.v4.285",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "능동충전밸런싱",
+      "배터리관리시스템",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "2015년 Journal of Clean Energy Technologies 저널에 발표된 본 논문은, 리튬 이온 배터리 시스템에서 셀 간의 편차를 줄이고 성능을 극대화하는 능동 충전 밸런싱(Active Charge Balancing)의 유익한 효과를 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2015-beneficial-effects-of-active-charge-balancing-in.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1996-5482568-micro-mirror-photovoltaic-cells",
     "verified": true,
     "category": "에너지·환경",
