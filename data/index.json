@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2015-cutting-carbon-emissions-is-better-than-carbon",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Physics Today 저널에 게재된 탄소 배출 감축과 탄소 제거의 효과를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소 감축과 탄소 제거의 효과 비교",
+    "originalTitle": "Cutting carbon emissions is better than carbon removal, says study",
+    "authors": [],
+    "year": 2015,
+    "journal": "Physics Today",
+    "doi": "10.1063/pt.5.029094",
+    "sourceUrl": "https://doi.org/10.1063/pt.5.029094",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출감축",
+      "탄소제거",
+      "기후변화",
+      "온실가스",
+      "학술논문"
+    ],
+    "summary": "2015년 Physics Today 저널에 발표된 본 논문은, 이미 배출된 이산화탄소를 사후에 대기 중에서 제거하는 방식보다 원천적으로 탄소 배출 자체를 줄이는 것이 기후변화 대응에 훨씬 더 효과적임을 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2015-cutting-carbon-emissions-is-better-than-carbon.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2016-global-warming-atmospheric-carbon-and-anthropogenic-carbon",
     "verified": true,
     "category": "에너지·환경",
