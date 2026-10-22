@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2016-a-path-to-better-lithium-ion-battery",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Physics Today 저널에 게재된 리튬 이온 배터리 성능 향상을 위한 경로를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "리튬 이온 배터리 성능 향상 경로",
+    "originalTitle": "A path to better lithium-ion battery performance",
+    "authors": [],
+    "year": 2016,
+    "journal": "Physics Today",
+    "doi": "10.1063/pt.5.7288",
+    "sourceUrl": "https://doi.org/10.1063/pt.5.7288",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "배터리성능",
+      "에너지저장",
+      "전기화학",
+      "학술논문"
+    ],
+    "summary": "2016년 Physics Today 저널에 발표된 본 논문은, 현대 사회의 핵심 에너지 저장 장치인 리튬 이온 배터리의 성능을 한 차원 높이기 위한 기술적 경로와 과제를 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2016-a-path-to-better-lithium-ion-battery.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1998-lithium-ion-secondary-battery",
     "verified": true,
     "category": "에너지·환경",
