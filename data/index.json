@@ -1,5 +1,36 @@
 [
   {
+    "id": "paper-2020-design-analysis-of-a-particle-based-thermal",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Journal of Energy Storage 저널에 게재된 입자 기반 열에너지 저장 시스템 설계를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "입자 기반 열에너지 저장",
+    "originalTitle": "Design analysis of a particle-based thermal energy storage system for concentrating solar power or grid energy storage",
+    "authors": [
+      "Zhiwen Ma",
+      "Patrick Davenport",
+      "Ruichong Zhang"
+    ],
+    "year": 2020,
+    "journal": "Journal of Energy Storage",
+    "doi": "10.1016/j.est.2020.101382",
+    "sourceUrl": "https://doi.org/10.1016/j.est.2020.101382",
+    "keywords": [
+      "에너지·환경",
+      "열에너지저장",
+      "태양열발전",
+      "그리드에너지",
+      "입자시스템",
+      "학술논문"
+    ],
+    "summary": "2020년 Journal of Energy Storage 저널에 발표된 본 논문은, 집중형 태양광 발전(CSP) 및 전력망 에너지 저장을 위한 입자 기반 열에너지 저장 시스템의 설계 분석과 효율 향상 방안을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2020-design-analysis-of-a-particle-based-thermal.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2009-sn-c-composites-as-anode-material-for",
     "verified": true,
     "category": "에너지·환경",
