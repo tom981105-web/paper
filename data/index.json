@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2015-longer-lasting-lithium-ion-battery-for-cell",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Physics Today 저널에 게재된 휴대전화용 장수명 리튬 이온 배터리를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "휴대전화용 장수명 리튬 이온 배터리",
+    "originalTitle": "Longer-lasting lithium-ion battery for cell phones",
+    "authors": [],
+    "year": 2015,
+    "journal": "Physics Today",
+    "doi": "10.1063/pt.5.028617",
+    "sourceUrl": "https://doi.org/10.1063/pt.5.028617",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "휴대전화배터리",
+      "장수명배터리",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "2015년 Physics Today 저널에 발표된 본 논문은, 일상생활의 필수품이 된 휴대전화의 사용 시간을 늘리고 배터리 수명을 극대화하기 위한 핵심 기술적 과제와 발전 방향을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2015-longer-lasting-lithium-ion-battery-for-cell.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2016-a-path-to-better-lithium-ion-battery",
     "verified": true,
     "category": "에너지·환경",
