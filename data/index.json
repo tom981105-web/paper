@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2010-sulphur-lithium-ion-power-a-novel-high",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "ECS Meeting Abstracts 저널에 게재된 고성능 폴리머 주석/황 리튬이온 배터리를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "폴리머 주석/황 리튬배터리",
+    "originalTitle": "Sulphur Lithium Ion Power: A Novel, High Performance Polymer Tin/Sulphur Lithium-Ion Battery",
+    "authors": [
+      "Jusef Hassoun",
+      "Bruno Scrosati"
+    ],
+    "year": 2010,
+    "journal": "ECS Meeting Abstracts",
+    "doi": "10.1149/ma2010-03/1/834",
+    "sourceUrl": "https://doi.org/10.1149/ma2010-03/1/834",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "황배터리",
+      "주석복합체",
+      "고성능폴리머",
+      "학술논문"
+    ],
+    "summary": "2010년 ECS Meeting Abstracts 저널에 발표된 본 논문은, 차세대 고성능 이차전지를 구현하기 위해 폴리머 기반의 주석(Tin)과 황(Sulphur)을 활용한 혁신적인 리튬이온 배터리의 특성과 가능성을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2010-sulphur-lithium-ion-power-a-novel-high.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2014-philips-lithium-ion-battery",
     "verified": true,
     "category": "에너지·환경",
