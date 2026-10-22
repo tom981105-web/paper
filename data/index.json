@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-1998-lithium-ion-secondary-battery",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Journal of Power Sources 저널에 게재된 리튬 이온 이차전지를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "리튬 이온 이차전지",
+    "originalTitle": "Lithium ion secondary battery",
+    "authors": [
+      "N Takami"
+    ],
+    "year": 1998,
+    "journal": "Journal of Power Sources",
+    "doi": "10.1016/s0378-7753(97)84027-x",
+    "sourceUrl": "https://doi.org/10.1016/s0378-7753(97)84027-x",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "이차전지",
+      "전기화학",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "1998년 Journal of Power Sources 저널에 발표된 본 논문은, 현대 휴대용 전자기기 및 에너지 저장 시스템의 근간이 되는 리튬 이온 이차전지의 구동 특성과 전지 성능을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1998-lithium-ion-secondary-battery.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2010-sulphur-lithium-ion-power-a-novel-high-2",
     "verified": true,
     "category": "에너지·환경",
