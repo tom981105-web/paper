@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2013-building-bricks-from-carbon-emissions",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "ECOS 저널에 게재된 탄소 배출을 활용한 벽돌 제조를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "탄소 배출을 활용한 벽돌 제조",
+    "originalTitle": "Building bricks from carbon emissions",
+    "authors": [],
+    "year": 2013,
+    "journal": "ECOS",
+    "doi": "10.1071/ec13202",
+    "sourceUrl": "https://doi.org/10.1071/ec13202",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "친환경벽돌",
+      "탄소포집",
+      "자원순환",
+      "학술논문"
+    ],
+    "summary": "2013년 ECOS 저널에 발표된 본 논문은, 산업 공정에서 발생하는 골칫거리인 탄소 배출 가스를 포집하여 견고한 건축 자재인 벽돌로 전환하는 혁신적인 친환경 자원 순환 기술을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2013-building-bricks-from-carbon-emissions.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1982-hydrogen-energy-and-energy-related-publications-5",
     "verified": true,
     "category": "에너지·환경",
