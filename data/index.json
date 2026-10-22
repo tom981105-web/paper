@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2012-moments-motivation-slow-steaming-and-shipping-s",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Carbon Management 저널에 게재된 저속 운항과 해운 탄소 배출을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "저속 운항과 해운 탄소 배출",
+    "originalTitle": "Moments, motivation, slow steaming and shipping’s carbon emissions",
+    "authors": [
+      "John Dinwoodie"
+    ],
+    "year": 2012,
+    "journal": "Carbon Management",
+    "doi": "10.4155/cmt.12.60",
+    "sourceUrl": "https://doi.org/10.4155/cmt.12.60",
+    "keywords": [
+      "에너지·환경",
+      "저속운항",
+      "해운탄소배출",
+      "온실가스감축",
+      "선박연비",
+      "학술논문"
+    ],
+    "summary": "2012년 Carbon Management 저널에 발표된 본 논문은, 선박의 운항 속도를 의도적으로 낮추는 저속 운항(Slow steaming)이 해운 부문의 탄소 배출 저감에 미치는 영향과 동기를 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2012-moments-motivation-slow-steaming-and-shipping-s.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2015-beneficial-effects-of-active-charge-balancing-in",
     "verified": true,
     "category": "에너지·환경",
