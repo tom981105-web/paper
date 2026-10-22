@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2012-lithium-ion-battery-charger",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Biomedical Safety & Standards 저널에 게재된 리튬 이온 배터리와 충전기 기술을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "리튬 이온 배터리 및 충전기",
+    "originalTitle": "Lithium Ion Battery, Charger",
+    "authors": [],
+    "year": 2012,
+    "journal": "Biomedical Safety & Standards",
+    "doi": "10.1097/01.bmsas.0000413686.49660.f2",
+    "sourceUrl": "https://doi.org/10.1097/01.bmsas.0000413686.49660.f2",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "배터리충전기",
+      "생체안전성",
+      "전기화학",
+      "학술논문"
+    ],
+    "summary": "2012년 Biomedical Safety & Standards 저널에 발표된 본 논문은, 다양한 전자 및 의료 기기에서 널리 사용되는 리튬 이온 배터리의 안전한 운영과 효율적인 충전기 시스템에 대한 관리 기준을 다룬 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2012-lithium-ion-battery-charger.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2007-from-lithium-to-lithium-ion-a-40",
     "verified": true,
     "category": "에너지·환경",
