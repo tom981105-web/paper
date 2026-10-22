@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2016-global-warming-atmospheric-carbon-and-anthropogenic-carbon",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "SSRN Electronic Journal에 게재된 지구온난화, 대기 중 탄소, 그리고 인위적 탄소 배출을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "지구온난화와 대기·인위적 탄소 배출",
+    "originalTitle": "Global Warming, Atmospheric Carbon, and Anthropogenic Carbon Emissions",
+    "authors": [
+      "Kathy Anne Dopp"
+    ],
+    "year": 2016,
+    "journal": "SSRN Electronic Journal",
+    "doi": "10.2139/ssrn.2803297",
+    "sourceUrl": "https://doi.org/10.2139/ssrn.2803297",
+    "keywords": [
+      "에너지·환경",
+      "지구온난화",
+      "대기중탄소",
+      "탄소배출",
+      "기후변화",
+      "학술논문"
+    ],
+    "summary": "2016년 SSRN Electronic Journal에 발표된 본 논문은, 지구온난화 현상과 대기 중 탄소 농도 변화 사이의 상호작용 및 인간 활동에 의한 인위적 탄소 배출의 영향을 심층적으로 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2016-global-warming-atmospheric-carbon-and-anthropogenic-carbon.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2013-building-bricks-from-carbon-emissions",
     "verified": true,
     "category": "에너지·환경",
