@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2011-research-on-international-carbon-emissions-trading-and-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Procedia Environmental Sciences 저널에 게재된 국제 탄소 배출권 거래와 중국의 탄소 배출 최적 수출 규모를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "국제 탄소 배출권 거래와 최적 수출",
+    "originalTitle": "Research on International Carbon Emissions Trading and Optimal Exports Scale of China Carbon Emissions",
+    "authors": [
+      "Yun Zhanga"
+    ],
+    "year": 2011,
+    "journal": "Procedia Environmental Sciences",
+    "doi": "10.1016/j.proenv.2011.09.118",
+    "sourceUrl": "https://doi.org/10.1016/j.proenv.2011.09.118",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출권거래",
+      "탄소배출",
+      "최적수출",
+      "기후변화",
+      "학술논문"
+    ],
+    "summary": "2011년 Procedia Environmental Sciences 저널에 발표된 본 논문은, 국제 탄소 배출권 거래 체제 하에서 중국의 탄소 배출 및 배출권 수출 규모를 최적화하기 위한 경제적·정책적 방안을 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2011-research-on-international-carbon-emissions-trading-and-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2015-longer-lasting-lithium-ion-battery-for-cell",
     "verified": true,
     "category": "에너지·환경",
