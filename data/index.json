@@ -1,5 +1,36 @@
 [
   {
+    "id": "paper-2015-aqueous-sodium-ion-battery-as-post-lithium",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "ECS Meeting Abstracts 저널에 게재된 차세대 리튬 이온 대체재로서의 수계 나트륨 이온 배터리를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수계 나트륨 이온 배터리",
+    "originalTitle": "Aqueous Sodium-Ion Battery As Post Lithium-Ion Battery",
+    "authors": [
+      "Shigeto Okada",
+      "Yusuke Kano",
+      "Kosuke Nakamoto"
+    ],
+    "year": 2015,
+    "journal": "ECS Meeting Abstracts",
+    "doi": "10.1149/ma2015-03/2/560",
+    "sourceUrl": "https://doi.org/10.1149/ma2015-03/2/560",
+    "keywords": [
+      "에너지·환경",
+      "수계나트륨이온배터리",
+      "포스트리튬",
+      "친환경전해질",
+      "에너지저장",
+      "학술논문"
+    ],
+    "summary": "2015년 ECS Meeting Abstracts 저널에 발표된 본 논문은, 가연성 유기 용매를 사용하는 기존 리튬 이온 배터리의 한계를 극복하기 위해 안전성, 전도성, 비용 측면에서 우수한 수계 전해질을 채택한 나트륨 이온 배터리의 개발 가능성을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2015-aqueous-sodium-ion-battery-as-post-lithium.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2008-energy-efficiency-past-the-tipping-point",
     "verified": true,
     "category": "에너지·환경",
