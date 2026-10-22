@@ -1,5 +1,34 @@
 [
   {
+    "id": "paper-2007-from-lithium-to-lithium-ion-a-40",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "ECS Meeting Abstracts 저널에 게재된 리튬에서 리튬 이온 배터리까지의 40년 발전 과정을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "리튬에서 리튬 이온까지 40년",
+    "originalTitle": "From Lithium to Lithium Ion, a 40 Year Battery Generation (Battery Technology Award Address)",
+    "authors": [
+      "Michel Broussely"
+    ],
+    "year": 2007,
+    "journal": "ECS Meeting Abstracts",
+    "doi": "10.1149/ma2007-02/10/663",
+    "sourceUrl": "https://doi.org/10.1149/ma2007-02/10/663",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "배터리역사",
+      "이차전지",
+      "에너지기술",
+      "학술논문"
+    ],
+    "summary": "2007년 ECS Meeting Abstracts 저널에 발표된 본 논문은, 초기 금속 리튬 배터리에서 현대의 리튬 이온 배터리로 진화하기까지의 지난 40여 년간의 배터리 기술 발전 역사와 기술적 성취를 조명한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2007-from-lithium-to-lithium-ion-a-40.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2011-research-on-international-carbon-emissions-trading-and",
     "verified": true,
     "category": "에너지·환경",
