@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2012-us-carbon-emissions-drop",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Physics Today 저널에 게재된 미국의 탄소 배출량 감소 추세를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "미국 탄소 배출량 감소",
+    "originalTitle": "US carbon emissions drop",
+    "authors": [],
+    "year": 2012,
+    "journal": "Physics Today",
+    "doi": "10.1063/pt.5.026266",
+    "sourceUrl": "https://doi.org/10.1063/pt.5.026266",
+    "keywords": [
+      "에너지·환경",
+      "탄소배출",
+      "온실가스감축",
+      "기후변화",
+      "에너지정책",
+      "학술논문"
+    ],
+    "summary": "2012년 Physics Today 저널에 발표된 본 논문은, 당시 미국의 탄소 배출량이 감소하게 된 배경과 이와 관련된 에너지원 변화 및 경제적·환경적 요인을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2012-us-carbon-emissions-drop.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2012-lithium-ion-battery-charger",
     "verified": true,
     "category": "에너지·환경",
