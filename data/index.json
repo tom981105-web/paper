@@ -1,5 +1,66 @@
 [
   {
+    "id": "paper-2010-sulphur-lithium-ion-power-a-novel-high-2",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "ECS Meeting Abstracts 저널에 게재된 고성능 폴리머 주석/황 리튬이온 배터리를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "폴리머 주석/황 리튬배터리 2",
+    "originalTitle": "Sulphur Lithium-Ion Power: A Novel, High Performance Polymer Tin/Sulphur Lithium-Ion Battery",
+    "authors": [
+      "Jusef Hassoun",
+      "Bruno Scrosati"
+    ],
+    "year": 2010,
+    "journal": "ECS Meeting Abstracts",
+    "doi": "10.1149/ma2010-02/11/1068",
+    "sourceUrl": "https://doi.org/10.1149/ma2010-02/11/1068",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "황배터리",
+      "주석복합체",
+      "고성능폴리머",
+      "학술논문"
+    ],
+    "summary": "2010년 ECS Meeting Abstracts 저널에 발표된 본 논문은, 고에너지 밀도를 가진 차세대 리튬 이차전지를 구현하기 위해 폴리머 매트릭스 내에 주석과 황 복합 소재를 도입하여 성능과 안정성을 높인 혁신적인 배터리 시스템을 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2010-sulphur-lithium-ion-power-a-novel-high-2.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2019-effect-of-increased-building-integrated-renewable-energy",
+    "verified": true,
+    "category": "건축·시설관리",
+    "color": "#2980B9",
+    "title": "Energy 저널에 게재된 건물 통합 신재생에너지 증가가 도시 지구의 에너지 포트폴리오와 흐름에 미치는 영향을 다룬 건축·시설관리 분야 학술 논문",
+    "shortTitle": "도시 지구 신재생에너지 영향",
+    "originalTitle": "Effect of increased building-integrated renewable energy on building energy portfolio and energy flows in an urban district of Korea",
+    "authors": [
+      "Jeonghun Song",
+      "Si-Doek Oh",
+      "Seung Jin Song"
+    ],
+    "year": 2019,
+    "journal": "Energy",
+    "doi": "10.1016/j.energy.2019.116132",
+    "sourceUrl": "https://doi.org/10.1016/j.energy.2019.116132",
+    "keywords": [
+      "건축·시설관리",
+      "신재생에너지",
+      "건물통합형태양광",
+      "도시지구에너지",
+      "에너지포트폴리오",
+      "학술논문"
+    ],
+    "summary": "2019년 Energy 저널에 발표된 본 논문은, 한국의 도시 지구를 대상으로 건물 통합형 신재생에너지의 비중 확대가 건물 에너지 포트폴리오와 전반적인 에너지 흐름에 미치는 영향을 분석한 건축·시설관리 및 에너지 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2019-effect-of-increased-building-integrated-renewable-energy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2010-sulphur-lithium-ion-power-a-novel-high",
     "verified": true,
     "category": "에너지·환경",
