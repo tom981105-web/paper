@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2014-philips-lithium-ion-battery",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Biomedical Safety & Standards 저널에 게재된 필립스 리튬 이온 배터리 안전성 및 관리를 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "필립스 리튬 이온 배터리",
+    "originalTitle": "Philips Lithium Ion Battery",
+    "authors": [],
+    "year": 2014,
+    "journal": "Biomedical Safety & Standards",
+    "doi": "10.1097/01.bmsas.0000452534.82188.7e",
+    "sourceUrl": "https://doi.org/10.1097/01.bmsas.0000452534.82188.7e",
+    "keywords": [
+      "에너지·환경",
+      "리튬이온배터리",
+      "필립스배터리",
+      "의료기기안전",
+      "배터리관리",
+      "학술논문"
+    ],
+    "summary": "2014년 Biomedical Safety & Standards 저널에 발표된 본 논문은, 의료용 기기에 널리 사용되는 필립스 리튬 이온 배터리의 안전성 기준, 잠재적 위험 요소 및 철저한 관리 지침을 고찰한 에너지·환경 및 보건안전 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2014-philips-lithium-ion-battery.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2020-design-analysis-of-a-particle-based-thermal",
     "verified": true,
     "category": "에너지·환경",
