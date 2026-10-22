@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1982-hydrogen-energy-and-energy-related-publications-5",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 및 에너지 관련 문헌을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 및 관련 문헌 고찰",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1982,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(82)90028-3",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(82)90028-3",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "에너지문헌",
+      "대체에너지",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1982년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 연구의 기틀이 형성되는 시점에서 수소 에너지와 관련된 다양한 학술 문헌 및 연구 동향을 종합적으로 고찰한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1982-hydrogen-energy-and-energy-related-publications-5.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2011-research-on-international-carbon-emissions-trading-and-2",
     "verified": true,
     "category": "에너지·환경",
