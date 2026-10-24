@@ -1,5 +1,61 @@
 [
   {
+    "id": "paper-1986-calender",
+    "verified": true,
+    "category": "전기",
+    "color": "#F39C12",
+    "title": "International Journal of Electrical Power &amp; Energy Systems 저널에 게재된 전력 시스템 관련 캘린더 기술을 다룬 전기 분야 학술 논문",
+    "shortTitle": "전력 시스템 및 캘린더 분석",
+    "originalTitle": "Calender",
+    "authors": [],
+    "year": 1986,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(86)90012-8",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(86)90012-8",
+    "keywords": [
+      "전기",
+      "전력시스템",
+      "캘린더",
+      "에너지시스템",
+      "전력공학",
+      "학술논문"
+    ],
+    "summary": "1986년 International Journal of Electrical Power & Energy Systems 저널에 발표된 본 논문은, 전력 시스템 및 에너지 공학 분야에서 시간적 스케줄링과 캘린더 관리의 중요성을 다룬 전기 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1986-calender.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2023-china-s-role-in-scaling-up-energy",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Storage and Saving 저널에 게재된 에너지 저장 투자 확대에 있어 중국의 역할을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "에너지 저장 투자 확대와 중국의 역할",
+    "originalTitle": "China’s role in scaling up energy storage investments",
+    "authors": [
+      "Lei Bian"
+    ],
+    "year": 2023,
+    "journal": "Energy Storage and Saving",
+    "doi": "10.1016/j.enss.2023.03.002",
+    "sourceUrl": "https://doi.org/10.1016/j.enss.2023.03.002",
+    "keywords": [
+      "에너지·환경",
+      "에너지저장",
+      "중국투자",
+      "신재생에너지",
+      "탄소중립",
+      "학술논문"
+    ],
+    "summary": "2023년 Energy Storage and Saving 저널에 발표된 본 논문은, 전 세계적인 탄소 중립 및 신재생에너지 전환 흐름 속에서 대규모 에너지 저장(ESS) 투자를 주도하고 있는 중국의 전략적 역할과 파급효과를 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2023-china-s-role-in-scaling-up-energy.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2015-cutting-carbon-emissions-is-better-than-carbon",
     "verified": true,
     "category": "에너지·환경",
