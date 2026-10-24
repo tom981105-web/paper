@@ -1,5 +1,63 @@
 [
   {
+    "id": "paper-2026-deep-learning-approach-potentials-and-challenges-in",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#3498DB",
+    "title": "Journal of Deep Learning 저널에 게재된 인공지능 분야의 딥러닝 접근법과 인도네시아 교육의 잠재력 및 과제를 다룬 학술 논문",
+    "shortTitle": "딥러닝 접근법: 인도네시아 교육의 잠재력과 과제",
+    "originalTitle": "Deep Learning Approach: Potentials and Challenges in Indonesian Education",
+    "authors": [
+      "Izza Hanifa Astono",
+      "Sri Endah Wahyuningsih",
+      "Sri Handayani"
+    ],
+    "year": 2026,
+    "journal": "Journal of Deep Learning",
+    "doi": "10.23917/jdl.v2i1.14135",
+    "sourceUrl": "https://doi.org/10.23917/jdl.v2i1.14135",
+    "keywords": [
+      "인공지능",
+      "딥러닝",
+      "인도네시아교육",
+      "고차원사고력",
+      "교육공학",
+      "학술논문"
+    ],
+    "summary": "2026년 Journal of Deep Learning 저널에 발표된 본 논문은, 4차 산업혁명 시대에 맞춰 암기 위주의 교육에서 벗어나 심층적 이해와 고차원적 사고력 개발을 목표로 하는 딥러닝 페다고지 및 기술 융합 전략을 고찰한 인공지능 및 교육 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2026-deep-learning-approach-potentials-and-challenges-in.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1980-hydrogen-energy-news-3",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 수소 에너지 관련 동향과 기술을 다룬 에너지·환경 분야 학술 논문",
+    "shortTitle": "수소 에너지 기술 동향 및 뉴스 분석",
+    "originalTitle": "Hydrogen energy news",
+    "authors": [],
+    "year": 1980,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(80)90078-6",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(80)90078-6",
+    "keywords": [
+      "에너지·환경",
+      "수소에너지",
+      "청정에너지",
+      "에너지동향",
+      "친환경연료",
+      "학술논문"
+    ],
+    "summary": "1980년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 차세대 청정 연료로 주목받기 시작한 수소 에너지의 초기 개발 동향과 산업적 활용 가능성을 조명한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1980-hydrogen-energy-news-3.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1986-calender",
     "verified": true,
     "category": "전기",
