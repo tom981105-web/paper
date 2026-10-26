@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2022-information-literacy-skills-and-learning-gaps-students",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#8E44AD",
+    "title": "The Journal of Academic Librarianship 저널에 게재된 도서관·문헌정보 분야의 정보 리터러시 기술과 학습 격차를 다룬 학술 논문",
+    "shortTitle": "환경과학 분야 정보 리터러시와 학습 격차",
+    "originalTitle": "Information literacy skills and learning gaps– Students' experiences and teachers' perceptions in interdisciplinary environmental science",
+    "authors": [
+      "Teresia Svensson",
+      "Julie Wilk",
+      "Kajsa Gustafsson Åman"
+    ],
+    "year": 2022,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2021.102465",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2021.102465",
+    "keywords": [
+      "도서관문헌정보",
+      "정보리터러시",
+      "학습격차",
+      "환경과학",
+      "학술논문"
+    ],
+    "summary": "2022년 The Journal of Academic Librarianship 저널에 발표된 본 논문은, 학제간 환경과학 교육 과정에서 학생들이 겪는 정보 리터러시 능력의 부족과 교사들이 인식하는 학습 격차의 실태를 학생과 교원의 경험을 통해 분석한 도서관·문헌정보 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2022-information-literacy-skills-and-learning-gaps-students.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1995-probably-almost-discriminative-learning",
     "verified": true,
     "category": "인공지능",
