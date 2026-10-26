@@ -1,5 +1,35 @@
 [
   {
+    "id": "paper-2024-b-wheel-building-ai-competences-in-academic",
+    "verified": true,
+    "category": "도서관·문헌정보",
+    "color": "#8E44AD",
+    "title": "The Journal of Academic Librarianship 저널에 게재된 도서관·문헌정보 분야의 대학 도서관 AI 역량 구축 모델을 다룬 학술 논문",
+    "shortTitle": "대학 도서관 AI 역량 구축 모델 (B-Wheel)",
+    "originalTitle": "B-Wheel – Building AI competences in academic libraries",
+    "authors": [
+      "Heli Kautonen",
+      "Andrea Alessandro Gasparini"
+    ],
+    "year": 2024,
+    "journal": "The Journal of Academic Librarianship",
+    "doi": "10.1016/j.acalib.2024.102886",
+    "sourceUrl": "https://doi.org/10.1016/j.acalib.2024.102886",
+    "keywords": [
+      "도서관문헌정보",
+      "인공지능역량",
+      "대학도서관",
+      "B-Wheel프레임워크",
+      "AI리터러시",
+      "학술논문"
+    ],
+    "summary": "2024년 The Journal of Academic Librarianship 저널에 발표된 본 논문은, 대학 도서관 환경에서 인공지능(AI) 기술의 확산에 대응하여 사서와 이용자들이 갖추어야 할 AI 역량을 체계적으로 구축하기 위한 'B-Wheel' 프레임워크를 제안한 도서관·문헌정보 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2024-b-wheel-building-ai-competences-in-academic.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2022-information-literacy-skills-and-learning-gaps-students",
     "verified": true,
     "category": "도서관·문헌정보",
