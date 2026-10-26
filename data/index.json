@@ -1,5 +1,61 @@
 [
   {
+    "id": "paper-1989-introduction-a-sampler-in-knowledge-acquisition-for",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#3498DB",
+    "title": "Machine Learning 저널에 게재된 인공지능 분야의 지식 획득 기법을 다룬 학술 논문",
+    "shortTitle": "인공지능을 위한 지식 획득 입문",
+    "originalTitle": "Introduction: A Sampler in Knowledge Acquisition for the Machine Learning Community",
+    "authors": [
+      "Sandra Marcus"
+    ],
+    "year": 1989,
+    "journal": "Machine Learning",
+    "doi": "10.1023/a:1022694404143",
+    "sourceUrl": "https://doi.org/10.1023/a:1022694404143",
+    "keywords": [
+      "인공지능",
+      "지식획득",
+      "기계학습",
+      "전문가시스템",
+      "지식공학",
+      "학술논문"
+    ],
+    "summary": "1989년 Machine Learning 저널에 발표된 본 논문은, 인공지능과 기계학습 연구 커뮤니티를 위해 전문가의 지식을 컴퓨터가 이해할 수 있는 형태로 추출하고 구성하는 '지식 획득'의 핵심 방법론을 소개한 인공지능 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1989-introduction-a-sampler-in-knowledge-acquisition-for.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1982-hydrogen-energy-bibliography",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 에너지·환경 분야의 수소 에너지 참고문헌 목록을 다룬 학술 논문",
+    "shortTitle": "수소 에너지 참고문헌 모음",
+    "originalTitle": "Hydrogen energy bibliography",
+    "authors": [],
+    "year": 1982,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(82)90169-0",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(82)90169-0",
+    "keywords": [
+      "에너지환경",
+      "수소에너지",
+      "참고문헌",
+      "문헌정보",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1982년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 연구 분야의 핵심 문헌과 자료들을 체계적으로 모아 연구자들에게 제공하는 에너지·환경 분야의 학술 참고문헌 목록입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1982-hydrogen-energy-bibliography.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2024-b-wheel-building-ai-competences-in-academic",
     "verified": true,
     "category": "도서관·문헌정보",
