@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2023-editorial-board-4",
+    "verified": true,
+    "category": "전기",
+    "color": "#3498DB",
+    "title": "International Journal of Electrical Power & Energy Systems 저널의 편집위원진 소개 및 학술지 운영 체제를 다룬 논문",
+    "shortTitle": "편집위원진 소개 및 운영",
+    "originalTitle": "Editorial Board",
+    "authors": [],
+    "year": 2023,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/s0142-0615(23)00359-9",
+    "sourceUrl": "https://doi.org/10.1016/s0142-0615(23)00359-9",
+    "keywords": [
+      "전기공학",
+      "전력시스템",
+      "에너지시스템",
+      "학술저널",
+      "편집위원회",
+      "학술출판"
+    ],
+    "summary": "2023년 International Journal of Electrical Power & Energy Systems 저널에 게재된 본 논문은 전력 및 에너지 시스템 분야의 학술지를 이끄는 편집위원진의 구성과 학술지 운영 구조를 공식적으로 소개하는 편집 공지 문헌입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2023-editorial-board-4.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1992-hydrogen-energy-and-energy-related-publications-4",
     "verified": true,
     "category": "에너지·환경",
