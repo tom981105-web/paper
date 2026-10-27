@@ -1,5 +1,67 @@
 [
   {
+    "id": "paper-2021-a-survey-on-deep-learning-and-deep",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#3498DB",
+    "title": "Intelligent Service Robotics 저널에 게재된 인공지능 분야의 로보틱스 내 딥러닝 및 심층 강화학습 서베이 및 튜토리얼을 다룬 학술 논문",
+    "shortTitle": "로보틱스 딥러닝 및 심층 강화학습 서베이",
+    "originalTitle": "A survey on deep learning and deep reinforcement learning in robotics with a tutorial on deep reinforcement learning",
+    "authors": [
+      "Eduardo F. Morales",
+      "Rafael Murrieta-Cid",
+      "Israel Becerra",
+      "Marco A. Esquivel-Basaldua"
+    ],
+    "year": 2021,
+    "journal": "Intelligent Service Robotics",
+    "doi": "10.1007/s11370-021-00398-z",
+    "sourceUrl": "https://doi.org/10.1007/s11370-021-00398-z",
+    "keywords": [
+      "인공지능",
+      "로보틱스",
+      "딥러닝",
+      "심층강화학습",
+      "튜토리얼",
+      "학술논문"
+    ],
+    "summary": "2021년 Intelligent Service Robotics 저널에 발표된 본 논문은, 로봇 공학 분야에서 딥러닝과 심층 강화학습이 어떻게 활용되고 있는지 폭넓게 조망하고 심층 강화학습에 대한 기초 튜토리얼을 함께 제공하는 인공지능 분야의 종합 학술 문헌입니다.",
+    "difficulty": "★★★★☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2021-a-survey-on-deep-learning-and-deep.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-2021-three-dimensional-electrostatic-capacitors-as-futuristic-miniaturized",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Storage 저널에 게재된 에너지·환경 분야의 3차원 정전기 커패시터 기반 차세대 소형 에너지 저장 기술을 다룬 학술 논문",
+    "shortTitle": "3차원 정전기 커패시터 에너지 저장",
+    "originalTitle": "Three‐dimensional electrostatic capacitors as futuristic miniaturized energy storage component for energy autonomous systems",
+    "authors": [
+      "Faizan Ali",
+      "Ki‐Hyun Kim"
+    ],
+    "year": 2021,
+    "journal": "Energy Storage",
+    "doi": "10.1002/est2.225",
+    "sourceUrl": "https://doi.org/10.1002/est2.225",
+    "keywords": [
+      "에너지환경",
+      "정전기커패시터",
+      "에너지저장",
+      "마이크로일렉트로닉스",
+      "차세대소형화",
+      "학술논문"
+    ],
+    "summary": "2021년 Energy Storage 저널에 발표된 본 논문은, 임플란트 및 웨어러블 마이크로 전자소자에 에너지를 공급하기 위한 고효율·고출력 3차원 구조의 불소 기반 정전기 커패시터의 발전 가능성과 온칩 에너지 저장 장치의 미래 방향성을 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2021-three-dimensional-electrostatic-capacitors-as-futuristic-miniaturized.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2009-energy-efficiency-technologies-for-road-vehicles",
     "verified": true,
     "category": "에너지·환경",
