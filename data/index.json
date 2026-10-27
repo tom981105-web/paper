@@ -1,5 +1,62 @@
 [
   {
+    "id": "paper-2026-artificial-intelligence-for-mpls-and-segment-routing",
+    "verified": true,
+    "category": "인공지능",
+    "color": "#8E44AD",
+    "title": "인공지능과 머신러닝, 강화학습을 활용한 MPLS 및 세그먼트 라우팅 트래픽 엔지니어링 동향을 다룬 체계적인 문헌 연구 논문",
+    "shortTitle": "AI 기반 MPLS 및 세그먼트 라우팅",
+    "originalTitle": "Artificial Intelligence for MPLS and Segment Routing Traffic Engineering: A Systematic Review of Machine Learning, Reinforcement Learning, and Deep Reinforcement Learning",
+    "authors": [
+      "Mustafa ElGili Mustafa"
+    ],
+    "year": 2026,
+    "journal": "International Journal of Computer Science and Mobile Computing",
+    "doi": "10.47760/ijcsmc.2026.v15i10.002",
+    "sourceUrl": "https://doi.org/10.47760/ijcsmc.2026.v15i10.002",
+    "keywords": [
+      "인공지능",
+      "머신러닝",
+      "강화학습",
+      "MPLS",
+      "세그먼트라우팅",
+      "트래픽엔지니어링",
+      "체계적문헌고찰"
+    ],
+    "summary": "2026년 International Journal of Computer Science and Mobile Computing에 게재된 본 논문은, AI와 머신러닝·강화학습 기술을 MPLS 및 세그먼트 라우팅 네트워크의 트래픽 엔지니어링에 적용한 연구들을 체계적으로 고찰하고 평가 방법론과 과제를 분석한 학술 논문입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 5분",
+    "file": "papers/paper-2026-artificial-intelligence-for-mpls-and-segment-routing.json",
+    "sectionCount": 14
+  },
+  {
+    "id": "paper-1982-calendar",
+    "verified": true,
+    "category": "전기",
+    "color": "#3498DB",
+    "title": "International Journal of Electrical Power & Energy Systems 저널의 학술 일정 및 행사 안내를 다룬 캘린더 문헌",
+    "shortTitle": "학술 일정 및 행사 안내",
+    "originalTitle": "Calendar",
+    "authors": [],
+    "year": 1982,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/0142-0615(82)90053-9",
+    "sourceUrl": "https://doi.org/10.1016/0142-0615(82)90053-9",
+    "keywords": [
+      "전기공학",
+      "전력시스템",
+      "에너지시스템",
+      "학술일정",
+      "학회행사",
+      "학술출판"
+    ],
+    "summary": "1982년 International Journal of Electrical Power & Energy Systems 저널에 게재된 본 문헌은, 전력 및 에너지 시스템 분야의 전 세계 학술 대회, 심포지엄, 주요 일정 등을 안내하는 공식 캘린더 자료입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-1982-calendar.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2023-editorial-board-4",
     "verified": true,
     "category": "전기",
