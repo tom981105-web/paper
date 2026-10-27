@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1978-hydrogen-energy-and-energy-related-publications-4",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "International Journal of Hydrogen Energy 저널에 게재된 에너지·환경 분야의 수소 에너지 및 관련 출판물 동향을 다룬 학술 논문",
+    "shortTitle": "수소 에너지 및 관련 출판물 동향",
+    "originalTitle": "Hydrogen energy and energy related publications",
+    "authors": [],
+    "year": 1978,
+    "journal": "International Journal of Hydrogen Energy",
+    "doi": "10.1016/0360-3199(78)90043-5",
+    "sourceUrl": "https://doi.org/10.1016/0360-3199(78)90043-5",
+    "keywords": [
+      "에너지환경",
+      "수소에너지",
+      "에너지출판물",
+      "문헌동향",
+      "청정에너지",
+      "학술논문"
+    ],
+    "summary": "1978년 International Journal of Hydrogen Energy 저널에 발표된 본 논문은, 초기 수소 에너지 연구와 관련 에너지 출판물의 흐름을 조망하며 청정에너지 분야의 학술적 기록과 문헌 동향을 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★☆☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-1978-hydrogen-energy-and-energy-related-publications-4.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1990-hydrogen-energy-and-energy-related-publications-4",
     "verified": true,
     "category": "에너지·환경",
