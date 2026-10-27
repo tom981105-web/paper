@@ -1,5 +1,36 @@
 [
   {
+    "id": "paper-2009-energy-efficiency-technologies-for-road-vehicles",
+    "verified": true,
+    "category": "에너지·환경",
+    "color": "#27AE60",
+    "title": "Energy Efficiency 저널에 게재된 에너지·환경 분야의 도로 차량 에너지 효율 기술을 다룬 학술 논문",
+    "shortTitle": "도로 차량 에너지 효율 기술",
+    "originalTitle": "Energy efficiency technologies for road vehicles",
+    "authors": [
+      "Shigeki Kobayashi",
+      "Steven Plotkin",
+      "Suzana Kahn Ribeiro"
+    ],
+    "year": 2009,
+    "journal": "Energy Efficiency",
+    "doi": "10.1007/s12053-008-9037-3",
+    "sourceUrl": "https://doi.org/10.1007/s12053-008-9037-3",
+    "keywords": [
+      "에너지환경",
+      "도로차량",
+      "에너지효율",
+      "연비향상",
+      "친환경교통",
+      "학술논문"
+    ],
+    "summary": "2009년 Energy Efficiency 저널에 발표된 본 논문은, 도로 주행 차량의 연비를 높이고 온실가스 배출을 줄이기 위한 다양한 에너지 효율 기술과 개선 방안을 종합적으로 분석한 에너지·환경 분야의 학술 문헌입니다.",
+    "difficulty": "★★★☆☆",
+    "readingTime": "약 4분",
+    "file": "papers/paper-2009-energy-efficiency-technologies-for-road-vehicles.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1989-introduction-a-sampler-in-knowledge-acquisition-for",
     "verified": true,
     "category": "인공지능",
