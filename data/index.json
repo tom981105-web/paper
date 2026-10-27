@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-1997-calendar-2",
+    "verified": true,
+    "category": "전기",
+    "color": "#3498DB",
+    "title": "International Journal of Electrical Power & Energy Systems 저널의 1997년 학술 일정 및 관련 행사 안내를 다룬 캘린더 문헌",
+    "shortTitle": "1997년 학술 일정 및 행사 안내",
+    "originalTitle": "Calendar",
+    "authors": [],
+    "year": 1997,
+    "journal": "International Journal of Electrical Power & Energy Systems",
+    "doi": "10.1016/s0142-0615(97)90000-4",
+    "sourceUrl": "https://doi.org/10.1016/s0142-0615(97)90000-4",
+    "keywords": [
+      "전기공학",
+      "전력시스템",
+      "에너지시스템",
+      "학술일정",
+      "학회행사",
+      "학술출판"
+    ],
+    "summary": "1997년 International Journal of Electrical Power & Energy Systems 저널에 게재된 본 문헌은, 전력 및 에너지 시스템 분야의 전 세계 학술 대회와 세미나, 컨퍼런스 일정을 안내하여 연구자들의 학술 교류를 지원하는 공식 캘린더 공지 자료입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-1997-calendar-2.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-2026-artificial-intelligence-for-mpls-and-segment-routing",
     "verified": true,
     "category": "인공지능",
