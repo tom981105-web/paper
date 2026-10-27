@@ -1,5 +1,32 @@
 [
   {
+    "id": "paper-2005-ieee-power-electronics-letters-publication-information-3",
+    "verified": true,
+    "category": "전기",
+    "color": "#3498DB",
+    "title": "IEEE Power Electronics Letters 저널의 출판 정보와 학술 가이드를 다룬 공식 문헌",
+    "shortTitle": "IEEE 전력전자 레터스 출판 정보",
+    "originalTitle": "IEEE Power Electronics Letters publication information",
+    "authors": [],
+    "year": 2005,
+    "journal": "IEEE Power Electronics Letters",
+    "doi": "10.1109/lpel.2005.846678",
+    "sourceUrl": "https://doi.org/10.1109/lpel.2005.846678",
+    "keywords": [
+      "전기공학",
+      "전력전자",
+      "학술저널",
+      "출판정보",
+      "전력변환",
+      "연구가이드"
+    ],
+    "summary": "2005년 IEEE Power Electronics Letters 저널에 게재된 본 문헌은, 전력전자 분야의 최신 연구 성과를 신속하게 전달하는 학술 저널의 출판 규정과 관련 정보를 안내하는 공식 행정 자료입니다.",
+    "difficulty": "★☆☆☆☆",
+    "readingTime": "약 3분",
+    "file": "papers/paper-2005-ieee-power-electronics-letters-publication-information-3.json",
+    "sectionCount": 14
+  },
+  {
     "id": "paper-1993-hydrogen-energy-and-energy-related-publications-2",
     "verified": true,
     "category": "에너지·환경",
